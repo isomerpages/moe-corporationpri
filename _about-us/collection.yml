@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
+      - Vision, Mission, Core Values, Philosophy.md
       - School History.md
       - About Us.md
