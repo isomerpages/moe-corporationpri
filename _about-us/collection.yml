@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Example Title.md
       - School History.md
       - About Us.md
