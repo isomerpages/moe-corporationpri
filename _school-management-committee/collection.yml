@@ -1,0 +1,4 @@
+collections:
+  school-management-committee:
+    output: true
+    order: []
