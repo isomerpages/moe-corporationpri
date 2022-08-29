@@ -1,4 +1,5 @@
 collections:
   school-management-committee:
     output: true
-    order: []
+    order:
+      - School Management Committee.md
