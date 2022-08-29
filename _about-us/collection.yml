@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - E Open house 2022.md
-      - Community Project.md
-      - School Facilities.md
-      - School Rules.md
-      - Crest, Motto, Creed, Song.md
-      - Vision, Mission, Core Values, Philosophy.md
-      - School History.md
       - About Us.md
+      - School History.md
+      - Vision, Mission, Core Values, Philosophy.md
+      - Crest, Motto, Creed, Song.md
+      - School Rules.md
+      - School Facilities.md
+      - Community Project.md
+      - E Open house 2022.md
