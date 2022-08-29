@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: About Us
     url: /contact-us/
-  - title: Example Page
+  - title: OUR PEOPLE
     url: /example-page/
-  - title: Example Folder
+  - title: DEPARTMENTS
+    collection: example-folder
+  - title: FOR PARENTS
+    collection: example-folder
+  - title: CONTACT US
     collection: example-folder
