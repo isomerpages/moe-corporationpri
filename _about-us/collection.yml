@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Crest, Motto, Creed, Song.md
       - Vision, Mission, Core Values, Philosophy.md
       - School History.md
       - About Us.md
