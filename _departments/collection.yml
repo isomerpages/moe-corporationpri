@@ -2,6 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - English/Latest Updates.md
-      - English/English.md
       - English/.keep
+      - English/English.md
+      - English/Latest Updates.md
