@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /about-us/permalink
-  - title: OUR PEOPLE
-    url: /example-page/
+    collection: about-us
+  - title: Menu Title
+    collection: our-people
