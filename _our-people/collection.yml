@@ -1,5 +1,5 @@
 collections:
-  school-management-committee:
+  our-people:
     output: true
     order:
       - School Management Committee.md
