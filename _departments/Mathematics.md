@@ -79,8 +79,9 @@ Pupils are given the opportunity to experience and harness ICT in classroom less
 
   
 
-8. Learning Support for Mathematics (LSM - P1 and P2) 
+8. Learning Support for Mathematics (LSM - P1 and P2)
 ---
+
 Selected pupils are supported through the LSM Programme to deepen their understanding of Mathematics. This programme comprises customised, well-paced lessons that will support the pupils in the learning of Math.
 
   
@@ -104,6 +105,44 @@ In the finals, the participants displayed immense perseverance as the Sudoku puz
 
 ![](/images/sudoku1.png)
 
-11.  Symmetry Art (P4) 
-
+11.  Symmetry Art (P4)
+---
 The P4 pupils experience the integration of Mathematics in Art when learning the topic, Symmetry, allowing pupils to explore the symmetrical shapes and lines as they engage in artwork.
+
+12. Mathematics Day (P1 to P5)
+---
+The Math Day was conducted in Term 3 where a wide array of activities were planned for the pupils by the level teachers. Each level customised a theme and revolved these activities around the theme. Pupils were highly engaged and looked forward to completing the activities in their respective groups. Topics from Term 1 to Term 3 were consolidated and pupils experienced the joy of learning Mathematics, as well as, the challenges faced in learning Mathematics.
+
+![](/images/maths%20day%201.png)
+
+![](/images/maths%20day%202.png)
+
+
+13. KooBits (P1-P6)
+---
+In CPS, we aim to nurture confident and curious students who are independent and creative problem- solvers. Our students are able to do so by engaging in independent learning at home via KooBits, an online Mathematics platform.  Students can learn at their own pace by trying out various Mathematics questions and word problems. Besides solving Math questions, the portal also provides interesting Math stories and games to motivate students and make Math learning more fun and enjoyable. Students also participate in weekly KooBits Stars Quizzes. The quizzes include questions which aim to promote the mastery of factual fluency and basic skills at each level. At the end of each term, students stand to earn a prize for performing consistently well in the quizzes!
+
+**Stretch Programmes:**
+
+14. Math Olympiad (P6)
+---
+
+The Math Olympiad for selected P6 pupils aims to stretch the pupils’ mathematical thinking skills through solving routine and non-routine problems based on different mathematical topics that require pupils to exercise their critical and logical thinking skills.
+
+
+15. E2K Mathematics (P4 and P5)
+---
+
+P4 and P5 pupils who display an aptitude and potential for Mathematics are invited to participate in E2K Programme. This programme aims to develop and stretch higher-order thinking skills through a range of problem solving problems. 
+
+  
+
+16. Olympiad Mathematics Competition (2019)
+---
+Pupils from the Math Olympiad programme are also given the opportunity to participate in the following platforms to apply their knowledge and skills.
+
+     - Hwa Chong Institution (SMOPS)  
+     - Raffles Instituition (RIPMWC)  
+     - River Valley High   
+     - ACS(I) (NMOS)  
+     - Yusof Ishak Secondary School
