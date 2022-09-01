@@ -4,7 +4,6 @@ permalink: /departments/english/permalink/
 description: ""
 third_nav_title: English
 ---
-
 English
 =======
 **Vision:**
@@ -64,19 +63,27 @@ To nurture the joy of learning and in tandem with the school’s total curriculu
 
 **Supportive Learning Environment**
 
-To provide reading pleasure for English**,** besides the Media Resource Library, the book café provides a conducive and inviting reading environment for our CPS pupils to immerse into a wide range of texts.
+To provide reading pleasure for English, besides the Media Resource Library, the book café provides a conducive and inviting reading environment for our CPS pupils to immerse into a wide range of texts.
+
+
 
 
 <div>
 
-<div style="float: left">
+<div style="float: right">
 
 ![](/images/EL%20Fiesta.jpg)
 
 </div><div>
 
 ****Celebration of Success****  
-
 To celebrate the success of the growth and achievements of the CPS pupil, the annual CPS EL Fiesta provides the platform to showcase learning and discover talents in reading, writing and speaking. It is a week where the CPS pupils will be immersed in the plethora of fun and engaging language activities!
 
 </div></div>
+
+
+
+
+
+
+
