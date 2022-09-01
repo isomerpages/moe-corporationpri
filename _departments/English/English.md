@@ -80,10 +80,3 @@ To provide reading pleasure for English, besides the Media Resource Library, th
 To celebrate the success of the growth and achievements of the CPS pupil, the annual CPS EL Fiesta provides the platform to showcase learning and discover talents in reading, writing and speaking. It is a week where the CPS pupils will be immersed in the plethora of fun and engaging language activities!
 
 </div></div>
-
-
-
-
-
-
-
