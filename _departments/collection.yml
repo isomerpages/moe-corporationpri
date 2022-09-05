@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - CCE/MOE Sexuality Education in Schools.md
-      - CCE/CCE.md
       - CCE/.keep
+      - CCE/CCE.md
+      - CCE/MOE Sexuality Education in Schools.md
       - Mother Tongue.md
       - Science.md
       - Mathematics.md
