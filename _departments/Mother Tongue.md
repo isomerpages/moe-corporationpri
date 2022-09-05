@@ -18,14 +18,14 @@ Mother Tongue
 
 
   
-Chinese Language Curriculum
+**Chinese Language Curriculum**
   
-###### Making Chinese Language a Living Language![](/images/Happy%20Learning.png)
+
+<img src="/images/Happy Learning.png"
+		 style="width:150px;height:120px;margin-left:15px;" align = "right">
+###### Making Chinese Language a Living Language!
 
 
-<img src=![](/images/Happy%20Learning.png) 
-
-    style="width:25%">
 
 No two students are alike. Today, as more Chinese students entering Primary 1 speak predominantly English at home, the Chinese Language curriculum must adapt itself to offer greater flexibility in its teaching and learning. Those who exhibit mastery can advance and those who need reinforcement can move forward when they are ready.
 
