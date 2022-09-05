@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE.md
       - Mother Tongue.md
       - Science.md
       - Mathematics.md
