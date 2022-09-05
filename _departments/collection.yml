@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAM/.keep
       - CCE/.keep
       - CCE/CCE.md
       - CCE/MOE Sexuality Education in Schools.md
