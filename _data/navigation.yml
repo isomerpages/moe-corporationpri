@@ -4,3 +4,5 @@ links:
     collection: about-us
   - title: Menu Title
     collection: our-people
+  - title: Departments
+    collection: departments
