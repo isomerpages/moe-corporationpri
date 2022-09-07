@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAM/Physical Health and Fitness.md
       - PAM/Outdoor Education.md
       - PAM/Gymnastics.md
       - PAM/Games and Sports.md
