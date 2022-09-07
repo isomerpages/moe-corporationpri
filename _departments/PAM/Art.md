@@ -65,4 +65,12 @@ The URL of the Google Site is [https://bit.ly/cpsoag2022](https://bit.ly/cpsoag
     style="width:35%">
 	
 **Art Education in CPS**    
-Art captures memories, communicates ideas, shapes values and evokes emotions. In a world where we are surrounded by different forms of visual imagery, Art is a language that allows us to communicate and learn more about ourselves, others and the world around us. As an academic subject, Art plays an integral role in students’ holistic development.
+Art captures memories, communicates ideas, shapes values and evokes emotions. In a world where we are surrounded by different forms of visual imagery, Art is a language that allows us to communicate and learn more about ourselves, others and the world around us. As an academic subject, Art plays an integral role in students’ holistic development.      
+
+![](/images/A3.jpg)
+
+CPS Art aims to provide an avenue for our students to develop critical and inventive thinking skills, as well as self and social awareness through inquiry-based learning and artmaking. Apart from exploring different materials and art forms, students also learn to understand and appreciate cultures and traditions both within and beyond Singapore through exposure to a variety of local and international artwork during lessons.
+
+![](/images/a1.png)
+
+![](/images/a2.png)
