@@ -39,3 +39,11 @@ Selected P2 students from CPS learned to use iPad and Stopmotion app to present 
 **2.7 Careen Zhu Yuhan**
 
 **2.7 Li Jingxian**
+
+![](/images/Tong.jpg)
+![](/images/Bav.jpg)
+![](/images/Niqi.jpg)
+![](/images/Careen.jpg)
+![](/images/Jingxian.jpg)
+![](/images/Stamp.jpg)
+![](/images/SYF.jpg)
