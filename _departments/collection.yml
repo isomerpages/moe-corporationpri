@@ -2,16 +2,16 @@ collections:
   departments:
     output: true
     order:
-      - PAM/Swimming.md
-      - PAM/Physical Health and Fitness.md
-      - PAM/Outdoor Education.md
-      - PAM/Gymnastics.md
-      - PAM/Games and Sports.md
-      - PAM/Dance.md
-      - PAM/Athletics.md
-      - PAM/Physical Education.md
-      - PAM/PAM.md
       - PAM/.keep
+      - PAM/PAM.md
+      - PAM/Physical Education.md
+      - PAM/Athletics.md
+      - PAM/Dance.md
+      - PAM/Games and Sports.md
+      - PAM/Gymnastics.md
+      - PAM/Outdoor Education.md
+      - PAM/Physical Health and Fitness.md
+      - PAM/Swimming.md
       - CCE/.keep
       - CCE/CCE.md
       - CCE/MOE Sexuality Education in Schools.md
