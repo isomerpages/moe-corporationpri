@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - PAM/Atheletics.md
+      - PAM/Athletics.md
       - PAM/Physical Education.md
       - PAM/PAM.md
       - PAM/.keep
