@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PAM/Gymnastics.md
       - PAM/Games and Sports.md
       - PAM/Dance.md
       - PAM/Athletics.md
