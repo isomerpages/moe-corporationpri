@@ -47,3 +47,22 @@ Selected P2 students from CPS learned to use iPad and Stopmotion app to present 
 ![](/images/Jingxian.jpg)
 ![](/images/Stamp.jpg)
 ![](/images/SYF.jpg)
+
+**Check out the** _**new**_ **CPS Online Art Gallery 2022 Google Site below!**
+
+<div>
+<div style="float: left">
+<a href="https://sites.google.com/moe.edu.sg/cpsonlineartgallery2022/home">
+<img src="/images/2022 Online Art Gallery.jpg">
+</a>
+</div>
+<div>
+</div>
+</div>
+
+The URL of the Google Site is [https://bit.ly/cpsoag2022](https://bit.ly/cpsoag2022). You can also scan the QR Code to visit the Google Site:
+<img src="/images/Code.png" 
+    style="width:35%">
+	
+**Art Education in CPS**    
+Art captures memories, communicates ideas, shapes values and evokes emotions. In a world where we are surrounded by different forms of visual imagery, Art is a language that allows us to communicate and learn more about ourselves, others and the world around us. As an academic subject, Art plays an integral role in students’ holistic development.
