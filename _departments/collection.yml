@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - Programme for Active Learning/Outdoor Education.md
-      - Programme for Active Learning/Visual Arts.md
-      - Programme for Active Learning/Performing Arts.md
-      - Programme for Active Learning/Sports and Games.md
-      - Programme for Active Learning/SOAR in CPS.md
-      - Programme for Active Learning/Programme for Active Learning (PAL).md
       - Programme for Active Learning/.keep
+      - Programme for Active Learning/Programme for Active Learning (PAL).md
+      - Programme for Active Learning/SOAR in CPS.md
+      - Programme for Active Learning/Sports and Games.md
+      - Programme for Active Learning/Performing Arts.md
+      - Programme for Active Learning/Visual Arts.md
+      - Programme for Active Learning/Outdoor Education.md
       - PAM/Music.md
       - PAM/Art.md
       - PAM/.keep
