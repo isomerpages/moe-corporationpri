@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Programme for Active Learning/Visual Arts.md
       - Programme for Active Learning/Performing Arts.md
       - Programme for Active Learning/Sports and Games.md
       - Programme for Active Learning/SOAR in CPS.md
