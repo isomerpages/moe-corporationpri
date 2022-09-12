@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ICT/.keep
-      - ICT.md
       - ALP.md
       - Dance LLP.md
       - CCA.md
