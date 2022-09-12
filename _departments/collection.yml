@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT/Cyber Wellness.md
       - ICT/ICT.md
       - ICT/.keep
       - ALP.md
