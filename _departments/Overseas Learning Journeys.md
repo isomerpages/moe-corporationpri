@@ -66,3 +66,4 @@ A group of 20 Primary 5 pupils were selected to go for the 4D3N Overseas Immersi
 
 “The pupils there are happy and kind. They are also humble and keen to learn despite the limited facilities they have. We should learn to be like them,” Cassandra Koh, Endurance 5.
 
+![](/images/brunei%201.png)![](/images/brunei%202.png)
