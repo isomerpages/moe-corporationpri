@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ALP.md
       - Dance LLP.md
       - CCA.md
       - Programme for Active Learning/.keep
