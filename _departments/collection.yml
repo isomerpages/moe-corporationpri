@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Overseas Learning Journeys.md
       - Level Activities.md
       - ICT/Cyber Wellness.md
       - ICT/ICT.md
