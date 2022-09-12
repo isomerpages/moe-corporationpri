@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT/ICT.md
       - ICT/.keep
       - ALP.md
       - Dance LLP.md
