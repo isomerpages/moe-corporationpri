@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Financial Assistance.md
       - Counselling Services.md
       - Calendar of Events.md
       - After School Care.md
