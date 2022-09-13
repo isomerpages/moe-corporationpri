@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admission & School Transfer.md
       - Academic Grading.md
       - Absence during school term.md
       - For Parents.md
