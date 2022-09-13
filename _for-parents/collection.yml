@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - For Graduating P6 Pupils.md
       - Financial Assistance.md
       - Counselling Services.md
       - Calendar of Events.md
