@@ -60,6 +60,5 @@ The LOA scheme is for current CPS pupils who fulfil the following criteria:
  
  **Compulsory Education**
 
-All Singapore Citizens born after 1 January 1996 and living in Singapore must attend a national primary school unless an exemption is granted.
-
+All Singapore Citizens born after 1 January 1996 and living in Singapore must attend a national primary school unless an exemption is granted.  
 For more information: [https://www.moe.gov.sg/primary/compulsory-education](https://www.moe.gov.sg/primary/compulsory-education)
