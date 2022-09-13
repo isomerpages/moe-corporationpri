@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Academic Grading.md
       - Absence during school term.md
       - For Parents.md
