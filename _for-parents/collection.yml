@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group.md
       - Home based Learning.md
       - Health Matters.md
       - General Information.md
