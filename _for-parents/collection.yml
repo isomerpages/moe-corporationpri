@@ -2,24 +2,24 @@ collections:
   for-parents:
     output: true
     order:
-      - WE STories.md
-      - Visitors to school.md
+      - Absence during school term.md
+      - Academic Grading.md
+      - Admission & School Transfer.md
+      - After School Care.md
+      - Calendar of Events.md
+      - Counselling Services.md
+      - Financial Assistance.md
+      - For Graduating P6 Pupils.md
+      - General Information.md
+      - Health Matters.md
+      - Home based Learning.md
+      - Parent Support Group.md
+      - Parenting Programme.md
+      - Pupil's Handbook.md
+      - School hours and Break times.md
+      - For Parents.md
+      - Stakeholders/.keep
       - Stakeholders/Alumni.md
       - Stakeholders/Stakeholders.md
-      - Stakeholders/.keep
-      - School hours and Break times.md
-      - Pupil's Handbook.md
-      - Parenting Programme.md
-      - Parent Support Group.md
-      - Home based Learning.md
-      - Health Matters.md
-      - General Information.md
-      - For Graduating P6 Pupils.md
-      - Financial Assistance.md
-      - Counselling Services.md
-      - Calendar of Events.md
-      - After School Care.md
-      - Admission & School Transfer.md
-      - Academic Grading.md
-      - Absence during school term.md
-      - For Parents.md
+      - Visitors to school.md
+      - WE STories.md
