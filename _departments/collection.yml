@@ -2,24 +2,18 @@ collections:
   departments:
     output: true
     order:
-      - Overseas Learning Journeys.md
-      - Level Activities.md
-      - ICT/Cyber Wellness.md
-      - ICT/ICT.md
-      - ICT/.keep
-      - ALP.md
-      - Dance LLP.md
-      - CCA.md
-      - Programme for Active Learning/.keep
-      - Programme for Active Learning/Programme for Active Learning (PAL).md
-      - Programme for Active Learning/SOAR in CPS.md
-      - Programme for Active Learning/Sports and Games.md
-      - Programme for Active Learning/Performing Arts.md
-      - Programme for Active Learning/Visual Arts.md
-      - Programme for Active Learning/Outdoor Education.md
+      - English/.keep
+      - English/English.md
+      - English/Latest Updates.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - PAM/.keep
       - PAM/Music.md
       - PAM/Art.md
-      - PAM/.keep
       - PAM/PAM.md
       - PAM/Physical Education.md
       - PAM/Athletics.md
@@ -29,12 +23,18 @@ collections:
       - PAM/Outdoor Education.md
       - PAM/Physical Health and Fitness.md
       - PAM/Swimming.md
-      - CCE/.keep
-      - CCE/CCE.md
-      - CCE/MOE Sexuality Education in Schools.md
-      - Mother Tongue.md
-      - Science.md
-      - Mathematics.md
-      - English/.keep
-      - English/English.md
-      - English/Latest Updates.md
+      - Programme for Active Learning/.keep
+      - Programme for Active Learning/Programme for Active Learning (PAL).md
+      - Programme for Active Learning/SOAR in CPS.md
+      - Programme for Active Learning/Sports and Games.md
+      - Programme for Active Learning/Performing Arts.md
+      - Programme for Active Learning/Visual Arts.md
+      - Programme for Active Learning/Outdoor Education.md
+      - CCA.md
+      - Dance LLP.md
+      - ALP.md
+      - ICT/.keep
+      - ICT/Cyber Wellness.md
+      - ICT/ICT.md
+      - Level Activities.md
+      - Overseas Learning Journeys.md
