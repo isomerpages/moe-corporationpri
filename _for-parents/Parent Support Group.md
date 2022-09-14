@@ -35,3 +35,8 @@ Great Teachers inspire through the love of their subjects, skilful teaching and 
 We believe that parents’ involvement in our activities will enhance the educational experience of our students and would like to take this opportunity to invite parents to join in our PSG family programmes. We thank you in advance for your contributions and look forward to working closely with you.
 
 Scan the QR code below to fill up the Parent Volunteer Registration Form:
+<img src="/images/psgqr.png" style="width:30%">
+
+**PSG Exco**  
+
+Please download the latest PSG Exco meeting slides [here](https://corporationpri.moe.edu.sg/qql/slot/u746/For%20Parents/PSG/PSG%20Exco%20Meeting%2020%20April%202021.pdf).
