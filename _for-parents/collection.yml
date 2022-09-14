@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - For Parents.md
       - Absence during school term.md
       - Academic Grading.md
       - Admission & School Transfer.md
@@ -17,7 +18,6 @@ collections:
       - Parenting Programme.md
       - Pupil's Handbook.md
       - School hours and Break times.md
-      - For Parents.md
       - Stakeholders/.keep
       - Stakeholders/Alumni.md
       - Stakeholders/Stakeholders.md
