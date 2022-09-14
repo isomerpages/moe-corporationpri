@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Stakeholders/Alumni.md
       - Stakeholders/Stakeholders.md
       - Stakeholders/.keep
       - School hours and Break times.md
