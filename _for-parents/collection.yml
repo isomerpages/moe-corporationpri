@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School hours and Break times.md
       - Pupil's Handbook.md
       - Parenting Programme.md
       - Parent Support Group.md
