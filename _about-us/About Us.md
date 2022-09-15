@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /about-us/permalink
+permalink: /about-us/permalink/
 description: ""
 ---
 About Us
@@ -38,7 +38,8 @@ Our school vision, Nurturing Pupils who **C.A.R.E** to succeed (C- Confident, 
 
 I am thankful to the previous principals for laying a strong foundation in the school, allowing me the opportunity to delve deeper into the curriculum and develop depth in the teaching and learning processes. Moving forward, the school hopes to create new platforms for our students to care, share, learn and motivate one another to greater heights.
 
-![](/images/Mrs%20Jennifer%20Pang.jpg)
+<img src="/images/Mrs Jennifer Pang.jpg" style="width:25%">    
+
 **Mrs Jennifer Pang**
 
 Principal
