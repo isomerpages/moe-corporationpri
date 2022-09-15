@@ -1,9 +1,8 @@
 ---
 title: Crest, Motto, Creed, Song
-permalink: /about-us/crestmotoocreedsong/permalink
+permalink: /about-us/crestmotoocreedsong/permalink/
 description: ""
 ---
-
 Crest, Motto, Creed, Song
 =========================
 
@@ -22,19 +21,20 @@ At the top of the crest is a book of knowledge and the educational torch is a be
 
 Colour significance
 -------------------
-![](/images/CPS%20Crest.jpg)
-### White
+<img src="/images/CPS Crest.jpg" style="width:183px;height:200px;margin-left:15px;" align = "right">
+
+##### White
 
 signifies everlasting purity and honesty.
 
 
-### Green
+##### Green
 
 signifies youthful vigour in our pupils.
 
   
 
-### Orange
+##### Orange
 
 signifies alertness in our pupils' minds.
 
@@ -50,18 +50,14 @@ Be diligent and helpful.
 Our school creed
 ----------------
 
-We, the pupils of Corporation Primary School,
-
-pledge to uphold the name of our school,  
-
+We, the pupils of Corporation Primary School,  
+pledge to uphold the name of our school,     
 to be courteous, diligent and helpful.  
 
   
 
-We will obey the school rules,  
-
-uphold our school values and  
-
+We will obey the school rules,     
+uphold our school values and     
 respect the staff and our peers.  
 
   
@@ -75,18 +71,11 @@ Together, we strive for success!
 Our school song
 ---------------
 
-To the school with a passion to learn and live
-
-Where our thoughts are evermore  
-
-Be proud of Corporation Primary School  
-
-To her we’ll always be true  
-
-Raise the banner of our motto  
-
-Be diligent and be helpful  
-
-Look up to our dear school  
-
+To the school with a passion to learn and live   
+Where our thoughts are evermore    
+Be proud of Corporation Primary School    
+To her we’ll always be true   
+Raise the banner of our motto   
+Be diligent and be helpful   
+Look up to our dear school   
 Whose aim we will uphold
