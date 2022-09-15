@@ -1,9 +1,8 @@
 ---
 title: Vision, Mission, Core Values, Philosophy
-permalink: /about-us/visionmissioncorevaluesphilosophy/permalink
+permalink: /about-us/visionmissioncorevaluesphilosophy/permalink/
 description: ""
 ---
-
 Our vision
 ----------
 
@@ -29,16 +28,11 @@ Providing holistic education to build character and develop talents in a nurturi
 Our core values
 ---------------
 
-**R**espect  
-
-**I**ntegrity
-
-**C**ompassion
-
-**H**umility
-
-**E**ndurance
-
+**R**espect     
+**I**ntegrity   
+**C**ompassion   
+**H**umility   
+**E**ndurance  
 **R**esponsibility
 
   
@@ -50,10 +44,7 @@ Our core values
 Our philosophy
 --------------
 
-Every child has intrinsic worth.
-
-Every child can and wants to learn.
-
-Every child has the ability to realize his fullest potential.
-
+Every child has intrinsic worth.   
+Every child can and wants to learn.   
+Every child has the ability to realize his fullest potential.  
 Every child can contribute to society in their individual capacity.
