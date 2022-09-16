@@ -17,8 +17,8 @@ School Management Committee
 ### Heads of Departments
 |  	|  	|
 |---	|---	|
-| <img src="/images/Ms Chua Lee Wei.jpg" style="width:100%"> 	| Ms Chua Lee Wei<br>HOD English Language<br><br>Email: chua_lee_wei@moe.edu.sg 	|
-|  <img src="/images/Ms Ng Bih Jeng.jpg" style="width:100%"> 	| Mdm Ng Bih Jeng<br><br><br>HOD Mother Tongue<br><br>Email: ng_bih_jeng@moe.edu.sg 	|
+| <img src="/images/Ms Chua Lee Wei.jpg" style="width:100%"> 	| **Ms Chua Lee Wei**<br>**HOD English Language**<br><br>Email: chua_lee_wei@moe.edu.sg 	|
+|  <img src="/images/Ms Ng Bih Jeng.jpg" style="width:100%"> 	| **Mdm Ng Bih Jeng**<br><br>**HOD Mother Tongue**<br><br>Email: ng_bih_jeng@moe.edu.sg 	|
 |  ![](/images/MDM%20INTHUMATHI%20DO%20SELVARAJOO%202014.jpg) 	| Mdm Inthumathi d/o Selvarajoo<br><br><br>HOD Mathematics<br><br>Email: inthumathi_selvarajoo@moe.edu.sg 	|
 |  ![](/images/Mdm%20Nur%20Liyana.jpg)	| Mdm Nur Liyana<br><br><br>HOD Science<br><br>Email: nur_liyana_suratman@moe.edu.sg 	|
 |  ![](/images/MS%20SIAH%20SIEW%20LING%202014.jpg) 	| Ms Siah Siew Ling<br><br><br>HOD School Staff Developer<br><br>Email: siah_siew_ling@moe.edu.sg 	|
