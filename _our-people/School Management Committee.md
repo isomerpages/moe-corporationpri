@@ -6,8 +6,7 @@ description: ""
 School Management Committee
 ===========================
 
-Principal and Vice-Principals
------------------------------
+#### Principal and Vice-Principals
 |  	|  	|
 |:---:	|---	|
 | <img src="/images/Mrs Jennifer Pang.jpg" style="width:60%">	| <br>Mrs Jennifer Pang<br>Principal<br><br>Email: cps@moe.edu.sg 	|
