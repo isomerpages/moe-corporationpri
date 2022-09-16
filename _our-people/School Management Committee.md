@@ -26,3 +26,16 @@ School Management Committee
 | ![](/images/mr%20ong%20guoxing%20luis.jpg) 	| **Mr Ong Guoxing Luis**<br>**HOD Pupil Development**<br><br>Email: ong_guoxing_luis@moe.edu.sg 	|
 |  ![](/images/Kwan%20Tuck%20Soon%202019.jpg) 	| **Mr Kwan Tuck Soon**<br>**HOD ICT**<br>Email: kwan_tuck_soon@moe.edu.sg  	|
 |  ![](/images/Mr%20Ong%20Wei%20Loon%20Daryl.jpg) 	| **Mr Ong Wei Loon, Daryl**<br>**HOD PE, CCA and Aesthetics**<br><br>Email: ong_wei_loon_daryl@moe.edu.sg 	|
+
+### Subject / Level Heads
+|  	|  	|
+|---	|---	|
+| ![](/images/MR%20SAIFUL%20NIZAM%20BIN%20PUNGOT%202014.jpg) 	| Mr Saiful Nizam Bin Pungot <br>Subject Head - Malay Language<br><br>Email: saiful_nizam_b_pungot@moe.edu.sg 	|
+|  # 	| Ms Salbiah Binte Ishak<br><br><br>Subject Head - Science<br><br>Email: salbiah_ishak@moe.edu.sg 	|
+|  # 	| Ms Lee Xiu Min, Neda<br><br><br>Subject Head - Aesthetics<br><br>Email: lee_xiu_min_neda@moe.edu.sg  	|
+|  # 	| Mr Mohamed Faizal Bin Mohamed Salleh<br><br><br>Subject Head - CCA<br><br>Email: mohamed_faizal_mohamed_salleh@moe.edu.sg 	|
+|  # 	| Ms Chiok Hwee Fen<br><br><br>Year Head<br><br>Email: chiok_hwee_fen@moe.edu.sg 	|
+|  # 	| Ms Francesca Phoebe Wah Li Ting<br><br><br>Year Head<br><br>Email: francesca_wah_li_ting@moe.edu.sg 	|
+|  # 	| Miss Jagjit Kaur D/O Parmjit Singh<br><br><br>Year Head<br><br><br>Email: jagjit_kaur_parmjit_singh@moe.edu.sg 	|
+|  # 	| Mdm Chua Lee Lian<br> <br>Assistant Year Head<br>  <br>Email: chua_lee_lian@moe.edu.sg 	|
+|  # 	| Ms Karen Ho Qiao Hui<br> <br>Assistant Year Head<br>  Email: ho_qiao_hui_karen@moe.edu.sg  	|
