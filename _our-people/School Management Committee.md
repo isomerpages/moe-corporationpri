@@ -22,7 +22,7 @@ School Management Committee
 |  ![](/images/MDM%20INTHUMATHI%20DO%20SELVARAJOO%202014.jpg) 	| Mdm Inthumathi d/o Selvarajoo<br><br><br>HOD Mathematics<br><br>Email: inthumathi_selvarajoo@moe.edu.sg 	|
 |  ![](/images/Mdm%20Nur%20Liyana.jpg)	| Mdm Nur Liyana<br><br><br>HOD Science<br><br>Email: nur_liyana_suratman@moe.edu.sg 	|
 |  ![](/images/MS%20SIAH%20SIEW%20LING%202014.jpg) 	| Ms Siah Siew Ling<br><br><br>HOD School Staff Developer<br><br>Email: siah_siew_ling@moe.edu.sg 	|
-|  # 	| Mdm Tan Mei Ying<br><br><br>HOD CCE<br><br><br>Email: tan_mei_ying_a@moe.edu.sg 	|
-| # 	| Mr Ong Guoxing Luis<br><br><br>HOD Pupil Development<br><br>Email: ong_guoxing_luis@moe.edu.sg 	|
-|  # 	| Mr Kwan Tuck Soon<br><br><br>HOD ICTEmail: kwan_tuck_soon@moe.edu.sg  	|
-|  # 	| Mr Ong Wei Loon, Daryl<br><br><br>HOD PE, CCA and Aesthetics<br><br>Email: ong_wei_loon_daryl@moe.edu.sg 	|
+|  ![](/images/MDM%20TAN%20MEI%20YING%202014.jpg) 	| Mdm Tan Mei Ying<br><br><br>HOD CCE<br><br><br>Email: tan_mei_ying_a@moe.edu.sg 	|
+| ![](/images/mr%20ong%20guoxing%20luis.jpg) 	| Mr Ong Guoxing Luis<br><br><br>HOD Pupil Development<br><br>Email: ong_guoxing_luis@moe.edu.sg 	|
+|  ![](/images/Kwan%20Tuck%20Soon%202019.jpg) 	| Mr Kwan Tuck Soon<br><br><br>HOD ICT<br>Email: kwan_tuck_soon@moe.edu.sg  	|
+|  ![](/images/Mr%20Ong%20Wei%20Loon%20Daryl.jpg) 	| Mr Ong Wei Loon, Daryl<br><br><br>HOD PE, CCA and Aesthetics<br><br>Email: ong_wei_loon_daryl@moe.edu.sg 	|
