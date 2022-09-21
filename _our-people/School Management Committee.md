@@ -7,6 +7,7 @@ School Management Committee
 ===========================
 
 #### Principal and Vice-Principals
+
 |  	|  	|
 |:---:	|---	|
 | <img src="/images/Mrs Jennifer Pang.jpg" style="width:60%">	| <br>**Mrs Jennifer Pang**<br>**Principal**<br><br>Email: cps@moe.edu.sg 	|
@@ -14,6 +15,7 @@ School Management Committee
 | <img src="/images/Mrs Christina Tan.jpg" style="width:60%"><br>  	| <br>**Mrs Christina Tan**<br>**Vice-Principal (Academic) 2**<br><br>Email: cps@moe.edu.sg <br>|
 
 ### Heads of Departments
+
 |  	|  	|
 |---	|---	|
 | <img src="/images/Ms Chua Lee Wei.jpg" style="width:100%"> 	| **Ms Chua Lee Wei**<br>**HOD English Language**<br><br>Email: chua_lee_wei@moe.edu.sg 	|
