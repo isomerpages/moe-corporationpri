@@ -23,7 +23,7 @@ Mother Tongue
 
 <img src="/images/Happy Learning.png"
 		 style="width:150px;height:120px;margin-left:15px;" align = "right">
-###### Making Chinese Language a Living Language!
+#### Making Chinese Language a Living Language
 
 
 
@@ -183,5 +183,3 @@ MTL fortnight is a key annual event. All Primary 1 to Primary 6 pupils will be i
 **4. P1 & P2 Drama Appreciation**
 
 All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop where pupils will learn to use Tamil language confidently and effectively.![](/images/Tamil%20Programmes.png)
-
-
