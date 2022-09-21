@@ -28,7 +28,7 @@ Reading Programmes at CPS promote reading with a clear and meaningful purpose to
 
 The programmes will monitor the CPS pupil’s growth and development, enable them to discern information accurately and empower them to be a Confident Language User and Active Contributor and Speaker as aligned with the 21st century skillset.
 
-![](/images/EL%20Fiesta%202.jpg)
+<img src="/images/EL Fiesta 2.jpg" style="width:60%">
 
 **Primary 1 and 2: Read-A-Mania and Extensive Reading Programme (ERP)**
 
