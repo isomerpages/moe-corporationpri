@@ -29,6 +29,7 @@ School Management Committee
 |  <img src="/images/Mr Ong Wei Loon Daryl.jpg" style="width:40%"> 	| **Mr Ong Wei Loon, Daryl**<br>**HOD PE, CCA and Aesthetics**<br><br>Email: ong_wei_loon_daryl@moe.edu.sg 	|
 
 ### Subject / Level Heads
+
 |  	|  	|
 |---	|---	|
 | ![](/images/MR%20SAIFUL%20NIZAM%20BIN%20PUNGOT%202014.jpg) 	| Mr Saiful Nizam Bin Pungot <br>Subject Head - Malay Language<br><br>Email: saiful_nizam_b_pungot@moe.edu.sg 	|
