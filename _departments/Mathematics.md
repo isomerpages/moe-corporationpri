@@ -94,7 +94,7 @@ In the finals, the participants displayed immense perseverance as the Sudoku puz
 
 ![](/images/sudoku1.png)
 
-11.  Symmetry Art (P4)
+11. Symmetry Art (P4)
 
 The P4 pupils experience the integration of Mathematics in Art when learning the topic, Symmetry, allowing pupils to explore the symmetrical shapes and lines as they engage in artwork.
 
