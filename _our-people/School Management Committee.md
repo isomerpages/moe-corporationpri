@@ -25,7 +25,7 @@ School Management Committee
 |  <img src="/images/MS SIAH SIEW LING 2014.jpg" style="width:40%"> 	| **Ms Siah Siew Ling**<br>**HOD School Staff Developer**<br><br>Email: [siah_siew_ling@moe.edu.sg](mailto:siah_siew_ling@moe.edu.sg) 	|
 |  <img src="/images/MDM TAN MEI YING 2014.jpg" style="width:40%"> 	| **Mdm Tan Mei Ying**<br>**HOD CCE**<br>Email: [tan_mei_ying_a@moe.edu.sg](mailto:tan_mei_ying_a@moe.edu.sg) 	|
 |<img src="/images/mr ong guoxing luis.jpg" style="width:40%"> 	| **Mr Ong Guoxing Luis**<br>**HOD Pupil Development**<br><br>Email: [ong_guoxing_luis@moe.edu.sg](mailto:ong_guoxing_luis@moe.edu.sg) 	|
-|  <img src="/images/Kwan Tuck Soon 2019.jpg" style="width:40%"> 	| **Mr Kwan Tuck Soon**<br>**HOD ICT**<br>Email: kwan_tuck_soon@moe.edu.sg  	|
+|  <img src="/images/Kwan Tuck Soon 2019.jpg" style="width:40%"> 	| **Mr Kwan Tuck Soon**<br>**HOD ICT**<br>Email: [kwan_tuck_soon@moe.edu.sg](mailto:kwan_tuck_soon@moe.edu.sg)  	|
 |  <img src="/images/Mr Ong Wei Loon Daryl.jpg" style="width:40%"> 	| **Mr Ong Wei Loon, Daryl**<br>**HOD PE, CCA and Aesthetics**<br><br>Email: ong_wei_loon_daryl@moe.edu.sg 	|
 
 ### Subject / Level Heads
