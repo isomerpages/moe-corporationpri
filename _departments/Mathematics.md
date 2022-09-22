@@ -59,7 +59,7 @@ In line with the topic, Money, the P1 pupils will be going for a shopping trip t
 
 ![](/images/giant.png)
 
-6. Heuristics Skills (P1 to P6)
+Heuristics Skills (P1 to P6)
 
 Heuristics are problem solving strategies that pupils can adopt to solve routine and non-routine word problems. Pupils from all levels would be taught a set of Heuristic Skills during their Math lessons. They will also be exposed to a variety of problems that would allow them to apply the heuristics.
 
