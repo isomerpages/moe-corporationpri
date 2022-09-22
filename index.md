@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Home
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -29,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
