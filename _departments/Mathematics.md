@@ -22,7 +22,7 @@ In Corporation Primary School, we seek to develop the five components in each of
 **Our Key Highlights** 
 -----------------------
 
-1. Collaborative Inquiry Based Learning (P1 to P6)  
+1) Collaborative Inquiry Based Learning (P1 to P6)  
 
   
 
@@ -32,7 +32,7 @@ The department will be incorporating an Inquiry Based Learning package on a term
 
   
 
-2. Level Engagement Tasks (P1 to P6)
+2) Level Engagement Tasks (P1 to P6)
 
 As part of our efforts to provide pupils the opportunity to experience authentic learning tasks and to promote the joy of learning, Level Engagement Tasks are done in every level. The tasks aim to allow pupils to have a strong conceptual understanding in Mathematics as they experience the application of Mathematics in real-life contexts.
 
@@ -40,20 +40,20 @@ As part of our efforts to provide pupils the opportunity to experience authentic
 ![](/images/maths.png)
 
 
-3. Math Journaling (P1 to P6)
+3) Math Journaling (P1 to P6)
 
 Math Journals assist in assessing pupils’ thinking and promotes communication skills in pupils. It consolidates learning and allows pupils to reflect on the learning in the classroom. Journals can mainly be Investigative, Affective and Procedural in nature.
 
   
 
-4. Math Trails (P1 and P2)
+4) Math Trails (P1 and P2)
 
 Learning experiences go beyond the classroom and pupils explore various aspects of Mathematics in the school environment. The trails could involve pupils investigating the structures in the schools and relating them to Mathematics. 
 
   
 
   
-5. P1 Shopping Trip to IMM (2019)
+5) P1 Shopping Trip to IMM (2019)
 
 In line with the topic, Money, the P1 pupils will be going for a shopping trip to GIANT supermarket at IMM shopping centre to purchase items for a Class Party that they will be tasked to plan in groups. Prior to the trip, the pupils will be involved in planning and budgeting for the items that need to be purchased for the party. This experience provides pupils an opportunity to apply the concept of money in a real-life situation and at the same time develop financial literacy and collaborative skills.
 
