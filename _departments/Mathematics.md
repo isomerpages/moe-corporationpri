@@ -21,19 +21,18 @@ In Corporation Primary School, we seek to develop the five components in each of
 
 **Our Key Highlights** 
 -----------------------
-<ol>
-<li>Collaborative Inquiry Based Learning (P1 to P6)
-<br>
+
+1. Collaborative Inquiry Based Learning (P1 to P6)
   
-The department will be incorporating an Inquiry Based Learning package on a termly basis for the learning of Mathematics in the classroom in 2021. During this session, teachers present scenarios/ problems to students and engage students in a discussion. The teacher guides the students by asking scaffolded and in-depth questions and get them to present their thought processes collaboratively.  While focusing on critical thinking skills, the students are also encouraged to voice their different solutions and views on the problems. These lessons will also help students deepen their concepts in selected topics and thus aid them in problem solving.</li>
+The department will be incorporating an Inquiry Based Learning package on a termly basis for the learning of Mathematics in the classroom in 2021. During this session, teachers present scenarios/ problems to students and engage students in a discussion. The teacher guides the students by asking scaffolded and in-depth questions and get them to present their thought processes collaboratively.  While focusing on critical thinking skills, the students are also encouraged to voice their different solutions and views on the problems. These lessons will also help students deepen their concepts in selected topics and thus aid them in problem solving.
 
   
 
   
 
-<li>Level Engagement Tasks (P1 to P6)
-<br><br>
-As part of our efforts to provide pupils the opportunity to experience authentic learning tasks and to promote the joy of learning, Level Engagement Tasks are done in every level. The tasks aim to allow pupils to have a strong conceptual understanding in Mathematics as they experience the application of Mathematics in real-life contexts.</li>
+2. Level Engagement Tasks (P1 to P6)
+
+As part of our efforts to provide pupils the opportunity to experience authentic learning tasks and to promote the joy of learning, Level Engagement Tasks are done in every level. The tasks aim to allow pupils to have a strong conceptual understanding in Mathematics as they experience the application of Mathematics in real-life contexts.
 
 
 ![](/images/maths.png)
