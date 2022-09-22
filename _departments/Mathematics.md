@@ -36,7 +36,7 @@ As part of our efforts to provide pupils the opportunity to experience authentic
 ![](/images/maths.png)
 
 
-3. Math Journaling (P1 to P6)
+3 Math Journaling (P1 to P6)
 
 Math Journals assist in assessing pupils’ thinking and promotes communication skills in pupils. It consolidates learning and allows pupils to reflect on the learning in the classroom. Journals can mainly be Investigative, Affective and Procedural in nature.
 
