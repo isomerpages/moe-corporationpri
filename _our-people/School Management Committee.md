@@ -10,7 +10,7 @@ School Management Committee
 
 |  	|  	|
 |:---:	|---	|
-| <img src="/images/Mrs Jennifer Pang.jpg" style="width:40%">	| <br>**Mrs Jennifer Pang**<br>**Principal**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) 	|
+| <img align="left" style="width:40%" src="/images/Mrs Jennifer Pang.jpg">	| <br>**Mrs Jennifer Pang**<br>**Principal**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) 	|
 | <img src="/images/MRS CELINE ANG (VP - ACADEMIC) 2014.jpg" style="width:40%"> 	| <br>**Mrs Celine Ang**<br>**Vice-Principal (Academic) 1**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) 	|
 | <img src="/images/Mrs Christina Tan.jpg" style="width:40%"><br>  	| <br>**Mrs Christina Tan**<br>**Vice-Principal (Academic) 2**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) <br>|
 
