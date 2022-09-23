@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/homepage.gif
       key_highlights:
         - title: Watch our new corporate video!
           description: Click here to watch!
@@ -15,10 +15,4 @@ sections:
         - title: Check out the new cps online art gallery 2022!
           description: Click here to visit!
           url: https://gmail.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
