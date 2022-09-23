@@ -12,5 +12,5 @@ Swimming develops students’ confidence to maneuver their bodies with control w
 
 CPS students will go through the swim-safer programme at Primary 3. We believe that starting water play activities that emphasizes enjoyment during initial learning will enhance students’ water movement competence, without losing focus on water safety.
 
-![](/images/SWIMMING_2.jpg)
+![](/images/SWIMMING_1.jpg)
 ![](/images/SWIMMING_2.jpg)
