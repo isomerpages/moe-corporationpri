@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Watch our new corporate video!
+          description: Click here to watch!
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Check out the new cps online art gallery 2022!
+          description: Click here to visit!
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
