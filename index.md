@@ -11,8 +11,8 @@ sections:
       key_highlights:
         - title: Watch our new corporate video!
           description: Click here to watch!
-          url: https://google.com
+          url: https://www.youtube.com/watch?v=FtZoe5BOFjE
         - title: Check out the new cps online art gallery 2022!
           description: Click here to visit!
-          url: https://gmail.com
+          url: https://sites.google.com/moe.edu.sg/cpsonlineartgallery2022/home
 ---
