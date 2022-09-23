@@ -12,8 +12,6 @@ collections:
       - CCE/CCE.md
       - CCE/MOE Sexuality Education in Schools.md
       - PAM/.keep
-      - PAM/Music.md
-      - PAM/Art.md
       - PAM/PAM.md
       - PAM/Physical Education.md
       - PAM/Athletics.md
@@ -23,6 +21,8 @@ collections:
       - PAM/Outdoor Education.md
       - PAM/Physical Health and Fitness.md
       - PAM/Swimming.md
+      - PAM/Art.md
+      - PAM/Music.md
       - Programme for Active Learning/.keep
       - Programme for Active Learning/Programme for Active Learning (PAL).md
       - Programme for Active Learning/SOAR in CPS.md
