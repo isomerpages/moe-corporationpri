@@ -6,7 +6,7 @@ description: ""
 Science
 =======
 
-**SCIENCE CURRICULUM FRAMEWORK AND VISION FOR SCIENCE EDUCATION**
+### **SCIENCE CURRICULUM FRAMEWORK AND VISION FOR SCIENCE EDUCATION**
 
   
 Corporation Primary School aligns itself closely to the revised Science Curriculum Framework, as shown below, to provide students with strong fundamentals in Science for life, learning, citizenry and work.
@@ -21,9 +21,9 @@ Our vision for Science education, manifested through the **three \`Ins’**, en
 
 **c. Innovate using Science.** Students apply Science to generate creative solutions to solve real-world problems, ranging from those affecting everyday lives to complex problems affecting humanity. It is envisaged that there will be a strong pipeline of students who can contribute towards STEM research, innovation and enterprise.
 
-**SCIENCE PROGRAMMES**
+### **SCIENCE PROGRAMMES**
 
-**TIER 1: For all pupils - Developing Interest and Competency in Science**
+##### **TIER 1: For all pupils - Developing Interest and Competency in Science**
 
 _(Note that some photos were taken during Pre-Covid times)_  
   
@@ -68,7 +68,7 @@ Pupils who display the aptitude, commitment, talent and excellence are selected 
 
 Urban STEM Champions Programme aims to provide selected P4 students, as identified through a rigorous process, with the opportunity to make connections across subject disciplines to solve authentic problems relating to environmental sustainability. With this avenue provided, students work collaboratively to build, programme, code with logical and analytical skills and present their own prototypes while learning key aspects of STEM – Science, Technology, Engineering and Math. With the various hands-on experimentation using STEM kits, students will be able to explore environmental sustainability issues with greater depth and have more outreach to school and community.
 
-##### **INFRASTRUCTURE**
+### **INFRASTRUCTURE**
 
 **Supporting Teaching & Learning**
 
@@ -80,4 +80,4 @@ Urban STEM Champions Programme aims to provide selected P4 students, as identifi
 ![](/images/labs.jpg)
 ![](/images/garden.jpg)
 
-##### **SYLLABUS**![](/images/Syllabus%20Table.jpg)
+### **SYLLABUS**![](/images/Syllabus%20Table.jpg)
