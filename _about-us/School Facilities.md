@@ -1,12 +1,12 @@
 ---
 title: School Facilities
-permalink: /about-us/schoolfacilities/permalink
+permalink: /about-us/schoolfacilities/permalink/
 description: ""
 ---
 School Facilities
 =================
 
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; width: 972px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">Facilities in Corporation Primary School&nbsp;</font><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">provide an environment to nurture the intellectual, physical, social and emotional development of our pupils.&nbsp;</font></span></p></td></tr></tbody></table>
+Facilities in Corporation Primary School provide an environment to nurture the intellectual, physical, social and emotional development of our pupils.
 
 ![](/images/CPS.jpg)
 
