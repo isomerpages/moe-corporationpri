@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /about-us/schoolrules/permalink
+permalink: /about-us/schoolrules/permalink/
 description: ""
 ---
 School Rules
@@ -49,19 +49,6 @@ Proper Classroom Behaviour
     
 *   Respect other people’s property.
     
-*   Do not handle any equipment unless you have been trained to do so.
-    
-*   Be considerate and handle all equipment with care.
-    
-*   Report any breakage or damage.
-    
-*   Place everything back in its proper place.
-    
-*   Arrange the furniture neatly before leaving the room.
-    
-*   Switch off all lights and fans before leaving the room.
-    
-*   Do not clog up the sinks in the Math, Lifeskills, Science and Arts Rooms. Clear
     
 
   
