@@ -6,4 +6,86 @@ description: ""
 Executive and Administrative Staff
 ==================================
 
-<table border="1" cellpadding="5" style="margin: 0px; outline: 0px; padding: 0px; width: 972px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="49%" style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mr&nbsp;Ng Keng Woon</strong></td><td width="49%" style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Administration Manager</strong></p><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Email:&nbsp;<a href="mailto:cps@moe.edu.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">cps@moe.edu.sg</a></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Vicky Koh Hwee Khee</b></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Administration Manager</strong></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">Email:&nbsp;<a href="mailto:cps@moe.edu.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">cps@moe.edu.sg</a></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mr Thomas See Siew Hoe</strong></p></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Operations Manager</strong></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Email:<span>&nbsp;</span><a href="mailto:cps@moe.edu.sg" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">cps@moe.edu.sg</a></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Ms Lee Yan Ling</strong></strong></p></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Administrative Executive</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Miss Janathul Firthous</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Administration Executive</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Ms Paridah Binte Pit&nbsp;</strong></strong>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Corporate Support Officer</strong>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mdm Teh Lee Keow Rebecca&nbsp;</strong></strong>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Corporate Support Officer</strong>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mdm Kalyavani d/o Govindaraju</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mdm Lee Geok Lian</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mr Tan Thiam Hock</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mdm Yeo Siew Kiang</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mr Hong Hing Swee</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Operations Support Officer</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mr Goh Juan Yap</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">ICT Manager</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mr&nbsp;</strong><b style="margin: 0px; outline: 0px; padding: 0px;">Muhammad Irsyad Bin Azman</b></td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Desktop Engineer</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mdm Noraini Binte Rahmat</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><p align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Librarian</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Mrs Jean&nbsp;</strong>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Receptionist</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Ms Julaini Binti Alip</strong></td><td style="margin: 0px; outline: 0px; padding: 7px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teacher Aide</b></td></tr></tbody></table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Mr Ng Keng Woon</th>
+    <th class="tg-1wig">Administration Manager<br>Email: <a href="mailto:cps@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">cps@moe.edu.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Ms Vicky Koh Hwee Khee</td>
+    <td class="tg-1wig">Administration Manager<br>Email: <a href="mailto:cps@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">cps@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mr Thomas See Siew Hoe</td>
+    <td class="tg-1wig">Operations Manager<br>Email: <a href="mailto:cps@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">cps@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Ms Lee Yan Ling</td>
+    <td class="tg-1wig">Administrative Executive</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Miss Janathul Firthous</td>
+    <td class="tg-1wig">Administration Executive</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Ms Paridah Binte Pit  </td>
+    <td class="tg-1wig">Corporate Support Officer </td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mdm Teh Lee Keow Rebecca  </td>
+    <td class="tg-1wig">Corporate Support Officer </td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mdm Kalyavani d/o Govindaraju</td>
+    <td class="tg-1wig">Operations Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mdm Lee Geok Lian</td>
+    <td class="tg-1wig">Operations Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mr Tan Thiam Hock</td>
+    <td class="tg-1wig">Operations Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mdm Yeo Siew Kiang</td>
+    <td class="tg-1wig">Operations Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mr Hong Hing Swee</td>
+    <td class="tg-1wig">Operations Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mr Goh Juan Yap</td>
+    <td class="tg-1wig">ICT Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mr Muhammad Irsyad Bin Azman</td>
+    <td class="tg-1wig">Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mdm Noraini Binte Rahmat</td>
+    <td class="tg-1wig">Librarian</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Mrs Jean  </td>
+    <td class="tg-1wig">Receptionist</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Ms Julaini Binti Alip</td>
+    <td class="tg-1wig">Teacher Aide</td>
+  </tr>
+</tbody>
+</table>
