@@ -185,3 +185,6 @@ MTL fortnight is a key annual event. All Primary 1 to Primary 6 pupils will be i
 All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop where pupils will learn to use Tamil language confidently and effectively.![](/images/Tamil%20Programmes.png)
 
 ### **Mother Tongue Department E-Newsletters**
+
+
+<img src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg" style="width:50%">
