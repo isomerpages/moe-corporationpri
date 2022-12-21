@@ -2,6 +2,7 @@ collections:
   pam:
     output: true
     order:
+      - Physical Education/Gymnastics.md
       - Physical Education/Outdoor Education.md
       - Physical Education/Physical Health and Fitness.md
       - Physical Education/Swimming.md
