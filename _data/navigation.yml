@@ -11,6 +11,10 @@ links:
         url: /departments/english/permalink/
       - title: Mathematics
         url: /departments/mathematics/permalink/
+      - title: Science
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
   - title: For Parents
     collection: for-parents
   - title: Contact Us
