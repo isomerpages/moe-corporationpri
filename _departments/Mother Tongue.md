@@ -206,10 +206,12 @@ Click here to view the Chinese Department's Newsletter and find out more about
 Note: All 4 Chinese Department's Newsletter pdfs above exceed 5mb.
 
 
-##### **Past Malay Department E-Newsletter**
-----------------------------------
+
 
 <p><a href="/files/ML%20Newsletter%202022%20Sem%202.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_ML_2022%20Sem2.jpg"></a></p>
+
+##### **Past Malay Department E-Newsletter**
+----------------------------------
 
 
 Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/ML%20Newsletter%202022%20Sem%202.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
