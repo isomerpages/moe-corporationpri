@@ -214,6 +214,6 @@ Note: All 4 Chinese Department's Newsletter pdfs above exceed 5mb.
 ----------------------------------
 
 
-Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/ML%20Newsletter%202022%20Sem%202.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
+Click [here](/files/ML%20Newsletter%202022.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
   
 Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/ML%20Newsletter%202022%20Sem%201.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
