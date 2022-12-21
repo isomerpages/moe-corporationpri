@@ -229,3 +229,11 @@ Note: ML Newsletter 2022 Sem 1 pdf exceeds 5mb.
 
 
 Click [here](/files/TL%20Newsletter%202022.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
+
+
+##### **Mother Tongue Department Blog**  
+
+------------------------------------
+
+  
+Click [here](https://go.gov.sg/cpsclblog) to visit our Chinese Department Blog to view the latest updates and pupils' works.
