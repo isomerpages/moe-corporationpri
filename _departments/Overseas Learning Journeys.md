@@ -35,7 +35,7 @@ A group of selected Primary 5 pupils went to China (Xiamen and Shantou) from 25 
 
 “I learnt a bit about Chinese calligraphy. I need patience when doing calligraphy,” Niyumi, Endurance 4.
 
-#### Grp Pic 1 is too large for uploading
+<img src="/images/xxx.png" style="width:80%">
 
 ![](/images/sch%20trip%202.png)![](/images/sch%20trip%203.png)![](/images/sch%20trip%204.png)![](/images/sch%20trip%205.png)![](/images/sch%20trip%206.png)
 
