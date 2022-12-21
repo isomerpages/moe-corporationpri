@@ -193,10 +193,10 @@ All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop
 ##### **Past Chinese Department E-Newsletter**
 ------------------------------------
 
-Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/CL%20Newsletter%202022%20Sem%202.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
+Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
   
-Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/CL%20Newsletter%202022%20Sem%201.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
+Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
   
-Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/CL%20Department%20Newsletter%202021-%20Sem%202%201.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2021.  
+Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2021.  
   
-Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/Newsletter_MT_CL_2021_Sem1_Finalized.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2021.
+Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2021.
