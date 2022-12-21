@@ -20,3 +20,7 @@ In 2014, a new 2014 PE syllabus was introduced using Learning Outcomes (LOs) to 
   
 
 The Primary PE syllabus aims to develop competent movers who demonstrate efficiency, effectiveness and versatility in movement competencies.
+
+
+
+<img src="/images/PE2.jpeg" style="width:250px;height:200px;margin-left:15px;" align = "right">
