@@ -218,4 +218,8 @@ Click [here](/files/ML%20Newsletter%202022.pdf) to view the Malay Department's 
   
 Click here to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
 
-Note: ML Newsletter 2022 Sem 1 pdf exceeds 5mb. 
+Note: ML Newsletter 2022 Sem 1 pdf exceeds 5mb.
+
+
+
+<p><a href="[](/files/TL%20Newsletter%202022%20Sem%201.pdf)"><img style="width:50%" src="/images/Newsletter_Thumbnail_TL_2022%20Sem1.jpg"></a></p>
