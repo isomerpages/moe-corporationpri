@@ -237,3 +237,6 @@ Click [here](/files/TL%20Newsletter%202022.pdf) to view the Tamil Department's 
 
   
 Click [here](https://go.gov.sg/cpsclblog) to visit our Chinese Department Blog to view the latest updates and pupils' works.
+
+
+<img src="/images/Blog1.jpg" style="width:90%">
