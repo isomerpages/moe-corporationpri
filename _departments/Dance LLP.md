@@ -63,8 +63,9 @@ Incorporated in Music Lessons (Ethnic Dances):
 
  In line with the school’s vision, Corporation Primary School aims to showcase our dance talents and nurture pupils who C.A.R.E. to succeed. 
 
-*   Dance Performances by Dance CCA groups                                                 
- In Corporation Primary School, we have 3 Dance CCA groups – Chinese Dance, Malay Dance and Hip Hop Dance. Other than participating in the SYF, they also perform for school events such as the Annual Prize Giving and Talent Day.               
+*   Dance Performances by Dance CCA groups
+
+In Corporation Primary School, we have 3 Dance CCA groups – Chinese Dance, Malay Dance and Hip Hop Dance. Other than participating in the SYF, they also perform for school events such as the Annual Prize Giving and Talent Day.               
 
 *   CPS Talent Time (Dance Category)                                                                     Every year, the school organizes CPS Talent Time. There is a dance category open for pupils who would like to showcase their dance skills in the dance competition.
 
