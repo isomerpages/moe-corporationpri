@@ -8,7 +8,7 @@ links:
     url: /departments/Departments/
     sublinks:
       - title: English
-        url: /permalink
+        url: /departments/english/permalink/
       - title: Mathematics
         url: /departments/mathematics/permalink/
   - title: For Parents
