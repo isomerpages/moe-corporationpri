@@ -8,6 +8,8 @@ Physical Education 
 ===================
 #### **Vision and Curriculum**
 
+<img src="/images/PE1.jpeg" style="width:280px;height:200px;margin-left:15px;" align = "right">
+
 
 **PE Vision in CPS**: We seek to enable students to enjoy a lifetime of active and healthy living.  
 
