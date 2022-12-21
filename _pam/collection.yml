@@ -2,8 +2,7 @@ collections:
   pam:
     output: true
     order:
-      - Art.md
-      - Music.md
+      - PAM.md
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/Athletics.md
@@ -13,4 +12,5 @@ collections:
       - Physical Education/Outdoor Education.md
       - Physical Education/Physical Health and Fitness.md
       - Physical Education/Swimming.md
-      - PAM.md
+      - Art.md
+      - Music.md
