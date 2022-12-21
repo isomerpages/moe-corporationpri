@@ -18,4 +18,4 @@ Contact Us
 
   
 
-You may find the contact information of your child's [Form and Co-Form Teachers](https://corporationpri.moe.edu.sg/our-people/teaching-staff) here.
+You may find the contact information of your child's [Form and Co-Form Teachers](/our-people/teachingstaff/permalink/) here.
