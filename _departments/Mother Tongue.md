@@ -188,3 +188,7 @@ All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop
 
 
 <img src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg" style="width:50%">
+
+
+##### **Past Chinese Department E-Newsletter**
+------------------------------------
