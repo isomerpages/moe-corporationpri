@@ -64,3 +64,22 @@ Seven learning areas are identified to facilitate these learning experiences in 
 5. Acquire and maintain health-enhancing fitness through regular participation in physical activities.
 
 6. Enjoy and value the benefits of living a physically active and healthy life.
+
+
+<img src="/images/PE3.jpeg" style="width:180px;height:280px;margin-left:15px;" align = "right">
+
+In Corporation primary school, our PE curriculum is designed in a spiral approach. 
+
+This approach seeks to reinforce the skills and knowledge taught within the learning year and across their six years in school. We believe that this approach provides a holistic learning experience for our students. 
+
+  
+
+Students are excited and confident to pick up new skills and knowledge, apply them during authentic situations and facilitate the development of character as they are provided with the platform to practise 21st century competencies in our PE lessons.
+
+  
+
+  
+
+  
+
+Scroll up and click on the the learning areas to find out more.
