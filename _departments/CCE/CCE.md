@@ -4,7 +4,6 @@ permalink: /departments/cce/permalink/
 description: ""
 third_nav_title: CCE
 ---
-
 CCE
 ===
 **1)    School Vision, Mission, Values & CCE Vision and Mission**
@@ -154,4 +153,4 @@ Our P3 pupils doing their canteen clean up after their lunch break to keep our 
 Assembly programme in class during International Friendship Day.
 
 **6)**    **Others**  
- Click [here](https://corporationpri-moe-edu-sg-admin.cwp.sg/departments/cce/moe-sexuality-education-in-schools) to find out more about MOE Sexuality Education in Schools.
+ Click [here](/departments/CCE/MOESexualityEducationinSchools/permalink/) to find out more about MOE Sexuality Education in Schools.
