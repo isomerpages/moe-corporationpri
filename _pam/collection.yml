@@ -1,4 +1,5 @@
 collections:
   pam:
     output: true
-    order: []
+    order:
+      - PAM.md
