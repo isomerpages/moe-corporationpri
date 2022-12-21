@@ -1,0 +1,4 @@
+collections:
+  pam:
+    output: true
+    order: []
