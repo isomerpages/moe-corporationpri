@@ -9,7 +9,7 @@ For Parents
 Dear Parents, thank you for visiting us online!  
   
 
-This entire section is dedicated to your specific needs. Feel feel to browse through all the pages. If you have any questions for us. Kindly [Contact Us here](https://corporationpri.moe.edu.sg/contact-us).
+This entire section is dedicated to your specific needs. Feel feel to browse through all the pages. If you have any questions for us. Kindly [Contact Us here](/contact-us/permalink/).
 
 Latest Updates
 --------------
