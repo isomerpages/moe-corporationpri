@@ -69,7 +69,6 @@ Seven learning areas are identified to facilitate these learning experiences in 
 <img src="/images/PE3.jpeg" style="width:180px;height:280px;margin-left:15px;" align = "right">
 
 In Corporation primary school, our PE curriculum is designed in a spiral approach. 
-
 This approach seeks to reinforce the skills and knowledge taught within the learning year and across their six years in school. We believe that this approach provides a holistic learning experience for our students. 
 
   
