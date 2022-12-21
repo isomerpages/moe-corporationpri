@@ -6,7 +6,7 @@ third_nav_title: PAM
 ---
 Physical Education 
 ===================
-#### **Vision and Curriculum**
+#### <u>Vision and Curriculum</u>
 
 <img src="/images/PE1.jpeg" style="width:280px;height:200px;margin-left:15px;" align = "right">
 
@@ -24,3 +24,43 @@ The Primary PE syllabus aims to develop competent movers who demonstrate efficie
 
 
 <img src="/images/PE2.jpeg" style="width:250px;height:200px;margin-left:15px;" align = "right">
+
+Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain the 6 goals of PE. 
+
+  
+
+<u>Learning Areas</u>
+
+  
+
+1. Athletics (From Primary 3)
+
+2. Dance
+
+3. Games & Sports
+
+4. Gymnastics
+
+5. Outdoor Education
+
+6. Physical Health and Fitness
+
+7. Swimming (By end of Primary 6)
+
+
+
+<u>Goals of PE</u>
+
+  
+
+1. Acquire a range of movement skills to participate in a variety of physical activities.
+
+2. Understand and apply movement concepts, principles and strategies in a range of physical activities.
+
+3. Demonstrate safe practices during physical and daily activities with respect to themselves, others and the        environment.
+
+4. Display positive personal and social behavior across different experiences.
+
+5. Acquire and maintain health-enhancing fitness through regular participation in physical activities.
+
+6. Enjoy and value the benefits of living a physically active and healthy life.
