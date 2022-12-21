@@ -5,7 +5,8 @@ links:
   - title: our people
     collection: our-people
   - title: Departments
-    collection: departments
+    url: /permalink
+    sublinks: []
   - title: For Parents
     collection: for-parents
   - title: Contact Us
