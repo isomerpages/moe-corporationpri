@@ -5,8 +5,12 @@ links:
   - title: our people
     collection: our-people
   - title: Departments
-    url: /permalink
-    sublinks: []
+    url: /departments/Departments/
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
   - title: For Parents
     collection: for-parents
   - title: Contact Us
