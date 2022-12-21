@@ -28,6 +28,10 @@ links:
       - title: ALP
         url: /departments/alp/permalink/
       - title: ICT
+        url: /departments/ict/permalink/
+      - title: Level Activities
+        url: /permalink
+      - title: Overseas Learning Journeys
         url: /permalink
   - title: For Parents
     collection: for-parents
