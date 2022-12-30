@@ -210,9 +210,8 @@ Click [here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf) to vie
 
 Click [here](/files/ML%20Newsletter%202022.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
   
-Click here to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
+Click [here](/files/ML%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
 
-Note: ML Newsletter 2022 Sem 1 pdf exceeds 5mb.
 
 
 
