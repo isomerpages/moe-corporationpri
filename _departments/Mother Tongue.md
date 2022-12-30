@@ -187,9 +187,8 @@ All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop
 ### **Mother Tongue Department E-Newsletters**
 
 
-<img src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg" style="width:50%">
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:50%" src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg"></a></p>
+<p><a href="/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg"></a></p>
 
 
 ##### **Past Chinese Department E-Newsletter**
