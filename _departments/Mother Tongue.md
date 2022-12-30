@@ -221,7 +221,7 @@ Note: ML Newsletter 2022 Sem 1 pdf exceeds 5mb.
 ##### **Past Tamil Department E-Newsletter**
 ----------------------------------
 
-Click [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/Mother%20Tongue/Newsletter/TL%20newsletter%202022%20Sem%202.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.
+Click [here](/files/TL%20newsletter%202022%20Sem%202.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.
 
 Click [here](/files/TL%20Newsletter%202022.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
 
