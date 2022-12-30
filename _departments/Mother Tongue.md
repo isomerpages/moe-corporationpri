@@ -196,7 +196,7 @@ All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop
 
 Click [here](/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
   
-Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
+Click [here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
   
 
 
