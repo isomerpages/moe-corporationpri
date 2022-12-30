@@ -199,11 +199,6 @@ Click here to view the Chinese Department's Newsletter and find out more about
   
 Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
   
-Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2021.  
-  
-Click here to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2021.
-
-Note: All 4 Chinese Department's Newsletter pdfs above exceed 5mb.
 
 
 
