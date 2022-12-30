@@ -216,7 +216,7 @@ Note: ML Newsletter 2022 Sem 1 pdf exceeds 5mb.
 
 
 
-<p><a href="/files/TL%20Newsletter%202022%20Sem%201.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_TL_2022%20Sem2.jpg"></a></p>
+<p><a href="/files/TL%20newsletter%202022%20Sem%202.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_TL_2022%20Sem2.jpg"></a></p>
 
 ##### **Past Tamil Department E-Newsletter**
 ----------------------------------
