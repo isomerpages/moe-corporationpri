@@ -19,7 +19,7 @@ For enquiries on school administrative and policy matters, please e-mail to:&nbs
 
   
 
-If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](https://corporationpri-moe-edu-sg-admin.cwp.sg/our-people/teaching-staff).
+If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](/our-people/teachingstaff/permalink/).
 
 Via&nbsp;**Phone**
 -------------
