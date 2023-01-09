@@ -19,7 +19,7 @@ For enquiries on school administrative and policy matters, please e-mail to:&nbs
 
   
 
-If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](/our-people/teachingstaff/permalink/).
+If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](/our-people/teachingstaff/).
 
 Via&nbsp;**Phone**
 -------------
