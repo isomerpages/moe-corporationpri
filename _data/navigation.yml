@@ -41,6 +41,6 @@ links:
     url: /departments/Departments/
     sublinks:
       - title: English
-        url: /permalink
+        url: /departments/English/english/
       - title: Mathematics
         url: /permalink
