@@ -37,3 +37,6 @@ links:
     collection: for-parents
   - title: Contact Us
     collection: contact-us
+  - title: Departments
+    url: /permalink
+    sublinks: []
