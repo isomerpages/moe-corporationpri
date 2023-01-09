@@ -37,12 +37,3 @@ links:
     collection: for-parents
   - title: Contact Us
     collection: contact-us
-  - title: Departments
-    url: /departments/Departments/
-    sublinks:
-      - title: English
-        url: /departments/English/english/
-      - title: Mathematics
-        url: /departments/mathematics/
-      - title: Science
-        url: /permalink
