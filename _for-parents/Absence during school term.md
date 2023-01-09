@@ -3,7 +3,6 @@ title: Absence during school term
 permalink: /for-parents/absenceduringschoolterm/
 description: ""
 ---
-
 Absence during school term
 ==================
 
@@ -19,4 +18,4 @@ Contact Us
 
   
 
-You may find the contact information of your child's [Form and Co-Form Teachers](/our-people/teachingstaff/permalink/) here.
+You may find the contact information of your child's [Form and Co-Form Teachers](/our-people/teachingstaff/) here.
