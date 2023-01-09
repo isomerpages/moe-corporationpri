@@ -38,5 +38,9 @@ links:
   - title: Contact Us
     collection: contact-us
   - title: Departments
-    url: /permalink
-    sublinks: []
+    url: /departments/Departments/
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
