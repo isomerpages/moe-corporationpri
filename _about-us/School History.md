@@ -3,7 +3,6 @@ title: School History
 permalink: /about-us/schoolhistory/
 description: ""
 ---
-
 School History
 ==============
 ![](/images/School%20History.png)
