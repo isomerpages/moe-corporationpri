@@ -22,4 +22,4 @@ The school has been under the leadership of 7 principals since its inception
 
   
 
-**Mrs Jennifer Pang**, the present principal, joined the school in December 2015. She is assisted by two Vice-Principals (Academic), **Mdm Poon Gek Hong** and **Mrs Christina Tan**,
+<b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals (Academic), <b>Mrs Celine Ang</b> and <b>Mrs Christina Tan</b>.
