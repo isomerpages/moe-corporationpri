@@ -14,7 +14,7 @@ The school celebrated the official opening of its new campus on 8 July 2003. The
 
   
 
-The school has been under the leadership of 7 principals since its inception
+The school has been under the leadership of 8 principals since its inception
 
   
 
