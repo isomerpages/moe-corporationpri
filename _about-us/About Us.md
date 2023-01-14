@@ -6,6 +6,8 @@ description: ""
 About Us
 ========
 
+<img src="/images/CPS%20Formation.jpeg" style="width:55%">
+
 <b>Principal's Address</b> <br>
  First and foremost, I would like to extend my sincerest gratitude to the previous Principal, Mrs Jennifer Pang, for her stewardship of the school. She will be missed by staff, students and parents. Much of the good work during her time here will continue and be built upon in years to come. 
 
