@@ -3,44 +3,26 @@ title: About Us
 permalink: /about-us/About-Us/
 description: ""
 ---
-
 About Us
 ========
 
-It is a great honour to be posted to Corporation Primary School (CPS) as the 7th Principal of the school – a school that believes in holistic education of the students. In 2015, CPS celebrated its 40th Anniversary and I was at the concert, commemorating the event with the staff and students of the school. I was very impressed with the energy and enthusiasm of the little actors and actresses who exude an immense amount of pride for the school as they performed on stage. The staff too, was hard at work getting the students ready for their big show, ensuring every small little detail was taken care of to make everyone at the concert comfortable. Overall, it was a positive experience where everyone is proud to be part of the CPS family.  
+<b>Principal's Address</b> <br>
+ First and foremost, I would like to extend my sincerest gratitude to the previous Principal, Mrs Jennifer Pang, for her stewardship of the school. She will be missed by staff, students and parents. Much of the good work during her time here will continue and be built upon in years to come. 
 
   
 
-In CPS, we believe very strongly in creating possibilities in our students. We help them to discover their talents and develop their interests and strengths. Personally, I believe that every child can learn and given the right environment and support, the child will Grow and Glow. CPS is blessed to have very committed and capable team of teachers and non-teaching staff who believe in developing every child, not only academically, but also in values and character. Schools are part of the society. Therefore, partnership with parents and the community is important to help nurture our students to Grow and Glow. Together, we will provide our students with a unique learning experience that nurtures each and every one of them to be individuals of good character, anchored in sound moral values, equipped with the 21st Century Competencies and knowledge for higher learning.
+Year 2023 will be the first full year that we will begin to experience an almost pre-Covid scenario in terms of the activities and learning experiences in school. Many students are looking forward to this and I feel very excited for them. Being able to interact freely and seeing emotions of happiness or sadness (without the mask) are important for social and emotional development. In Corporation Primary School, I sense a strong culture of care amongst students and staff. This is the school’s strength. In the years to come, we will also uncover many more strengths that reside in our students and staff that will make the school a vibrant place for everyone. This will be in line with the school’s mission of developing talents in our students. 
 
   
 
-Quoting Mahatma Gandhi,
+The school will also strive to provide varied learning experiences that are holistic and more importantly teach skills beyond just academic application but also one that prepares our students for lifelong learning. Learning experiences that foster curiosity and a growth mindset are essential in promoting the love for learning. This could potentially be transformative if we can infuse the learning with students’ passion and interest so they can find even deeper meaning in learning. 
 
   
 
-_Your beliefs become your thoughts,_
-
-_Your thoughts become your words,_
-
-_Your words become your actions,_
-
-_Your actions become your habits,_
-
-_Your habits become your values,_
-
-_Your values become your destiny._
+To do all this, the school will also need the support of our stakeholders like parents and community partners, to have this collective belief for us to bring out the best in every child. Let us be involved in this together be it in school, at home or in the community. Every child is a blessing for a better future.
 
   
 
-Our school vision, Nurturing Pupils who **C.A.R.E** to succeed (C- Confident, A- Actively Contribute, R- Resilient, E- Enthusiastically Learn), hinges on our school belief that every child is well-anchored in the right values and skills. I am confident that the parents will work with us closely to inculcate these values in our students.
-
   
 
-I am thankful to the previous principals for laying a strong foundation in the school, allowing me the opportunity to delve deeper into the curriculum and develop depth in the teaching and learning processes. Moving forward, the school hopes to create new platforms for our students to care, share, learn and motivate one another to greater heights.
-
-<img src="/images/Mrs Jennifer Pang.jpg" style="width:25%">    
-
-**Mrs Jennifer Pang**
-
-Principal
+Regards,
