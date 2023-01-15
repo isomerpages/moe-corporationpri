@@ -19,7 +19,62 @@ The school has been under the leadership of 8 principals since its inception
   
 
 
-<table class="ive_eobj_center ives_tab_kosong" style="font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; text-decoration-thickness: initial; width: 788.865px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px; width: 310px;">Mr Fong Kim Chong</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px; width: 239px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px; width: 239px;">1975 to 1986</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">Mr Henry Lee</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">1987 to 1988</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">Mr Tan Hian Hui</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">1989 to 1995</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">Mrs Sheena Datt</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">1996 to 2003</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">Mdm Tang Wai Peng</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">2004 to 2010</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">Mdm Vimi D. Sambawani</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">2010 to 2015</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">Mrs Jennifer Pang</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center; border: 0px;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; border: 0px;">2015 to 2022</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Muhammad Fadylla Bin Rashiman</b></td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top; text-align: center;">-</td><td style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top;">2022 to</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m">Mr Fong Kim Chong</th>
+    <th class="tg-8jgo">-</th>
+    <th class="tg-zv4m">1975 to 1986</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m">Mr Henry Lee</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">1987 to 1988</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">Mr Tan Hian Hui</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">1989 to 1995</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">Mrs Sheena Datt</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">1996 to 2003</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">Mdm Tang Wai Peng</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">2004 to 2010</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">Mdm Vimi D. Sambawani</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">2010 to 2015</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">Mrs Jennifer Pang</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">2015 to 2022</td>
+  </tr>
+  <tr>
+    <td class="tg-km2t">Mr Muhammad Fadylla Bin Rashiman</td>
+    <td class="tg-8jgo">-</td>
+    <td class="tg-zv4m">2022 to</td>
+  </tr>
+</tbody>
+</table>
   
 
 <b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals (Academic), <b>Mrs Celine Ang</b> and <b>Mrs Christina Tan</b>.
