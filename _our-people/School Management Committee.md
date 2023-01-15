@@ -26,7 +26,7 @@ School Management Committee
 |  <img src="/images/Mdm%20Dawn%20Soh%20Lay%20Kiaw.jpg" style="width:35%"> 	| **Ms Dawn Soh Lay Kiaw**<br>**HOD Curriculum and Assessment**<br>Email: [soh\_lay\_kiaw@moe.edu.sg](mailto:soh_lay_kiaw@moe.edu.sg) 	|
 |<img src="/images/MS SIAH SIEW LING 2014.jpg" style="width:35%"> 	| **Ms Siah Siew Ling**<br>**HOD School Staff Developer**<br><br>Email: [siah\_siew\_ling@moe.edu.sg](mailto:siah_siew_ling@moe.edu.sg) 	|
 |  <img src="/images/mr%20ong%20guoxing%20luis.jpg" style="width:35%"> 	| **Mr Ong Guoxing Luis**<br>**HOD Pupil Development**<br>Email: [ong\_guoxing\_luis@moe.edu.sg](mailto:ong_guoxing_luis@moe.edu.sg)  	|
-|  <img src="/images/Mr Ong Wei Loon Daryl.jpg" style="width:35%"> 	| **Mr Kwan Tuck Soon**<br>**HOD ICT**<br><br>Email: [kwan\_tuck\_soon@moe.edu.sg](mailto:kwan_tuck_soon@moe.edu.sg) 	|
+|  <img src="/images/Kwan%20Tuck%20Soon%202019.jpg" style="width:35%"> 	| **Mr Kwan Tuck Soon**<br>**HOD ICT**<br><br>Email: [kwan\_tuck\_soon@moe.edu.sg](mailto:kwan_tuck_soon@moe.edu.sg) 	|
 
 
 ### Subject / Level Heads
