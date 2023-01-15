@@ -26,84 +26,90 @@ Mother Tongue Language Teachers
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 13px;word-break:normal;}
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 13px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-fbrz{font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ooxa{background-color:rgba(248, 248, 248, 0.9);color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0jqi{color:#F56414;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fbrz" colspan="2">Chinese Language</th>
+    <th class="tg-ooxa" colspan="2">Chinese Language</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><a href="mailto:ng_bih_jeng@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Ng Bih Jeng (HOD Mother Tongue)</a></td>
-    <td class="tg-baqh"><a href="mailto:tan_mei_ying_a@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Tan Mei Ying (HOD CCE)</a></td>
+    <td class="tg-0jqi"><a href="mailto:ng_bih_jeng@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Ng Bih Jeng</span></a> (HOD Mother Tongue)<br></td>
+    <td class="tg-0jqi"><a href="mailto:tan_mei_ying_a@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Tan Mei Ying</span></a> (HOD CCE)<br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:kwan_tuck_soon@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Kwan Tuck Soon (HOD ICT)</a></td>
-    <td class="tg-baqh"><a href="mailto:lau_sze_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Lau Sze Hui (Senior Teacher)</a></td>
+    <td class="tg-0jqi"><a href="mailto:kwan_tuck_soon@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Kwan Tuck Soon</span></a> (HOD ICT)<br></td>
+    <td class="tg-0jqi"><a href="mailto:lau_sze_hui@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Lau Sze Hui</span></a> (Senior Teacher)</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:yeo_xinrong_marjorie@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Marjorie Yeo</a></td>
-    <td class="tg-baqh"><a href="mailto:chew_shouye@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Chew Shouye</a></td>
+    <td class="tg-0jqi"><a href="mailto:yeo_xinrong_marjorie@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Marjorie Yeo</span></a> (LH CL) </td>
+    <td class="tg-0jqi"><a href="mailto:chew_shouye@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Chew Shouye</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:huang_yuwei@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Huang Yuwei</a></td>
-    <td class="tg-baqh"><a href="mailto:chai_meng_choo@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Chai Meng Choo</a></td>
+    <td class="tg-0jqi"><a href="mailto:huang_yuwei@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Huang Yuwei</span></a> <br></td>
+    <td class="tg-0jqi"><a href="mailto:woon_mei_hui@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mrs Ariel Lew</span></a> <br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:woon_mei_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Ariel Lew</a></td>
-    <td class="tg-baqh"><a href="mailto:bao_xiaoke@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Bao Xiaoke</a></td>
+    <td class="tg-0jqi"><a href="mailto:bao_xiaoke@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Bao Xiaoke</span></a></td>
+    <td class="tg-nrix"> <a href="mailto:chan_mei_yoke@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Chan Mei Yoke</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:chan_mei_yoke@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Chan Mei Yoke</a></td>
-    <td class="tg-baqh"><a href="mailto:wang_yirui@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Janet Wang Yirui</a></td>
+    <td class="tg-nrix"> <a href="mailto:wang_yirui@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Janet Wang Yirui</span></a></td>
+    <td class="tg-0jqi"><a href="mailto:khoo_pei_qi@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Khoo Pei Qi</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:khoo_pei_qi@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Khoo Pei Qi</a></td>
-    <td class="tg-baqh"><a href="mailto:li_yandong@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Li Yan Dong</a></td>
+    <td class="tg-0jqi"><a href="mailto:li_yandong@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Li Yan Dong</span></a></td>
+    <td class="tg-0jqi"><a href="mailto:ma_xinyue@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Ma Xinyue</span></a> <br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:ma_xinyue@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Ma Xinyue</a></td>
-    <td class="tg-baqh"><a href="mailto:tan_jin_li@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Tan Jin Li</a></td>
+    <td class="tg-0jqi"><a href="mailto:ng_shao_wei@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Ng Shao Wei</span></a> </td>
+    <td class="tg-0jqi"><a href="mailto:pang_xiao_wen@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Pang Xiao Wen</span></a>  </td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:ho_ching_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Valerie Ho Ching Ying</a></td>
-    <td class="tg-baqh"><a href="mailto:zeng_lei@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Zeng Lei</a></td>
+    <td class="tg-0jqi"><a href="mailto:tan_jin_li@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Tan Jin Li</span></a> <br></td>
+    <td class="tg-0jqi"><a href="mailto:ho_ching_ying@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Valerie Ho Ching Ying</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:ng_shao_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Ng Shao Wei</a></td>
-    <td class="tg-baqh"><a href="mailto:pang_xiao_wen@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Pang Xiao Wen</a></td>
+    <td class="tg-0jqi"><a href="mailto:zeng_lei@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Zeng Lei</span></a> </td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
-    <td class="tg-fbrz" colspan="2">Malay Language</td>
+    <td class="tg-s2rg" colspan="2">Malay Language</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:saiful_nizam_b_pungot@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Saiful Nizam Bin Pungot (Subject Head - ML)</a></td>
-    <td class="tg-baqh"><a href="mailto:dian_fitriani_abdol_malik@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Dian Fitriani Bte Abdol Malik</a></td>
+    <td class="tg-0jqi"><a href="mailto:saiful_nizam_b_pungot@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Saiful Nizam Bin Pungot</span></a> (Subject Head - ML) <br></td>
+    <td class="tg-0jqi"><a href="mailto:dian_fitriani_abdol_malik@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Dian Fitriani Bte Abdol Malik</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:misliana_roslinor@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Misliana Bte Roslinor</a></td>
-    <td class="tg-baqh"><a href="mailto:siti_shahirah_samad@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Siti Shahirah Binte Samad</a></td>
+    <td class="tg-0jqi"><a href="mailto:siti_shahirah_samad@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Siti Shahirah Binte Samad</span></a>  </td>
+    <td class="tg-0jqi"><a href="mailto:nazariah_nasir@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Nazariah Binte Nasir</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:nazariah_nasir@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Nazariah Binte Nasir</a></td>
-    <td class="tg-baqh"><a href="mailto:Nurul_Nadhirah_Nasdi@moe.edu.sg" target="_blank" rel="noopener noreferrer">Miss Nurul Nadhirah Binte Nasdi</a></td>
+    <td class="tg-0jqi"><a href="mailto:Nurul_Nadhirah_Nasdi@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Miss Nurul Nadhirah Binte Nasdi</span></a></td>
+    <td class="tg-0jqi"><a href="mailto:uma_gaitre_m_meyappa@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Uma Gaitre M. Meyappan</span></a> <br></td>
   </tr>
   <tr>
-    <td class="tg-fbrz" colspan="2">Tamil Language</td>
+    <td class="tg-0jqi"><a href="mailto:amirr_hamzah_haji_abdul@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Amirr Hamzah Haji Abdul Moin</span></a> </td>
+    <td class="tg-nrix"> </td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:fatimah_begam_abdul_muth@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Fatimah Begam Binte Abdul Muthalib (TL Coordinator)</a></td>
-    <td class="tg-baqh"><a href="mailto:shanmugam_mala@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Shanmugam Mala</a></td>
+    <td class="tg-s2rg" colspan="2">Tamil Language</td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="mailto:ashwini_chandrasaharan@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Ashwini D/O Chandrasaharan</a></td>
-    <td class="tg-baqh"><a href="mailto:elango_hemalatha@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Hema</a></td>
+    <td class="tg-0jqi"><a href="mailto:fatimah_begam_abdul_muth@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Fatimah Begam Binte Abdul Muthalib</span></a> (TL Coordinator)<br></td>
+    <td class="tg-0jqi"><a href="mailto:shanmugam_mala@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mrs Shanmugam Mala</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> <a href="mailto:ashwini_chandrasaharan@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Ashwini D/O Chandrasaharan</span></a></td>
+    <td class="tg-0jqi"><a href="mailto:elango_hemalatha@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Elango Hemalatha</span></a></td>
   </tr>
 </tbody>
 </table>
