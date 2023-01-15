@@ -34,9 +34,9 @@ School Management Committee
 |  	|  	|
 |---	|---	|
 | <img src="/images/MR SAIFUL NIZAM BIN PUNGOT 2014.jpg" style="width:40%"> 	| **Mr Saiful Nizam Bin Pungot** <br>**Subject Head - Malay Language**<br><br>Email: [saiful_nizam_b_pungot@moe.edu.sg](mailto:saiful_nizam_b_pungot@moe.edu.sg) 	|
-|  <img src="/images/miss salbiah binte ishak.jpg" style="width:40%"> 	| **Ms Salbiah Binte Ishak**<br>**Subject Head - Science**<br><br>Email: [salbiah_ishak@moe.edu.sg](mailto:salbiah_ishak@moe.edu.sg) 	|
-|  <img src="/images/miss lee xiu min deda.jpg" style="width:40%"> 	| **Ms Lee Xiu Min, Neda**<br>**Subject Head - Aesthetics**<br><br>Email: [lee_xiu_min_neda@moe.edu.sg](mailto:lee_xiu_min_neda@moe.edu.sg)  	|
-|  <img src="/images/mr mohamed faizal bin mohamed salleh.jpg" style="width:40%"> 	| **Mr Mohamed Faizal Bin Mohamed Salleh**<br>**Subject Head - CCA**<br><br>Email: [mohamed_faizal_mohamed_salleh@moe.edu.sg](mailto:mohamed_faizal_mohamed_salleh@moe.edu.sg) 	|
+|  <img src="/images/MDM%20TAN%20MEI%20YING%202014.jpg" style="width:40%"> 	| **Mdm Tan Mei Ying**<br>**Subject Head CCE**<br><br>Email: [tan\_mei\_ying\_a@moe.edu.sg](mailto:tan_mei_ying_a@moe.edu.sg) 	|
+|  <img src="/images/mr mohamed faizal bin mohamed salleh.jpg" style="width:40%"> 	| **Mr Mohamed Faizal Bin Mohamed Salleh**<br>**Subject Head - CCA**<br><br>Email: [mohamed\_faizal\_mohamed\_salleh@moe.edu.sg](mailto:mohamed_faizal_mohamed_salleh@moe.edu.sg)  	|
+|  <img src="/images/miss salbiah binte ishak.jpg" style="width:40%"> 	| **Ms Salbiah Binte Ishak**<br>**Level Head - Science**<br><br>Email: [salbiah\_ishak@moe.edu.sg](mailto:salbiah_ishak@moe.edu.sg) 	|
 |  <img src="/images/MISS CHIOK HWEE FEN 2014.jpg" style="width:40%"> 	| **Ms Chiok Hwee Fen**<br>**Year Head**<br><br>Email: [chiok_hwee_fen@moe.edu.sg](mailto:chiok_hwee_fen@moe.edu.sg) 	|
 |  <img src="/images/Mrs Francesca Ong .jpg" style="width:40%"> 	| **Ms Francesca Phoebe Wah Li Ting**<br>**Year Head**<br><br>Email: [francesca_wah_li_ting@moe.edu.sg](mailto:francesca_wah_li_ting@moe.edu.sg) 	|
 |  <img src="/images/MISS JAGJIT KAUR DO PARMJIT SINGH 2014.jpg" style="width:40%"> 	| **Miss Jagjit Kaur D/O Parmjit Singh**<br>**Year Head**<br><br>Email: [jagjit_kaur_parmjit_singh@moe.edu.sg](mailto:jagjit_kaur_parmjit_singh@moe.edu.sg) 	|
