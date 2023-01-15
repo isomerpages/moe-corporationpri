@@ -22,11 +22,14 @@ School Management Committee
 |  <img src="/images/Ms Ng Bih Jeng.jpg" style="width:35%"> 	| **Mdm Ng Bih Jeng**<br>**HOD Mother Tongue**<br><br>Email: [ng_bih_jeng@moe.edu.sg](mailto:ng_bih_jeng@moe.edu.sg) 	|
 |  <img src="/images/MDM INTHUMATHI DO SELVARAJOO 2014.jpg" style="width:35%"> 	| **Mdm Inthumathi d/o Selvarajoo**<br>**HOD Mathematics**<br><br>Email: [inthumathi_selvarajoo@moe.edu.sg](mailto:inthumathi_selvarajoo@moe.edu.sg) 	|
 |  <img src="/images/Mdm Nur Liyana.jpg" style="width:35%">	| **Mdm Nur Liyana Suratman**<br>**HOD Science**<br><br>Email: [nur_liyana_suratman@moe.edu.sg](mailto:nur_liyana_suratman@moe.edu.sg) 	|
-|  <img src="/images/MS SIAH SIEW LING 2014.jpg" style="width:35%"> 	| **Ms Siah Siew Ling**<br>**HOD School Staff Developer**<br><br>Email: [siah_siew_ling@moe.edu.sg](mailto:siah_siew_ling@moe.edu.sg) 	|
+|  <img src="/images/MS SIAH SIEW LING 2014.jpg" style="width:35%"> 	| **Ms Nitthiya Rengasamy**<br>**HOD CCE**<br><br>Email: [nitthiya\_rengasamy@moe.edu.sg](mailto:nitthiya_rengasamy@moe.edu.sg) 	|
 |  <img src="/images/MDM TAN MEI YING 2014.jpg" style="width:35%"> 	| **Mdm Tan Mei Ying**<br>**HOD CCE**<br>Email: [tan_mei_ying_a@moe.edu.sg](mailto:tan_mei_ying_a@moe.edu.sg) 	|
 |<img src="/images/mr ong guoxing luis.jpg" style="width:35%"> 	| **Mr Ong Guoxing Luis**<br>**HOD Pupil Development**<br><br>Email: [ong_guoxing_luis@moe.edu.sg](mailto:ong_guoxing_luis@moe.edu.sg) 	|
 |  <img src="/images/Kwan Tuck Soon 2019.jpg" style="width:35%"> 	| **Mr Kwan Tuck Soon**<br>**HOD ICT**<br>Email: [kwan_tuck_soon@moe.edu.sg](mailto:kwan_tuck_soon@moe.edu.sg)  	|
 |  <img src="/images/Mr Ong Wei Loon Daryl.jpg" style="width:35%"> 	| **Mr Ong Wei Loon, Daryl**<br>**HOD PE, CCA and Aesthetics**<br><br>Email: [ong_wei_loon_daryl@moe.edu.sg](mailto:ong_wei_loon_daryl@moe.edu.sg) 	|
+
+
+/images/MS SIAH SIEW LING 2014.jpg
 
 ### Subject / Level Heads
 
