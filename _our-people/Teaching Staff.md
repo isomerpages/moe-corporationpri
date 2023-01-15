@@ -9,6 +9,10 @@ Teaching Staff
 **2023 Form Teachers**
 ----------------------
 
+Please click [here](/files/2023%20FORM%20TEACHER%20LIST.pdf) for the list of 2023 Form Teachers. <br>
+You may contact the Form Teacher of your child's class via <b>ClassDojo</b>. <br>
+Alternatively, you may call the school at <b>6795 7381</b>.
+
 **2022 Form Teachers**
 ----------------------
 
