@@ -18,7 +18,7 @@ School Management Committee
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/Ms Chua Lee Wei.jpg" style="width:35%"> 	| **Ms Chua Lee Wei**<br>**HOD English Language**<br><br>Email: [chua_lee_wei@moe.edu.sg](mailto:chua_lee_wei@moe.edu.sg) 	|
+| <img src="/images/Mrs%20Francesca%20Ong.jpg" style="width:35%"> 	| **Ms Francesca Phoebe Wah Li Ting**<br>**HOD English Language**<br><br>Email: [francesca\_wah\_li\_ting@moe.edu.sg](mailto:francesca_wah_li_ting@moe.edu.sg) 	|
 |  <img src="/images/Ms Ng Bih Jeng.jpg" style="width:35%"> 	| **Mdm Ng Bih Jeng**<br>**HOD Mother Tongue**<br><br>Email: [ng_bih_jeng@moe.edu.sg](mailto:ng_bih_jeng@moe.edu.sg) 	|
 |  <img src="/images/MDM INTHUMATHI DO SELVARAJOO 2014.jpg" style="width:35%"> 	| **Mdm Inthumathi d/o Selvarajoo**<br>**HOD Mathematics**<br><br>Email: [inthumathi_selvarajoo@moe.edu.sg](mailto:inthumathi_selvarajoo@moe.edu.sg) 	|
 |  <img src="/images/Mdm Nur Liyana.jpg" style="width:35%">	| **Mdm Nur Liyana**<br>**HOD Science**<br><br>Email: [nur_liyana_suratman@moe.edu.sg](mailto:nur_liyana_suratman@moe.edu.sg) 	|
