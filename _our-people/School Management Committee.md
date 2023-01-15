@@ -3,7 +3,6 @@ title: School Management Committee
 permalink: /ourpeople/school-management-committee/
 description: ""
 ---
-
 School Management Committee
 ===========================
 
