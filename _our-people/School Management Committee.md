@@ -21,7 +21,7 @@ School Management Committee
 | <img src="/images/Mrs%20Francesca%20Ong.jpg" style="width:35%"> 	| **Ms Francesca Phoebe Wah Li Ting**<br>**HOD English Language**<br><br>Email: [francesca\_wah\_li\_ting@moe.edu.sg](mailto:francesca_wah_li_ting@moe.edu.sg) 	|
 |  <img src="/images/Ms Ng Bih Jeng.jpg" style="width:35%"> 	| **Mdm Ng Bih Jeng**<br>**HOD Mother Tongue**<br><br>Email: [ng_bih_jeng@moe.edu.sg](mailto:ng_bih_jeng@moe.edu.sg) 	|
 |  <img src="/images/MDM INTHUMATHI DO SELVARAJOO 2014.jpg" style="width:35%"> 	| **Mdm Inthumathi d/o Selvarajoo**<br>**HOD Mathematics**<br><br>Email: [inthumathi_selvarajoo@moe.edu.sg](mailto:inthumathi_selvarajoo@moe.edu.sg) 	|
-|  <img src="/images/Mdm Nur Liyana.jpg" style="width:35%">	| **Mdm Nur Liyana**<br>**HOD Science**<br><br>Email: [nur_liyana_suratman@moe.edu.sg](mailto:nur_liyana_suratman@moe.edu.sg) 	|
+|  <img src="/images/Mdm Nur Liyana.jpg" style="width:35%">	| **Mdm Nur Liyana Suratman**<br>**HOD Science**<br><br>Email: [nur_liyana_suratman@moe.edu.sg](mailto:nur_liyana_suratman@moe.edu.sg) 	|
 |  <img src="/images/MS SIAH SIEW LING 2014.jpg" style="width:35%"> 	| **Ms Siah Siew Ling**<br>**HOD School Staff Developer**<br><br>Email: [siah_siew_ling@moe.edu.sg](mailto:siah_siew_ling@moe.edu.sg) 	|
 |  <img src="/images/MDM TAN MEI YING 2014.jpg" style="width:35%"> 	| **Mdm Tan Mei Ying**<br>**HOD CCE**<br>Email: [tan_mei_ying_a@moe.edu.sg](mailto:tan_mei_ying_a@moe.edu.sg) 	|
 |<img src="/images/mr ong guoxing luis.jpg" style="width:35%"> 	| **Mr Ong Guoxing Luis**<br>**HOD Pupil Development**<br><br>Email: [ong_guoxing_luis@moe.edu.sg](mailto:ong_guoxing_luis@moe.edu.sg) 	|
