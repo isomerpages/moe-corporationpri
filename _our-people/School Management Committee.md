@@ -37,8 +37,11 @@ School Management Committee
 |  <img src="/images/MDM%20TAN%20MEI%20YING%202014.jpg" style="width:40%"> 	| **Mdm Tan Mei Ying**<br>**Subject Head CCE**<br><br>Email: [tan\_mei\_ying\_a@moe.edu.sg](mailto:tan_mei_ying_a@moe.edu.sg) 	|
 |  <img src="/images/mr mohamed faizal bin mohamed salleh.jpg" style="width:40%"> 	| **Mr Mohamed Faizal Bin Mohamed Salleh**<br>**Subject Head - CCA**<br><br>Email: [mohamed\_faizal\_mohamed\_salleh@moe.edu.sg](mailto:mohamed_faizal_mohamed_salleh@moe.edu.sg)  	|
 |  <img src="/images/miss salbiah binte ishak.jpg" style="width:40%"> 	| **Ms Salbiah Binte Ishak**<br>**Level Head - Science**<br><br>Email: [salbiah\_ishak@moe.edu.sg](mailto:salbiah_ishak@moe.edu.sg) 	|
-|  <img src="/images/MISS CHIOK HWEE FEN 2014.jpg" style="width:40%"> 	| **Ms Chiok Hwee Fen**<br>**Year Head**<br><br>Email: [chiok_hwee_fen@moe.edu.sg](mailto:chiok_hwee_fen@moe.edu.sg) 	|
+|  <img src="/images/MISS CHIOK HWEE FEN 2014.jpg" style="width:40%"> 	| **Ms Yeo Xinrong Marjorie**<br>**Level Head - Chinese Language**<br><br>Email: [yeo\_xinrong\_marjorie@moe.edu.sg](mailto:yeo_xinrong_marjorie@moe.edu.sg) 	|
 |  <img src="/images/Mrs Francesca Ong .jpg" style="width:40%"> 	| **Ms Francesca Phoebe Wah Li Ting**<br>**Year Head**<br><br>Email: [francesca_wah_li_ting@moe.edu.sg](mailto:francesca_wah_li_ting@moe.edu.sg) 	|
 |  <img src="/images/MISS JAGJIT KAUR DO PARMJIT SINGH 2014.jpg" style="width:40%"> 	| **Miss Jagjit Kaur D/O Parmjit Singh**<br>**Year Head**<br><br>Email: [jagjit_kaur_parmjit_singh@moe.edu.sg](mailto:jagjit_kaur_parmjit_singh@moe.edu.sg) 	|
 |  <img src="/images/MDM CHUA LEE LIAN 2014.jpg" style="width:40%"> 	| **Mdm Chua Lee Lian** <br>**Assistant Year Head**<br><br>Email: [chua_lee_lian@moe.edu.sg](mailto:chua_lee_lian@moe.edu.sg) 	|
 |  <img src="/images/ms karen ho qiao hui.jpg" style="width:40%"> 	| **Ms Karen Ho Qiao Hui** <br>**Assistant Year Head**<br><br>  Email: [ho_qiao_hui_karen@moe.edu.sg](mailto:ho_qiao_hui_karen@moe.edu.sg)  	|
+
+
+/images/MISS CHIOK HWEE FEN 2014.jpg
