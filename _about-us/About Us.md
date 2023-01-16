@@ -29,4 +29,21 @@ To do all this, the school will also need the support of our stakeholders like p
 
 Regards,
 
-<img src="/images/Mr%20Muhammad%20Fadylla.jpg" style="width:25%;float:left">
+<img src="/images/Mr%20Muhammad%20Fadylla.jpg" style="width:25%;float:left"> 
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+Mr Muhd Fadylla Rashiman <br>
+Principal
