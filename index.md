@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/corporationfinal.gif
+      background: /images/Home Page.gif
       key_highlights:
         - title: Watch our new corporate video!
           description: Click here to watch!
