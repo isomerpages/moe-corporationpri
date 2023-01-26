@@ -81,6 +81,6 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 8.Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9.Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents and is also downloadable [here](https://corporationpri.moe.edu.sg/qql/slot/u746/Departments/cce/2022/Opt-out%20form%20to%20be%20hyperlinked%20Annex%20A%202022.doc). [here](/files/2023%20SEd%20Parent%20Opt-out%20Form.pdf). The hardcopy of the opt-out form  is to be submitted to the Form Teachers by **Friday, 17/02/2023**.
+9.Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents and is also downloadable [here](/files/2023%20SEd%20Parent%20Opt-out%20Form.pdf). The hardcopy of the opt-out form  is to be submitted to the Form Teachers by **Friday, 17/02/2023**.
 
 10.Parents can contact the school at 67957381 or e-mail [cps@moe.edu.sg](mailto:cps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
