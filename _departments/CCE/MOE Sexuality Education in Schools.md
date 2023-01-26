@@ -67,10 +67,15 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 7. 
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-![](/images/2022%20SEd%201.jpg)
-![](/images/2022%20SEd%202.jpg)
-![](/images/2022%20SEd%203.jpg)
-![](/images/2022%20SEd%204.jpg)
+**At Corporation Primary School, the following Sexuality Education lessons will be taught in 2023:**
+
+2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 
+
+![](/images/2023%20P5%20SEd%20Schedule.jpg)
+
+![](/images/2023%20P6%20SEd%20Schedule.jpg)
+
+
 
 **Information for Parents**
 
