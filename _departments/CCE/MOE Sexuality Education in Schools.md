@@ -37,7 +37,7 @@ MOE Sexuality Education in Schools
 
   
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education. 
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 
   
 
