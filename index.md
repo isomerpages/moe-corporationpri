@@ -15,4 +15,6 @@ sections:
         - title: Check out the new cps online art gallery 2022!
           description: Click here to visit!
           url: https://sites.google.com/moe.edu.sg/cpsonlineartgallery2022/home
+      subtitle: Nurturing pupils who C.A.R.E to succeed
+      title: Corporation Primary School
 ---
