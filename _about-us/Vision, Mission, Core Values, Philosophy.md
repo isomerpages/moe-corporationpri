@@ -3,11 +3,15 @@ title: Vision, Mission, Core Values, Philosophy
 permalink: /about-us/visionmissioncorevaluesphilosophy/
 description: ""
 ---
-
 Our vision
 ----------
 
 Nurturing pupils who C.A.R.E. to succeed.
+
+C - Confident Thinker   
+A - Active Contributor   
+R - Resilient Person  
+E - Enthusiastic Learner
 
   
 
