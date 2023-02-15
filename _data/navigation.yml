@@ -1,15 +1,39 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school logo.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: our people
+    collection: our-people
+  - title: Departments
+    url: /departments/Departments/
+    sublinks:
+      - title: English
+        url: /departments/English/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue
+        url: /departments/mothertongue/
+      - title: CCE
+        url: /departments/cce/
+      - title: PAM
+        url: /pam/PAM/
+      - title: Programme for Active Learning
+        url: /departments/Programme-for-Active-Learning/Programme-for-Active-Learning/
+      - title: CCA
+        url: /departments/cca/
+      - title: Dance LLP
+        url: /departments/dancellp/
+      - title: ALP
+        url: /departments/alp/
+      - title: ICT
+        url: /departments/ICT/ict/
+      - title: Level Activities
+        url: /departments/levelactivities/
+      - title: Overseas Learning Journeys
+        url: /departments/overseaslearningjourneys/
+  - title: For Parents
+    collection: for-parents
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    collection: contact-us

@@ -1,32 +1,20 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Home
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/CPS 1.png
+      key_highlights:
+        - title: Watch our new corporate video!
+          description: Click here to watch!
+          url: https://www.youtube.com/watch?v=FtZoe5BOFjE
+        - title: Check out the new cps online art gallery 2022!
+          description: Click here to visit!
+          url: https://sites.google.com/moe.edu.sg/cpsonlineartgallery2022/home
+      subtitle: Nurturing pupils who C.A.R.E to succeed
+      title: Corporation Primary School
 ---
-

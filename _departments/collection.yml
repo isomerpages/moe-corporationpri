@@ -1,0 +1,29 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - English/.keep
+      - English/English.md
+      - English/Latest Updates.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - Programme for Active Learning/.keep
+      - Programme for Active Learning/Programme for Active Learning (PAL).md
+      - Programme for Active Learning/S O A R in CPS.md
+      - Programme for Active Learning/Sports and Games.md
+      - Programme for Active Learning/Performing Arts.md
+      - Programme for Active Learning/Visual Arts.md
+      - Programme for Active Learning/Outdoor Education.md
+      - CCA.md
+      - Dance LLP.md
+      - ALP.md
+      - ICT/.keep
+      - ICT/ICT.md
+      - ICT/Cyber Wellness.md
+      - Level Activities.md
+      - Overseas Learning Journeys.md

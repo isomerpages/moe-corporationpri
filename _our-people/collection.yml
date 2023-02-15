@@ -1,0 +1,8 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Our People.md
+      - School Management Committee.md
+      - Teaching Staff.md
+      - Executive and Administrative Staff.md

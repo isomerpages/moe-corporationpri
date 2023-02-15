@@ -1,0 +1,16 @@
+collections:
+  pam:
+    output: true
+    order:
+      - PAM.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Athletics.md
+      - Physical Education/Dance.md
+      - Physical Education/Games and Sports.md
+      - Physical Education/Gymnastics.md
+      - Physical Education/Outdoor Education.md
+      - Physical Education/Physical Health and Fitness.md
+      - Physical Education/Swimming.md
+      - Art.md
+      - Music.md
