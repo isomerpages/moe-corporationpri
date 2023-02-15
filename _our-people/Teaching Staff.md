@@ -44,7 +44,7 @@ Mother Tongue Language Teachers
     <td class="tg-0jqi"><a href="mailto:lau_sze_hui@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Lau Sze Hui</span></a> (Senior Teacher)</td>
   </tr>
   <tr>
-    <td class="tg-0jqi"><a href="mailto:yeo_xinrong_marjorie@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Marjorie Yeo</span></a> (LH CL) </td>
+    <td class="tg-0jqi"><a href="mailto:yeo_xinrong_marjorie@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Marjorie Yeo</span></a> (SH CL) </td>
     <td class="tg-0jqi"><a href="mailto:chew_shouye@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Chew Shouye</span></a> </td>
   </tr>
   <tr>
