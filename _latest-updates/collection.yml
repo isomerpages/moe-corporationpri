@@ -1,5 +1,0 @@
-collections:
-  latest-updates:
-    output: true
-    order:
-      - Updates.md
