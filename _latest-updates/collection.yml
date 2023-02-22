@@ -1,4 +1,5 @@
 collections:
   latest-updates:
     output: true
-    order: []
+    order:
+      - Updates.md
