@@ -3,7 +3,6 @@ title: Parent Support Group
 permalink: /for-parents/parentssupportgroup/
 description: ""
 ---
-
 Parent Support Group
 ====================
 
@@ -40,4 +39,4 @@ Scan the QR code below to fill up the Parent Volunteer Registration Form:
 
 **PSG Exco**  
 
-Please download the latest PSG Exco meeting slides [here](https://corporationpri.moe.edu.sg/qql/slot/u746/For%20Parents/PSG/PSG%20Exco%20Meeting%2020%20April%202021.pdf).
+Please download the latest PSG Exco meeting slides [here](/files/PSG%20Exco%20Meeting%2020%20April%202021.pdf)
