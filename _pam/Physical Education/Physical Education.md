@@ -81,4 +81,4 @@ Students are excited and confident to pick up new skills and knowledge, apply th
 
   
 
-Click on the the learning areas to find out more.
+Click on the learning areas to find out more.
