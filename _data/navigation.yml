@@ -2,7 +2,7 @@ logo: /images/school logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: our people
+  - title: Our people
     collection: our-people
   - title: Departments
     url: /departments/Departments/
