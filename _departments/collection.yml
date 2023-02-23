@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - English.md
       - Departments.md
+      - English.md
       - English1/.keep
       - Mathematics.md
       - Science.md
