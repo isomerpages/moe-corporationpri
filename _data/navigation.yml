@@ -1,9 +1,29 @@
 logo: /images/school logo.png
 links:
-  - title: About Us1
-    collection: about-us
-  - title: Our people1
-    collection: our-people
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: School History
+        url: /about-us/schoolhistory/
+      - title: Vision, Mission, Core Values
+        url: /about-us/visionmissioncorevaluesphilosophy/
+      - title: Crest, Motto, Creed and Song
+        url: /about-us/crestmottocreedsong/
+      - title: School Rules
+        url: /about-us/schoolrules/
+      - title: School Facilities
+        url: /about-us/schoolfacilities/
+      - title: Community Project
+        url: /about-us/communityproject/
+  - title: Our People
+    url: /our-people/
+    sublinks:
+      - title: School Management Committee
+        url: /ourpeople/school-management-committee/
+      - title: Teaching Staff
+        url: /our-people/teachingstaff/
+      - title: Executive and Admin Staff
+        url: /our-people/executiveandadministrativestaff/
   - title: Departments
     url: /departments/Departments/
     sublinks:
@@ -33,34 +53,6 @@ links:
         url: /departments/levelactivities/
       - title: Overseas Learning Journeys
         url: /departments/overseaslearningjourneys/
-  - title: For Parents1
-    collection: for-parents
-  - title: Contact Us1
-    collection: contact-us
-  - title: About Us
-    url: /about-us/
-    sublinks:
-      - title: School History
-        url: /about-us/schoolhistory/
-      - title: Vision, Mission, Core Values
-        url: /about-us/visionmissioncorevaluesphilosophy/
-      - title: Crest, Motto, Creed and Song
-        url: /about-us/crestmottocreedsong/
-      - title: School Rules
-        url: /about-us/schoolrules/
-      - title: School Facilities
-        url: /about-us/schoolfacilities/
-      - title: Community Project
-        url: /about-us/communityproject/
-  - title: Our People
-    url: /our-people/
-    sublinks:
-      - title: School Management Committee
-        url: /ourpeople/school-management-committee/
-      - title: Teaching Staff
-        url: /our-people/teachingstaff/
-      - title: Executive and Admin Staff
-        url: /our-people/executiveandadministrativestaff/
   - title: For Parents
     url: /for-parents/
     sublinks:
@@ -90,3 +82,11 @@ links:
         url: /for-parents/Stakeholders/Stakeholders/
   - title: Contact Us
     url: /contact-us/permalink/
+  - title: About Us1
+    collection: about-us
+  - title: Our people1
+    collection: our-people
+  - title: For Parents1
+    collection: for-parents
+  - title: Contact Us1
+    collection: contact-us
