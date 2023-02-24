@@ -61,8 +61,32 @@ links:
         url: /our-people/teachingstaff/
       - title: Executive and Admin Staff
         url: /our-people/executiveandadministrativestaff/
-  - title: Contact Us
-    url: /contact-us/permalink/
   - title: For Parents
     url: /for-parents/
-    sublinks: []
+    sublinks:
+      - title: Absence during School Term
+        url: /for-parents/absenceduringschoolterm/
+      - title: Academic Grading
+        url: /for-parents/academicgrading/
+      - title: Admission & School Transfer
+        url: /for-parents/admissionandschooltransfer/
+      - title: Counselling Services
+        url: /for-parents/counsellingservices/
+      - title: Financial Assistance
+        url: /for-parents/financialassistance/
+      - title: For Graduating P6 Pupils
+        url: /for-parents/forgraduatingp6pupils/
+      - title: General Information
+        url: /for-parents/generalinformation/
+      - title: Home based Learning
+        url: /for-parents/homebasedlearning/
+      - title: Parent Support Group
+        url: /for-parents/parentssupportgroup/
+      - title: Parenting Programme
+        url: /for-parents/parentingprogramme/
+      - title: School Hours and Break Times
+        url: /for-parents/schoolhoursandbreaktimes/
+      - title: Stakeholders
+        url: /for-parents/Stakeholders/Stakeholders/
+  - title: Contact Us
+    url: /contact-us/permalink/
