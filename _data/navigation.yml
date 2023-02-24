@@ -37,3 +37,16 @@ links:
     collection: for-parents
   - title: Contact Us
     collection: contact-us
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: School History
+        url: /about-us/school-history/
+      - title: Vision, Mission, Core Values
+        url: /about-us/vision
+      - title: Crest, Motto, Creed and Song
+        url: /about-us/crest
+      - title: School Rules
+        url: /about-us/
+      - title: School Facilities
+        url: /about-us/school-facilities/
