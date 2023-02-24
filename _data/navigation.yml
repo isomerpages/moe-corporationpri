@@ -1,8 +1,8 @@
 logo: /images/school logo.png
 links:
-  - title: About Us
+  - title: About Us1
     collection: about-us
-  - title: Our people
+  - title: Our people1
     collection: our-people
   - title: Departments
     url: /departments/Departments/
@@ -33,9 +33,9 @@ links:
         url: /departments/levelactivities/
       - title: Overseas Learning Journeys
         url: /departments/overseaslearningjourneys/
-  - title: For Parents
+  - title: For Parents1
     collection: for-parents
-  - title: Contact Us
+  - title: Contact Us1
     collection: contact-us
   - title: About Us
     url: /about-us/
@@ -52,3 +52,10 @@ links:
         url: /about-us/schoolfacilities/
       - title: Community Project
         url: /about-us/communityproject/
+  - title: Our People
+    url: /our-people/
+    sublinks:
+      - title: School Management Committee
+        url: /ourpeople/school-management-committee/
+      - title: Teaching Staff
+        url: /our-people/teachingstaff/
