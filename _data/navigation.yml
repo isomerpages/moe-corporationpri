@@ -59,3 +59,10 @@ links:
         url: /ourpeople/school-management-committee/
       - title: Teaching Staff
         url: /our-people/teachingstaff/
+      - title: Executive and Admin Staff
+        url: /our-people/executiveandadministrativestaff/
+  - title: Contact Us
+    url: /contact-us/permalink/
+  - title: For Parents
+    url: /for-parents/
+    sublinks: []
