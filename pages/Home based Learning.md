@@ -51,6 +51,8 @@ Home-based Learning Tips:
 
   
 
-1.Introducing _structure_ and _schedule_ at home. Download the guide [here](https://corporationpri-moe-edu-sg-admin.cwp.sg/qql/slot/u746/HBL/Full%20HBL/HBL%20Sharing%201%20-%20Structure%20and%20Schedule.pdf).     
-2.Communication_ ideas and _language building_ activities. Download the guide [here](https://corporationpri.moe.edu.sg/qql/slot/u746/HBL/Full%20HBL/HBL%20Sharing%202%20-%20Language%20and%20Communication.pdf).     
-3.Benefits and importance of _movement_. Download the guide [here](https://corporationpri.moe.edu.sg/qql/slot/u746/HBL/Full%20HBL/HBL%20Sharing%203%20-%20Move%20to%20Learn.pdf).
+1.Introducing _structure_ and _schedule_ at home. Download the guide [here](/files/HBLSharing1.pdf) 
+
+2.Communication_ ideas and _language building_ activities. Download the guide [here](/files/HBLSharing2.pdf) 
+
+3.Benefits and importance of _movement_. Download the guide [here](/files/HBLSharing3.pdf) 
