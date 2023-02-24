@@ -4,9 +4,6 @@ permalink: /pam/Physical-Education/pe/
 description: ""
 third_nav_title: Physical Education
 ---
-
-
-
 Physical Education 
 ===================
 #### <u>Vision and Curriculum</u>
@@ -84,4 +81,4 @@ Students are excited and confident to pick up new skills and knowledge, apply th
 
   
 
-Scroll up and click on the the learning areas to find out more.
+Click on the learning areas to find out more.

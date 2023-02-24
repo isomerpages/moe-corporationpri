@@ -1,8 +1,11 @@
 ---
 title: Departments
-permalink: /departments/Departments/
+permalink: /departments/
 description: ""
 ---
+
+
+
 Departments
 ===========
 

@@ -3,7 +3,6 @@ title: School Facilities
 permalink: /about-us/schoolfacilities/
 description: ""
 ---
-
 School Facilities
 =================
 
@@ -37,7 +36,7 @@ Here are some of the facilities we have:
 **Library**![](/images/Library%203.jpg)
 
 **Basketball Court (Sheltered @ ISH)**
-![](/images/ISH%20Sport%20Hall%20Open%20Court.jpg)
+![](/images/ISH%20Lvl1.jpg)
 
 **Basketball/Volleyball Court (Indoor @ ISH)**
 ![](/images/Indoor%20Sport%20Hall%20Lvl%204%20(2).jpg)
@@ -48,4 +47,8 @@ Here are some of the facilities we have:
 **Eco Garden**
 ![](/images/Eco%20Garden.jpg)
 
-**Eco Pond**![](/images/Eco%20Pond.jpg)
+**Eco Pond**
+![](/images/Eco%20Pond.jpg)
+
+**Canteen**
+![](/images/Canteen.jpg)

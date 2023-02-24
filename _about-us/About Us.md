@@ -1,8 +1,11 @@
 ---
 title: About Us
-permalink: /about-us/About-Us/
+permalink: /about-us/
 description: ""
 ---
+
+
+
 About Us
 ========
 
