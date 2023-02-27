@@ -51,6 +51,7 @@ Having strong PSR helps our students feel more connected to others. This sense o
 
 **Tier 2 Programmes**
 
-PSLs apply their specialized knowledge on PSR by creating a video based on the theme of “Kindness Boomerang”. The video serves to encourage their peers to display and pass on acts of kindness to each other. 
+PSLs apply their specialized knowledge on PSR by creating a video based on the theme of “Kindness Boomerang”. The video serves to encourage their peers to display and pass on acts of kindness to each other.
 
 
+<iframe width="574" height="430" src="https://www.youtube.com/watch?v=vau85L6mQ8U" title="Peer Support Relationship in CPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
