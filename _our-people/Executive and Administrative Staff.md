@@ -3,7 +3,6 @@ title: Executive and Administrative Staff
 permalink: /our-people/executiveandadministrativestaff/
 description: ""
 ---
-
 Executive and Administrative Staff
 ==================================
 
@@ -74,6 +73,10 @@ Executive and Administrative Staff
   </tr>
   <tr>
     <td class="tg-1wig">Mr Muhammad Irsyad Bin Azman</td>
+    <td class="tg-1wig">Desktop Engineer</td>
+  </tr>
+	<tr>
+    <td class="tg-1wig">Mr Faqroul Bin Mohamed Berolding</td>
     <td class="tg-1wig">Desktop Engineer</td>
   </tr>
   <tr>
