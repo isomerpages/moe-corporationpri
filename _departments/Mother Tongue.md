@@ -3,7 +3,6 @@ title: Mother Tongue
 permalink: /departments/mothertongue/
 description: ""
 ---
-
 Mother Tongue
 =============
 
@@ -104,49 +103,46 @@ To nurture our pupils to be culturally savvy, the department will celebrate the 
 
 **Malay Language Curriculum** 
 
-The Malay language curriculum aims to develop pupils as proficient Malay language users who can communicate in a confident and effective way. The curriculum will place greater emphasis on spoken and written interaction skills as well as focus on authentic activities to better develop the pupils’ communication skills. It will also continue to expose pupils to culture and values through various activities.
+The Malay language curriculum aims to develop pupils as proficient Malay language users who can communicate in a confident and effective way. The curriculum places greater emphasis on spoken and written interaction skills as well as focus on authentic activities to better develop the pupils’ communication skills. It also continues to expose pupils to culture and values through various activities.
 
-There will be a greater use of information and communication technology (ICT) to enhance the teaching and learning of ML. ICT resources such as videos, animations and digital interactive games will be utilised to engage the pupils to learn ML in a fun and purposeful way.
+There is a greater use of information and communication technology (ICT) to enhance the teaching and learning of ML. ICT resources such as videos, animations and digital interactive games are utilised to engage the pupils to learn ML in a fun and purposeful way.
 
 Overview Diagram of Focus Area (Language Skills)
 ![](/images/Malay%20Framework.png)
 **Malay Language Programmes**
 
-A variety of holistic programmes were planned to engage pupils in active learning through interaction, investigation, explanation and games. These programmes are essential towards achieving the vision of making every child an effective and confident user of Malay language who appreciates Malay culture.
+A variety of holistic programmes were planned to engage pupils in active learning through interactions, investigations, explanations and games. These programmes are essential towards achieving the vision of making every child an effective and confident user of Malay language who appreciates Malay culture.
 
   
 
 **1. Writing Programme**
 
-All Primary 3 to Primary 5 pupils will be involved in structured writing lessons to enhance their writing skills and making them into creative writers. The lessons are exclusive to each level and is progressive in nature. 
+All Primary 3 to Primary 5 pupils are involved in structured writing lessons to enhance their writing skills and making them into creative writers. The lessons are exclusive to each level and are progressive in nature. 
 
 **2. Oral Literacy Programme**
 
-All pupils will be involved in structured oral lessons focusing on conversational skills. This is in line with the curriculum’s aim of developing pupils as proficient Malay language users who can communicate in a confident and effective way. 
+All pupils are involved in structured oral lessons focusing on conversational skills. This is in line with the curriculum’s aim of developing pupils to be proficient Malay language users who can communicate in a confident and effective way. 
 
 **3. Basic Literacy Programme**
 
-This programme aims to provide support to selected Primary 1 and Primary 2 pupils identified through the Malay language literacy and competency test. Pupils in this programme will undergo various activities that will enhance their literacy skills so as to improve the overall learning of the Malay language.
+This programme aims to provide support to selected Primary 1 and Primary 2 pupils identified through the Malay language literacy and competency test. Pupils in this programme will undergo various activities that will enhance their literacy skills to improve the overall learning of the Malay language.
 
 **4. Culture Appreciation Workshops**
 
-All Primary 2 to Primary 5 pupils will learn 1 aspect of the Malay culture by participating in a cultural enrichment workshop. This activity aims to extend and enrich the pupils' educational experience through cultural immersion. Pupils go through the following cultural workshops according to their levels:
+All Primary 2 to Primary 5 pupils will learn 1 aspect of the Malay culture by participating in a cultural enrichment workshop. This activity aims to extend and enrich the pupils’ educational experience through cultural immersion. 
 
-Primary 2 - Kompang
+**5. Music and Movement Workshop**
 
-Primary 3 - Silat 
+All Primary 1 pupils will participate in a Music and Movement workshop which will culminate in a performance showcase for parents during the MTL Fortnight period. This activity aims to build pupils’ confidence in using the Malay language.
 
-Primary 4 - Cultural Camp (to learn 2 aspects of culture; crafts and performing arts)
+**6. Young Journalism Programme** 
 
-Primary 5 - Gamelan
+All P4 Higher Malay language pupils and selected P5 pupils will be given the opportunity to discover the world of journalism; sourcing out interesting news, getting relevant and suitable information and reporting it. Once equipped with the necessary skills, these pupils will be tasked to cover school events or Malay language programmes.   
 
-**5. Speech and Drama Workshop**
+**7. MTL Fortnight Learning Fest (ML)** 
 
-All Primary 1 pupils will participate in a Speech & Drama workshop which will culminate in a performance showcase for parents during the MTL Fortnight period. This activity aims to build pupils' confidence in using the Malay language.
+All Primary 1 to Primary 6 pupils will be involved in various cultural and language activities during the MTL Fortnight period in Term 3. Besides enhancing their language competency, these activities aim to instil in pupils a love of learning for the Malay language and promote appreciation of their culture.
 
-**6. MTL Fortnight Learning Fest (ML)** 
-
-All Primary 1 to Primary 6 pupils will be involved in various cultural and language activities during the MTL Fortnight period in Term 3. These activities will consist of singing, storytelling and talent showcase competitions as well as playing of traditional games. All the activities aim to instil a love of learning the Malay language in the pupils and to enhance their language competency in addition to promoting the appreciation of their culture.
 
 ### **Tamil Department**
 **Tamil Language Curriculum**
