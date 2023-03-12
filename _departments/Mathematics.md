@@ -136,10 +136,9 @@ P4 to P6 pupils who display an aptitude and potential for Mathematics are invite
 
 MOE Math syllabus: 
 
-2013 Mathematics Syllabus (Primary 1 to 6)
+2013 Mathematics Syllabus (Primary 1 to 6):
 [https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx)
 
 
-2021 Mathematics Syllabus (Primary 1 to 3), Implementation starting from 2021 Primary 1 Cohort
+2021 Mathematics Syllabus (Primary 1 to 3), Implementation starting from 2021 Primary 1 Cohort: 
 [https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx](https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx)
-
