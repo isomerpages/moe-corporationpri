@@ -143,4 +143,3 @@ MOE Math syllabus:
 2021 Mathematics Syllabus (Primary 1 to 3), Implementation starting from 2021 Primary 1 Cohort
 [https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx](https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx)
 
-
