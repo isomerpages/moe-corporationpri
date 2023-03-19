@@ -126,7 +126,7 @@ P4 to P6 pupils who display an aptitude and potential for Mathematics are invite
 * Link to real-life experiences at home (eg. discount coupons, newspapers, advertisements etc)
 * Monitor your child’s learning process at home 
 * Use Koobits for self-study
-* Revise topics from P3 to P6 starting from Term 1 (Math is spiral in nature and therefore there is a need to have a strong foundation.)
+* Revise topics from previous years (Math is spiral in nature and therefore there is a need to have a strong foundation.)
 * Discuss with Math Teacher on your child’s progress
 * Encourage your child to have a Growth Mindset (e.g Asking for help is never something to be afraid of, The Power of Yet, Overcoming the fear of failure)
 
