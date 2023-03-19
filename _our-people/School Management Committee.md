@@ -6,7 +6,7 @@ description: ""
 School Management Committee
 ===========================
 
-#### Principal and Vice-Principals
+### Principal and Vice-Principals
 
 |  	|  	|
 |:---:	|---	|
