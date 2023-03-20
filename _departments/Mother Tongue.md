@@ -48,6 +48,7 @@ Pupils are encouraged to explore, ask questions, and share ideas which will fost
 Pupils will benefit from the teaching approach based on these guiding principles:
 ![](/images/DEPARTMENT_MT_CL_TEACHING%20APPROACH_guiding%20principles.png)
 
+
 **Chinese Language Programmes**  
 
 **1. Structured Reading Programme (SRP)**
