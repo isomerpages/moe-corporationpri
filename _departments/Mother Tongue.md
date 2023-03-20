@@ -32,7 +32,7 @@ No two students are alike. Today, as more Chinese students entering Primary 1 sp
 
   
 
-The CL curriculum makes CL learning an enjoyable experience and encourages children to learn the language to the highest level. The school hopes to help your child develop an abiding interest in learning CL, so that he or she will continue to use it as a living language after they leave school.
+The CL curriculum makes CL learning an enjoyable experience and encourages children to learn the language to best of their ability. The school hopes to help your child develop an abiding interest in learning CL, so that he or she will continue to use it as a living language after they leave school.
 
 
 **Teaching Approach**
@@ -47,57 +47,75 @@ Pupils are encouraged to explore, ask questions, and share ideas which will fost
 
 Pupils will benefit from the teaching approach based on these guiding principles:
 ![](/images/CL%20Framework.png)
+
 **Chinese Language Programmes**  
 
 **1. Structured Reading Programme (SRP)**
 
-This is a P1-P5 school-based curriculum aimed at promoting a reading culture among the pupils. Under this programme, P1-5 pupils will read about a total of 50-60 age-appropriate Readers throughout their years in the school. To promote the love for reading among our young learners at P1 & P2, curriculum time is set aside for CL teachers to guide pupils in the reading and appreciation of stories during their reading period every week. After reading, pupils will be engaged with activities such as bookmark designing, reading aloud and role playing to deepen their learning. We want our pupils to enjoy reading form young.
+This is a P1-P5 school-based curriculum aimed at promoting the love for reading among the pupils. P1-5 pupils will read a total of 50-60 age-appropriate Readers throughout their years in the school. CL teachers will set aside time during curriculum to guide pupils in the reading and appreciation of stories. To promote the love for reading among our young learners at P1 & P2, the use of the e-reading portal (Dudutown) was implemented in 2022. The young learners are more motivated to read the e-books and watch the videos using the platform. Under the Reading Passport Programme, parents are also strongly encouraged to read together with their P1 & P2 children and complete the activities such as bookmark making and reflection log. Through all these activities, we hope to cultivate the love for reading among our pupils!
 
   
 
 **2. Cultural Performance Exposure Scheme (CPES)**
 
-As one of the initiatives by the Committee to promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) aims to expose pupils to Chinese Language related cultural performance to enhance their learning. Since 2006, our P2-P4 pupils have the opportunity to watch and appreciate drama performances in the theatres. The following are some of the performances that our pupils had watched over the years: The Three Billy Goat Gruff （三只山羊）, Journey to the West (西游记之火焰山), Al （爱丽丝梦游仙境）, Ugly Ducking（丑小鸭）.
+As one of the initiatives by the Committee to promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) aims to expose pupils to Chinese Language related cultural performance to enhance their learning. Since 2006, our P2-P5 pupils have watched and appreciated drama performances in the theatres. The following are some of the performances that our pupils had watched over the years: The Three Billy Goat Gruff （三只山羊）, Journey to the West (西游记之火焰山), Al （爱丽丝梦游仙境）, Ugly Ducking（丑小鸭）.
 
   
 
 **3. MTL Fortnight Learning Fest (CL)**
-
-To create a conducive environment to promote MTL usage and learning outside MTL classrooms, our school organizes Mother Tongue Language Fortnights and language & cultural camps annually. The MTL Fortnight activities provide platforms for students to actively learn MTL and the associated culture so as to experience MTL as ‘living languages’.
-
+To create a conducive environment to promote MTL usage and learning outside classrooms, our school organizes Mother Tongue Language Fortnight Learning Fest annually. The MTL Fortnight activities provide platforms for students to actively learn MTL and the associated cultures so as to experience MTL as ‘living languages.
 ![](/images/CL%20Programmes.png)
 
-**4. Cultural Enrichment Programme** 
+**4.Cultural Appreciation Programme**
 
-Under our Cultural Enrichment Programme, pupils have the opportunity to experience the different types of cultural workshops within their six years of education in school. The cultural workshops include: Chinese Painting, Chinese Martials, Paper Cutting, Making of Chinese Fan, Bamboo Book Making etc. 
+Under our Cultural Appreciation Programme, pupils experience the different types of cultural workshops within their six years of education in school. The cultural workshops include activities such as, Chinese Painting, Dough Modelling, Paper Cutting, Making of Chinese Fan and Bamboo Book Making.
 
   
 
-**5. Language Day Camp** 
+**5. Cultural Camp** 
 
-Every September, our P4 pupils will be attending the annual language day camp. A variety of language and cultural activities will be organized to provide them the opportunity to learn through play and build up their confidence in mastering the Chinese Language.
+Every year, our P4 pupils attend the annual language & cultural day camp. A variety of language and cultural activities are organized to provide them with the opportunities to learn through play and build up their confidence in mastering the Chinese Language.
 
   
 
 **6. CL Games Day**
 
-During MTL Fortnight, all P1-P6 pupils will have the chance to learn the language and work with their peers as they challenge themselves to complete the I-pad learning trail. Language quizzes and games are set at the various learning stations to make learning fun and meaningful. 
+During MTL Fortnight Learning Fest, all P1-P6 pupils will have the chance to learn on the move. They will work with their peers as they challenge themselves to complete the learning trail using the iPads. Language quizzes and games are set at the various learning stations to make learning fun and meaningful. 
 
-**7. READable Programme** 
+**7. grOW Programme (Growth in Oracy and Word Recognition Programme)** 
 
-With the realisation that word recognition and retention form an integral part of the learning of Chinese Language, we run a support programme for selected P2 pupils who require more support. Suitable teaching strategies will be adopted and pupils will be revising the Chinese Characters learnt through games and pictorial flash cards etc. 
+With the realisation that word recognition and retention form an integral part of the learning of Chinese Language, we run a support programme for selected P2 pupils who require more support. Suitable teaching strategies will be adopted, and pupils will be revising the Chinese Characters learnt through games and pictorial flash cards.  
 
 **8. Writing Workshop for Beginning Writers**
 
-Writing has always been challenging for our young writers. This in-house workshop provides the extra guidance in developing the essential writing skills in our P3 pupils. 
+Writing has always been challenging for our young writers. This in-house workshop provides the extra guidance in developing the essential writing skills in our P3 pupils. 
 
-**9. Oracy Enrichment Programme (P5)**
+**9. LEAP Programme (Language Exploration and Appreciation Programme)**
 
-Effective communication is an important 21st century skill. During the short term course, P5 pupils are engaged in activities that aim to build up their language skills to enable them to communicate clearly, expressively and effectively. At the end of the course, the pupils will showcase their learning through news presentation or debates.
+To cater to the learning needs of the higher progress pupils to enrich their learning experiences, a series of stretch programmes are curated and conducted for them: P3 & P4 Comic Creation, P4&P5 Young Journalist and P5 Literature Programme. The objectives of these programmes are as follows: 
 
-**10. Festival Celebrations**
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Develop students who are creative writers.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Develop students who are critical thinkers and confident speakers.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Expose students to different text genres and develop their interest in literature.</p>
 
-To nurture our pupils to be culturally savvy, the department will celebrate the various festivals (CNY, Hari Raya Puasa, Deepavali) every year. The Chinese department celebrates traditional festivals such as Chinese New Year and Mid-Autumn Festival. Through the celebrations, pupils will understand more about the festivals and learn to be appreciative towards other cultures which will bring about racial integration.
+
+**10. ICT Enrichment Programme (CL)**
+
+To develop future ready digital learners with the skills to navigate, curate, and collaborate using technology, the following ICT programmes are conducted for the various levels:
+
+
+| **Level** | **Programme** |
+| -------- | -------- |
+| P1&2     | Reading & Typing Learning Packages (SLS)     | 
+| P3     | Creative Drawing & Writing     | 
+| P4     | P4 Mooncake Design     | 
+| P5     | Collaborative E-Oral Video Production     | 
+
+**11. Festival Celebrations**
+
+To nurture our pupils to be culturally savvy, the department will celebrate the various festivals (CNY, Hari Raya Puasa, Deepavali) every year. The Chinese department celebrates traditional festivals such as Chinese New Year and Mid-Autumn Festival. Through these celebrations, pupils will understand more about the festivals and learn to be appreciative towards other cultures which will bring about racial integration.
+
+
 
 ### **Malay Department**
 
