@@ -64,7 +64,7 @@ As one of the initiatives by the Committee to promote Chinese Language Learning 
   
 
 **3. MTL Fortnight Learning Fest (CL)**
-To create a conducive environment to promote MTL usage and learning outside classrooms, our school organizes Mother Tongue Language Fortnight Learning Fest annually. The MTL Fortnight activities provide platforms for students to actively learn MTL and the associated cultures so as to experience MTL as ‘living languages.
+To create a conducive environment to promote MTL usage and learning outside classrooms, our school organizes Mother Tongue Language Fortnight Learning Fest annually. The MTL Fortnight activities provide platforms for students to actively learn MTL and the associated cultures so as to experience MTL as 'living languages'.
 ![](/images/DEPARTMENT_MT_CL_MTL%20Fortnight%20Learning%20Fest%20(CL).png)
 
 **4.Cultural Appreciation Programme**
