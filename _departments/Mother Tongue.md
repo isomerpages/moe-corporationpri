@@ -46,7 +46,7 @@ The Chinese Department works towards making Chinese Language learning enjoyable 
 Pupils are encouraged to explore, ask questions, and share ideas which will foster their curiosity and ownership in learning. Pupils will also develop the critical thinking and communication skills through this form of active learning. Ultimately, we want our pupils to develop the love for exploration and learning.
 
 Pupils will benefit from the teaching approach based on these guiding principles:
-![](/images/CL%20Framework.png)
+![](/images/DEPARTMENT_MT_CL_TEACHING%20APPROACH_guiding%20principles.png)
 
 **Chinese Language Programmes**  
 
@@ -64,7 +64,7 @@ As one of the initiatives by the Committee to promote Chinese Language Learning 
 
 **3. MTL Fortnight Learning Fest (CL)**
 To create a conducive environment to promote MTL usage and learning outside classrooms, our school organizes Mother Tongue Language Fortnight Learning Fest annually. The MTL Fortnight activities provide platforms for students to actively learn MTL and the associated cultures so as to experience MTL as ‘living languages.
-![](/images/CL%20Programmes.png)
+![](/images/DEPARTMENT_MT_CL_MTL%20Fortnight%20Learning%20Fest%20(CL).png)
 
 **4.Cultural Appreciation Programme**
 
