@@ -29,96 +29,22 @@ School Rules
 <table border="1" cellspacing="0" cellpadding="4" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 972px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="103" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Uniform</p></td><td width="487" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Pupils are to wear the prescribed school uniform and modification to the school uniform is not allowed.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Every pupil should try to have at least two sets of uniforms and PE attire.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">School uniforms should be well ironed, clean and free from any unpleasant odour.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">The name tag should be sewn on the left side of the uniform, 2cm above the school badge. Pupils must wear their name tags at all times.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Pupils should button up the buttons on the shirt / blouse except the one nearest the collar.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Girls’ culottes should not be shortened.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">PE T-shirt should be tucked in at all times.</p></li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="103" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Appearance</p></td><td width="487" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	A neat and clean appearance is expected of all pupils, including when travelling to and from school.
 </p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 10px;">• Nails should be short and clean. No nail varnish is allowed. </p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 25px;">•	No dyeing or highlighting of hair is allowed. </p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></p><h3 style="margin: 0px; outline: 0px; padding: 0px; min-height: 1em; font-family: Raleway, sans-serif; color: rgb(34, 34, 34); font-size: 18px; font-weight: 400;">For boys:</h3><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Boys are to keep their hair short and the fringe should not cover the eyebrows. </p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 10px;">• There should be no sideburns. </p></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 0px;">•	Avoid using hair gel / spray.</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></p><h3 style="margin: 0px; outline: 0px; padding: 0px; min-height: 1em; font-family: Raleway, sans-serif; color: rgb(34, 34, 34); font-size: 18px; font-weight: 400;">For girls:</h3><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Girls who keep long hair (shoulder length or longer) should have their hair tied up neatly/plaited and combed back from the face. </p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	The fringe should not cover the eyebrows and must be secured with a clip or a band. </p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Only plain black clips, ribbons or hair bands may be used.</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="103" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Accessories</p></td><td width="487" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Watches should be of a simple design. Avoid big, chunky and colourful pieces.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Only girls are allowed to wear earrings.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Only one plain and simple silver or gold ear stud should be worn on each ear.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">No other accessories or jewellery are allowed.</p></li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="103" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Shoes and Socks</p></td><td width="487" valign="top" style="margin: 0px; outline: 0px; padding: 7px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Pupils are to wear black shoes and black socks.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Shoes and socks should be clean.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Branded shoes should not be worn and no sport shoes are allowed unless for special reasons.</p></li><li style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">Socks should be above the ankles.</p></li></ul></td></tr></tbody></table>
 
-**Proper Behaviour**
-
-Proper Classroom Behaviour
-
-*   Stand and greet teacher who enters the classroom.
-    
-*   Leave the classroom only after the teacher has given you permission.
-    
-*   Raise your hand and speak only when the teacher has given you permission.
-    
-*   Keep the classroom clean and letter free at all times.
-    
-*   Behave yourself and keep quiet when there is no teacher in the classroom. You can read a book or revise your work.
-    
-*   Be diligent and complete all written work assigned by the teachers on time.
-    
-*   Speak politely to your classmates and keep the noise level low during group discussions.
-    
-*   Be attentive during lessons.
-    
-*   Respect all teachers and classmates.
-    
-*   Respect other people’s property.
-    
-    
 
   
 
-* * *
-
-**Use of Room and facilities in the School**
-
-*   Do not handle any equipment unless you have been trained to do so.
-*   Be considerate and handle all equipment with care.
-*   Report any breakage or damage.
-*   Place everything back in its proper place.
-*   Arrange the furniture neatly before leaving the room.
-*   Switch off all lights and fans before leaving the room.
-*   Do not clog up the sinks in the Math, Lifeskills, Science and Arts Rooms. Clear away all unwanted things and keep the rooms clean.
-
-  
-
-* * *
-
-  
-
-**Taking Care of the School Environment**
+**Items Not to be Brought to School**
 -----------------------------------------
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Electronic devices such as tablets or video game consoles.</p>
 
-*   Keep the school clean and green.
-    
-*   Allow the plants to grow undisturbed.
-    
-*   Keep off the grass except where PE is carried out.
-    
-*   Keep your classrooms and areas outside the classrooms clean.
-    
-*   Pick up any litter you see.
-    
-*   Keep the area immediately outside the school clean as well.
-    
-*   Be considerate and show care when using the school facilities.
-    
-*   Wash your hands before eating.
-    
-*   Keep the floor dry.
-    
-*   Eat your food only in the canteen.
-    
-*   Keep the canteen tables and benches clean while eating. Avoid spilling any food or drink.
-    
-*   Queue for your food in an orderly manner.
-    
-*   Walk, do not run.
-    
-*   Return used utensils to the correct stalls.
-    
-*   Throw litter into the dustbins.
-    
-*   Speak softly.
-    
-*   Flush the toilets after use and wash your hands with soap.
-    
-*   Throw litter into the wastepaper baskets and bins.
-    
-*   Keep the wash basins and toilet bowls clean.
-    
-*   Keep the floor clean and dry.
-    
-*   Inform your teacher of any leakage or damage.
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">
+•	Large amounts of money or expensive items.
+</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Chewing gum
+</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Sharp / dangerous objects
+</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Toys, card games or any other items that may disrupt the learning process
+</p>
     
 
   
@@ -127,32 +53,49 @@ Proper Classroom Behaviour
 
   
 
-**Proper Behaviour in the Canteen**
+**Handphones and Smartwatches**
 -----------------------------------
 
-*   Wash your hands before eating.
-*   Keep the floor dry.
-*   Eat your food only in the canteen.
-*   Keep the canteen tables and benches clean while eating. Avoid spilling any food or drink.
-*   Queue for your food in an orderly manner.
-*   Walk, do not run.
-*   Return used utensils to the correct stalls.
-*   Throw litter into the dustbins.
-*   Speak softly.
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Pupils are strongly discouraged from bringing their handphones or wearing smartwatches to school.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	If there is a real need to do so, the handphone MUST be switched off and kept in the bag during curriculum hours.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	<strong>Handphones should be used only for contacting parents. </strong>Pupils are not allowed to use their handphones for other purposes (e.g. playing games, listening to music, etc.), even while waiting for their parents to pick them up. </p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	<strong>Smartwatches should be used only for telling time or contacting parents. </strong>HPupils are not allowed to use their smartwatches for other purposes.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	When contacting parents, pupils can use their handphones or smartwatches only at the area outside the dental clinic.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Handphones and smartwatches are not allowed in examination venues. These devices MUST be kept in the bag during examinations.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Pupils need to take responsibility for their personal belongings. The school will not be responsible for any damage to or loss of handphones or smartwatches.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Handphones and smartwatches, if used inappropriately, will be confiscated and returned only to the parents.</p>
+
 
   
 
 * * *
 
-**Good Toilet Habits**
+**Morning Reporting Time**
+-------------------------------------
 
-*   Flush the toilets after use and wash your hands with soap.
-*   Throw litter into the wastepaper baskets and bins.
-*   Keep the wash basins and toilet bowls clean.
-*   Keep the floor clean and dry.
-*   Inform your teacher of any leakage or damage.
+Morning activities are planned for pupils from 7.30 am to 7.45 am. They include fitness activities, prize-giving, presentations, briefings, and attire checks, to name a few. As such, pupils are expected to be at the assembly venue from 7.30 am every morning.
+
+Should a pupil need to eat his / her breakfast in school, they may do so before 7.25 am. If a pupil reaches school after 7.25 am (Mon – Thu), they may still buy their breakfast from the School Canteen to be packed and consumed during Snack Time, and should promptly make their way to the assembly venue after buying their food.
+
+All pupils are required to be present when the National Anthem is sung and the National Pledge is taken. As such, pupils will not be allowed to buy food from 7.40 am (Mon – Thu) or 7.25 am (Fri). All pupils should also be in school no later than 7.40 am (Mon – Thu) or 7.25 am (Fri) in order to reach the assembly venue by 7.45 am (Mon – Thu) or 7.30 am (Fri).
+
+Parents should remind their children about the importance of punctuality, and assist in planning his / her travel time to take into consideration possible delays such as traffic jams. Pupils will receive warning letters if they are persistently late after several reminders are given.
+
 
   
+
+* * *
+
+  
+
+**Illness and Absence from School**
+-------------------------------------
+
+Pupils must attend school regularly and punctually so as not to miss any lesson and be at a disadvantage. However, if a pupil is ill or has a flu / fever / contagious or infectious disease, please inform the form teachers and do not send him / her to school. Any absence from school must be covered by a doctor’s medical certificate (MC) or letter* from the parent / guardian. Parents may submit MCs and letters either in hardcopy or through sending a message / photo.  When a pupil falls ill while in school, only the parent / guardian will be allowed to take him / her home.
+
+On the day of a pupil’s absence, the form teacher will contact the parent to check on the pupil. If a pupil is absent frequently, the form teacher or other school personnel may conduct a home visit. Should there be no improvement in the pupil’s attendance, his / her parents will be requested to meet the principal for a discussion.
+
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; "><font size="-1">*The number of letters accepted will be limited to 5 per semester, and each letter should cover no more than a maximum of 3 days. If a pupil exceeds the accepted number of letters per semester, subsequent absences will be taken as invalid absences, which will affect his / her conduct grade.</font></p>
 
 * * *
 
@@ -160,31 +103,22 @@ Proper Classroom Behaviour
 
 **Policy On The Use Of The Internet**
 -------------------------------------
+Corporation Primary School is well equipped with devices such as computers and iPads in the computer laboratories. Devices are used as a tool in teaching and learning with the aim to facilitate learning through the use of information technology.
 
-Corporation Primary School is well equipped with computers in the computer laboratories. Computers are used as a tool in teaching and learning with the aim to facilitate learning through the use of information technology.
-
-The Internet is an extremely rich resource both for learning and for recreation. We encourage pupils to make effective use of the rich information and resources available on the Internet both for study and for recreation. We also encourage pupils to develop the appropriate skills and understanding that will enable them to use these resources well and safely, as well as the ability to analyse and evaluate the resources they find. These skills will be fundamental in the society our pupils will be entering. Pupils are encouraged to make use of both the world wide web and email.
-
-To prevent children having access to any materials on the Internet which may be illegal, defamatory, inaccurate, obscene or offensive, the school’s internet access will only be permitted whilst they are supervised by the teachers or IT trainers.
-
-The school has built and maintained a site on the world wide web. Pupils whose work or images appear on the school’s website will be identified only by the first names. Should any parent or guardian particularly wish their child’s name or photograph not to appear on the school’s website, their wish will be respected.
+The Internet is an extremely rich resource both for learning and for interaction. We encourage pupils to make effective use of the rich information and resources available on the Internet both for study and for interaction. We also encourage pupils to develop the appropriate skills and understanding that will enable them to use these resources well and safely, as well as the ability to analyse and evaluate the resources they find. These new media literacy skills will be fundamental in the society our pupils will be entering. 
 
 Children using the school’s computing facilities will be expected to comply with the following rules. Failure to abide by the rules may result in a temporary or permanent ban on the pupil’s use of the facilities.
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will not play games during lessons unless instructed otherwise by my teacher for teaching and learning purposes.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will not surf the Internet without guidance from my teacher during lessons.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will keep my password a secret and not share it with anyone.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will not share my personal information (e.g. address, phone number, pictures) with anyone online.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will obey the terms of use of social media platforms use (e.g. age restrictions) and I will not have accounts on any social media platforms.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will take care to check for reliability and accuracy of information that I access and note that the content of some websites may not be correct or truthful.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will not download, copy or share videos, music, pictures or other people’s work without permission.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will report any online encounters with strangers to a trusted adult immediately.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will not harm, bully or say unkind words to others.</p>
+<p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; ">•	I will not take and post a picture or video of others without their permission.</p>
 
-  
+The school has built and maintained this website on the world wide web. Pupils whose work or images appear on the school’s website will be identified only by their first names. Should any parent or guardian particularly wish their child’s name or photograph not to appear on the school’s website, they may email the school principal to make that request.
 
-*   I will only use the Internet when I am being supervised by a teacher / IT trainer.
-    
-*   I will not email or display offensive messages or pictures.
-    
-*   I will not send emails or make entries on social networks using obscene language.
-    
-*   I will not send emails or make entries on social networks which annoy, insult or attack other people.
-    
-*   I will not do anything that might cause damage to computers or data stored on computers.
-    
-*   I will respect the copyright of other people’s work and will not copy or download anything that belongs to someone else without their permission.
-    
-*   I will respect other people’s work and not use people’s passwords or interfere with their work or files.
-    
-*   I will not deliberately waste limited resources.
+
