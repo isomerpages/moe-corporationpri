@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements.md
       - About Us.md
       - School History.md
       - Vision, Mission, Core Values, Philosophy.md
@@ -10,3 +9,4 @@ collections:
       - School Rules.md
       - School Facilities.md
       - Community Project.md
+      - Our Achievements.md
