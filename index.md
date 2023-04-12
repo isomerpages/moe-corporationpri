@@ -12,7 +12,7 @@ sections:
         - title: Watch our new corporate video!
           description: Click here to watch!
           url: https://www.youtube.com/watch?v=FtZoe5BOFjE
-        - title: Our Achievements
+        - title: Our Achievements!
           description: Click here to view!
           url: /about-us/ourachievements/
         - title: Check out the new cps online art gallery 2022!
