@@ -19,7 +19,7 @@ The school ensures students exhibit adequate level of self-directed and collabor
 
   
 
-In 2022, the use of the [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login), Baseline ICT Standards New Media Literacies and Cyber Wellness are our main focus in the use of ICT in teaching and learning.
+In 2023, the use of the [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login), Baseline ICT Standards New Media Literacies and Cyber Wellness are our main focus in the use of ICT in teaching and learning.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eKIHRVWxYPI" title="What is Student Learning Space?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
