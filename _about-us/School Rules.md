@@ -20,6 +20,7 @@ School Rules
 *   Pupils must abide by procedures detailed by the school. The procedures help the school to maintain a safe and conducive environment for learning and growing to take place.
 *   Pupils must abide by the rules and regulations detailed under Proper Behaviour in their pupil handbook.
 
+<p></p>
 
 ***
 
