@@ -3,8 +3,7 @@ title: School Rules
 permalink: /about-us/schoolrules/
 description: ""
 ---
-School Rules
-============
+
 
 School Rules
 ------------
@@ -22,6 +21,7 @@ School Rules
 *   Pupils should practise the 3 Rs – Reuse, Reduce and Recycle to help save our environment.
 *   Pupils must abide by procedures detailed by the school. The procedures help the school to maintain a safe and conducive environment for learning and growing to take place.
 *   Pupils must abide by the rules and regulations detailed under Proper Behaviour in their pupil handbook.
+* * *
 
 Proper Attire
 ------------
