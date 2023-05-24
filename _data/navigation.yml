@@ -30,7 +30,7 @@ links:
     url: /departments/
     sublinks:
       - title: English
-        url: /departments/English/english/
+        url: /departments/english/
       - title: Mathematics
         url: /departments/mathematics/
       - title: Science
