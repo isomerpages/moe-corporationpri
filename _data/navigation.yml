@@ -4,11 +4,11 @@ links:
     url: /school-information/
     sublinks:
       - title: School History
-        url: /about-us/schoolhistory/
+        url: /school-information/schoolhistory/
       - title: Vision, Mission, Core Values
-        url: /about-us/visionmissioncorevaluesphilosophy/
+        url: /school-information/visionmissioncorevaluesphilosophy/
       - title: Crest, Motto, Creed and Song
-        url: /about-us/crestmottocreedsong/
+        url: /school-information/crestmottocreedsong/
       - title: School Rules
         url: /about-us/schoolrules/
       - title: School Facilities
