@@ -1,7 +1,7 @@
 logo: /images/school logo.png
 links:
-  - title: About Us
-    url: /about-us/
+  - title: School Information
+    url: /school-information/
     sublinks:
       - title: School History
         url: /about-us/schoolhistory/
