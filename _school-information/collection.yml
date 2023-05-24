@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  school-information:
     output: true
     order:
       - About Us.md
