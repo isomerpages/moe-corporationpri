@@ -3,7 +3,7 @@ title: School Information
 permalink: /school-information/
 description: ""
 ---
-About Us
+School Information
 ========
 
 <img src="/images/CPS%20Formation.jpeg" style="width:55%">
