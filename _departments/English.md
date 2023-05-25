@@ -1,10 +1,8 @@
 ---
 title: English
-permalink: /departments/English/english/
+permalink: /departments/english/
 description: ""
 ---
-
-
 English
 =======
 **Vision:**
@@ -27,7 +25,7 @@ To develop confident English Language users who have a strong foundation in the 
 
 Reading Programmes at CPS promote reading with a clear and meaningful purpose to help the CPS pupil gain more knowledge and information.
 
-The programmes will monitor the CPS pupil’s growth and development, enable them to discern information accurately and empower them to be a Confident Language User and Active Contributor and Speaker as aligned with the 21st century skillset.
+The programmes will monitor the CPS pupil’s growth and development, enable them to discern information accurately and empower them to be a Confident Language User and Active Contributor and Speaker as aligned with the 21st&nbsp;century skillset.
 
 <img src="/images/EL Fiesta 2.jpg" style="width:60%">
 
@@ -47,9 +45,9 @@ The programme empowers the CPS pupil to keep abreast with current affairs using 
 
 **STELLAR Programme (Primary 1 to Primary 6)**
 
-The school’s English Language curriculum is based on the STELLAR programme. STELLAR, which stands for **ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading, aims to strengthen pupils’ language and reading skills. The programme uses research-based teaching strategies and age-appropriate materials to engage pupils as they learn to effectively use the English Language. The teaching approaches and resources are designed to deliver the outcomes of English Language Syllabus 2010. 
+The school’s English Language curriculum is based on the STELLAR programme. STELLAR, which stands for&nbsp;**ST**rategies for&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning&nbsp;**A**nd&nbsp;**R**eading, aims to strengthen pupils’ language and reading skills. The programme uses research-based teaching strategies and age-appropriate materials to engage pupils as they learn to effectively use the English Language. The teaching approaches and resources are designed to deliver the outcomes of English Language Syllabus 2010.&nbsp;
 
-For more information on STELLAR and Parent Resources on STELLAR, please click [here](http://www.stellarliteracy.sg/). 
+For more information on STELLAR and Parent Resources on STELLAR, please click&nbsp;[here](http://www.stellarliteracy.sg/).&nbsp;
 
 
   
@@ -63,7 +61,7 @@ To nurture the joy of learning and in tandem with the school’s total curriculu
 ![](/images/NSCC.jpg)
 **Supportive Learning Environment**
 
-To provide reading pleasure for English, besides the Media Resource Library, the book café provides a conducive and inviting reading environment for our CPS pupils to immerse into a wide range of texts.
+To provide reading pleasure for English,&nbsp;besides the Media Resource Library, the book café provides a conducive and inviting reading environment for our CPS pupils to immerse into a wide range of texts.
  
  **Celebration of Success**  
 

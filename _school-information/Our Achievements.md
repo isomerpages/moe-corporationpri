@@ -1,6 +1,6 @@
 ---
 title: Our Achievements
-permalink: /about-us/ourachievements/
+permalink: /school-information/ourachievements/
 description: ""
 ---
 ### OUR SCHOOLS, OUR STORIES 2022

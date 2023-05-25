@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /about-us/schoolhistory/
+permalink: /school-information/schoolhistory/
 description: ""
 ---
 School History
@@ -10,7 +10,7 @@ Corporation Primary School was established in 1975. It was officially opened on 
 
   
 
-The school celebrated the official opening of its new campus on 8 July 2003. The new campus was officially opened by Dr Amy Khor, Member of Parliament for Hong Kah GRC. On 12 September 2008, the school’s heritage corner was declared opened. The special hub is intended to help our pupils and teachers understand and appreciate the school’s past history, and know it has impacted on the present and future. The school celebrated its 35th anniversary in December 2010 as a key milestone in its educational journey. In 2015, the school marked its 40th anniversary in November with a musical at the NUS Cultural Centre. In 2020, the school celebrated its 45th anniversary on 20 November with a [virtual celebration](https://youtu.be/4V8X7AaiT2M) due to COVID-19 situation.
+The school celebrated the official opening of its new campus on 8 July 2003. The new campus was officially opened by Dr Amy Khor, Member of Parliament for Hong Kah GRC. On 12 September 2008, the school’s heritage corner was declared opened. The special hub is intended to help our pupils and teachers understand and appreciate the school’s past history, and know it has impacted on the present and future. The school celebrated its 35th anniversary in December 2010 as a key milestone in its educational journey. In 2015, the school marked its 40th anniversary in November with a musical at the NUS Cultural Centre. In 2020, the school celebrated its 45th anniversary on 20 November with a&nbsp;[virtual celebration](https://youtu.be/4V8X7AaiT2M)&nbsp;due to COVID-19 situation.
 
   
 
@@ -77,4 +77,4 @@ The school has been under the leadership of 8 principals since its inception
 </table>
   
 
-<b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals (Academic), <b>Mrs Celine Ang</b> and <b>Mrs Christina Tan</b>.
+<b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals (Academic),&nbsp;<b>Mrs Celine Ang</b>&nbsp;and&nbsp;<b>Mrs Christina Tan</b>.

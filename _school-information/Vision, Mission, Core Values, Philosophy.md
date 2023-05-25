@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Core Values, Philosophy
-permalink: /about-us/visionmissioncorevaluesphilosophy/
+permalink: /school-information/visionmissioncorevaluesphilosophy/
 description: ""
 ---
 Our vision

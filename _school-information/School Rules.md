@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /about-us/schoolrules/
+permalink: /school-information/schoolrules/
 description: ""
 ---
 School Rules

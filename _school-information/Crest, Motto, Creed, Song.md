@@ -1,10 +1,8 @@
 ---
 title: Crest, Motto, Creed, Song
-permalink: /about-us/crestmottocreedsong/
+permalink: /school-information/crestmottocreedsong/
 description: ""
 ---
-
-
 Crest, Motto, Creed, Song
 =========================
 
@@ -23,7 +21,7 @@ At the top of the crest is a book of knowledge and the educational torch is a be
 
 Colour significance
 -------------------
-<img src="/images/CPS Crest.jpg" style="width:183px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/CPS Crest.jpg" style="width:183px;height:200px;margin-left:15px;" align="right">
 
 ##### White
 

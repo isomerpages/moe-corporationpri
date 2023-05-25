@@ -1,6 +1,6 @@
 ---
 title: School Facilities
-permalink: /about-us/schoolfacilities/
+permalink: /school-information/schoolfacilities/
 description: ""
 ---
 School Facilities

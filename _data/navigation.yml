@@ -1,27 +1,29 @@
 logo: /images/school logo.png
 links:
-  - title: About Us
-    url: /about-us/
+  - title: School Information
+    url: /school-information/
     sublinks:
       - title: School History
-        url: /about-us/schoolhistory/
+        url: /school-information/schoolhistory/
       - title: Vision, Mission, Core Values
-        url: /about-us/visionmissioncorevaluesphilosophy/
+        url: /school-information/visionmissioncorevaluesphilosophy/
       - title: Crest, Motto, Creed and Song
-        url: /about-us/crestmottocreedsong/
+        url: /school-information/crestmottocreedsong/
       - title: School Rules
-        url: /about-us/schoolrules/
+        url: /school-information/schoolrules/
       - title: School Facilities
-        url: /about-us/schoolfacilities/
+        url: /school-information/schoolfacilities/
+      - title: School Canteen
+        url: /school-information/schoolcanteen/
       - title: Community Project
-        url: /about-us/communityproject/
+        url: /school-information/communityproject/
       - title: Our Achievements
-        url: /about-us/ourachievements/
+        url: /school-information/ourachievements/
   - title: Our People
     url: /our-people/
     sublinks:
       - title: School Management Committee
-        url: /ourpeople/school-management-committee/
+        url: /our-people/schoolmanagementcommittee/
       - title: Teaching Staff
         url: /our-people/teachingstaff/
       - title: Executive and Admin Staff
@@ -30,7 +32,7 @@ links:
     url: /departments/
     sublinks:
       - title: English
-        url: /departments/English/english/
+        url: /departments/english/
       - title: Mathematics
         url: /departments/mathematics/
       - title: Science

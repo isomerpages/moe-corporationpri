@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our Achievements!
           description: Click here to view!
-          url: /about-us/ourachievements/
+          url: /school-information/ourachievements/
         - title: Our new corporate video!
           description: Click here to watch!
           url: https://www.youtube.com/watch?v=FtZoe5BOFjE

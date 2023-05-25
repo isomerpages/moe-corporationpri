@@ -37,15 +37,7 @@ Executive and Administrative Staff
   </tr>
   <tr>
     <td class="tg-1wig">Miss Janathul Firthous</td>
-    <td class="tg-1wig">Administration Executive</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Ms Paridah Binte Pit  </td>
-    <td class="tg-1wig">Corporate Support Officer </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mdm Teh Lee Keow Rebecca  </td>
-    <td class="tg-1wig">Corporate Support Officer </td>
+    <td class="tg-1wig">Administrative Executive</td>
   </tr>
   <tr>
     <td class="tg-1wig">Mdm Kalyavani d/o Govindaraju</td>
@@ -84,11 +76,7 @@ Executive and Administrative Staff
     <td class="tg-1wig">Librarian</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Mrs Jean  </td>
-    <td class="tg-1wig">Receptionist</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Ms Julaini Binti Alip</td>
+    <td class="tg-1wig">Mdm Raihana Binte Yusof</td>
     <td class="tg-1wig">Teacher Aide</td>
   </tr>
 </tbody>
