@@ -11,6 +11,7 @@ Admission & School Transfer
 ------------------------------------
 
   
+
 Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 January 2017 and 1 January 2018 (both dates inclusive) and has a sibling currently studying in our school.
 
 If your child is SC / PR:
@@ -21,7 +22,7 @@ If your child is a non-SC / non-PR (not eligible for Phase 1):
 
 Please submit an online Indication of Interest in **from 9am on Tuesday, 30 May 2023 to 4.30pm on Monday, 5 June 2023**, otherwise you will not be able to register in Phase 3 of the P1 Registration Exercise.
 
-For the latest updates on P1 Registration Exercise, please visit https://go.gov.sg/P1reg.
+For the latest updates on P1 Registration Exercise, please visit [https://go.gov.sg/P1reg](https://go.gov.sg/P1reg) .
 
 
 
