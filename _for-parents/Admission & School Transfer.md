@@ -3,25 +3,29 @@ title: Admission & School Transfer
 permalink: /for-parents/admissionandschooltransfer/
 description: ""
 ---
-
 Admission & School Transfer
 ===========================
 
-**2022 P1 Registration Exercise**  
+### **2023 P1 Registration Exercise**  
 
 ------------------------------------
 
   
+Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 January 2017 and 1 January 2018 (both dates inclusive) and has a sibling currently studying in our school.
 
-Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 Jan 2016 and 1 Jan 2017 (both dates inclusive) and has a sibling studying in Corporation Primary School.
+If your child is SC / PR:
 
-If you have a SC or PR child eligible for Phase 1, please submit the online form at [https://go.gov.sg/p1onlineform](https://go.gov.sg/p1onlineform)  by **25 May 2022**. The school will contact you if additional clarifications and / or documents are required.
+Parents who are registering their younger child under Phase 1 are to register **from 9am on Tuesday, 4 July 2023 to 4.30pm on Wednesday, 5 July 2023**.
 
-If your child is non-SC / non-PR and thus not eligible for Phase 1, please submit an online Indication of Interest between 31 May 2022 and 6 Jun 2022.
+If your child is a non-SC / non-PR (not eligible for Phase 1):
 
-You may refer to the MOE website at [go.gov.sg/P1reg](http://go.gov.sg/P1reg) for updates on the 2022 P1 Registration exercise.
+Please submit an online Indication of Interest in **from 9am on Tuesday, 30 May 2023 to 4.30pm on Monday, 5 June 2023**, otherwise you will not be able to register in Phase 3 of the P1 Registration Exercise.
 
-**Admission and Transfer**
+For the latest updates on P1 Registration Exercise, please visit https://go.gov.sg/P1reg.
+
+
+
+### **Admission and Transfer**
 --------------------------
 
   
