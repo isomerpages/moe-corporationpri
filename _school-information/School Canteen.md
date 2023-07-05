@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Cold Drinks     | 3 July 2023     | NIL     |
+| Nil     | Nil     | NIL     |
 
 
 
