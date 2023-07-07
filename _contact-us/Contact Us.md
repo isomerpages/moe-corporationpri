@@ -3,21 +3,20 @@ title: Contact Us
 permalink: /contact-us/permalink/
 description: ""
 ---
-Contact Us
-==========
 
-  
-
----
-
-Via&nbsp;**Email**
+Via&nbsp;**AskGov**
 -------------
 
   
 
-For enquiries on school administrative and policy matters, please e-mail to:&nbsp;[cps@moe.edu.sg](mailto:cps@moe.edu.sg).
+Got a question?
+Use our Q&amp;A Portal via <a href="https://ask.gov.sg/acps">ask.gov.sg/</a><a href="https://ask.gov.sg/cps">cps</a><br>
+Powered by:
+<br><img style="width:15%;float:left" src="/images/logo-askgov.png">
+<br>
+<br>
 
-  
+ 
 
 If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](/our-people/teachingstaff/).
 
@@ -26,9 +25,9 @@ Via&nbsp;**Phone**
 
 <table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid rgb(170, 170, 170); width: 493.727px;" class="iveo_table ives_tab_simple3 ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; border: 2px solid black; width: 178px;">General Office:</td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; border: 2px solid black; width: 315px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">67957381 (Line 1)</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">67954859 (Line 2)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 18.2px; text-align: left;">67957098 (Fax)</div></td></tr></tbody></table>   
 
-
-
-    
+<br>
+<br>
+    <br>
 		
 **Visit Us**
 ------------
