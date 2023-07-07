@@ -10,14 +10,19 @@ Contact Us
 
 ---
 
-Via&nbsp;**Email**
+Via&nbsp;**AskGov**
 -------------
 
   
 
-For enquiries on school administrative and policy matters, please e-mail to:&nbsp;[cps@moe.edu.sg](mailto:cps@moe.edu.sg).
+Got a question?
+Use our Q&amp;A Portal via <a href="https://ask.gov.sg/acps">ask.gov.sg/</a><a href="https://ask.gov.sg/cps">cps</a><br>
+Powered by:
+<br><img style="width:15%;float:left" src="/images/logo-askgov.png">
+<br>
+<br>
 
-  
+ 
 
 If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](/our-people/teachingstaff/).
 
