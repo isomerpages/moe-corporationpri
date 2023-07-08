@@ -6,11 +6,11 @@ description: ""
 Mother Tongue
 =============
 
-**Vision**: Nurture our pupils to be confident users of MTL & be culturally savvy.
+**Vision**: Nurture our pupils to be confident users of MTL &amp; be culturally savvy.
 
 **Mission**:  
 
-*   To provide a conducive environment for pupils to learn and use the language actively & confidently.
+*   To provide a conducive environment for pupils to learn and use the language actively &amp; confidently.
 *   To inculcate the values in our pupils and nurture them to be gracious citizens.
 
 **Department Focus**![](/images/Department%20Focus.png)
@@ -21,9 +21,8 @@ Mother Tongue
 **Chinese Language Curriculum**
   
 
-<img src="/images/Happy Learning.png"
-		 style="width:150px;height:120px;margin-left:15px;" align = "right">
-#### Making Chinese Language a Living Language
+<img src="/images/Happy Learning.png" style="width:150px;height:120px;margin-left:15px;" align="right">
+#### Making Chinese Language&nbsp;a Living Language
 
 
 
@@ -53,7 +52,7 @@ Pupils will benefit from the teaching approach based on these guiding principles
 
 **1. Structured Reading Programme (SRP)**
 
-This is a P1-P5 school-based curriculum aimed at promoting the love for reading among the pupils. P1-5 pupils will read a total of 50-60 age-appropriate Readers throughout their years in the school. CL teachers will set aside time during curriculum to guide pupils in the reading and appreciation of stories. To promote the love for reading among our young learners at P1 & P2, the use of the e-reading portal (Dudutown) was implemented in 2022. The young learners are more motivated to read the e-books and watch the videos using the platform. Under the Reading Passport Programme, parents are also strongly encouraged to read together with their P1 & P2 children and complete the activities such as bookmark making and reflection log. Through all these activities, we hope to cultivate the love for reading among our pupils!
+This is a P1-P5 school-based curriculum aimed at promoting the love for reading among the pupils. P1-5 pupils will read a total of 50-60 age-appropriate Readers throughout their years in the school. CL teachers will set aside time during curriculum to guide pupils in the reading and appreciation of stories. To promote the love for reading among our young learners at P1 &amp; P2, the use of the e-reading portal (Dudutown) was implemented in 2022. The young learners are more motivated to read the e-books and watch the videos using the platform. Under the Reading Passport Programme, parents are also strongly encouraged to read together with their P1 &amp; P2 children and complete the activities such as bookmark making and reflection log. Through all these activities, we hope to cultivate the love for reading among our pupils!
 
   
 
@@ -73,9 +72,9 @@ Under our Cultural Appreciation Programme, pupils experience the different types
 
   
 
-**5. Cultural Camp** 
+**5. Cultural Camp**&nbsp;
 
-Every year, our P4 pupils attend the annual language & cultural day camp. A variety of language and cultural activities are organized to provide them with the opportunities to learn through play and build up their confidence in mastering the Chinese Language.
+Every year, our P4 pupils attend the annual language &amp; cultural day camp. A variety of language and cultural activities are organized to provide them with the opportunities to learn through play and build up their confidence in mastering the Chinese Language.
 
   
 
@@ -83,9 +82,9 @@ Every year, our P4 pupils attend the annual language & cultural day camp. A vari
 
 During MTL Fortnight Learning Fest, all P1-P6 pupils will have the chance to learn on the move. They will work with their peers as they challenge themselves to complete the learning trail using the iPads. Language quizzes and games are set at the various learning stations to make learning fun and meaningful. 
 
-**7. grOW Programme (Growth in Oracy and Word Recognition Programme)** 
+**7. grOW Programme (Growth in Oracy and Word Recognition Programme)**&nbsp;
 
-With the realisation that word recognition and retention form an integral part of the learning of Chinese Language, we run a support programme for selected P2 pupils who require more support. Suitable teaching strategies will be adopted, and pupils will be revising the Chinese Characters learnt through games and pictorial flash cards.  
+With the realisation that word recognition and retention form an integral part of the learning of Chinese Language, we run a support programme for selected P2 pupils who require more support. Suitable teaching strategies will be adopted, and pupils will be revising the Chinese Characters learnt through games and pictorial flash cards. &nbsp;
 
 **8. Writing Workshop for Beginning Writers**
 
@@ -93,7 +92,7 @@ Writing has always been challenging for our young writers. This in-house worksho
 
 **9. LEAP Programme (Language Exploration and Appreciation Programme)**
 
-To cater to the learning needs of the higher progress pupils to enrich their learning experiences, a series of stretch programmes are curated and conducted for them: P3 & P4 Comic Creation, P4&P5 Young Journalist and P5 Literature Programme. The objectives of these programmes are as follows: 
+To cater to the learning needs of the higher progress pupils to enrich their learning experiences, a series of stretch programmes are curated and conducted for them: P3 &amp; P4 Comic Creation, P4&amp;P5 Young Journalist and P5 Literature Programme. The objectives of these programmes are as follows: 
 
 <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Develop students who are creative writers.</p>
 <p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;">•	Develop students who are critical thinkers and confident speakers.</p>
@@ -107,8 +106,8 @@ To develop future ready digital learners with the skills to navigate, curate, an
 
 | **Level** | **Programme** |
 | -------- | -------- |
-| P1&2     | Reading & Typing Learning Packages (SLS)     | 
-| P3     | Creative Drawing & Writing     | 
+| P1&amp;2     | Reading &amp; Typing Learning Packages (SLS)     | 
+| P3     | Creative Drawing &amp; Writing     | 
 | P4     | P4 Mooncake Design     | 
 | P5     | Collaborative E-Oral Video Production     | 
 
@@ -120,7 +119,7 @@ To nurture our pupils to be culturally savvy, the department will celebrate the 
 
 ### **Malay Department**
 
-**Malay Language Curriculum** 
+**Malay Language Curriculum**&nbsp;
 
 The Malay language curriculum aims to develop pupils as proficient Malay language users who can communicate in a confident and effective way. The curriculum places greater emphasis on spoken and written interaction skills as well as focus on authentic activities to better develop the pupils’ communication skills. It also continues to expose pupils to culture and values through various activities.
 
@@ -154,11 +153,11 @@ All Primary 2 to Primary 5 pupils will learn 1 aspect of the Malay culture by pa
 
 All Primary 1 pupils will participate in a Music and Movement workshop which will culminate in a performance showcase for parents during the MTL Fortnight period. This activity aims to build pupils’ confidence in using the Malay language.
 
-**6. Young Journalism Programme** 
+**6. Young Journalism Programme**&nbsp;
 
 All P4 Higher Malay language pupils and selected P5 pupils will be given the opportunity to discover the world of journalism; sourcing out interesting news, getting relevant and suitable information and reporting it. Once equipped with the necessary skills, these pupils will be tasked to cover school events or Malay language programmes.   
 
-**7. MTL Fortnight Learning Fest (ML)** 
+**7. MTL Fortnight Learning Fest (ML)**&nbsp;
 
 All Primary 1 to Primary 6 pupils will be involved in various cultural and language activities during the MTL Fortnight period in Term 3. Besides enhancing their language competency, these activities aim to instil in pupils a love of learning for the Malay language and promote appreciation of their culture.
 
@@ -174,31 +173,31 @@ ICT infusion will further enhance teaching and learning. The use of SLS, IMTL an
 
 **Tamil Language Programmes**
 
-Learning through fun is essential to sustain love, passion and confidence for Tamil. The department also places great emphasis on exposing pupils to various activities, games and competitions throughout the year. 
+Learning through fun is essential to sustain love, passion and confidence for Tamil. The department also places great emphasis on exposing pupils to various activities, games and competitions throughout the year.&nbsp;
 
   
 
-**1. Pongal Competitions** 
+**1. Pongal Competitions**&nbsp;
 
-All pupils from Primary 1 to Primary 6 will participate in Pongal Competition in Term 1. This competition helps to enhance pupils’ understanding on Pongal and its significance. Pupils will learn the cultural aspects of Pongal during this competition. 
+All pupils from Primary 1 to Primary 6 will participate in Pongal Competition in Term 1. This competition helps to enhance pupils’ understanding on Pongal and its significance. Pupils will learn the cultural aspects of Pongal during this competition.&nbsp;
 
   
 
 **2. Language Competitions**
 
-All Primary 1 to Primary 6 pupils will participate in language competitions in April which is in conjunction with the Tamil Language month. Every level will prepare to showcase their talent for the various competitions. This aims to develop pupils’ proficiency in the Tamil Language. 
+All Primary 1 to Primary 6 pupils will participate in language competitions in April which is in conjunction with the Tamil Language month. Every level will prepare to showcase their talent for the various competitions. This aims to develop pupils’ proficiency in the Tamil Language.&nbsp;
 
   
 
 **3. MTL Fortnight – Cultural Enrichment**
 
-MTL fortnight is a key annual event. All Primary 1 to Primary 6 pupils will be involved in various cultural and language activities during the MTL Fortnight period in Term 3. These activities will consist of various cultural and language activities where pupils are provided with an engaging environment to learn and appreciate Tamil.  
+MTL fortnight is a key annual event. All Primary 1 to Primary 6 pupils will be involved in various cultural and language activities during the MTL Fortnight period in Term 3. These activities will consist of various cultural and language activities where pupils are provided with an engaging environment to learn and appreciate Tamil.&nbsp;&nbsp;
 
   
 
-**4. P1 & P2 Drama Appreciation**
+**4. P1 &amp; P2 Drama Appreciation**
 
-All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop where pupils will learn to use Tamil language confidently and effectively.![](/images/Tamil%20Programmes.png)
+All Primary 1 and Primary 2 pupils will participate in a Speech &amp; Drama workshop where pupils will learn to use Tamil language confidently and effectively.![](/images/Tamil%20Programmes.png)
 
 ### **Mother Tongue Department E-Newsletters**
 
@@ -207,12 +206,14 @@ All Primary 1 and Primary 2 pupils will participate in a Speech & Drama workshop
 <p><a href="/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg"></a></p>
 
 
-##### **Past Chinese Department E-Newsletter**
+##### **Chinese Department E-Newsletter**
 ------------------------------------
 
-Click [here](/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
+Click [here](/files/2023%20cl%20sem1%20newsletter.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2023.  
+
+Click&nbsp;[here](/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf)&nbsp;to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
   
-Click [here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
+Click&nbsp;[here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf)&nbsp;to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.  
   
 
 
@@ -220,33 +221,36 @@ Click [here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf) to vie
 
 <p><a href="/files/ML%20Newsletter%202022%20Sem%202.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_ML_2022%20Sem2.jpg"></a></p>
 
-##### **Past Malay Department E-Newsletter**
+##### **Malay Department E-Newsletter**
 ----------------------------------
 
+Click [here](/files/2023%20ml%20sem1%20newsletter.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2023.
 
-Click [here](/files/ML%20Newsletter%202022.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
+Click&nbsp;[here](/files/ML%20Newsletter%202022.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
   
-Click [here](/files/ML%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
+Click&nbsp;[here](/files/ML%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf)&nbsp;to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
 
 
 
 
 <p><a href="/files/TL%20newsletter%202022%20Sem%202.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_TL_2022%20Sem2.jpg"></a></p>
 
-##### **Past Tamil Department E-Newsletter**
+##### **Tamil Department E-Newsletter**
 ----------------------------------
 
-Click [here](/files/TL%20newsletter%202022%20Sem%202.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.
+Click [here](/files/2023%20tl%20sem1%20newsletter.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 1 2023.
 
-Click [here](/files/TL%20Newsletter%202022.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
+Click&nbsp;[here](/files/TL%20newsletter%202022%20Sem%202.pdf)&nbsp;to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.
+
+Click [here](/files/TL%20Newsletter%202022.pdf)&nbsp;to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 1 2022.
 
 
-##### **Mother Tongue Department Blog**  
+### **Mother Tongue Department Blog**  
 
 ------------------------------------
 
   
-Click [here](https://go.gov.sg/cpsclblog) to visit our Chinese Department Blog to view the latest updates and pupils' works.
+Click&nbsp;[here](https://go.gov.sg/cpsclblog)&nbsp;to visit our Chinese Department Blog to view the latest updates and pupils' works.
 
 
 <img src="/images/Blog1.jpg" style="width:90%">
