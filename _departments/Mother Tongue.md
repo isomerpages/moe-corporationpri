@@ -209,6 +209,8 @@ All Primary 1 and Primary 2 pupils will participate in a Speech &amp; Drama work
 ##### **Chinese Department E-Newsletter**
 ------------------------------------
 
+![](/images/2023%20cl%20sem1%20newsletter%20thumbnail.jpg)
+
 Click [here](/files/2023%20cl%20sem1%20newsletter.pdf) to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 1 2023.  
 
 Click&nbsp;[here](/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf)&nbsp;to view the Chinese Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
@@ -224,6 +226,8 @@ Click&nbsp;[here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf)&nbs
 ##### **Malay Department E-Newsletter**
 ----------------------------------
 
+![](/images/2023%20ml%20sem1%20newsletter%20thumbnail.jpg)
+
 Click [here](/files/2023%20ml%20sem1%20newsletter.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 1 2023.
 
 Click&nbsp;[here](/files/ML%20Newsletter%202022.pdf) to view the Malay Department's Newsletter and find out more about the key programmes conducted in Semester 2 2022.  
@@ -237,6 +241,8 @@ Click&nbsp;[here](/files/ML%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf)&nbs
 
 ##### **Tamil Department E-Newsletter**
 ----------------------------------
+
+![](/images/2023%20tl%20sem1%20newsletter%20thumbnail.jpg)
 
 Click [here](/files/2023%20tl%20sem1%20newsletter.pdf) to view the Tamil Department's Newsletter and find out more about the key programmes conducted in Semester 1 2023.
 
