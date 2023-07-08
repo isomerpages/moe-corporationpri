@@ -203,9 +203,6 @@ All Primary 1 and Primary 2 pupils will participate in a Speech &amp; Drama work
 
 
 
-<p><a href="/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_CL_2022%20Sem2.jpg"></a></p>
-
-
 ##### **Chinese Department E-Newsletter**
 ------------------------------------
 
@@ -220,9 +217,6 @@ Click&nbsp;[here](/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf)&nbs
 
 
 
-
-<p><a href="/files/ML%20Newsletter%202022%20Sem%202.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_ML_2022%20Sem2.jpg"></a></p>
-
 ##### **Malay Department E-Newsletter**
 ----------------------------------
 
@@ -236,8 +230,6 @@ Click&nbsp;[here](/files/ML%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf)&nbs
 
 
 
-
-<p><a href="/files/TL%20newsletter%202022%20Sem%202.pdf"><img style="width:50%" src="/images/Newsletter_Thumbnail_TL_2022%20Sem2.jpg"></a></p>
 
 ##### **Tamil Department E-Newsletter**
 ----------------------------------
