@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us/permalink/
 description: ""
 ---
-
 Via&nbsp;**AskGov**
 -------------
 
@@ -17,9 +16,6 @@ Powered by:
 <br>
 
  
-
-If you'd like to contact your child's Form and Co-Form teachers, please&nbsp;[click here](/our-people/teachingstaff/).
-
 Via&nbsp;**Phone**
 -------------
 
