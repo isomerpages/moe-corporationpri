@@ -56,23 +56,23 @@ Mother Tongue Language Teachers
     <td class="tg-nrix"> <a href="mailto:chan_mei_yoke@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Chan Mei Yoke</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-nrix"> <a href="mailto:wang_yirui@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Janet Wang Yirui</span></a></td>
-    <td class="tg-0jqi"><a href="mailto:khoo_pei_qi@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Khoo Pei Qi</span></a><br></td>
-  </tr>
-  <tr>
+<td class="tg-0jqi"><a href="mailto:khoo_pei_qi@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Khoo Pei Qi</span></a><br></td>
     <td class="tg-0jqi"><a href="mailto:li_yandong@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Li Yan Dong</span></a></td>
-    <td class="tg-0jqi"><a href="mailto:ma_xinyue@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Ma Xinyue</span></a> <br></td>
   </tr>
   <tr>
+<td class="tg-0jqi"><a href="mailto:ma_xinyue@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Ma Xinyue</span></a> <br></td>
     <td class="tg-0jqi"><a href="mailto:ng_shao_wei@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mr Ng Shao Wei</span></a> </td>
-    <td class="tg-0jqi"><a href="mailto:pang_xiao_wen@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Pang Xiao Wen</span></a>  </td>
   </tr>
   <tr>
+<td class="tg-0jqi"><a href="mailto:pang_xiao_wen@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Pang Xiao Wen</span></a>  </td>
     <td class="tg-0jqi"><a href="mailto:tan_jin_li@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Tan Jin Li</span></a> <br></td>
-    <td class="tg-0jqi"><a href="mailto:ho_ching_ying@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Valerie Ho Ching Ying</span></a> </td>
   </tr>
   <tr>
+<td class="tg-0jqi"><a href="mailto:ho_ching_ying@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Ms Valerie Ho Ching Ying</span></a> </td>
     <td class="tg-0jqi"><a href="mailto:zeng_lei@moe.edu.sg"><span style="font-weight:700;text-decoration:none;color:#F56414">Mdm Zeng Lei</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-0jqi"></td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
