@@ -60,8 +60,6 @@ links:
   - title: For Parents
     url: /for-parents/
     sublinks:
-      - title: HBL Plan
-        url: /for-parents/hblplan/
       - title: Absence during School Term
         url: /for-parents/absenceduringschoolterm/
       - title: Academic Grading
@@ -76,6 +74,8 @@ links:
         url: /for-parents/forgraduatingp6pupils/
       - title: General Information
         url: /for-parents/generalinformation/
+      - title: HBL Plan
+        url: /for-parents/hblplan/
       - title: Parent Support Group
         url: /for-parents/parentssupportgroup/
       - title: Parenting Programme
