@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - HBL Plan.md
       - For Parents.md
+      - HBL Plan.md
       - Absence during school term.md
       - Academic Grading.md
       - Admission & School Transfer.md
