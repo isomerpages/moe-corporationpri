@@ -7,6 +7,16 @@ Home Based Learning Plan
 ==================
 
 --------
-* **15 September 2023**
-![](/images/hbl_15sep2023.PNG)
-[HBL Plan for p1-p5 on 15 September 2023](/files/hbl%20plan%20for%202023%20psle%20lc%20&%20written%20exam%20days%20%20-%20friday,%2015%20sept%20(lc).pdf)
+Click [HERE](/files/p1-p4%20hbl%20plan%20for%202023%20psle%20written%20exam.pdf) to download the HBL plan.
+**<br>**
+* **28 September 2023 (Thursday)**
+![](/images/hbl_28sep2023.PNG)
+**<br>**
+* **29 September 2023 (Friday)**
+![](/images/hbl_29sep2023.PNG)
+**<br>**
+* **02 October 2023 (Monday)**
+![](/images/hbl_02oct2023.PNG)
+**<br>**
+* **03 October 2023 (Tuesday)**
+![](/images/hbl_03oct2023.PNG)
