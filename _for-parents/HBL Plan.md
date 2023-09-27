@@ -10,7 +10,7 @@ Home Based Learning Plan
 Click [HERE]() to download the HBL plan.
 * **28 September 2023 (Thursday)**
 ![](/images/hbl_28sep2023.PNG)
-
+**<br>**
 * **29 September 2023 (Friday)**
 ![](/images/hbl_29sep2023.PNG)
 
