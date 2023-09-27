@@ -13,9 +13,9 @@ Click [HERE]() to download the HBL plan.
 **<br>**
 * **29 September 2023 (Friday)**
 ![](/images/hbl_29sep2023.PNG)
-
+**<br>**
 * **02 October 2023 (Monday)**
 ![](/images/hbl_02oct2023.PNG)
-
+**<br>**
 * **03 October 2023 (Tuesday)**
 ![](/images/hbl_03oct2023.PNG)
