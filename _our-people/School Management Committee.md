@@ -13,6 +13,9 @@ School Management Committee
 | <img src="/images/Mr%20Muhammad%20Fadylla.jpg" style="width:35%">	| <br>**Mr Muhammad Fadylla Bin Rashiman**<br>**Principal**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) 	|
 | <img src="/images/MRS CELINE ANG (VP - ACADEMIC) 2014.jpg" style="width:30%"> 	| <br>**Mrs Celine Ang**<br>**Vice-Principal (Academic)**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) 	|
 | <img src="/images/Mrs Christina Tan.jpg" style="width:30%"><br>  	| <br>**Mrs Christina Tan**<br>**Vice-Principal (Academic)**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) <br>|
+| <img src="/images/mdm%20josephine%20ng.jpeg" style="width:30%"><br>  	| <br>**Mdm Josephine Ng**<br>**Vice-Principal (Academic)**<br><br>Email: [cps@moe.edu.sg](mailto:cps@moe.edu.sg) <br>|
+
+
 
 ### Heads of Departments
 
