@@ -2,6 +2,7 @@
 title: School History
 permalink: /school-information/schoolhistory/
 description: ""
+variant: markdown
 ---
 School History
 ==============
@@ -77,4 +78,4 @@ The school has been under the leadership of 8 principals since its inception
 </table>
   
 
-<b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals (Academic),&nbsp;<b>Mrs Celine Ang</b>&nbsp;and&nbsp;<b>Mrs Christina Tan</b>.
+<b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals,&nbsp;<b>Mdm Josephine Ng</b>&nbsp;and&nbsp;<b>Mdm Anna Goh</b>.
