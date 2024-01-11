@@ -1,5 +1,5 @@
 title: Home
-url: https://www.open.gov.sg
+url: https://corporationpri.moe.edu.sg
 favicon: /images/school logo only.png
 colors:
   primary-color: "#6031b6"
@@ -56,3 +56,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
