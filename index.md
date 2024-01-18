@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/CPS 1.png
       key_highlights:
-        - title: Our Achievements!
+        - title: Our Latest Activities!
           description: Click here to view!
-          url: /school-information/ourachievements/
+          url: https://www.facebook.com/corporationpri
         - title: Our corporate video!
           description: Click here to watch!
           url: https://www.youtube.com/watch?v=FtZoe5BOFjE
