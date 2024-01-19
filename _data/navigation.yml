@@ -17,8 +17,6 @@ links:
         url: /school-information/schoolcanteen/
       - title: Community Project
         url: /school-information/communityproject/
-      - title: Our Achievements
-        url: /school-information/ourachievements/
   - title: Our People
     url: /our-people/
     sublinks:
@@ -26,6 +24,8 @@ links:
         url: /our-people/schoolmanagementcommittee/
       - title: Teaching Staff
         url: /our-people/teachingstaff/
+      - title: Allied Educators
+        url: /our-people/allied-educators/
       - title: Executive and Admin Staff
         url: /our-people/executiveandadministrativestaff/
   - title: Departments
