@@ -15,7 +15,7 @@ sections:
         - title: Our corporate video!
           description: Click here to watch!
           url: https://www.youtube.com/watch?v=FtZoe5BOFjE
-        - title: Our cps online art gallery 2022!
+        - title: Our cps online art gallery!
           description: Click here to visit!
           url: https://sites.google.com/moe.edu.sg/cpsonlineartgallery2022/home
       subtitle: Nurturing pupils who C.A.R.E to succeed
