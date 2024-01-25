@@ -19,7 +19,7 @@ variant: tiptap
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg">
     </div>
     <h4><strong>Lead</strong></h4>
-    <p><strong>Lead the Learner</strong>&nbsp;- Lead by the PSG Exco, the Parent
+    <p><strong>Lead the Learner&nbsp;</strong>- Lead by the PSG Exco, the Parent
         Facilitators trained by MCYS related well to the rest of the parents and
         shared parenting tips with them through the Coffee Talks they conducted.
         This year, they conducted four coffee talks, “Self Care”, “Don’t worry,
