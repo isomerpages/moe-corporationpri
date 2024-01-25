@@ -18,15 +18,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg">
     </div>
-    <h4><strong>Lead</strong></h4>
-    <p><strong>Lead the Learner&nbsp;</strong>- Lead by the PSG Exco, the Parent
-        Facilitators trained by MCYS related well to the rest of the parents and
-        shared parenting tips with them through the Coffee Talks they conducted.
-        This year, they conducted four coffee talks, “Self Care”, “Don’t worry,
-        be happy”, “ Love Language” and “ How to communicate with your child”.
-        They also conducted a craft workshop on “Flowers with Stocking”.</p>
-    <p><strong>Lead the Learning</strong>&nbsp;- The PSG Exco draws out the best
-        from each other when they take the lead to enhance one another’s capabilities
+    <h4>Lead</h4>
+    <p><strong>Lead the Learner</strong> - Lead by the PSG Exco, the Parent Facilitators
+        trained by MCYS related well to the rest of the parents and shared parenting
+        tips with them through the Coffee Talks they conducted. This year, they
+        conducted four coffee talks, “Self Care”, “Don’t worry, be happy”, “ Love
+        Language” and “ How to communicate with your child”. They also conducted
+        a craft workshop on “Flowers with Stocking”.</p>
+    <p><strong>Lead the Learning </strong>- The PSG Exco draws out the best from
+        each other when they take the lead to enhance one another’s capabilities
         through the formal and informal platforms such as the monthly PSG Exco
         meetings, discussions and SFE Talks. Under SFE, they initiated many team
         bonding activities to provide an unsual and memorable experience for the
@@ -39,13 +39,13 @@ variant: tiptap
     </div>
     <p><strong>PSG helps to usher the elderly from St Joseph Home to watch our CNY celebration</strong>
     </p>
-    <h4><strong>Care</strong></h4>
+    <h4>Care</h4>
     <p>Parents care for the pupils under their charge. They take on the role
         as Reading Mums and Math Mums by guiding our weaker pupils in the morning
         with their studies. They also chaperon pupils out for school enrichment
         programmes and learning journeys and thus, showing care and concern for
         the well-being of each child.</p>
-    <h4><strong>Inspire</strong></h4>
+    <h4>Inspire</h4>
     <p>Great Teachers inspire through the love of their subjects, skilful teaching
         and care they showed their pupils. Great parents inspire through their
         involvement in school programmes , guidance in the child’s work and collaboration
