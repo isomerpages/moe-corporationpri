@@ -70,7 +70,4 @@ variant: tiptap
             you.</p>
         <p>Scan the QR code below to fill up the Parent Support Group Registration
             Form:</p>
-        <div class="isomer-image-wrapper">
-            <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2024_PSG_QR_Code.jpeg">
-        </div>
         <p></p>
