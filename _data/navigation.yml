@@ -1,0 +1,90 @@
+logo: /images/school logo.png
+links:
+  - title: School Information
+    url: /school-information/
+    sublinks:
+      - title: School History
+        url: /school-information/schoolhistory/
+      - title: Vision, Mission, Core Values
+        url: /school-information/visionmissioncorevaluesphilosophy/
+      - title: Crest, Motto, Creed and Song
+        url: /school-information/crestmottocreedsong/
+      - title: School Rules
+        url: /school-information/schoolrules/
+      - title: School Facilities
+        url: /school-information/schoolfacilities/
+      - title: School Canteen
+        url: /school-information/schoolcanteen/
+      - title: Community Project
+        url: /school-information/communityproject/
+  - title: Our People
+    url: /our-people/
+    sublinks:
+      - title: School Management Committee
+        url: /our-people/schoolmanagementcommittee/
+      - title: Teaching Staff
+        url: /our-people/teachingstaff/
+      - title: Allied Educators
+        url: /our-people/allied-educators/
+      - title: Executive and Admin Staff
+        url: /our-people/executiveandadministrativestaff/
+  - title: Departments
+    url: /departments/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue
+        url: /departments/mothertongue/
+      - title: CCE
+        url: /departments/cce/
+      - title: PAM
+        url: /pam/PAM/
+      - title: Programme for Active Learning
+        url: /departments/Programme-for-Active-Learning/Programme-for-Active-Learning/
+      - title: CCA
+        url: /departments/cca/
+      - title: Dance LLP
+        url: /departments/dancellp/
+      - title: ALP
+        url: /departments/alp/
+      - title: ICT
+        url: /departments/ICT/ict/
+      - title: Level Activities
+        url: /departments/levelactivities/
+      - title: Overseas Learning Journeys
+        url: /departments/overseaslearningjourneys/
+  - title: For Parents
+    url: /for-parents/
+    sublinks:
+      - title: Absence during School Term
+        url: /for-parents/absenceduringschoolterm/
+      - title: Academic Grading
+        url: /for-parents/academicgrading/
+      - title: Admission & School Transfer
+        url: /for-parents/admissionandschooltransfer/
+      - title: Counselling Services
+        url: /for-parents/counsellingservices/
+      - title: Financial Assistance
+        url: /for-parents/financialassistance/
+      - title: For Graduating P6 Pupils
+        url: /for-parents/forgraduatingp6pupils/
+      - title: General Information
+        url: /for-parents/generalinformation/
+      - title: HBL Plan
+        url: /for-parents/hblplan/
+      - title: Parent Support Group
+        url: /for-parents/parentssupportgroup/
+      - title: Parenting Programme
+        url: /for-parents/parentingprogramme/
+      - title: School Hours and Break Times
+        url: /for-parents/schoolhoursandbreaktimes/
+      - title: Stakeholders
+        url: /for-parents/Stakeholders/Stakeholders/
+  - title: Contact Us
+    url: /contact-us/permalink/
+  - title: Have a question?
+    url: https://ask.gov.sg/cps

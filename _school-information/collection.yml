@@ -1,0 +1,12 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - School Information.md
+      - School History.md
+      - Vision, Mission, Core Values, Philosophy.md
+      - Crest, Motto, Creed, Song.md
+      - School Rules.md
+      - School Facilities.md
+      - School Canteen.md
+      - Community Project.md
