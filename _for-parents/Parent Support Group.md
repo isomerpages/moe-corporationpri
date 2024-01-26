@@ -16,7 +16,7 @@ variant: tiptap
     was established with a strong PSG Exco who is the driving force in facilitating
     the school activities and programmes. (&nbsp;<strong>Lead, Care, Inspire</strong>)</p>
 <div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg">
+    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg"/>
     </div>
     <h4>Lead</h4>
     <p><strong>Lead the Learner</strong> - Lead by the PSG Exco, the Parent Facilitators
