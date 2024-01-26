@@ -35,7 +35,7 @@ variant: tiptap
         play, strengthen ties with one another and reinforce the CPS PSG Guidelines.
         (CPS PSG ROCKS)</p>
     <div class="isomer-image-wrapper">
-        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2.jpg">
+        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2.jpg"/>
     </div>
     <p><strong>PSG helps to usher the elderly from St Joseph Home to watch our CNY celebration</strong>
     </p>
@@ -57,7 +57,7 @@ variant: tiptap
         Mid-Autumn Kaleidoscope. They inspire one another to go the extra mile
         for the pupils and make a difference to their holistic development.</p>
     <div class="isomer-image-wrapper">
-        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg3.jpg">
+        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg3.jpg"/>
         </div>
         <p><strong>Our annual Lo Hei session with our PSG!</strong>
         </p>
@@ -71,6 +71,6 @@ variant: tiptap
         <p>Scan the QR code below to fill up the Parent Support Group registration
             form:</p>
         <div class="isomer-image-wrapper">
-            <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2024_PSG_QR_Code_1_.jpg">
+            <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2024_PSG_QR_Code_1_.jpg"/>
         </div>
         <p></p>
