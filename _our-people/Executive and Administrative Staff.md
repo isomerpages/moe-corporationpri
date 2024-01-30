@@ -4,4 +4,151 @@ permalink: /our-people/executiveandadministrativestaff/
 description: ""
 variant: tiptap
 ---
-<h1>Executive and Administrative Staff</h1><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Name</strong></p></td><td rowspan="1" colspan="1"><p><strong>Role</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ng Keng Woon</p></td><td rowspan="1" colspan="1"><p>Administration Manager<br>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Vicky Koh Hwee Khee</p></td><td rowspan="1" colspan="1"><p>Administration Manager<br>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr See Siew Hoe, Thomas</p></td><td rowspan="1" colspan="1"><p>Operations Manager<br>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lee Yan Ling</p></td><td rowspan="1" colspan="1"><p>Administrative Executive</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Janathul Firthous</p></td><td rowspan="1" colspan="1"><p>Administrative Executive</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Resrena Binte Mohamed Rafi'ee</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Sarinah Bte Salleh</p></td><td rowspan="1" colspan="1"><p>AJT Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Kalyavani d/o Govindaraju</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lee Geok Lian</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Thiam Hock</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Yeo Siew Kiang</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Hong Hing Swee</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Goh Juan Yap</p></td><td rowspan="1" colspan="1"><p>ICT Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhammad Irsyad Bin Azman</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Faqroul Bin Mohamed Berolding</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Noraini Binte Rahmat</p></td><td rowspan="1" colspan="1"><p>Librarian</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Raihana Binte Yusof</p></td><td rowspan="1" colspan="1"><p>Teacher Aide</p></td></tr></tbody></table><p></p>
+<h1>Executive and Administrative Staff</h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Keng Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager
+<br>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr See Siew Hoe, Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager
+<br>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yan Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Janathul Firthous</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Resrena Binte Mohamed Rafi'ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarinah Bte Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AJT Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalyavani d/o Govindaraju</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Geok Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Thiam Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Siew Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hong Hing Swee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Juan Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Irsyad Bin Azman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Faqroul Bin Mohamed Berolding</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraini Binte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Raihana Binte Yusof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Aide</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
