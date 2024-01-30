@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="www.beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com.sg</a></strong>
+<p><strong><a href="https://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com.sg</a></strong>
 </p>
 </td>
 </tr>
