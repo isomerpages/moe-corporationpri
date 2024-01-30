@@ -169,7 +169,7 @@ in Term 4.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6261 5537</p>
+<p>62615537</p>
 <p>(during office hours at 8.30am – 4.00pm)</p>
 </td>
 </tr>
@@ -225,7 +225,7 @@ in Term 4.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8380 3935</p>
+<p>83803935</p>
 <p>(during office hours at 8.30am – 4.00pm)</p>
 </td>
 </tr>
