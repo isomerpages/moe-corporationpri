@@ -2,63 +2,344 @@
 title: General Information
 permalink: /for-parents/generalinformation/
 description: ""
+variant: tiptap
 ---
-General Information
-===================
-
-  
-
----
-
-**School Bookshop**  
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Name of Vendor</b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Eng Seng Book Store</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Telephone</b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">87577234</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Email</b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="mailto:textbook@engsengbook.com" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">textbook@engsengbook.com</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="130" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Website</span></b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><a href="http://www.engsengbook.com/" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">www.engsengbook.com</a></span></span></p></td></tr></tbody></table>
-
-**School Uniform Supplier**
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="136" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Name of Vendor</b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Beau Voix Uniforms</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="136" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Telephone</b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">67436645 / 67447084</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="136" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Email</b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="mailto:info@beauvoix.com.sg" class="" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">info@beauvoix.com.sg</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="136" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Website</span></b></p></td><td width="216" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="http://www.beauvoix.com/" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">www.beauvoix.com</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="352" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">* School uniforms are available for purchase at the School Bookshop during School Term.</p></td></tr></tbody></table>
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="610" colspan="3" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">School Bookshop Operating Hours</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">School Term</b></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">For Pupils Only</b></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">For Parents</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Mon &amp; Wed – Fri</span></p></td><td width="203" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">11.00am – 1.00pm</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2.00pm – 3.00pm</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Tue</span></p></td><td width="203" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Closed</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="610" colspan="3" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">For year-end sale of books and uniforms, the operating dates and hours will be published on the booklist. This booklist will be given to pupils in Term 4.</span></p></td></tr></tbody></table>
-
-  
-
-  
-
-**School Bus**
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Name of Vendor</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Tong Tar Transport Pte Ltd</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Telephone</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">6261 5537</span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(during office hours at 8.30am – 4.00pm)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Email</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="mailto:cps@tongtar.com" class="" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">cps@tongtar.com</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Website</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="http://www.tongtar.com/" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">www.tongtar.com</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Registration Link</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="https://www.tongtar.com/school-bus-registration/corporation-primary-school/" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">https://www.tongtar.com/school-bus-registration/corporation-primary-school/</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
-
-Tong Tar Transport Pte Ltd will update you on the registration outcome.&nbsp;
-
-**School-based Student Care**
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="137" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Name of Vendor</b></p></td><td width="396" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">NASCANS Pte Ltd</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="137" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Telephone</b></p></td><td width="396" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">8380 3935<span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">(during office hours at 8.30am – 4.00pm)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="137" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Email</b></p></td><td width="396" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="mailto:cpscc@nascans.com" class="" target="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">cpscc@nascans.com</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="137" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Website</b></p></td><td width="396" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="https://www.nascans.com/" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">https://www.nascans.com/</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="137" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Registration Link</b></p></td><td width="396" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukMUohMqFBQFYkNsDWsIKW4=" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukMUohMqFBQFYkNsDWsIKW4=</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
-NASCANS Pte Ltd will update you on the registration outcome.&nbsp;
-
-  
-
-  
-
-**School Dental Clinic**    
-Tel: 67959671   
-Please refer to the scheduled operating hours outside the School Dental Clinic.
-
-  
-
-  
-
-**Parents Gateway (PG)**
-
-Developed by MOE and GovTech, Parents Gateway (PG) is a one-stop portal that strengthens school-home partnership to support our children in their education journey.
-
-<table class="iveo_table ives_tab_1" width="606" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="126" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Where to download</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td><td width="480" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">For iPhone users, download from App Store:<span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span>&nbsp;</span></span></span><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blank" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">https://apps.apple.com/sg/app/parents-gateway/id1267198708</span></a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">For Android phone users, download from Google Play:<span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span>&nbsp;</span></span></span><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blank" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">https://play.google.com/store/apps/details?id=com.moe.pgp</span></a><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></u></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="126" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">I have downloaded</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">The PG app but experiencing<b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span>&nbsp;</span>Error / Access issues</b></span><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td><td width="480" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Please be assured that your child / ward’s record is successfully registered with our school. Due to the mass numbers of P1 registrants nationwide, it would take time for backend data to sync and update into the PG application.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Kindly keep PG in your phone and try logging in again at the end of Dec 2021. Should you continue to have error / access issues, please contact our school.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">For FAQs on PG:</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"><span>&nbsp;</span></span><a href="https://pg.moe.edu.sg/faq" target="_blank" class="" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">https://pg.moe.edu.sg/faq</span></a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
-
-  
-
-  
-
-**Group Personal Accident (GPA) Insurance Plan for Students**
-
-All MOE-Registered pupils in CPS are covered by NTUC Income Insurance under the Group Personal Accident (GPA) Insurance for students.&nbsp;
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Name of Vendor</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">NTUC Income Insurance</b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">Website</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">Group Personal Accident for Students | NTUC Income</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="138" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;">eSubmission of claims</b></p></td><td width="312" class="" style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><a href="https://studentgpa.incomegroupins.com.sg/#/" class="" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(245, 100, 20); text-decoration: none; font-weight: 700;">Student GPA Claims Portal</a><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
+<h1>General Information</h1>
+<hr>
+<h4><strong>School Bookshop</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Eng Seng Book Store</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Telephone</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87577234</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:textbook@engsengbook.com" class="" rel="noopener noreferrer nofollow" target="_blank">textbook@engsengbook.com</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="http://www.engsengbook.com/" class="" rel="noopener noreferrer nofollow" target="_blank">www.engsengbook.com</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>School Uniform Supplier</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beau Voix Uniforms</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Telephone</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>67436645 / 67447084</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:info@beauvoix.com.sg" class="" rel="noopener noreferrer nofollow" target="">info@beauvoix.com.sg</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com.sg</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>* School uniforms are available for purchase at the School Bookshop during
+School Term.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>School Bookshop Operating Hours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Term</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For Pupils Only</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For Parents</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon &amp; Wed – Fri</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>11.00am – 1.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm – 3.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>For year-end sale of books and uniforms, the operating dates and hours
+will be published on the booklist. This booklist will be given to pupils
+in Term 4.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>School Bus</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tong Tar Transport Pte Ltd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Telephone</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62615537</p>
+<p>(during office hours at 8.30am – 4.00pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:cps@tongtar.com" class="" rel="noopener noreferrer nofollow" target="">cps@tongtar.com</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="http://www.tongtar.com/" class="" rel="noopener noreferrer nofollow" target="_blank">www.tongtar.com</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Registration Link</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.tongtar.com/school-bus-registration/corporation-primary-school/" class="" rel="noopener noreferrer nofollow" target="_blank">https://www.tongtar.com/school-bus-registration/corporation-primary-school/</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Tong Tar Transport Pte Ltd will update you on the registration outcome.&nbsp;</p>
+<h4><strong>School-based Student Care</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NASCANS Pte Ltd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Telephone</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>83803935</p>
+<p>(during office hours at 8.30am – 4.00pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:cpscc@nascans.com" class="" rel="noopener noreferrer nofollow" target="">cpscc@nascans.com</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.nascans.com/" class="" rel="noopener noreferrer nofollow" target="_blank">https://www.nascans.com/</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Registration Link</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukMUohMqFBQFYkNsDWsIKW4=" class="" rel="noopener noreferrer nofollow" target="_blank">https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ukMUohMqFBQFYkNsDWsIKW4=</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>NASCANS Pte Ltd will update you on the registration outcome.&nbsp;</p>
+<h4><strong>School Dental Clinic</strong><br></h4>
+<p>Tel: 67959671
+<br>Please refer to the scheduled operating hours outside the School Dental
+Clinic.</p>
+<h4><strong>Parents Gateway (PG)</strong></h4>
+<p>Developed by MOE and GovTech, Parents Gateway (PG) is a one-stop portal
+that strengthens school-home partnership to support our children in their
+education journey.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Where to download</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For iPhone users, download from App Store:&nbsp;<strong><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" class="" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/parents-gateway/id1267198708</a></strong>
+</p>
+<p></p>
+<p>For Android phone users, download from Google Play:&nbsp;<strong><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" class="" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.moe.pgp</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I have downloaded the PG app but experiencing<strong>&nbsp;Error / Access issues</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please be assured that your child / ward’s record is successfully registered
+with our school. Due to the mass numbers of P1 registrants nationwide,
+it would take time for backend data to sync and update into the PG application.</p>
+<p></p>
+<p>Kindly keep PG in your phone and try logging in again at the end of Dec
+2021. Should you continue to have error / access issues, please contact
+our school.</p>
+<p></p>
+<p>For FAQs on PG:&nbsp;<strong><a href="https://pg.moe.edu.sg/faq" class="" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Group Personal Accident (GPA) Insurance Plan for Students</strong></h4>
+<p>All MOE-Registered pupils in CPS are covered by NTUC Income Insurance
+under the Group Personal Accident (GPA) Insurance for students.&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Vendor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NTUC Income Insurance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" class="" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | NTUC Income</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>eSubmission of claims</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://studentgpa.incomegroupins.com.sg/#/" class="" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
