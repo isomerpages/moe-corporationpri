@@ -216,9 +216,7 @@ curriculum or pedagogical leadership roles from 2024 onwards!</p>
 </tbody>
 </table>
 <p>Yours Sincerely,</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/School Info/mr_muhammad_fadylla_b_rashiman_new.jpg">
-</div>
+<p></p>
 <p>Muhammad Fadylla Rashiman (Mr)
 <br>Principal</p>
 <p></p>
