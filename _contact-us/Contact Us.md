@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Via&nbsp;<strong>AskGov</strong></h2>
-<p>Got a question? Use our Q&amp;A Portal via <a href="https://ask.gov.sg/cps" rel="noopener noreferrer nofollow" target="_blank">ask.gov.sg/cps</a>
+<p>Got a question? Use our Q&amp;A Portal via <a href="https://ask.gov.sg/cps" rel="noopener noreferrer nofollow" target="_blank">ask.gov.sg/cps</a> 
 <br>Powered by:
 <br>
 </p>
