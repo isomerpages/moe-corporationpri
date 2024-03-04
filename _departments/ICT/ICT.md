@@ -3,28 +3,27 @@ title: ICT
 permalink: /departments/ICT/ict/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
-
-
 ICT
 ===
 
-**Vision:** Nurturing Responsible Digital Learners, Empowering Teachers as Digital Curators.
+**Vision:**&nbsp;Nurturing Responsible Digital Learners, Empowering Teachers as Digital Curators.
 
   
 
-**Mission:** To create an ICT learning environment which inspires students and staff to deepen learning and develop 21st Century Competencies.
+**Mission:**&nbsp;To create an ICT learning environment which inspires students and staff to deepen learning and develop 21st Century Competencies.
 
-The school ensures students exhibit adequate level of self-directed and collaborative skills. We develop programmes that uncover the joy of learning among our students using technology. The school will equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of ICT. 
+The school ensures students exhibit adequate level of self-directed and collaborative skills. We develop programmes that uncover the joy of learning among our students using technology. The school will equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of ICT.&nbsp;
 
   
 
-In 2023, the use of the [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login), Baseline ICT Standards New Media Literacies and Cyber Wellness are our main focus in the use of ICT in teaching and learning.
+In 2024, the use of the&nbsp;[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login), Baseline ICT Standards New Media Literacies and Cyber Wellness are our main focus in the use of ICT in teaching and learning.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKIHRVWxYPI" title="What is Student Learning Space?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eKIHRVWxYPI" title="What is Student Learning Space?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ![](/images/ICT.png)
-**Our pupils actively engaged in the ICT Challenge Week**
+**Our pupils actively engaged in the Cyber Positive Stars Week**
 
 **Useful Websites for Parents**
 <style type="text/css">
