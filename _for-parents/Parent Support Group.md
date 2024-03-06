@@ -10,7 +10,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdk__IFipoJX8d1_wXCPoWIJ5Fiz_sVFMD37WGT7A-Zpz0h8qzag2aN-8pSgCzcvyJv-pxjWwonoLw/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Parents Support Group (PSG) EXCO Members</h4>
+<h4>Parent Support Group (PSG) EXCO Members</h4>
 <table>
 <tbody>
 <tr>
@@ -97,9 +97,9 @@ Our mission is to actively engage in this shared responsibility, collaborating
 closely with the teachers to assist the students at Corporation Primary
 School in honing their talents and achieving their full potential.</p>
 <h4>Join our Parent Support Group Family</h4>
-<p>We invite you to consider joining our Parents Support Group (PSG). If
-your child or ward is currently attending Corporation Primary School, and
-you have a keen interest in volunteering within our school community, kindly
+<p>We invite you to consider joining our Parent Support Group (PSG). If your
+child or ward is currently attending Corporation Primary School, and you
+have a keen interest in volunteering within our school community, kindly
 submit your PSG application through the online form by scanning the QR
 code below. Your involvement can make a meaningful difference in supporting
 the holistic development of our students.</p>
