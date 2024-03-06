@@ -104,3 +104,7 @@ submit your PSG application through the online form by scanning the QR
 code below. Your involvement can make a meaningful difference in supporting
 the holistic development of our students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2024_PSG_QR_Code_1_.jpg">
+</div>
+<p></p>
