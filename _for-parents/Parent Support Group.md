@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <hr>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdk__IFipoJX8d1_wXCPoWIJ5Fiz_sVFMD37WGT7A-Zpz0h8qzag2aN-8pSgCzcvyJv-pxjWwonoLw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdk__IFipoJX8d1_wXCPoWIJ5Fiz_sVFMD37WGT7A-Zpz0h8qzag2aN-8pSgCzcvyJv-pxjWwonoLw/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Parents Support Group (PSG) EXCO Members</h4>
 <table>
