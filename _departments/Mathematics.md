@@ -242,6 +242,6 @@ improvements in their learning.</p>
 </p>
 <p>2021 Mathematics Syllabus (Primary 1 to 4), Implementation starting from
 2021 Primary 1 Cohort:&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf</a>
 </p>
 <p></p>
