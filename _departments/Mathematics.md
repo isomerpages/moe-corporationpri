@@ -64,8 +64,12 @@ on the learning in the classroom. Journals can mainly be investigative,
 affective and procedural in nature.</p>
 <p><strong>4. Infusion of Mathematics in Authentic Real-Life Situations</strong>
 </p>
-<p><strong>-Level Engagement Tasks (P1 - P6)</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Level Engagement Tasks (P1 - P6)</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023c.jpg">
 </div>
@@ -74,8 +78,12 @@ authentic learning tasks and to promote the joy of learning, Level Engagement
 Tasks are done in every level. The tasks aim to allow students to have
 a strong conceptual understanding in Mathematics as they experience the
 application of Mathematics in real-life contexts.</p>
-<p><strong>-P1 Shopping Trip to IMM</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>P1 Shopping Trip to IMM</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023d.jpg">
 </div>
@@ -86,8 +94,12 @@ trip, the students will be involved in planning and budgeting for the items
 that need to be purchased for the party. This experience provides students
 an opportunity to apply the concept of money in a real-life situation and
 at the same time develop financial literacy and collaborative skills.</p>
-<p><strong>-P5 Open-Ended Task - Making of a Math Game</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>P5 Open-Ended Task - Making of a Mathematics Game</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023e.jpg">
 </div>
@@ -136,7 +148,7 @@ a small group setting.</p>
 <p>The MOE ICAN Mathematics learning aims to improve the students’ confidence
 level in numeracy. This programme is for selected classes and it provides
 students a systematic approach to learning Mathematics.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>8. Stretch Programme</strong>
 </p>
 <p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>E2K Mathematics</strong>
@@ -185,38 +197,52 @@ various mathematical concepts. Stay tuned for more updates!</p>
 <h2><strong>How can you support your child in the learning of Mathematics?</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work on their factual fluency
-(eg. Times table, division etc)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daily exposure to Mathematics
-word problems (Practice 5 questions per day) and variety of questions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage your child to complete
-his/her Mathematics homework diligently</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Link learning Mathematics
-to real-life experiences at home (eg. discount coupons, newspapers, advertisements
-etc)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor your child’s learning
-process at home</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use Koobits for self-study</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Revise topics from previous
-years (Mathematics is spiral in nature and therefore there is a need to
-have a strong foundation.)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discuss with your child’s
-Mathematics teacher on your child’s progress</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage your child to have
-a Growth Mindset (e.g Asking for help is never something to be afraid of,
-The Power of Yet, Overcoming the fear of failure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Celebrate little success!
-Praise your child for their effort and small improvements in their learning.</p>
+<p>Work on their factual fluency (eg. Times table, division etc)</p>
+</li>
+<li>
+<p>Daily exposure to Mathematics word problems (Practice 5 questions per
+day) and variety of questions</p>
+</li>
+<li>
+<p>Encourage your child to complete his/her Mathematics homework diligently</p>
+</li>
+<li>
+<p>Link learning Mathematics to real-life experiences at home (eg. discount
+coupons, newspapers, advertisements etc)</p>
+</li>
+<li>
+<p>Monitor your child’s learning process at home</p>
+</li>
+<li>
+<p>Use Koobits for self-study</p>
+</li>
+<li>
+<p>Revise topics from previous years (Mathematics is spiral in nature and
+therefore there is a need to have a strong foundation.)</p>
+</li>
+<li>
+<p>Discuss with your child’s Mathematics teacher on your child’s progress</p>
+</li>
+<li>
+<p>Encourage your child to have a Growth Mindset (e.g Asking for help is
+never something to be afraid of, The Power of Yet, Overcoming the fear
+of failure)</p>
+</li>
+<li>
+<p>Celebrate little success! Praise your child for their effort and small
+improvements in their learning.</p>
 </li>
 </ul>
 <p><strong>For Parents’ Reference</strong>
 </p>
 <p><strong>MOE Mathematics syllabus:</strong>
 </p>
-<p>2013 Mathematics Syllabus (Primary 1 to 6):&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx</a>
+<p>2013 Mathematics Syllabus (Primary 1 to 6):&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx</a>
 </p>
 <p>2021 Mathematics Syllabus (Primary 1 to 4), Implementation starting from
-2021 Primary 1 Cohort:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx</a>
+2021 Primary 1 Cohort:&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx</a>
 </p>
 <p><a href="https://www.corporationpri.moe.edu.sg/departments/english/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
