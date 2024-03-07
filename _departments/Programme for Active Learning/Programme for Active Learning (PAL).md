@@ -17,6 +17,12 @@ and develop social-emotional competencies.</p>
 achieve specific CCE Learning Outcomes (LO) identified for each level.</p>
 <p><strong><u>Identified CCE Learning Outcomes for PAL</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PAL/P1_learning_outcomes.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/PAL/P2_learning_outcomes.jpg">
+</div>
 <p>Students are given numerous opportunities to develop their social-emotional
 competencies by expressing their thoughts and feelings during PAL lessons.
 They are guided to reflect on what they have learnt for each lesson.</p>
