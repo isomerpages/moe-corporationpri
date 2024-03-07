@@ -238,11 +238,10 @@ improvements in their learning.</p>
 <p><strong>MOE Mathematics syllabus:</strong>
 </p>
 <p>2013 Mathematics Syllabus (Primary 1 to 6):&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx</a>
 </p>
 <p>2021 Mathematics Syllabus (Primary 1 to 4), Implementation starting from
 2021 Primary 1 Cohort:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx</a>
 </p>
-<p><a href="https://www.corporationpri.moe.edu.sg/departments/english/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
+<p></p>
