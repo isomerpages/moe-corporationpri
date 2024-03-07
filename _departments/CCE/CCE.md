@@ -102,6 +102,9 @@ important points in Singapore’s history. A variety of activities are planned
 for these 4 events, including assembly programmes and activity booths during
 lunch periods.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Total_Defence_Day.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Racial_Harmony_Day.jpg">
 </div>
 </li>
