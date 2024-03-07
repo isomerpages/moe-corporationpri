@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_Vision_Mission.jpg">
 </div>
-<p><strong>2)&nbsp;&nbsp; &nbsp;Desired Behaviour of a CPS student</strong>
+<p><strong>2)&nbsp;&nbsp; &nbsp;Desired Behaviour of a CPS student</strong> 
 <br>At the end of six years, every CPS student shall be a RICHER student:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/RICHER.jpg">
@@ -137,15 +137,15 @@ that CPS students can contribute to the society in his/her individual capacity.
 Through VIA, students will be able to exercise social responsibility in
 their spheres of influence and play their part through meaningful contribution
 to the community.</p>
-<p><strong>Values in Action Lessons in CCE (FTGP):  </strong>
+<p><strong>Values in Action Lessons in CCE (FTGP):</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/VIA.jpg">
 </div>
 <p></p>
-<p><strong>Playing an Active Role in my Community for Upper Primary students: </strong>
+<p><strong>Playing an Active Role in my Community for Upper Primary students:</strong>
 </p>
-<p><strong>P6 Service Learning at All Saints Home (Jurong East) </strong>
+<p><strong>P6 Service Learning at All Saints Home (Jurong East)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/P6_service_learning.jpg">
@@ -158,7 +158,7 @@ to the community.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Others</strong>
+<p><strong>5)</strong>&nbsp; &nbsp;&nbsp;<strong>Others</strong> 
 <br>&nbsp;Click&nbsp;<a href="/departments/CCE/MOESexualityEducationinSchools/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about MOE Sexuality Education in Schools.</p>
 <p></p>
