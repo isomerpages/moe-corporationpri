@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h1>Character and Citizenship Education – Programme for Active Learning</h1>
+<h1>Programme for Active Learning (PAL)</h1>
 <p>Programme for Active Learning (PAL) is part of the Character and Citizenship
 (CCE) curriculum for all Primary 1 and Primary 2 students. It offers hands-on
 and experiential learning through the domains of Sports and Games, Outdoor
