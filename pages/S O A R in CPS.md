@@ -2,10 +2,7 @@
 title: S O A R in CPS
 permalink: /departments/Programme-for-Active-Learning/soar/
 description: ""
-third_nav_title: Programme for Active Learning
 ---
-
-
 S.O.A.R in CPS
 ==============
 

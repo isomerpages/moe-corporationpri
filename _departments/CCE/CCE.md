@@ -3,154 +3,160 @@ title: CCE
 permalink: /departments/cce/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-CCE
-===
-**1)    School Vision, Mission, Values & CCE Vision and Mission**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">Corporation Primary School</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:bold">School Vision:</span><br>Nurturing Pupils who C.A.R.E to succeed</td>
-    <td class="tg-baqh"><span style="font-weight:bold">School Mission:</span><br>Providing holistic education to build character and develop talents in a<br> nurturing environment</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">School Values:</span><br>Respect, Integrity, Compassion, Humility, Endurance, Responsibility</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">CCE Vision:</span><br>Every CPS pupil, a RICHER pupil</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">CCE Mission:</span><br>To guide our CPS pupils with the right moral values so that they can contribute actively to the society</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:bold">CCE Goal:</span><br>To inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.</td>
-  </tr>
-</tbody>
-</table>
-
-**2)    Desired Behaviour of a CPS pupil**  
-At the end of 6 years, every CPS pupils shall be a **RICHER** pupil:
-<table class="iveo_table ive_eobj_center ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Raleway, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgba(248, 248, 248, 0.9); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 880px; height: 212px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0); width: 237px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Respect</b></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0); width: 642px;">We demonstrate kindness in word and deed, treating others as we would like to be treated.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Integrity</b></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);">We demonstrate moral courage and uprightness, being consistent in word and deed.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);">&nbsp;<b style="margin: 0px; outline: 0px; padding: 0px;">Compassion</b></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);">We demonstrate love and care for others through words and deeds.&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Humility&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);">We demonstrate the quality of being modest.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Endurance&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);">We demonstrate resilience in working towards goals and objectives set.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Responsibility</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: left; background-color: transparent; color: rgb(34, 34, 34); border: 1px solid rgb(0, 0, 0);">We demonstrate the ability to behave sensibly in ways that are expected of us.</td></tr></tbody></table>
-
-**3)    CCE Learning Outcome**  
-The Learning Outcome (LOs) of CCE state what we want our pupils to learn and attain. The CCE core values are embedded in the 8 LOs.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ie6a{background-color:rgba(248, 248, 248, 0.9);color:#222;font-family:serif !important;font-size:16px;font-weight:bold;
-  text-align:center;vertical-align:middle}
-.tg .tg-s4tv{background-color:rgba(248, 248, 248, 0.9);color:#222;text-align:left;vertical-align:top}
-.tg .tg-0e3i{background-color:rgba(248, 248, 248, 0.9);color:#222;font-family:serif !important;font-size:16px;font-weight:bold;
-  text-align:center;vertical-align:top}
-.tg .tg-sxzh{background-color:rgba(248, 248, 248, 0.9);color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ie6a"><span style="color:#222;background-color:transparent">LO1</span></th>
-    <th class="tg-s4tv"><span style="font-weight:normal">Acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0e3i">LO2</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Act with integrity and make responsible decisions that uphold moral principles</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0e3i">LO3</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Acquire social awareness and apply interpersonal skills to build and maintain positive relationships based on mutual respect</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ie6a"><span style="color:#222;background-color:transparent"> </span>LO4</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Be resilient and have the ability to turn challenges into opportunities</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0e3i"> LO5</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Take pride in our national identity, have a sense of belonging to Singapore and be committed to nation building</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ie6a"><span style="color:#222;background-color:transparent"> </span>LO6</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Value Singapore’s socio-cultural diversity, and promote social cohesion and harmony</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0e3i"> LO7</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Care for others and contribute actively to the progress of our community and nation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ie6a"><span style="color:#222;background-color:transparent"> </span>LO8</td>
-    <td class="tg-sxzh"><span style="color:#222;background-color:transparent">Reflect on and respond to community, national and global issues, as an informed and responsible citizen</span></td>
-  </tr>
-</tbody>
-</table>
-
-**4)**    **Broad overview of CCE Curriculum component:**![](/images/CCE%20Component.png)
-
-**5)**    **Our CCE Programmes:**  
-
-1) **Model Pupil Award** (P1 - P6 pupils) aims to recognise and reward pupils who consistently displayed the school’s 6 core values “RICHER” through their words and deeds. Deserving pupil who displayed exemplary behavior will receive a certificate and a beautiful collar pin for the value displayed.
-
-![](/images/CCE.png)
-
-2)    **Values Inculcation Programme** (P1 - P3 Pupils) aims to provide opportunities and platforms for pupils to display the values through their words and deeds. We hope to “catch” pupils doing the right deed anytime and anywhere in school. Pupils who have obtained the milestones of 10 stars, 20 stars, 30 stars or 40 stars will get a token and certificate of commendation.
-
-![](/images/vip.png)
-
-3)    **Values in Action** is a learning experience in Character and Citizenship Education (CCE) that enhance students’ development as socially responsible citizens through ownership of their contribution to the community. Through VIA, students will be able to exercise social responsibility in their spheres of influence and play their part through meaningful contribution to the community.
-
-| Level | Level of Impact | Activity |
-| --- | --- | --- |
-|  P1 | Home and Classroom  |  Use your Hands Day |
-|  P2 |  Home and Classroom |  Use your Hands Day |
-|  P3 | School  | School Canteen Clean up  |
-|  P4 | School | National Kidney Foundation- Champs VIA   
-|  P5 | Local Community  | Service Learning with St Joseph’s Home |
-| P6 | Local Community  | Service Learning with All Saints Home |
-| ALL | School | Daily Cleaning for 5mins |
-
-![](/images/VIA_P6_1.jpg)
-
-![](/images/VIA_P6_2.jpg)
-
-![](/images/VIA_P6_3.jpg)
-
-Residents from All Saints Home celebrating and knowing more about International Friendship Day with our P6 pupils via Zoom.
-
-![](/images/VIA_P5_1.jpg)
-
-![](/images/VIA_P5_2.jpg)
-
-Our P5 pupils teaching residents from St Joseph’s Home some simple handicrafts for International Friendship Day via Zoom.
-
-![](/images/VIA_P4_1.jpg)
-
-![](/images/VIA_P4_2.jpg)
-
-Our P4 pupils are listening attentively to the Virtual Health Talk conducted by National Kidney Foundation so that they can embark on the journey to create awareness on the importance of kidney health to their peers in school.
-
-![](/images/VIA_P3_1.jpg)
-Our P3 pupils doing their canteen clean up after their lunch break to keep our school clean.
-
-4)    CPS’s create **National Education** experiences through 4 Commemorative Events. These commemorative days are linked to important points in Singapore’s history. We have assembly programmes planned for each events. Social Studies and CCE MT teachers will also conduct lessons to teach pupils the importance of these 4 commemorative events and there are interesting activities and quizzes for pupils to participate in class.
-
-![](/images/VIA.png)
-Assembly programme in class during International Friendship Day.
-
-**6)**    **Others**  
- Click [here](/departments/CCE/MOESexualityEducationinSchools/) to find out more about MOE Sexuality Education in Schools.
+<h1>Character and Citizenship Education</h1>
+<p><strong>1)&nbsp;&nbsp; &nbsp;School Vision, Mission, Values &amp; CCE Vision and Mission</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_Vision_Mission.jpg">
+</div>
+<p><strong>2)&nbsp;&nbsp; &nbsp;Desired Behaviour of a CPS student</strong> 
+<br>At the end of six years, every CPS student shall be a RICHER student:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/RICHER.jpg">
+</div>
+<p><strong>3)&nbsp;&nbsp; &nbsp;CCE in the Classroom:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_in_classroom.jpg">
+</div>
+<p>CCE lessons in school comprise CCE (Form Teacher Guidance Period), or
+CCE (FTGP), CCE (Mother Tongue Language), or CCE (MTL), and Programme for
+Active Learning (PAL) at lower primary.</p>
+<p>The Social Studies (SS) curriculum complements the CCE curriculum in nurturing
+citizenship dispositions. During SS lessons, students learn and understand
+what it means to be a citizen of a country and the world.</p>
+<p><strong>4)</strong>&nbsp; &nbsp;&nbsp;<strong>Our CCE Programmes:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>CCE Ambassadors</strong> are selected in each Primary 1 to Primary
+6 class, who are chosen based on good character and can be a positive role
+model to their classmates and schoolmates. CCE Ambassadors take charge
+of the Appreciation Corner and Monthly Birthday Celebrations in their classes.</p>
+<p>For the P4 to P6 CCE Ambassadors, they may be tasked to provide assistance
+to the 4 National Education events, such as increasing awareness and engagement
+in their respective classes and assisting teachers in implementation of
+activities during their lunch periods. The P4 to P6 CCE Ambassadors also
+provide guidance to the younger P1 to P3 CCE Ambassadors in carrying out
+their responsibilities.</p>
+</li>
+<li>
+<p><strong>In The Know</strong> is a monthly sharing during pre-assembly on
+newspaper articles related to our RICHER values and contemporary issues.
+Interesting occupations that are relevant in the 21st century are also
+shared to allow our students to explore different career paths and gain
+insights on possibilities in their education pathways. This programme aims
+to spark the students’ curiosity and develop our students to be self-directed
+lifelong learners.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/In_the_know_sharing.jpg">
+</div>
+</li>
+<li>
+<p><strong>Values-based Lessons</strong> conducted during FT Time aim to teach
+our P1 to P3 students the school’s RICHER values explicitly. The RICHER
+values are taught through stories which help our students to understand
+ways to demonstrate the values. P1 values-based lessons focus on understanding
+of the values and sharing of personal experiences while P2 and P3 values-based
+lessons focus on commitment of students to display the values through their
+actions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_mascot.jpg">
+</div>
+</li>
+<li>
+<p><strong>Values Inculcation Programme (VIP) </strong>aims to encourage
+our students to display the RICHER values through their words and deeds.
+For our P1 and P2 students, stickers are awarded when they are seen doing
+good deeds out of their own initiative. Students who obtain milestones
+of 10, 40, 80 or 100 stars will receive a token and/or a certificate of
+commendation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/VIP_card_and_stickers.jpg">
+</div>
+<p>VIP Champion Class certificates are awarded to one P1 and P2 class on
+a termly basis to recognise students who have obtained the most number
+of stickers received as a class. VIP Moments certificates are also awarded
+to P1 to P6 students who display commendable or extraordinary actions that
+show good values. These certificates are presented during pre-assembly.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/VIP_class_and_certificate.jpg">
+</div>
+</li>
+<li>
+<p><strong>RICHER Award</strong> aims to recognise our P3 to P6 students who
+demonstrate our RICHER values consistently through their actions and deeds.
+It is awarded at the end of Semester 1 to a student from each P3 to P6
+class and awardees will receive a certificate and a badge. The good deeds
+demonstrated by the awardees are also conveyed to the school as good examples
+for other students to learn the various ways in demonstrating the school’s
+RICHER values.</p>
+</li>
+<li>
+<p>CPS creates <strong>National Education</strong> experiences through the
+4 commemorative events – Total Defence Day, International Friendship Day,
+Racial Harmony Day and National Day. These 4 commemorative events mark
+important points in Singapore’s history. A variety of activities are planned
+for these 4 events, including assembly programmes and activity booths during
+lunch periods.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Total_Defence_Day.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Racial_Harmony_Day.jpg">
+</div>
+</li>
+<li>
+<p><strong>Education and Career Guidance (ECG)</strong> is one of the six
+curriculum content areas in CCE. Students are provided opportunities to
+explore interesting occupations relevant in the 21st century and explore
+various education pathways. ECG is infused into the P5 and P6 FTGP curriculum
+for students to explore the MySkillsFuture student portal during FTGP lessons
+and at home.</p>
+<p>In 2023, <strong>P4 Career Conversations</strong> was piloted for the P4
+students to have conversations with working professionals to find out more
+about their occupations and industries. The school invited working professionals
+to introduce and explain more about their jobs, what they do daily, and
+the education pathways required to acquire the jobs. The students asked
+questions to discover more about the different occupations and were exposed
+to a variety of industries.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Career_Conversations.jpg">
+</div>
+</li>
+<li>
+<p><strong>Values in Action (VIA)</strong> is a learning experience in Character
+and Citizenship Education (CCE) that enhances students’ development as
+socially responsible citizens through ownership of their contributions
+to the community. In Corporation Primary School, students are given an
+opportunity to choose and have a voice in what they believe will make a
+difference in the community. This is in line with our school’s philosophy
+that CPS students can contribute to the society in his/her individual capacity.
+Through VIA, students will be able to exercise social responsibility in
+their spheres of influence and play their part through meaningful contribution
+to the community.</p>
+<p><strong>Values in Action Lessons in CCE (FTGP):</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/VIA.jpg">
+</div>
+<p></p>
+<p><strong>Playing an Active Role in my Community for Upper Primary students:</strong>
+</p>
+<p><strong>P6 Service Learning at All Saints Home (Jurong East)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/P6_service_learning.jpg">
+</div>
+<p><strong>P5 Service Learning and Activities with St Joseph’s Home</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/P5_service_learning.jpg">
+</div>
+<p></p>
+</li>
+</ol>
+<p></p>
+<p></p>

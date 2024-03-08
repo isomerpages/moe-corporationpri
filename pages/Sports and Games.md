@@ -2,9 +2,7 @@
 title: Sports and Games
 permalink: /departments/Programme-for-Active-Learning/sportsandgames/
 description: ""
-third_nav_title: Programme for Active Learning
 ---
-
 Sports and Games
 ================
 
