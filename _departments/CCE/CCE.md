@@ -158,7 +158,5 @@ to the community.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>5)</strong>&nbsp; &nbsp;&nbsp;<strong>Others</strong> 
-<br>&nbsp;Click&nbsp;<a href="/departments/CCE/MOESexualityEducationinSchools/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-find out more about MOE Sexuality Education in Schools.</p>
+<p></p>
 <p></p>
