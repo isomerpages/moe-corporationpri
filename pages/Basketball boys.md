@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlwVpkN9srdJ-TOgd694CAjY8g8AzH7fIoeRuKzt__lZpCl9lLVyJIign47SojflA2LmT361c_mlb-/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlwVpkN9srdJ-TOgd694CAjY8g8AzH7fIoeRuKzt__lZpCl9lLVyJIign47SojflA2LmT361c_mlb-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <table>
