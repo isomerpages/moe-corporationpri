@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCAs.md
       - Departments.md
       - English.md
       - Mathematics.md
