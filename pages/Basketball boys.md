@@ -58,7 +58,8 @@ both on and off the court.</p>
 Not only did I improve my skills on the court, but I also gained lifelong
 friends and learned the value of teamwork. The coaches are dedicated and
 supportive, pushing us to be the best version of ourselves both on and
-off the court." - Sanjay from Responsibility 6</p>
+off the court."</p>
+<p>Sanjay from Responsibility 6</p>
 <p></p>
 <p>"Being part of the basketball CCA has taught me valuable life lessons
 beyond the game itself. It's taught me how to handle pressure, overcome
