@@ -50,6 +50,15 @@ both on and off the court.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Students' voices</strong>
 </p>
 </td>
@@ -68,15 +77,6 @@ of achievement I feel after each game or training session is indescribable,
 and I'm grateful for the opportunities this CCA has given me to grow and
 develop as both an athlete and a person."</p>
 <p>Akshath from Responsibility 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Achievements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
