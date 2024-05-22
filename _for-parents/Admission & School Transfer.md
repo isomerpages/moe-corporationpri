@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Admission &amp; School Transfer</h1>
-<h3><strong>2023 P1 Registration Exercise</strong></h3>
+<h3><strong>2024 P1 Registration Exercise</strong></h3>
 <hr>
 <p>Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident
 (PR) child born between 2 January 2018 and 1 January 2019 (both dates inclusive)
@@ -65,7 +65,7 @@ year. https://www.moe.gov.sg/international-students/s-aeis</p>
 <p>Pupil is accompanying parent on an overseas posting</p>
 </li>
 </ul>
-<p>To apply:&nbsp;<a href="https://go.gov.sg/cps-loa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cps-loa</a>
+<p>To apply:&nbsp;<a href="https://go.gov.sg/cps-loa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cps-loa</a> 
 <br>&nbsp;For more information:&nbsp;https://www.moe.gov.sg/returning-singaporeans</p>
 <p><strong>Compulsory Education</strong>
 </p>
