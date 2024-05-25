@@ -171,29 +171,88 @@ critical and logical thinking skills.</p>
 <br>&nbsp; &nbsp; &nbsp;- River Valley Mathematics Challenge (RVMC)
 <br>&nbsp; &nbsp; &nbsp;- NUS High (NMOS)
 <br>&nbsp; &nbsp; &nbsp;- Annual Mathlympics</p>
-<p><strong>9. Mathematics Week (T2W10)</strong>
+<p><strong>9. Mathematics Week (T2W9 to T2W10)</strong>
 </p>
-<p>Our inaugural Mathematics Week will take place during Term 2 Week 10 this
-year. Through the various school wide activities planned, the department
+<p>Our inaugural Mathematics Week took place during Term 2 Week 9 and 10
+this year. Through the various school wide activities planned, the department
 aims to instill lifelong learning of Mathematics in our students. Students
-will get to participate in assembly programmes, lunch activities and class
-activities that help to extend their mathematics knowledge to authentic
-situations. Students will get to experience the joy of learning Mathematics
-beyond the syllabus and be empowered to engage in self-directed learning.
-Stay tuned for more updates!</p>
+participated in assembly programmes – Saving Smart by POSB, Cashless Payment,
+Math Magic Show, and lunch activities where games were created in-house
+by our very own P5 students. Students experienced the joy of learning Mathematics
+beyond the syllabus and were empowered to engage in self-directed learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week__T2W9_to_T2W10__Picture1.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math Magic Show during Assembly</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Game booths during Lunch. Games were made by our very own P5 students.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week__T2W9_to_T2W10__Picture2.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interactive ATMs by POSB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing on Cashless Payment</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>10. Mathematics is Fun Lunch Activities (T2 onwards)</strong>
 </p>
-<p>This year, the department is also kickstarting our Mathematics is Fun
-Lunch Activities. We are engaging students in purposeful play during their
-lunches as a way to increase their motivation in learning Mathematics.
-The department has come up with a series of fun and engaging Mathematics
-card games&nbsp;which will be conducted during&nbsp;lunch every week starting
-from Term 2. We hope the students will find learning Mathematics enjoyable
-through these games. We will also gather our students’ feedback and get
-them to suggest ideas of other Mathematics activities that they would want
-to participate in school. This helps us to listen to the students’ voices
-and giving them the empowerment and inspiration to continue to understand
-various mathematical concepts. Stay tuned for more updates!</p>
+<p>This year, the department also kickstarted our Mathematics is Fun lunch
+activities. We engage students in purposeful play during their lunches
+as a way to increase their motivation in learning Mathematics.</p>
+<p>The department has come up with a series of fun and engaging Mathematics
+card games for the different levels. We hope the students will find learning
+Mathematics enjoyable through these games. Students have fun playing the
+games and exchanging their stamp cards with a token of participation.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_is_Fun_lunch_activities_pic1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_is_Fun_lunch_activities_pic2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h2><strong>How can you support your child in the learning of Mathematics?</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
