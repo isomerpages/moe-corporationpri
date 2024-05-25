@@ -167,7 +167,7 @@ mathematical thinking skills through solving routine and non-routine problems
 based on different mathematical topics that require them to exercise their
 critical and logical thinking skills.</p>
 <p>&nbsp; &nbsp; &nbsp;- Hwa Chong Institution (SMOPS)
-<br>&nbsp; &nbsp; &nbsp;- Raffles Instituition (RIPMWC)
+<br>&nbsp; &nbsp; &nbsp;- Raffles Institution (RIPMWC)
 <br>&nbsp; &nbsp; &nbsp;- River Valley Mathematics Challenge (RVMC)
 <br>&nbsp; &nbsp; &nbsp;- NUS High (NMOS)
 <br>&nbsp; &nbsp; &nbsp;- Annual Mathlympics</p>
