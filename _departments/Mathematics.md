@@ -181,9 +181,6 @@ Math Magic Show, and lunch activities where games were created in-house
 by our very own P5 students. Students experienced the joy of learning Mathematics
 beyond the syllabus and were empowered to engage in self-directed learning.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week__T2W9_to_T2W10__Picture1.png">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,20 +189,26 @@ beyond the syllabus and were empowered to engage in self-directed learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture1.jpg">
+</div>
 <p>Math Magic Show during Assembly</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Game booths during Lunch. Games were made by our very own P5 students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture2.jpg">
+</div>
+<p>Game booths during Lunch. Games were made by our very own P5 students.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week__T2W9_to_T2W10__Picture2.png">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -214,9 +217,17 @@ beyond the syllabus and were empowered to engage in self-directed learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture3.jpg">
+</div>
 <p>Interactive ATMs by POSB</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture4.jpg">
+</div>
 <p>Sharing on Cashless Payment</p>
 </td>
 </tr>
@@ -241,7 +252,7 @@ games and exchanging their stamp cards with a token of participation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_is_Fun_lunch_activities_pic1.jpg">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Mathematics_is_Fun_lunch_activities_pic1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
