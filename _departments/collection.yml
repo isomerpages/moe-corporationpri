@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Basketball boys.md
       - Departments.md
       - English.md
       - Mathematics.md
