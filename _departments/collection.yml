@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCAs/.keep
-      - Basketball boys.md
       - Departments.md
       - English.md
       - Mathematics.md
