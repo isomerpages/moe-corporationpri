@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCAs/Basketball boys.md
       - CCAs/.keep
       - Departments.md
       - English.md
