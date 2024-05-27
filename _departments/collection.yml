@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Visual & Performing Arts/.keep
       - CCA/CCA.md
       - CCA/Basketball boys.md
       - CCA/.keep
