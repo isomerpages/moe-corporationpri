@@ -51,7 +51,7 @@ all P3 to P6 pupils participate in one CCA.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p><strong>Visual &amp;<br>Performing Arts</strong>
+<p><strong>Visual &amp;<br>Performing Arts</strong> 
 <br>
 </p>
 </td>
