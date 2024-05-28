@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Basketball boys.md
       - CCA.md
