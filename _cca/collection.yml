@@ -2,6 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Physical sports/Basketball boys.md
-      - Physical sports/.keep
       - CCA.md
+      - Physical sports/.keep
+      - Physical sports/Basketball boys.md
