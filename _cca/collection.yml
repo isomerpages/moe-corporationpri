@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Physical sports/.keep
-      - Basketball boys.md
       - CCA.md
