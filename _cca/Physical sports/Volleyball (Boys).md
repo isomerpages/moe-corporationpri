@@ -69,22 +69,19 @@ as a team!</p>
 <td rowspan="1" colspan="1">
 <p><u>2022</u>
 <br>National School Games Volleyball 2022 (Senior Division Boys)
-<br>– National Champion</p>
-<p></p>
-<p>National School Games Volleyball 2022 (Senior Division)
+<br>– National Champion
+<br>National School Games Volleyball 2022 (Senior Division)
 <br>– 2nd place in tier 1</p>
 <p></p>
 <p><u>2023</u>
 <br>National School Games Volleyball 2023 (Senior Division Boys)
-<br>– 5th place in league 1</p>
-<p></p>
-<p>National School Games Volleyball 2023 (Junior Division Boys)
+<br>– 5th place in league 1
+<br>National School Games Volleyball 2023 (Junior Division Boys)
 <br>– Tier 1</p>
 <p><u>2024</u>
 <br>National School Games Volleyball 2024 (Senior Division)
-<br>– 5th place in League 2</p>
-<p></p>
-<p>National School Games Volleyball 2024 (Junior Division)
+<br>– 5th place in League 2
+<br>National School Games Volleyball 2024 (Junior Division)
 <br>– Tier 1</p>
 </td>
 </tr>
