@@ -72,7 +72,7 @@ friends and learned the value of teamwork. The coaches are dedicated and
 supportive, pushing us to be the best version of ourselves both on and
 off the court."</p>
 <p></p>
-<p>Sanjay from Responsibility 6</p>
+<p>Sanjay from Responsibility 6 (2024)</p>
 <p></p>
 <p>"Being part of the basketball CCA has taught me valuable life lessons
 beyond the game itself. It's taught me how to handle pressure, overcome
@@ -81,7 +81,7 @@ of achievement I feel after each game or training session is indescribable,
 and I'm grateful for the opportunities this CCA has given me to grow and
 develop as both an athlete and a person."</p>
 <p></p>
-<p>Akshath from Responsibility 1</p>
+<p>Akshath from Responsibility 1 (2024)</p>
 </td>
 </tr>
 </tbody>
