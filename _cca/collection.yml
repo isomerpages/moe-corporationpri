@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - Uniform Groups/Red Cross.md
       - Uniform Groups/Brownies.md
       - Uniform Groups/.keep
       - Physical sports/.keep
