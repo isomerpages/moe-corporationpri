@@ -22,10 +22,10 @@ third_nav_title: Physical sports
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Ang See Yuen</p>
-<p>Ms Tan Jin Li</p>
-<p>Ms Low Li Ying Elysia</p>
-<p>Ms Shima Shazwani Binte Noordin</p>
+<p>Ms Ang See Yuen
+<br>Ms Tan Jin Li
+<br>Ms Low Li Ying Elysia
+<br>Ms Shima Shazwani Binte Noordin</p>
 </td>
 </tr>
 <tr>
