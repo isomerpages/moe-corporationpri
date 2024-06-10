@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniform Groups/.keep
-      - CCA.md
       - Physical sports/.keep
       - Physical sports/Basketball (Boys).md
       - Physical sports/Basketball (Girls).md
