@@ -46,25 +46,27 @@ difficulties.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West-Zone Netball Competition 2014</p>
-<p>- 3rd Runners-up</p>
-<p>West-Zone Netball Competition 2015</p>
-<p>- 3rd Runners-up</p>
-<p>West-Zone Netball Competition 2016</p>
-<p>- 3rd Runners-up</p>
-<p>Main Cup at the Sports ALIVE carnival organized by Hong Kah Secondary
-School (2016)</p>
-<p>- Champion</p>
-<p>West-Zone Netball Competition 2017</p>
-<p>- 3rd Runners-up</p>
-<p>West-Zone Netball Competition 2018</p>
-<p>- 3rd Runners-up</p>
-<p>West-Zone Netball Competition 2019</p>
-<p>- 2nd Runners- up</p>
+<p>West-Zone Netball Competition 2014
+<br>- 3rd Runners-up
+<br>West-Zone Netball Competition 2015
+<br>- 3rd Runners-up
+<br>West-Zone Netball Competition 2016
+<br>- 3rd Runners-up
+<br>Main Cup at the Sports ALIVE carnival organized by Hong Kah Secondary
+School (2016)
+<br>- Champion
+<br>West-Zone Netball Competition 2017
+<br>- 3rd Runners-up
+<br>West-Zone Netball Competition 2018
+<br>- 3rd Runners-up
+<br>West-Zone Netball Competition 2019
+<br>- 2nd Runners- up</p>
 <p>Placed within top 16 teams in Singapore and participation in the National
-Netball Competition from 2014 to 2019</p>
-<p>Tier 4 Junior Netball National School Games</p>
-<p>- 2nd Runner Up</p>
+Netball Competition from 2014 to 2019.
+<br>
+</p>
+<p>Tier 4 Junior Netball National School Games
+<br>- 2nd Runner Up</p>
 </td>
 </tr>
 <tr>
