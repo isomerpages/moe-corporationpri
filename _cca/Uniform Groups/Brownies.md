@@ -105,8 +105,7 @@ me with is becoming a leader — in school, at home, and even in my own mind.</p
 <p>Our Brownie Motto is Lend a Hand. If you have a heart to serve, you should
 join the Brownies!"</p>
 <p></p>
-<p>Marlia Adda Sofea Marully Uhum</p>
-<p>from Responsibility 1 (2023)</p>
+<p>Marlia Adda Sofea Marully Uhum from Responsibility 1 (2023)</p>
 </td>
 </tr>
 </tbody>
