@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - CCA.md
-      - Physical sports/Volleyball (Boys).md
       - Physical sports/.keep
       - Physical sports/Basketball (Boys).md
       - Physical sports/Basketball (Girls).md
       - Physical sports/Football (Boys).md
       - Physical sports/Netball (Girls).md
+      - Physical sports/Volleyball (Boys).md
