@@ -9,7 +9,11 @@ third_nav_title: Physical sports
 <iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlwVpkN9srdJ-TOgd694CAjY8g8AzH7fIoeRuKzt__lZpCl9lLVyJIign47SojflA2LmT361c_mlb-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,19 +24,8 @@ third_nav_title: Physical sports
 <td rowspan="1" colspan="1">
 <p>MR LOGARAJAN S/O RAJOO</p>
 <p>MS PANG XIAO WEN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our mission is to spark joy in every student athlete by helping them discover
-their strengths in sports through tailored training programs and personalized
-coaching. We are committed to motivating each individual to achieve their
-full potential, both on and off the field, fostering a culture of excellence
-and sportsmanship within our community.</p>
+<p>MS CHAN JIA WEN</p>
+<p>MR KHOO RONG HUANG</p>
 </td>
 </tr>
 <tr>
@@ -78,6 +71,7 @@ Not only did I improve my skills on the court, but I also gained lifelong
 friends and learned the value of teamwork. The coaches are dedicated and
 supportive, pushing us to be the best version of ourselves both on and
 off the court."</p>
+<p></p>
 <p>Sanjay from Responsibility 6</p>
 <p></p>
 <p>"Being part of the basketball CCA has taught me valuable life lessons
@@ -86,7 +80,8 @@ adversity, and work towards a common goal with my teammates. The sense
 of achievement I feel after each game or training session is indescribable,
 and I'm grateful for the opportunities this CCA has given me to grow and
 develop as both an athlete and a person."</p>
-<p>Akshath from Responsibility 6</p>
+<p></p>
+<p>Akshath from Responsibility 1</p>
 </td>
 </tr>
 </tbody>
