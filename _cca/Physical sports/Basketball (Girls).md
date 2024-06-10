@@ -19,9 +19,9 @@ third_nav_title: Physical sports
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>MR ALEX LIM ZI KAI</p>
-<p>MS LAU SZE HUI</p>
-<p>MS UMA GAITRE</p>
+<p>Mr Alex Lim Zi Kai</p>
+<p>Ms Lau Sze Hui</p>
+<p>Ms Uma Gaitre</p>
 </td>
 </tr>
 <tr>
