@@ -22,9 +22,9 @@ third_nav_title: Clubs & Societies
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Shao Wei</p>
-<p>Ms Foo Kai Lin</p>
-<p>Ms Ma Xinyue</p>
+<p>Mr Ng Shao Wei
+<br>Ms Foo Kai Lin
+<br>Ms Ma Xinyue</p>
 </td>
 </tr>
 <tr>
