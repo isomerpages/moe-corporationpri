@@ -50,13 +50,18 @@ and confident team players.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Aid Championship 2022 - Commendation
+<p><u>2022</u>
+<br>First Aid Championship 2022 - Commendation
+<br>Excellent Unit Award 2022 - Gold</p>
+<p><u>2023</u>
 <br>First Aid Championship 2023 - Bronze
-<br>First Aid Championship 2024 - Bronze</p>
-<p>Excellent Unit Award 2022 - Gold
-<br>Excellent Unit Award 2023 - Gold
+<br>Excellent Unit Award 2023 - Gold</p>
+<p><u>2024</u>
+<br>First Aid Championship 2024 - Bronze
 <br>Excellent Unit Award 2024 - Gold
-<br>Our unit has achieved Gold for our Excellent Unit Award since 2016.</p>
+<br>
+</p>
+<p>Our unit has achieved Gold for our Excellent Unit Award since 2016.</p>
 </td>
 </tr>
 </tbody>
