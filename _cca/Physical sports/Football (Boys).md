@@ -49,12 +49,14 @@ discipline, teamwork, and sportsmanship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games 2023 Football Boys Senior Division</p>
-<p>- Quarter Finalist</p>
-<p>National School Games 2023 Football Boys Junior Division,</p>
-<p>- 2nd Placing in Tier 3</p>
-<p>National School Games 2022 Football Boys Senior Division</p>
-<p>- 1st Runner-Up in West Zone</p>
+<p><u>2023</u>
+<br>National School Games 2023 Football Boys Senior Division
+<br>- Quarter Finalist
+<br>National School Games 2023 Football Boys Junior Division,
+<br>- 2nd Placing in Tier 3</p>
+<p><u>2022</u>
+<br>National School Games 2022 Football Boys Senior Division
+<br>- 1st Runner-Up in West Zone</p>
 </td>
 </tr>
 <tr>
