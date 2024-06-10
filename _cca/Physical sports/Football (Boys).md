@@ -22,10 +22,10 @@ third_nav_title: Physical sports
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>PERLE HONG</p>
-<p>LI JIANWEN</p>
-<p>ONG YONG CHIN JOHN</p>
-<p>AMIRR HAMZAH</p>
+<p>Ms Perle Hong</p>
+<p>Mr Li Jianwen</p>
+<p>Mr Ong Yong Chin John</p>
+<p>Mr Amirr Hamzah</p>
 </td>
 </tr>
 <tr>
