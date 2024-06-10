@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/.keep
       - CCA.md
       - Physical sports/.keep
       - Physical sports/Basketball (Boys).md
