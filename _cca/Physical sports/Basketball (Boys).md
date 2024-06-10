@@ -22,10 +22,10 @@ third_nav_title: Physical sports
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Logarajan Rajoo</p>
-<p>Ms Pang Xiao Wen</p>
-<p>Ms Chan Jia Wen</p>
-<p>Mr Khoo Rong Huang</p>
+<p>Mr Logarajan Rajoo
+<br>Ms Pang Xiao Wen
+<br>Ms Chan Jia Wen
+<br>Mr Khoo Rong Huang</p>
 </td>
 </tr>
 <tr>
