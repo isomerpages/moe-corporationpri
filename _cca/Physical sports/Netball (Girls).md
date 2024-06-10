@@ -19,10 +19,10 @@ third_nav_title: Physical sports
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Rebecca Ko &nbsp;</p>
-<p>Ms Nasuha Idris</p>
-<p>Ms Uvalakshmi Jegatheesparan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Ms Michelle Tan Shu Ni</p>
+<p>Ms Rebecca Ko &nbsp;
+<br>Ms Nasuha Idris
+<br>Ms Uvalakshmi Jegatheesparan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Ms Michelle Tan Shu Ni</p>
 </td>
 </tr>
 <tr>
