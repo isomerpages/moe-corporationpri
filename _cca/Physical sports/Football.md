@@ -34,12 +34,13 @@ third_nav_title: Physical sports
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Established in 2014, our Basketball Boys CCA focuses on building strong
-foundations and teaching essential skills like shooting, passing, dribbling,
-and rebounding. Through engaging practice sessions, our players learn the
-value of teamwork, while also developing important social and leadership
-abilities. We're committed to nurturing well-rounded athletes who excel
-both on and off the court.</p>
+<p>In Football CCA, we aim to provide a platform to build confidence, nurture
+talents, and develop passion for the sport.</p>
+<p></p>
+<p>During training sessions, students develop their fitness and fundamental
+football skills including ball mastery, dribbling, passing, and shooting.
+We also focus on character building, by reiterating key values such as
+discipline, teamwork, and sportsmanship.</p>
 </td>
 </tr>
 <tr>
@@ -48,16 +49,12 @@ both on and off the court.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School games 2022 (Senior Division)</p>
-<p>- Top 8 in West Zone</p>
-<p>National School games 2022 (Junior Division)</p>
-<p>- 3rd placing in Tier 2</p>
-<p>National School games 2023 (Senior games)</p>
-<p>- 4th in preliminary round</p>
-<p>National School games 2023 (Junior Division)</p>
-<p>- 2nd in Tier 2</p>
-<p>Jurong Secondary School Basketball Invitational Tournament 2023</p>
-<p>- Champion</p>
+<p>National School Games 2023 Football Boys Senior Division</p>
+<p>- Quarter Finalist</p>
+<p>National School Games 2023 Football Boys Junior Division,</p>
+<p>- 2nd Placing in Tier 3</p>
+<p>National School Games 2022 Football Boys Senior Division</p>
+<p>- 1st Runner-Up in West Zone</p>
 </td>
 </tr>
 <tr>
@@ -66,20 +63,21 @@ both on and off the court.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Being part of the basketball CCA has been an incredible journey for me.
-Not only did I improve my skills on the court, but I also gained lifelong
-friends and learned the value of teamwork. The coaches are dedicated and
-supportive, pushing us to be the best version of ourselves both on and
-off the court."</p>
-<p>Sanjay from Responsibility 6</p>
+<p>"Football CCA has taught me that it is important to be disciplined. Through
+drills, I learned skills such as dribbling, passing, ball mastery, and
+shooting. My favourite part of training is when we get to play matches
+with friends. One memorable training session was when my team scored 4
+goals!"</p>
 <p></p>
-<p>"Being part of the basketball CCA has taught me valuable life lessons
-beyond the game itself. It's taught me how to handle pressure, overcome
-adversity, and work towards a common goal with my teammates. The sense
-of achievement I feel after each game or training session is indescribable,
-and I'm grateful for the opportunities this CCA has given me to grow and
-develop as both an athlete and a person."</p>
-<p>Akshath from Responsibility 6</p>
+<p>Vihaan Thakur from Humility 5 2024</p>
+<p></p>
+<p></p>
+<p>"I enjoy Football training because I get to learn new skills and apply
+them in matches. I will always remember the day I got to represent the
+school to play my first NSG game. Participating in NSG games has taught
+me a lot about respecting my opponents."</p>
+<p></p>
+<p>Mohamed Danish from Responsibility 1 2024</p>
 </td>
 </tr>
 </tbody>
