@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/Malay Dance.md
