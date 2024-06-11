@@ -60,9 +60,9 @@ experiences.</p>
 <p>"Chinese Dance is interesting and fun because we can learn and explore
 the Chinese Dance culture. In the Chinese Dance CCA, we learnt good things
 take time. We learn to be patient because we know we need ample time to
-loosen our muscles to become flexible, practice our dance steps agagin
-and again to perform a good dance performance in order to achieve a good
-result in SYF.</p>
+loosen our muscles to become flexible, practice our dance steps again and
+again to perform a good dance performance in order to achieve a good result
+in SYF.</p>
 <p>I like the team spirit in our dance CCA as we would always work together
 and try our best to make sure our dance steps are synchronize. We learnt
 to work together as a team to give a good performance."</p>
