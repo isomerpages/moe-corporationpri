@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Visual & Performing Arts/Hip Hop Dance.md
-      - Visual & Performing Arts/Malay Dance.md
-      - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Malay Dance.md
+      - Visual & Performing Arts/Hip Hop Dance.md
       - CCA.md
       - Physical sports/.keep
       - Physical sports/Basketball (Boys).md
