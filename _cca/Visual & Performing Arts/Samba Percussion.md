@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFrePY0r-vuVbGyCGPfOiQygwgS2y9kKVVXrzBq7raKCkWC2yeKVLamNd_G1OhF-gHZyEGnJ1ORpP0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,13 +61,13 @@ confident and appreciated as people like our performances. Playing the
 instruments with my members fosters a bond and I feel united every time
 we play together!"</p>
 <p></p>
-<p>Erwan Bin Johan from Responsibility 5 1 (2024)</p>
+<p>Erwan Bin Johan from Responsibility 5 (2024)</p>
 <p></p>
 <p>"I look forward to the lessons as I enjoy playing and learning the instrument.
 Initially, it was very challenging. I learn to pick up the skills and overcome
 the challenges."</p>
 <p></p>
-<p>Lee Jia Cheng from Responsibility1 (2024)</p>
+<p>Lee Jia Cheng from Responsibility 1 (2024)</p>
 </td>
 </tr>
 </tbody>
