@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+<div class="iframe-wrapper">
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4Bs6T_xAOBdNjGDU8CXcQtxE6QwPyry1lTqcv-PzyHVJuq2Tn8ERmRgwCLvxTTvZGunWDZxXT-2PP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
