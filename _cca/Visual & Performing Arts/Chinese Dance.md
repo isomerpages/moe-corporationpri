@@ -58,20 +58,18 @@ experiences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Chinese Dance is interesting and fun because we can learn and explore
-the Chinese Dance culture. In the Chinese Dance CCA, we learnt good things
-take time. We learn to be patient because we know we need ample time to
-loosen our muscles to become flexible, practice our dance steps again and
-again to perform a good dance performance in order to achieve a good result
-in SYF.</p>
-<p>I like the team spirit in our dance CCA as we would always work together
-and try our best to make sure our dance steps are synchronize. We learnt
-to work together as a team to give a good performance."</p>
+the Chinese dance culture. We learned that good things take time. We learn
+to be patient because we need to use ample time to loosen our muscles to
+become flexible and practice our dance steps consistently. I like the team
+spirit in our dance CCA, we always work together and try our best to synchronize
+our dance steps. We learned to work together as a team to give a good performance.”</p>
 <p></p>
 <p>Tzivya Chan Yee Rou from Endurance 1 (2024)</p>
 <p></p>
-<p>"Chinese Dance is a good CCA because we learnt we can give a good dance
-performance when we work together. Personally, I also learnt to be more
-responsible."</p>
+<p>“Chinese Dance is a good CCA because we learned that we can deliver a
+good dance performance when we work together. Personally, I also learned
+to be more responsible by practising dance moves consistently during my
+own free time.”</p>
 <p></p>
 <p>Wong Jun Kee from Endurance 1 (2024)</p>
 </td>
