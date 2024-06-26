@@ -66,9 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Mdm_Zhong_Yan_Jun_Lydia.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Zhong Yan Jun Lydia</strong>
