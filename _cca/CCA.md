@@ -43,8 +43,7 @@ all P3 to P6 pupils participate in one CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
-</p>
+<p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Dance</p>
