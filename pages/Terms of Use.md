@@ -9,13 +9,13 @@ description: ""
 accessing and using this Web Site, you shall be deemed to have accepted
 to be legally bound by these Terms of Use. If you do not agree to these
 Terms of Use, please do not use this Web Site.</p>
-<p><strong>General </strong>
+<p><strong>General</strong>
 </p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
 posted on this page and your use of this Web Site after such changes have
 been posted will constitute your agreement to the modified Terms of Use
 and all of the changes.</p>
-<p><strong>Proprietary Rights </strong>
+<p><strong>Proprietary Rights</strong>
 </p>
 <p>3. This Web Site is maintained by Corporation Primary School. It is owned
 by Corporation Primary School.</p>
@@ -24,10 +24,11 @@ software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Corporation Primary
 School.</p>
-<p><strong>Privacy Policy </strong>
+<p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click here to review this Web Site Privacy Statement.</p>
-<p><strong>Restrictions on Use of Materials </strong>
+<p>5. Click <a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
+<p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
@@ -42,13 +43,13 @@ other purpose will be a violation of Corporation Primary School’s copyright
 and other intellectual property rights. Graphics and images on this Web
 Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Corporation Primary School.</p>
-<p><strong>Right of Access </strong>
+<p><strong>Right of Access</strong>
 </p>
 <p>8. Corporation Primary School reserves all rights to deny or restrict
 access to this Web Site to any particular person, or to block access from
 a particular external address to this Web Site, at any time, without ascribing
 any reasons whatsoever.</p>
-<p><strong>Disclaimer of Warranties and Liability </strong>
+<p><strong>Disclaimer of Warranties and Liability</strong>
 </p>
 <p>9. The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, Corporation
@@ -65,7 +66,7 @@ or loss of any kind caused as a result (direct or indirect) of the use
 of the Web Site, including but not limited to any damage or loss suffered
 as a result of reliance on the Contents contained in or available from
 the Web Site.</p>
-<p><strong>Links from This Web Site to Other Web Sites </strong>
+<p><strong>Links from This Web Site to Other Web Sites</strong>
 </p>
 <p>11. This Web Site contains hyperlinks to web sites which are not maintained
 Corporation Primary School. Corporation Primary School is not responsible
@@ -76,7 +77,7 @@ access to such web sites are entirely at your own risk.</p>
 circumstances shall Corporation Primary School be considered to be associated
 or affiliated with any trade or service marks, logos, insignia or other
 devices used or appearing on web sites to which this Web Site is linked.</p>
-<p><strong>Links to This Web Site from Other Web Sites </strong>
+<p><strong>Links to This Web Site from Other Web Sites</strong>
 </p>
 <p>13. Except as set forth below, caching and links to, and the framing of
 this Web Site or any of the Contents are prohibited.</p>
@@ -103,7 +104,7 @@ intellectual property, proprietary, privacy or publicity rights.</p>
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
-<p><strong>Governing Law </strong>
+<p><strong>Governing Law</strong>
 </p>
 <p>19. These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
