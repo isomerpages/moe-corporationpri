@@ -35,7 +35,7 @@ all P3 to P6 pupils participate in one CCA.</p>
 <p></p><a class="isomer-image-wrapper" href="/cca/visual-performing-arts/chinese-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/White_and_Blue_Torn_Paper_Coming_Soon_Instagram_Post__3000_x_1080_px_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://corporationpri.moe.edu.sg/cca/visual-performing-arts/malay-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/cca/visual-performing-arts/malay-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://corporationpri.moe.edu.sg/cca/visual-performing-arts/hip-hop-dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/9.png"></a>
