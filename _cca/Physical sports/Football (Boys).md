@@ -23,9 +23,11 @@ third_nav_title: Physical sports
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Perle Hong
-<br>Mr Li Jianwen
+<br>Mr Amirr Hamzah
 <br>Mr Ong Yong Chin John
-<br>Mr Amirr Hamzah</p>
+<br>Mr Chin Joong Fui
+<br>Ms Siti Hajjar Binte Manshor
+<br>Ms Nazariah Binte Nasir</p>
 </td>
 </tr>
 <tr>
@@ -34,13 +36,11 @@ third_nav_title: Physical sports
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In Football CCA, we aim to provide a platform to build confidence, nurture
-talents, and develop passion for the sport.</p>
-<p></p>
-<p>During training sessions, students develop their fitness and fundamental
-football skills including ball mastery, dribbling, passing, and shooting.
-We also focus on character building, by reiterating key values such as
-discipline, teamwork, and sportsmanship.</p>
+<p>In the Football CCA, we aim to provide a platform to build confidence,
+nurture talents, and develop a passion for the sport. During training sessions,
+students enhance their fitness and fundamental football skills, including
+ball mastery, dribbling, passing, and shooting. We also focus on character
+building by reiterating key values such as discipline, teamwork, and sportsmanship.</p>
 </td>
 </tr>
 <tr>
@@ -65,19 +65,17 @@ discipline, teamwork, and sportsmanship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Football CCA has taught me that it is important to be disciplined. Through
-drills, I learned skills such as dribbling, passing, ball mastery, and
-shooting. My favourite part of training is when we get to play matches
-with friends. One memorable training session was when my team scored 4
-goals!"</p>
+<p>“Football CCA has taught me the importance of discipline. Through drills,
+I have learned skills such as dribbling, passing, ball mastery, and shooting.
+My favourite part of training is when we get to play matches with friends.
+One memorable training session was when my team scored four goals!”</p>
 <p></p>
 <p>Vihaan Thakur from Humility 5 2024</p>
 <p></p>
-<p></p>
-<p>"I enjoy Football training because I get to learn new skills and apply
+<p>“I enjoy football training because I get to learn new skills and apply
 them in matches. I will always remember the day I got to represent the
-school to play my first NSG game. Participating in NSG games has taught
-me a lot about respecting my opponents."</p>
+school and play my first NSG game. Participating in NSG games has taught
+me a lot about respecting my opponents.”</p>
 <p></p>
 <p>Mohamed Danish from Responsibility 1 2024</p>
 </td>
