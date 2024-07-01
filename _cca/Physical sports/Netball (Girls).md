@@ -31,13 +31,11 @@ third_nav_title: Physical sports
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball is a non-contact team sport for girls that develops players in
-terms of their speed, ball- handling skills and ability to think fast,
-adapt and make crucial decisions on court.</p>
-<p></p>
-<p>Through netball, players learn the importance of teamwork, selflessness,
-sacrifice and most importantly, the courage to persevere in the face of
-difficulties.</p>
+<p>Netball is a non-contact team sport for girls that develops players' speed,
+ball-handling skills, and ability to think fast, adapt, and make crucial
+decisions on the court. Through netball, players learn the importance of
+teamwork, selflessness, sacrifice, and, most importantly, the courage to
+persevere in the face of difficulties.</p>
 </td>
 </tr>
 <tr>
