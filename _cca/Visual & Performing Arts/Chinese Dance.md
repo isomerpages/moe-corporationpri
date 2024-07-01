@@ -33,11 +33,11 @@ third_nav_title: Visual & Performing Arts
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese dance CCA aims to nurture our members into passionate dancers
-and responsible leaders who learns to appreciate the Chinese culture through
-the different forms of Chinese dance. Our Chinese dancers put in many hours
-of hard work and achieved outstanding results. They exemplified the school
-values of endurance and responsibility. Our talented dancers were also
-invited to various external performances allowing them to gain precious
+and responsible leaders who learn to appreciate the Chinese culture through
+the different forms of Chinese dance. Our Chinese dancers have put in many
+hours of hard work and achieved outstanding results. They have also exemplified
+the school values of endurance and responsibility. Our talented dancers
+were invited to various external performances allowing them to gain precious
 experiences.</p>
 </td>
 </tr>
@@ -57,19 +57,20 @@ experiences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Chinese Dance is interesting and fun because we can learn and explore
-the Chinese dance culture. We learned that good things take time. We learn
-to be patient because we need to use ample time to loosen our muscles to
-become flexible and practice our dance steps consistently. I like the team
-spirit in our dance CCA, we always work together and try our best to synchronize
-our dance steps. We learned to work together as a team to give a good performance.”</p>
+<p>“Chinese Dance is interesting and fun because we can learn and explore
+the Chinese dance culture. We have learned that good things take time.
+We learn to be patient because we need to use ample time to loosen our
+muscles to become flexible and practise our dance steps consistently. I
+like the team spirit in our dance CCA, we always work together and try
+our best to synchronize our dance steps. We have learned to work together
+as a team to give a good performance.”</p>
 <p></p>
 <p>Tzivya Chan Yee Rou from Endurance 1 (2024)</p>
 <p></p>
-<p>“Chinese Dance is a good CCA because we learned that we can deliver a
-good dance performance when we work together. Personally, I also learned
-to be more responsible by practising dance moves consistently during my
-own free time.”</p>
+<p>“Chinese Dance is a good CCA because we have learned that we can deliver
+a good dance performance when we work together. Personally, I have also
+learned to be more responsible by practising dance moves consistently during
+my own free time.”</p>
 <p></p>
 <p>Wong Jun Kee from Endurance 1 (2024)</p>
 </td>
