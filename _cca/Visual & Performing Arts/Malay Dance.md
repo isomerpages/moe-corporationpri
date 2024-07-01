@@ -22,8 +22,7 @@ third_nav_title: Visual & Performing Arts
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Dian Fitriani
-<br>Ms Siti Shahirah
-<br>Mdm Nazariah Binte Nasir</p>
+<br>Ms Siti Shahirah</p>
 </td>
 </tr>
 <tr>
@@ -32,13 +31,13 @@ third_nav_title: Visual & Performing Arts
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Malay dance team is well-known in Corporation Primary School and has
-received numerous awards for the past Singapore Youth Festival competitions.
-As member of the team, students are exposed to the various traditional&nbsp;dance&nbsp;themes
-such as&nbsp;zapin, inang, joget, masri and&nbsp;asli.&nbsp;</p>
-<p>Throughout their journey as a Malay dancer, students learn values such
-as endurance, responsibility and humility as they learn the importance
-of working together as a team during their performance</p>
+<p>The Malay dance team is well-known at Corporation Primary School and has
+received awards in past Singapore Youth Festival competitions. As members
+of the team, students are exposed to various traditional dance themes such
+as zapin, inang, joget, masri, and asli. Throughout their journey as Malay
+dancers, students learn values such as endurance, responsibility, and humility
+as they understand the importance of working together as a team during
+their performances.</p>
 </td>
 </tr>
 <tr>
