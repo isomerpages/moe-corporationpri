@@ -23,7 +23,7 @@ third_nav_title: Visual & Performing Arts
 <td rowspan="1" colspan="1">
 <p>Mdm Faridah Ismail
 <br>Mr Stephen Toh Hong Wei
-<br>Ms Siti Hajjar Binte Manshor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Mdm Kwan Nee&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -32,17 +32,17 @@ third_nav_title: Visual & Performing Arts
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPS choir is a harmonious assembly of students who come together to express
-themselves through the power of music. Comprising voices from various grades
-and backgrounds, the choir cultivates teamwork, discipline, and creativity.
-Rehearsing diligently under the guidance of a skilled conductor, members
-refine their vocal techniques and learn to blend their voices seamlessly,
-producing captivating melodies and stirring harmonies.</p>
-<p>Through performances at school events, concerts, and competitions, the
-choir not only entertains but also fosters a sense of community and pride
-within the school. It's a space where individual talents converge to create
-something greater than the sum of its parts, leaving a lasting impact on
-both performers and audiences alike.</p>
+<p>The CPS choir is a harmonious assembly of students who come together to
+express themselves through the power of music. Comprising voices from various
+grades and backgrounds, the choir cultivates teamwork, discipline, and
+creativity. Rehearsing diligently under the guidance of a skilled conductor,
+members refine their vocal techniques and learn to blend their voices seamlessly,
+producing captivating melodies and stirring harmonies. Through performances
+at school events, concerts, and competitions, the choir not only entertains
+but also fosters a sense of community and pride within the school. It is
+a space where individual talents converge to create something greater than
+the sum of its parts, leaving a lasting impact on both performers and audiences
+alike.</p>
 </td>
 </tr>
 <tr>
@@ -61,22 +61,19 @@ both performers and audiences alike.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"I have made many friends being in Choir. It makes me feel less lonely.
-The experience was quite a bumpy ride – Covid 19, SYF – but Choir was able
-to pull through these problems with the help of our vocal coaches. They
-train us well and help us along the way with any problems. I am very grateful
-for joining Choir. We laughed until we had to cry, we loved right down,
-to our final goodbye, we were the best."</p>
+<p>“I have made many friends in Choir. The vocal coaches train us well and
+help us along the way with any problems. I am very grateful for joining
+Choir.”</p>
 <p></p>
 <p>Meryl Mary Gerin from Responsibility 2 (2024)</p>
 <p></p>
-<p>"My experience in Choir was very interesting. I made a lot of new friends.
-Choir was very fun. Everyone supports you and they are all very encouraging.
-I have gained a lot of things from Choir. For example, I have learnt different
-notes in a song. I have also learnt to work well as a team from this CCA.
-The vocal coach has guided me patiently and always encourage me to do better.
-I appreciate everything the teachers, vocal coach and choir members have
-done for me."</p>
+<p>“My experience in Choir was very interesting. I have made a lot of new
+friends. Being in Choir is very fun. Everyone supports you, and they are
+very encouraging. I have gained a lot from Choir. For example, I have learned
+different notes in a song. I have also learned to work well as a team from
+this CCA. The vocal coach has guided me patiently and always encourages
+me to do better. I appreciate everything the teachers, vocal coach, and
+choir members have done for me.”</p>
 <p></p>
 <p>Nicole Natcha Wongsomboon from Endurance 1 (2024)</p>
 </td>
