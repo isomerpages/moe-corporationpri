@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Physical sports
 ---
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpH8eHkcHIOuy2LZupe8ffDZTsiPhn_Rzn8akCskG9J9cp21pYf_JB8XMMXl1CosJijDHgo9mN8XbN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
