@@ -34,31 +34,31 @@ third_nav_title: Physical sports
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball has been in CPS since 2012. It is a team sport in which two
-teams of six players are separated by a high net. It requires cooperation
+<p>Volleyball has been part of CPS since 2012. It is a team sport in which
+two teams of six players are separated by a high net. It requires cooperation
 and communication among players. Through their active participation, our
-boys learnt how to synergize together towards a common goal, develop empathy
-for each other and understand the importance of teamwork.</p>
-<p></p>
+boys learn how to synergize towards a common goal, develop empathy for
+each other, and understand the importance of teamwork.</p>
+<p>&nbsp;</p>
 <p>Over the last 12 years, our boys have had tremendous opportunities to
 interact with one another in a positive and supportive environment. They
 have been learning how to communicate effectively during training sessions
 and continue to hone their volleyball skills through constructive feedback
 from each other as they grow stronger as a team.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Volleyball encourages our boys to be strategic and quick-thinking as they
-have to think quickly on their feet in the court to win points from their
-opponents. They learnt to analyze situations and adapt their gameplay throughout
+must think quickly on their feet in the court to win points from their
+opponents. They learn to analyse situations and adapt their gameplay throughout
 their matches. Volleyball brings joy and fulfilment to our boys as they
-reflect from their mistakes and embrace a growth mindset to bounce forward
-stronger as a team.</p>
-<p></p>
-<p>As a team, the teachers and coach believe in the strength of every player
-as each of them contribute positively to the holistic growth of the volleyball
-team in CPS. Our alumni volleyball boys lent their support from time to
-time as they reminisce their foundation years in volleyball from Corporation
-Primary School. Onward, CPS Volleyball boys as we grow and nurture together
-as a team!</p>
+reflect on their mistakes and embrace a growth mindset to bounce back stronger
+as a team.</p>
+<p>&nbsp;</p>
+<p>As a team, the teachers and coach believe in the strength of every player,
+as each of them contributes positively to the holistic growth of the volleyball
+team at CPS. Our alumni volleyball players lend their support from time
+to time as they reminisce about their foundation years in volleyball at
+Corporation Primary School. Onward, CPS volleyball boys, as we grow and
+nurture together as a team!</p>
 </td>
 </tr>
 <tr>
@@ -91,37 +91,37 @@ as a team!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Being part of the Volleyball CCA has taught me many things throughout
-my years in Volleyball. Teamwork is the most important value in the game.
-I have learnt to be a better leader through guiding and learning from my
-teammates.</p>
-<p>I am grateful for the guidance of the coaches and teachers who believed
-in us when we had doubts. The dedication and passion for the sports inspired
-us to push beyond our limits and instilled values that extend far beyond
-the court."</p>
+<p>“Being part of the Volleyball CCA has taught me many things throughout
+my years in volleyball. Teamwork is the most important value in the game.
+I have learned to be a better leader through guiding and learning from
+my teammates. I am grateful for the guidance of the coaches and teachers
+who believed in us when we had doubts. Their dedication and passion for
+the sport inspired us to push beyond our limits and instilled values that
+extend far beyond the court.”</p>
 <p></p>
 <p>Saw Wilmer from Responsibility 1 (2023)</p>
 <p></p>
-<p>"When I started out my CCA, I was disappointed initially as I did not
-get into my chosen CCA. It did not take long for me to realize that volleyball
-was indeed the best CCA for me as I have learnt so many life values from
-it.</p>
-<p></p>
-<p>In 2022, we emerged second in the Junior division as our senior team guided
-us well and taught us many important tips to score against our opponents.
+<p>“When I started my CCA, I was initially disappointed as I did not get
+into my chosen CCA. It did not take long for me to realize that volleyball
+was indeed the best CCA for me as I have learned so many life values from
+it. In 2022, we emerged second in the Junior division as our senior team
+guided us well and taught us many important tips to score against our opponents.
 I am thankful that we had experienced seniors who guided us and honed our
-skills. As a back court player in the school team, I learnt that if the
-front three players are unable to receive the ball, it will be my responsibility
-to save the ball and send it back to the front three players to spike and
-score a point. I have also learnt hard that losing a point is not the end
-of the game as we can always come back and score more points.</p>
-<p></p>
-<p>Having been in the school team for the last 3 years, our camaraderie has
-grown stronger and we have learnt from our mistakes from previous matches
-and we have learnt to overcome them in upcoming matches. After my P6 graduation,
-I hope to help my juniors excel in volleyball. My aspiration for the future
-school team is to bring the glory back to Corporation Primary in the next
-few years."</p>
+skills.</p>
+<p>&nbsp;</p>
+<p>As a backcourt player on the school team, I have learned that if the front
+three players are unable to receive the ball, it is my responsibility to
+save the ball and send it back to the front three players to spike and
+score a point. I have also learned that losing a point is not the end of
+the game as we can always come back and score more points.</p>
+<p>&nbsp;</p>
+<p>Having been on the school team for the last three years, our camaraderie
+has grown stronger.&nbsp; We have learned from our mistakes in previous
+matches and we overcome them in upcoming matches.</p>
+<p>&nbsp;</p>
+<p>After my P6 graduation, I hope to help my juniors excel in volleyball.
+My aspiration for the future school team is to bring glory back to Corporation
+Primary in the next few years.”</p>
 <p></p>
 <p>Kavin Karthik from Responsibility 1 (2024)</p>
 <p></p>
