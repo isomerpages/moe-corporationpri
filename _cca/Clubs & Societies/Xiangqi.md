@@ -23,8 +23,7 @@ third_nav_title: Clubs & Societies
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Shao Wei
-<br>Ms Foo Kai Lin
-<br>Ms Ma Xinyue</p>
+<br>Ms Foo Kai Lin</p>
 </td>
 </tr>
 <tr>
@@ -33,14 +32,13 @@ third_nav_title: Clubs & Societies
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xiangqi (Chinese Chess) CCA aims to instil game sportsmanship and inculcate
+<p>The Xiangqi (Chinese Chess) CCA aims to instil sportsmanship and inculcate
 values such as perseverance as students play against their peers. During
 practice sessions, students can hone life skills such as strategic planning
 and critical thinking as they encounter novel situations. Students find
-the practice sessions enriching as they can choose to play physical chess
-matches or use iPads to play virtual matches.</p>
-<p>We are committed to nurturing students and hope that they can apply these
-values and skills beyond the four walls of the classroom.</p>
+the practice sessions enriching as they can choose to play physical or
+virtual matches. We are committed to nurturing students and hope that they
+can apply these values and skills beyond the four walls of the classroom.</p>
 </td>
 </tr>
 <tr>
@@ -69,22 +67,25 @@ values and skills beyond the four walls of the classroom.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Xiangqi is fun! We look forward to Tuesdays as we can play friendly matches
-with our friends. In fact, Tuesday is my favourite day of every school
-week. The Xiangqi CCA has taught us about patience, critical thinking and
-strategic planning as we face players of different background.</p>
+<p>“Xiangqi is fun! We look forward to Tuesdays because we can play friendly
+matches with our friends. In fact, Tuesday is my favourite day of every
+school week. Xiangqi CCA has taught us about patience, critical thinking,
+and strategic planning as we face players from different backgrounds.</p>
+<p>&nbsp;</p>
 <p>The CCA also provides us with opportunities to participate in competitions,
-and we get to build friendship with students from other schools. What a
-refreshing experience! We will certainly recommend this CCA to our classmates!"</p>
+and we get to build friendships with students from other schools. What
+a refreshing experience! We will certainly recommend this CCA to our classmates!”</p>
 <p></p>
 <p>Chong Kei Lok and Foo Fang Quan from Endurance 1 and 5 respectively (2024)</p>
 <p></p>
-<p>"During the training sessions, we get to learn many basic techniques about
-Xiangqi. Through the CCA, we have built friendships. We appreciated that
+<p>“During the training sessions, we get to learn many basic techniques of
+Xiangqi. Through the CCA, we have built friendships. We appreciate that
 losing and winning are not the main focus of a game. It is the strengthening
-of friendship that counts. We also feel excited as we get to play matches
-with our subject teachers. During CCA, we get to use iPad to play virtual
-matches and gain experience. Come join us!"</p>
+of friendships that counts.</p>
+<p>&nbsp;</p>
+<p>We also feel excited as we get to play matches with our subject teachers.
+During CCA, we get to use iPads to play virtual matches and gain experience.
+Come join us!”</p>
 <p></p>
 <p>An Yi Jun Bena and Sim Zi Hui from Humility 3 and 6 respectively (2024)</p>
 </td>
