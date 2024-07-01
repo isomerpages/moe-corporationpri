@@ -24,8 +24,7 @@ third_nav_title: Clubs & Societies
 <td rowspan="1" colspan="1">
 <p>Mdm Zeng Lei
 <br>Ms Chua Lee Hong
-<br>Mr Chin Joong Fui
-<br>MrWesley Tan</p>
+<br>Mr Wesley Tan</p>
 </td>
 </tr>
 <tr>
@@ -36,13 +35,12 @@ third_nav_title: Clubs & Societies
 <td rowspan="1" colspan="1">
 <p>The Infocomm Club CCA is dedicated to igniting students' passion for learning
 by introducing them to new IT skills and fostering computational thinking
-from a young age. Through engaging activities, students will develop crucial
-abilities such as block-based programming and media production.</p>
-<p>Additionally, they will learn important values such as compassion and
-resilience as they assist each other in debugging codes and resolving conflicts
-during project creation. Guided by trainers and teachers, students will
-collaboratively apply their newfound knowledge to participate in various
-competitions and sharing events.</p>
+from a young age. Through engaging activities, students develop crucial
+abilities such as block-based programming and media production. Additionally,
+they learn important values such as compassion and resilience as they assist
+one another in debugging codes and resolving conflicts during project creation.
+Guided by trainers and teachers, students collaboratively apply their newfound
+knowledge to participate in various competitions and sharing events.</p>
 </td>
 </tr>
 <tr>
@@ -71,14 +69,15 @@ competitions and sharing events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"This coding CCA program has helped me to be more capable in things I
-used to have problems with. I can code my own game properly after learning
-coding and I made my mom and dad proud of me. I would like to continue
+<p>"This coding CCA programme has helped me become more capable in areas
+I used to struggle with. After learning coding, I can now code my own game
+properly, and I have made my mom and dad proud. I would like to continue
 learning coding!"</p>
 <p></p>
-<p>"I learnt to take photos from different angles and improve my photography
-skills during different lessons. I also learnt to post essays. I would
-like teachers to give us a chance to explore more on photography."</p>
+<p>"I have learned to take photographs from different angles and improve
+my photography skills during various lessons. I have also learned to post
+essays. I would like teachers to give us more opportunities to explore
+photography."</p>
 </td>
 </tr>
 </tbody>
