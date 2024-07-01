@@ -46,10 +46,50 @@ all P3 to P6 pupils participate in one CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/cca/visual-performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/cca/visual-performing-arts/samba-percussion/" rel="noopener noreferrer nofollow" target="_blank">Samba Percussion</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/cca/visual-performing-arts/young-artist-club/" rel="noopener noreferrer nofollow" target="_blank">Young Artist Club</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Physical Sports</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/physical-sports/basketball-girls/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Girls)</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/physical-sports/football/" rel="noopener noreferrer nofollow" target="_blank">Football (Boys)</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/cca/physical-sports/netball-girls/" rel="noopener noreferrer nofollow" target="_blank">Netball (Girls)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/cca/physical-sports/volleyball-boys/" rel="noopener noreferrer nofollow" target="_blank">Volleyball (Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
