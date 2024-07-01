@@ -124,7 +124,6 @@ My aspiration for the future school team is to bring glory back to Corporation
 Primary in the next few years.”</p>
 <p></p>
 <p>Kavin Karthik from Responsibility 1 (2024)</p>
-<p></p>
 </td>
 </tr>
 </tbody>
