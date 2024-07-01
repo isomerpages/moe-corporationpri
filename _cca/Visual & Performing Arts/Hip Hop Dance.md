@@ -33,15 +33,12 @@ third_nav_title: Visual & Performing Arts
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our mission is to cultivate the love of dancing through learning about
-the diverse style of hip hop.</p>
-<p>Our programme aims to nurture talents by creating opportunities to express
-their feelings and to proudly showcase their talent. Our dancers learn
-values such as endurance, teamwork and responsibility through their active
-participation and collaborating in school events as well as other external
-dance competitions.
-<br>
-</p>
+<p>Our mission is to cultivate a love of dancing by teaching the diverse
+styles of hip hop. Our programme aims to nurture talent by creating opportunities
+for individuals to express their feelings and proudly showcase their skills.
+Our dancers learn values such as endurance, teamwork, and responsibility
+through their active participation and collaboration in school events as
+well as external dance competitions</p>
 </td>
 </tr>
 <tr>
@@ -74,12 +71,12 @@ support from teachers and parents helped me prioritize and stay disciplined."</p
 <p></p>
 <p>Lily Eiliya Firhad from Endurance 2 (2024)</p>
 <p></p>
-<p>"I join the Dance CCA due to my fascination with Hip Hop performances.
+<p>“I joined the Dance CCA due to my fascination with Hip Hop performances.
 In just two weeks, I mastered the Crab dance and went on to compete in
-the Singapore Youth Festival. Through my involvement in the CCA, I had
-improved my memory, teamwork, and collaboration skills. I carefully balance
-academics and dance, serving as a leader to guide and teach my juniors."
-NUR K'EISHA ADELEIA BINTE JOHARI (Responsibility 5)</p>
+the Singapore Youth Festival. Through my involvement in the CCA, I have
+improved my memory, teamwork, and collaboration skills. I also carefully
+balance academics and dance, serving as a leader to guide and teach my
+juniors while finding fulfilment in showcasing our hard work through performances.”</p>
 <p></p>
 <p>Nur K'eisha Adeleia Binte Johari from Responsibility 5 (2024)</p>
 </td>
