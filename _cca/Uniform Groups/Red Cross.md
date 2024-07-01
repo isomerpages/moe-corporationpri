@@ -34,14 +34,14 @@ third_nav_title: Uniform Groups
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Red Cross Youth (RCY) strives to instill the Red Cross Youth spirit and
-strengthen core values such as compassion, passion and professionalism
-in all members. By participating in providing Singapore Red Cross humanitarian
-services, Red Cross Youths are groomed to become good citizens with a strong
-sense of civic responsibility. They are trained to be adaptable, resilient
-and confident team players.</p>
-<p>Find out more at <a href="https://redcross.sg/uniform-groups.html" rel="noopener noreferrer nofollow" target="_blank">https://redcross.sg/uniform-groups.html</a>
-</p>
+<p>Red Cross Youth (RCY) strives to instil the Red Cross Youth spirit and
+strengthen core values such as compassion, passion, and professionalism
+in all members. By participating in Singapore Red Cross humanitarian services,
+Red Cross Youths are groomed to become good citizens with a strong sense
+of civic responsibility. They are trained to be adaptable, resilient, and
+confident team players.</p>
+<p>&nbsp;</p>
+<p>Find out more at <a href="https://redcross.sg/uniform-groups.html" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>.</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,8 @@ and confident team players.</p>
 <br>Excellent Unit Award 2024 - Gold
 <br>
 </p>
-<p>Our unit has achieved Gold for our Excellent Unit Award since 2016.</p>
+<p>Our unit has achieved Gold for our Excellent Unit Award since 2016. This
+is our 8th year achieving Gold.</p>
 </td>
 </tr>
 </tbody>
