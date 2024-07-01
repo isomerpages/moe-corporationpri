@@ -22,7 +22,8 @@ all P3 to P6 pupils participate in one CCA.</p>
 <p>Build character and develop talents through CCA.</p>
 <p></p>
 <h3>Click on each CCA to find out&nbsp;for more information about them!</h3>
-<h4>Visual &amp; Performing Arts</h4>
+<p><strong>Visual &amp; Performing Arts</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,35 +33,36 @@ all P3 to P6 pupils participate in one CCA.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>
+<p><strong><a href="/cca/visual-performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/malay-dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a>
+<p><strong><a href="/cca/visual-performing-arts/malay-dance/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/hip-hop-dance/" rel="noopener noreferrer nofollow" target="_blank">Hip Hop Dance</a>
+<p><strong><a href="/cca/visual-performing-arts/hip-hop-dance/" rel="noopener noreferrer nofollow" target="_blank">Hip Hop Dance</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><strong><a href="/cca/visual-performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/samba-percussion/" rel="noopener noreferrer nofollow" target="_blank">Samba Percussion</a>
+<p><strong><a href="/cca/visual-performing-arts/samba-percussion/" rel="noopener noreferrer nofollow" target="_blank">Samba Percussion</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/visual-performing-arts/young-artist-club/" rel="noopener noreferrer nofollow" target="_blank">Young Artist Club</a>
+<p><strong><a href="/cca/visual-performing-arts/young-artist-club/" rel="noopener noreferrer nofollow" target="_blank">Young Artist Club</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Physical Sports</h4>
+<p><strong>Physical Sports</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,7 +72,8 @@ all P3 to P6 pupils participate in one CCA.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
+<p><strong><a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">Basketb</a></strong>
+<a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">all (Boys)</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -84,16 +87,64 @@ all P3 to P6 pupils participate in one CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/physical-sports/netball-girls/" rel="noopener noreferrer nofollow" target="_blank">Netball (Girls)</a>
+<p><strong><a href="/cca/physical-sports/netball-girls/" rel="noopener noreferrer nofollow" target="_blank">Netball (Girls)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/cca/physical-sports/volleyball-boys/" rel="noopener noreferrer nofollow" target="_blank">Volleyball (Boys)</a>
+<p><strong><a href="/cca/physical-sports/volleyball-boys/" rel="noopener noreferrer nofollow" target="_blank">Volleyball (Boys)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+</tbody>
+</table>
+<p><strong>Uniform Groups</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/uniform-groups/red-cross/" rel="noopener noreferrer nofollow" target="_blank">Red Cross</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/uniform-groups/brownies/" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Clubs and Societies </strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/club-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/cca/club-societies/xiangqi/" rel="noopener noreferrer nofollow" target="_blank">Xiangqi</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 </tbody>
 </table>
