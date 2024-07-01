@@ -15,9 +15,6 @@ all P3 to P6 pupils participate in one CCA.</p>
 </p>
 <h2>Vision</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_vision.jpg">
-</div>
 <h2>Mission</h2>
 <p>Build character and develop talents through CCA.</p>
 <p></p>
