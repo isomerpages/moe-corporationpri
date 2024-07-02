@@ -1,14 +1,19 @@
 ---
-title: Basketball boys
-permalink: /permalink/
+title: Basketball (Boys)
+permalink: /cca/physical-sports/basketball-boys/
 variant: tiptap
 description: ""
+third_nav_title: Physical Sports
 ---
 <div class="iframe-wrapper">
 <iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlwVpkN9srdJ-TOgd694CAjY8g8AzH7fIoeRuKzt__lZpCl9lLVyJIign47SojflA2LmT361c_mlb-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -17,21 +22,10 @@ description: ""
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>MR LOGARAJAN S/O RAJOO</p>
-<p>MS PANG XIAO WEN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mission</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our mission is to spark joy in every student athlete by helping them discover
-their strengths in sports through tailored training programs and personalized
-coaching. We are committed to motivating each individual to achieve their
-full potential, both on and off the field, fostering a culture of excellence
-and sportsmanship within our community.</p>
+<p>Mr Logarajan Rajoo
+<br>Ms Pang Xiao Wen
+<br>Ms Chan Jia Wen
+<br>Mr Khoo Rong Huang</p>
 </td>
 </tr>
 <tr>
@@ -54,16 +48,21 @@ both on and off the court.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School games 2022 (Senior Division)</p>
-<p>- Top 8 in West Zone</p>
-<p>National School games 2022 (Junior Division)</p>
-<p>- 3rd placing in Tier 2</p>
-<p>National School games 2023 (Senior games)</p>
-<p>- 4th in preliminary round</p>
-<p>National School games 2023 (Junior Division)</p>
-<p>- 2nd in Tier 2</p>
-<p>Jurong Secondary School Basketball Invitational Tournament 2023</p>
-<p>- Champion</p>
+<p><u>2022</u>
+<br>National School games 2022 (Senior Division)
+<br>- Top 8 in West Zone
+<br>National School games 2022 (Junior Division)
+<br>- 3rd place in Tier 2</p>
+<p><u>2023</u>
+<br>National School games 2023 (Senior games)
+<br>- 4th in preliminary round
+<br>National School games 2023 (Junior Division)
+<br>- 2nd place in Tier 2
+<br>Jurong Secondary School Basketball Invitational Tournament 2023
+<br>- Champion</p>
+<p><u>2024</u>
+<br>National School games 2024 (Senior games)
+<br>-2nd place</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +76,8 @@ Not only did I improve my skills on the court, but I also gained lifelong
 friends and learned the value of teamwork. The coaches are dedicated and
 supportive, pushing us to be the best version of ourselves both on and
 off the court."</p>
-<p>Sanjay from Responsibility 6</p>
+<p></p>
+<p>Sanjay from Responsibility 6 (2024)</p>
 <p></p>
 <p>"Being part of the basketball CCA has taught me valuable life lessons
 beyond the game itself. It's taught me how to handle pressure, overcome
@@ -85,7 +85,8 @@ adversity, and work towards a common goal with my teammates. The sense
 of achievement I feel after each game or training session is indescribable,
 and I'm grateful for the opportunities this CCA has given me to grow and
 develop as both an athlete and a person."</p>
-<p>Akshath from Responsibility 6</p>
+<p></p>
+<p>Akshath from Responsibility 1 (2024)</p>
 </td>
 </tr>
 </tbody>

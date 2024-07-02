@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Malay Dance.md
+      - Visual & Performing Arts/Hip Hop Dance.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Samba Percussion.md
+      - Visual & Performing Arts/Young Artist Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Basketball (Boys).md
+      - Physical Sports/Basketball (Girls).md
+      - Physical Sports/Football (Boys).md
+      - Physical Sports/Netball (Girls).md
+      - Physical Sports/Volleyball (Boys).md
+      - Uniform Groups/.keep
+      - Uniform Groups/Red Cross.md
+      - Uniform Groups/Brownies.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/Xiangqi.md
