@@ -71,7 +71,7 @@ can apply these values and skills beyond the four walls of the classroom.</p>
 matches with our friends. In fact, Tuesday is my favourite day of every
 school week. Xiangqi CCA has taught us about patience, critical thinking,
 and strategic planning as we face players from different backgrounds.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The CCA also provides us with opportunities to participate in competitions,
 and we get to build friendships with students from other schools. What
 a refreshing experience! We will certainly recommend this CCA to our classmates!”</p>
@@ -82,7 +82,7 @@ a refreshing experience! We will certainly recommend this CCA to our classmates!
 Xiangqi. Through the CCA, we have built friendships. We appreciate that
 losing and winning are not the main focus of a game. It is the strengthening
 of friendships that counts.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>We also feel excited as we get to play matches with our subject teachers.
 During CCA, we get to use iPads to play virtual matches and gain experience.
 Come join us!”</p>
