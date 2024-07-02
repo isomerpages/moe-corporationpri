@@ -72,8 +72,7 @@ all P3 to P6 pupils participate in one CCA.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">Basketb</a></strong>
-<a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">all (Boys)</a>
+<p><a href="/cca/physical-sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">Basketball (Boys)</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
