@@ -40,7 +40,7 @@ in all members. By participating in Singapore Red Cross humanitarian services,
 Red Cross Youths are groomed to become good citizens with a strong sense
 of civic responsibility. They are trained to be adaptable, resilient, and
 confident team players.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Find out more at <a href="https://redcross.sg/uniform-groups.html" rel="noopener noreferrer nofollow" target="_blank">Red Cross Youth</a>.</p>
 </td>
 </tr>
