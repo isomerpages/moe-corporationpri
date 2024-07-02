@@ -39,20 +39,20 @@ two teams of six players are separated by a high net. It requires cooperation
 and communication among players. Through their active participation, our
 boys learn how to synergize towards a common goal, develop empathy for
 each other, and understand the importance of teamwork.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Over the last 12 years, our boys have had tremendous opportunities to
 interact with one another in a positive and supportive environment. They
 have been learning how to communicate effectively during training sessions
 and continue to hone their volleyball skills through constructive feedback
 from each other as they grow stronger as a team.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Volleyball encourages our boys to be strategic and quick-thinking as they
 must think quickly on their feet in the court to win points from their
 opponents. They learn to analyse situations and adapt their gameplay throughout
 their matches. Volleyball brings joy and fulfilment to our boys as they
 reflect on their mistakes and embrace a growth mindset to bounce back stronger
 as a team.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>As a team, the teachers and coach believe in the strength of every player,
 as each of them contributes positively to the holistic growth of the volleyball
 team at CPS. Our alumni volleyball players lend their support from time
@@ -108,17 +108,17 @@ it. In 2022, we emerged second in the Junior division as our senior team
 guided us well and taught us many important tips to score against our opponents.
 I am thankful that we had experienced seniors who guided us and honed our
 skills.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>As a backcourt player on the school team, I have learned that if the front
 three players are unable to receive the ball, it is my responsibility to
 save the ball and send it back to the front three players to spike and
 score a point. I have also learned that losing a point is not the end of
 the game as we can always come back and score more points.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Having been on the school team for the last three years, our camaraderie
 has grown stronger.&nbsp; We have learned from our mistakes in previous
 matches and we overcome them in upcoming matches.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>After my P6 graduation, I hope to help my juniors excel in volleyball.
 My aspiration for the future school team is to bring glory back to Corporation
 Primary in the next few years.”</p>
