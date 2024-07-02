@@ -37,19 +37,19 @@ third_nav_title: Visual & Performing Arts
 Open to students from P3 to P6, it serves as a platform for budding artists
 to explore various mediums and techniques under the guidance of dedicated
 teachers.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Meeting weekly after school hours, the club fosters a sense of camaraderie
 among members who share a common passion for art. From painting and drawing
 to sculpture and collage, there is something for everyone to delve into,
 allowing students to discover and develop their artistic talents.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The club not only focuses on honing technical skills but also encourages
 students to express themselves freely, fostering self-confidence and creativity.
 Through collaborative projects like stop-motion animation and themed activities
 such as still life charcoal sketching, ceramics, or acrylic painting, members
 learn to appreciate diverse perspectives and styles, enriching their artistic
 experiences.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Occasional exhibitions and showcases provide opportunities for students
 to proudly display their creations, fostering a sense of achievement and
 pride in their work. The CPS Young Artist Club not only nurtures young
