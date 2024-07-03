@@ -4,8 +4,8 @@ permalink: /departments/levelactivities/
 description: ""
 variant: tiptap
 ---
-<h2>Level Activities</h2>
-<h3>P6 Secondary School Roadshow </h3>
+<h1>Level Activities</h1>
+<h3>P6 Secondary School Roadshow</h3>
 <p>Our Primary 6 students participated in a cluster Secondary School Roadshow
 in Term 2 Week 9. This event was designed to offer a valuable opportunity
 for students and their parents to learn about the distinctive programs
