@@ -38,7 +38,11 @@ from their seniors, the Junior Alumni members, to aid them in their PSLE
 preparation. This event provided an excellent start to the term, equipping
 our students with inspiration and practical advice for the months ahead.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Junior_Alumni_Talk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Junior_Alumni_Talk_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Junior_Alumni_Talk_1.jpg">
 </div>
 <p></p>
 <p></p>
