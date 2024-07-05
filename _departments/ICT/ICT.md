@@ -73,8 +73,6 @@ e.g. rache1234z</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.kiddle.co/" rel="noopener noreferrer" target="_blank">Kiddle</a>
 </p>
-<p><a href="https://www.kidzsearch.com/" rel="noopener noreferrer nofollow" target="_blank">KidzSearch</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -84,8 +82,6 @@ e.g. rache1234z</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.dancemattypingguide.com/" rel="noopener noreferrer" target="_blank">Dance Mat Typing</a>
 <br><a href="https://www.typing.com/student/tests" rel="noopener noreferrer" target="_blank">Typing Speed Test</a>
-</p>
-<p><a href="https://play.typeracer.com/" rel="noopener noreferrer nofollow" target="_blank">TypeRacer</a>
 </p>
 </td>
 </tr>
