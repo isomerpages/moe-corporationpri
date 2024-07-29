@@ -80,7 +80,7 @@ e.g. rache1234z</p>
 <p>Touch Typing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.dancemattypingguide.com/" rel="noopener noreferrer" target="_blank">Dance Mat Typing</a>
+<p><a href="https://www.dancemattypingguide.com/" rel="noopener noreferrer nofollow" target="_blank">Dancing Mat Typing</a>
 <br><a href="https://www.typing.com/student/tests" rel="noopener noreferrer" target="_blank">Typing Speed Test</a>
 </p>
 </td>
