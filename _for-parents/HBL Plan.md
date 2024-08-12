@@ -18,7 +18,7 @@ variant: tiptap
 <p></p>
 </li>
 <li>
-<p><strong>14 August 2024 (Thursday)</strong>
+<p><strong>14 August 2024 (Wednesday)</strong>
 </p>
 </li>
 </ul>
