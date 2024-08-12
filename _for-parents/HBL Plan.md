@@ -2,21 +2,28 @@
 title: HBL Plan
 permalink: /for-parents/hblplan/
 description: ""
+variant: tiptap
 ---
-Home Based Learning Plan
-==================
-
---------
-Click [HERE](/files/p1-p4%20hbl%20plan%20for%202023%20psle%20written%20exam.pdf) to download the HBL plan.
-**<br>**
-* **28 September 2023 (Thursday)**
-![](/images/hbl_28sep2023.PNG)
-**<br>**
-* **29 September 2023 (Friday)**
-![](/images/hbl_29sep2023.PNG)
-**<br>**
-* **02 October 2023 (Monday)**
-![](/images/hbl_02oct2023.PNG)
-**<br>**
-* **03 October 2023 (Tuesday)**
-![](/images/hbl_03oct2023.PNG)
+<h1>Home Based Learning Plan</h1>
+<p><strong><br></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>13 August 2024 (Tuesday)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_13_Aug_2024.jpg">
+</div>
+<p></p>
+</li>
+<li>
+<p><strong>14 August 2024 (Thursday)</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_14_Aug_2024.jpg">
+</div>
+<p></p>
