@@ -9,20 +9,12 @@ description: ""
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/School Information/School Bus/Call_for_Proposals.pdf" rel="noopener nofollow" target="_blank">Call for Proposals</a>
+<p>1. <a href="/files/School Information/School Bus/Call_for_Proposals.pdf" rel="noopener nofollow" target="_blank">Call for Proposals</a>
 </p>
-</li>
-<li>
-<p><a href="/files/School Information/School Bus/Terms_and_Conditions_for_School_Bus_Operator.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator</a>
+<p>2. <a href="/files/School Information/School Bus/Terms_and_Conditions_for_School_Bus_Operator.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator</a>
 </p>
-</li>
-<li>
-<p><a href="/files/School Information/School Bus/Request_for_School_Bus_Services.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+<p>3. <a href="/files/School Information/School Bus/Request_for_School_Bus_Services.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
 </p>
-</li>
-</ol>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
@@ -39,7 +31,7 @@ SEP 2024 to the School’s General Office.</p>
 <p><strong>Contact No: </strong>6795 7381</p>
 </li>
 <li>
-<p><strong>Email:</strong>  <a href="mailto:Janathul_firthous@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janathul_firthous@moe.edu.sg</a> 
+<p><strong>Email:</strong>  <a href="mailto:Janathul_firthous@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janathul_firthous@moe.edu.sg</a>
 </p>
 </li>
 <li>
