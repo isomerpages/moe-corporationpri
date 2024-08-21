@@ -18,7 +18,7 @@ Procedure below.</p>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1. Complete the <a href="/files/School Information/School Bus/Call_for_Proposal___Annex_A__Information_Required_From_Vendor_.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+<p>1. Complete the <a href="/files/School Information/School Bus/Call_for_Proposal___Annex_A__Information_Required_From_Vendor_.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a>
 </p>
 <p>2. Submit the completed Call for Proposal – Annex A by closing date, 05
 SEP 2024 to the School’s General Office.</p>
