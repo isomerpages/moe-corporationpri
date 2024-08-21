@@ -4,7 +4,7 @@ permalink: /school-information/schoolbus/
 variant: tiptap
 description: ""
 ---
-<h3>School Bus Advertisement</h3>
+<h3><strong>School Bus Advertisement</strong></h3>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
