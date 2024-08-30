@@ -4,67 +4,68 @@ permalink: /departments/iisp/
 description: ""
 variant: tiptap
 ---
-Overseas Learning Journeys
-==========================
-
-Overseas Immersion Programme to China ( 25 June to 29 June 2019)
-----------------------------------------------------------------
-
-  
-
-A group of selected Primary 5 pupils went to China (Xiamen and Shantou) from 25 June to 29 June 2019 for an overseas immersion programme. The objective of the trip was to develop the cultural intelligence of our pupils so that they have global awareness and cross-cultural skills. It was a great exposure for the pupils to know what was happening in Asia and provided a platform to experience school life in China. The pupils visited the Shantou Chaoyang Experiment School as a part of their cultural exchange programme.&nbsp;
-
-  
-
-  
-
-**Pupils’ sharing**
-
-**Question: What was the best part of the trip?**&nbsp;
-
-“I enjoyed meeting the pupils in the school and sleeping in the hostels,” Phone, Endurance 1.
-
-  
-
-“I enjoyed the paper-cutting activity. A famous master in paper cutting taught me!” Li Wen, Endurance 6.&nbsp;
-
-  
-
-**Question: What are the interesting things you learnt about Shantou Chaoyang Experimental School?**
-
-“The students in the school take afternoon naps in their hostels. The beds are hard as they do not use mattress in summer,” Cherianne, Endurance 2.&nbsp;   
-
-“I learnt a bit about Chinese calligraphy. I need patience when doing calligraphy,” Niyumi, Endurance 4.
-
-<img src="/images/GroupPic.jpg" style="width:100%">
-
-![](/images/sch%20trip%202.png)![](/images/sch%20trip%203.png)![](/images/sch%20trip%204.png)![](/images/sch%20trip%205.png)![](/images/sch%20trip%206.png)
-
-Overseas Immersion Programme to&nbsp;Brunei (24 June to 27 June 2019)
-----------------------------------------------------------------
-
-  
-
-A group of 20 Primary 5 pupils were selected to go for the 4D3N Overseas Immersion Programme to Brunei from 24 - 27 June. It was a fulfilling trip which provided opportunities for the pupils to learn and interact with Bruneian pupils to develop in them the 21st CC skills on global awareness and cross-cultural skills. The pupils also visited places that allowed them to have cultural immersion. It was the first time most of the pupils were away from their parents but they were able to be independent and enjoyed themselves tremendously.
-
-  
-
-**Pupils’ sharing:**&nbsp;
-
-**Question: What did you learn from the trip?**&nbsp;
-
-“I learnt to be more grateful and thankful that I have such big classrooms and play areas to play in,” Muhammad Danzil, Endurance 1.
-
-  
-
-“I learnt to appreciate more the facilities which I took for granted. For instance, our school canteen which sells a variety of food. The pupils in Brunei had to bring their own food to school,” Erin Yasmin, Endurance 1.&nbsp;
-
-  
-
-“I enjoyed myself the most at the Water Village tour. It was my first time taking the boat and visiting a family which resides on the water. We also saw schools built on water too,” Saw Ryan, Endurance 1.
-
-  
-
-“The pupils there are happy and kind. They are also humble and keen to learn despite the limited facilities they have. We should learn to be like them,” Cassandra Koh, Endurance 5.
-
-![](/images/brunei%201.png)![](/images/brunei%202.png)
+<h1>Internationalisation and International Students Programme (IISP)</h1>
+<h4></h4>
+<p><strong>Internationalisation and International Students Programme</strong>
+</p>
+<p>This committee focuses on 2 programmes; the Internationalisation Programme
+and the International Students Programme. The Internationalisation Programme
+aims to cultivate global awareness and cultural sensitivity, which strengthen
+students' commitment to Singapore while enhancing their cross-cultural
+skills. The International Students Programme helps International Students,
+Singapore Permanent Residents, and Returning Singaporeans adjust to life
+in Singapore while fostering mutual understanding and appreciation of cultural
+diversity through meaningful interactions.</p>
+<p><strong>Internationalisation Programme Objectives  </strong>
+</p>
+<p>1) To strengthen students’ commitment and rootedness to Singapore.</p>
+<p>2) To deepen our students’ 21CC global awareness, cross-cultural skills
+and sensitivities.</p>
+<p>3) To expose students to Asia, with a greater focus on ASEAN countries,
+India and China, and to sensitise them to Singapore’s place in the world.</p>
+<p><strong>International Students Programme Objectives</strong>
+</p>
+<p>1) To help International Students (IS), Singapore Permanent Residents
+(SPR) and Returning Singaporeans (RS) settle down and adjust to studying
+and living in Singapore.</p>
+<p>2) To create opportunities for local students and IS/ SPR/ RS to form
+friendships based on shared interests and appreciate cultural differences
+and diversity.</p>
+<p>3) To foster mutual trust, understanding and acceptance among all students
+in Singapore.</p>
+<p><strong>Internationalisation Programme Activities</strong>
+</p>
+<p>This year, our school collaborated with Ching Chung Hao Po Woon Primary
+School in Hong Kong to host a series of virtual sessions. These sessions
+allowed students from both countries to connect, share their experiences
+and explore the unique aspects of life and culture in each country.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/IISP_Pic1.jpg">
+</div>
+<p><strong>International Students Programme Initiatives</strong>
+</p>
+<p>1) Buddy System: To ensure a smooth integration of International Students
+into the school, a structured approach has been implemented. First, International
+Students are identified and paired with designated buddies who will assist
+them throughout their transition. These buddies undergo specialised training
+to equip them with the necessary skills to effectively support and guide
+International Students. Additionally, form teachers collaborate closely
+with both International Students and their buddies, providing ongoing support
+to enhance a positive and inclusive experience for all involved.</p>
+<p>2) Heritage Tour: P3 to P6 International Students participated in the
+Duck Tour, visiting various places of interest in Singapore to deepen their
+understanding of the nation's history, culture, and heritage.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/IISP_Pic2.jpg">
+</div>
+<p>3) Cultural Workshop: P1 and P2 International Students, along with their
+parents, participated in a cultural workshop to explore and learn about
+the diverse cultures of various ethnic groups in Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/IISP_Pic3.jpg">
+</div>
+<p></p>
+<p></p>
