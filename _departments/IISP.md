@@ -16,7 +16,7 @@ skills. The International Students Programme helps International Students,
 Singapore Permanent Residents, and Returning Singaporeans adjust to life
 in Singapore while fostering mutual understanding and appreciation of cultural
 diversity through meaningful interactions.</p>
-<p><strong>Internationalisation Programme Objectives  </strong>
+<p><strong>Internationalisation Programme Objectives</strong>
 </p>
 <p>1) To strengthen students’ commitment and rootedness to Singapore.</p>
 <p>2) To deepen our students’ 21CC global awareness, cross-cultural skills
@@ -35,7 +35,7 @@ and diversity.</p>
 in Singapore.</p>
 <p><strong>Internationalisation Programme Activities</strong>
 </p>
-<p>This year, our school collaborated with Ching Chung Hao Po Woon Primary
+<p>This year, our school collaborated with Ching Chung Hau Po Woon Primary
 School in Hong Kong to host a series of virtual sessions. These sessions
 allowed students from both countries to connect, share their experiences
 and explore the unique aspects of life and culture in each country.</p>
