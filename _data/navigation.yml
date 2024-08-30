@@ -51,10 +51,10 @@ links:
         url: /departments/alp/
       - title: ICT
         url: /departments/ICT/ict/
+      - title: IISP
+        url: /departments/iisp/
       - title: Level Activities
         url: /departments/levelactivities/
-      - title: Overseas Learning Journeys
-        url: /departments/overseaslearningjourneys/
   - title: For Parents
     url: /for-parents/
     sublinks:
