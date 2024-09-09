@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NG BIH JENG</p>
-<p>MS ELANGO HEMALATHA
+<p>MDM HEMALATHA ELANGO
 <br>
 </p>
 </td>
@@ -680,7 +680,7 @@ variant: tiptap
 <p>MS ASHWINI D/O CHANDRASAHARAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ELANGO HEMALATHA
+<p>MDM HEMALATHA ELANGO
 <br>
 </p>
 </td>
