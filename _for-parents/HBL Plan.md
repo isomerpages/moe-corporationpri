@@ -9,21 +9,13 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>13 August 2024 (Tuesday)</strong>
+<p><strong>13 September 2024 (Friday)</strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_13_Aug_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_plan_for_13_SEP_2024__PSLE_LC_DAY_.png">
 </div>
-<p></p>
-</li>
-<li>
-<p><strong>14 August 2024 (Wednesday)</strong>
-</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_14_Aug_2024.jpg">
-</div>
 <p></p>
