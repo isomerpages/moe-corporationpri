@@ -12,16 +12,27 @@ variant: tiptap
 <p><strong>26 September 2024 (Friday)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_26_SEP_2024.png">
+</div>
+<p></p>
 </li>
 <li>
 <p><strong>27 September 2024 (Friday)</strong>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_27_SEP_2024.png">
+</div>
+<p></p>
 </li>
 <li>
 <p><strong>30 September 2024 (Friday)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_30_SEP_2024.png">
+</div>
 <p></p>
 </li>
 </ul>
