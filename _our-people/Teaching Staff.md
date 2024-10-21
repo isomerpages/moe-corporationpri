@@ -247,7 +247,6 @@ variant: tiptap
 <p>MS SHARINA HYDER NAIR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ZHENG JIALE, JESSLE</p>
 <p>MS MA XINYUE</p>
 </td>
 </tr>
@@ -306,10 +305,7 @@ variant: tiptap
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SITI HAJJAR BINTE MANSHOR
-<br>
-<br>
-</p>
+<p>MS SITI HAJJAR BINTE MANSHOR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM CHAN MEI YOKE</p>
@@ -414,7 +410,7 @@ variant: tiptap
 <p>MS BAO XIAOKE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SALBIAH BINTE ISHAK</p>
+<p>MS ZHENG JIALE, JESSLE</p>
 </td>
 </tr>
 <tr>
@@ -510,10 +506,10 @@ variant: tiptap
 <p>6.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR LI JIANWEN</p>
+<p>MS CHIOK HWEE FEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHIOK HWEE FEN</p>
+<p>MS NORMAH BINTE ISMAIL</p>
 </td>
 </tr>
 <tr>
