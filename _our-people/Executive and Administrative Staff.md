@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>Executive and Administrative Staff</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,6 +33,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Janathul Firthous</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager
+<br>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr See Siew Hoe, Thomas</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,14 +54,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yan Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Janathul Firthous</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -119,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Irsyad Bin Azman</p>
+<p>Mr Faqroul Bin Mohamed Berolding</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -127,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Faqroul Bin Mohamed Berolding</p>
+<p>Mr Hemaraj Ramu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
