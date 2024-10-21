@@ -34,7 +34,7 @@ description: ""
 <p>Ms Lim Jing Mei, Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>Senior SEN Officer</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cathryn Yeo Khan Hui</p>
+<p>Ms Yeo Khan Hui, Cathryn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
