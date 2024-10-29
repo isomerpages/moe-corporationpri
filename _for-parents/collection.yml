@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - General Information/General Information.md
-      - General Information/.keep
       - For Parents.md
       - Absence during school term.md
       - Academic Grading.md
@@ -11,6 +9,8 @@ collections:
       - Counselling Services.md
       - Financial Assistance.md
       - For Graduating P6 Pupils.md
+      - General Information/.keep
+      - General Information/General Information.md
       - HBL Plan.md
       - Parent Support Group.md
       - Parenting Programme.md
