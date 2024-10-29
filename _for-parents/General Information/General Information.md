@@ -165,7 +165,8 @@ in Term 4.</p>
 </tbody>
 </table>
 <h4><strong>School Bus</strong></h4>
-<p>Click here for more information about the school bus service.</p>
+<p>Click <a href="/for-parents/generalinformation/schoolbus/" rel="noopener nofollow" target="_blank">here</a> for
+more information about the school bus service.</p>
 <p></p>
 <h4><strong>School-based Student Care</strong></h4>
 <table style="minWidth: 50px">
