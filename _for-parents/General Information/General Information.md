@@ -165,8 +165,8 @@ in Term 4.</p>
 </tbody>
 </table>
 <h4><strong>School Bus</strong></h4>
-<p>Click <a href="/for-parents/generalinformation/schoolbus/" rel="noopener nofollow" target="_blank">here</a> for
-more information about the school bus service.</p>
+<p>Please click <a href="/for-parents/generalinformation/schoolbus/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
 <p></p>
 <h4><strong>School-based Student Care</strong></h4>
 <table style="minWidth: 50px">
@@ -244,7 +244,7 @@ education journey.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Where to download</strong>
+<p><strong>Where to download:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,19 +257,11 @@ education journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>I have downloaded the PG app but experiencing<strong>&nbsp;Error / Access issues</strong>
+<p><strong>FAQs on PG:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please be assured that your child / ward’s record is successfully registered
-with our school. Due to the mass numbers of P1 registrants nationwide,
-it would take time for backend data to sync and update into the PG application.</p>
-<p></p>
-<p>Kindly keep PG in your phone and try logging in again at the end of Dec
-2021. Should you continue to have error / access issues, please contact
-our school.</p>
-<p></p>
-<p>For FAQs on PG:&nbsp;<strong><a href="https://pg.moe.edu.sg/faq" class="" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a></strong>
+<p>&nbsp;<strong><a href="https://pg.moe.edu.sg/faq" class="" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a></strong>
 </p>
 </td>
 </tr>
