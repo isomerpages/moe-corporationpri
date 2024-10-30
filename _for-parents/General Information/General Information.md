@@ -3,11 +3,16 @@ title: General Information
 permalink: /for-parents/generalinformation/
 description: ""
 variant: tiptap
+third_nav_title: General Information
 ---
 <h1>General Information</h1>
 <hr>
 <h4><strong>School Bookshop</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,7 +56,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>School Uniform Supplier</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -100,7 +109,12 @@ School Term.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -151,63 +165,15 @@ in Term 4.</p>
 </tbody>
 </table>
 <h4><strong>School Bus</strong></h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Vendor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tong Tar Transport Pte Ltd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Telephone</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>62615537</p>
-<p>(during office hours at 8.30am – 4.00pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:cps@tongtar.com" class="" rel="noopener noreferrer nofollow" target="">cps@tongtar.com</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Website</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="http://www.tongtar.com/" class="" rel="noopener noreferrer nofollow" target="_blank">www.tongtar.com</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Registration Link</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.tongtar.com/school-bus-registration/corporation-primary-school/" class="" rel="noopener noreferrer nofollow" target="_blank">https://www.tongtar.com/school-bus-registration/corporation-primary-school/</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Tong Tar Transport Pte Ltd will update you on the registration outcome.&nbsp;</p>
+<p>Please click <a href="/for-parents/generalinformation/schoolbus/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
+<p></p>
 <h4><strong>School-based Student Care</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -270,11 +236,15 @@ Clinic.</p>
 <p>Developed by MOE and GovTech, Parents Gateway (PG) is a one-stop portal
 that strengthens school-home partnership to support our children in their
 education journey.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Where to download</strong>
+<p><strong>Where to download:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,19 +257,11 @@ education journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>I have downloaded the PG app but experiencing<strong>&nbsp;Error / Access issues</strong>
+<p><strong>FAQs on PG:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please be assured that your child / ward’s record is successfully registered
-with our school. Due to the mass numbers of P1 registrants nationwide,
-it would take time for backend data to sync and update into the PG application.</p>
-<p></p>
-<p>Kindly keep PG in your phone and try logging in again at the end of Dec
-2021. Should you continue to have error / access issues, please contact
-our school.</p>
-<p></p>
-<p>For FAQs on PG:&nbsp;<strong><a href="https://pg.moe.edu.sg/faq" class="" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a></strong>
+<p>&nbsp;<strong><a href="https://pg.moe.edu.sg/faq" class="" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/faq</a></strong>
 </p>
 </td>
 </tr>
@@ -308,7 +270,11 @@ our school.</p>
 <h4><strong>Group Personal Accident (GPA) Insurance Plan for Students</strong></h4>
 <p>All MOE-Registered pupils in CPS are covered by NTUC Income Insurance
 under the Group Personal Accident (GPA) Insurance for students.&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
