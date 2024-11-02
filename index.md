@@ -12,12 +12,12 @@ sections:
         - title: Our Latest Activities!
           description: Click here to view!
           url: https://www.facebook.com/corporationpri
-        - title: Our corporate video!
+        - title: Our Corporate Video!
           description: Click here to watch!
           url: https://www.youtube.com/watch?v=FtZoe5BOFjE
-        - title: Our cps online art gallery!
+        - title: Our Online Art Gallery!
           description: Click here to visit!
-          url: https://sites.google.com/moe.edu.sg/cpsonlineartgallery2022/home
+          url: https://go.gov.sg/cpsoag2024
       subtitle: Nurturing pupils who C.A.R.E to succeed
       title: Corporation Primary School
   - infopic:
