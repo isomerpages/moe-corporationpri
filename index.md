@@ -15,7 +15,7 @@ sections:
         - title: Our Corporate Video!
           description: Click here to watch!
           url: https://www.youtube.com/watch?v=FtZoe5BOFjE
-        - title: Our CPS Online Art Gallery!
+        - title: Our Online Art Gallery!
           description: Click here to visit!
           url: https://go.gov.sg/cpsoag2024
       subtitle: Nurturing pupils who C.A.R.E to succeed
