@@ -254,12 +254,40 @@ teachers also took up various pre-assembly sharing and performed some Math
 magic. These activities are planned to motivate our students in learning
 Mathematics and for students to see the relevance of Math in their daily
 lives.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_is_Fun_2.jpg">
 </div>
+<p><strong>11. Cool Maths Trivia Pre-Assembly Activity</strong>
+</p>
+<p>To continue to foster the joy of learning Mathematics, the department
+also came up with bite-sized quizzes on interesting Math Trivia to share
+with the students. Students were engaged during these sharing and participated
+actively in these quizzes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_Trivia.jpg">
+</div>
+<p><strong>12. Enrichment Programmes</strong>
+</p>
+<p>To make learning of Mathematics more meaningful for our students, the
+department also worked with different vendors to conduct various mathematical
+workshops, infusing the topics that the students have learned into various
+hands-on activities for the students to apply their conceptual understanding.</p>
+<p>P5 – Spatial Visualisation Workshop</p>
+<p>Students applied their knowledge of fractions and came together to build
+a rocket launcher.</p>
 <p></p>
-<h2><strong>How can you support your child in the learning of Mathematics?</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P5_Workshop.jpg">
+</div>
+<p>P6 – Math Learning Day</p>
+<p>Students applied their knowledge of mathematical concepts like volume
+and fractions to solve various mathematics tasks.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P6_Math_Learning_Day.jpg">
+</div>
+<p></p>
+<h3><strong>How can you support your child in the learning of Mathematics?</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Work on their factual fluency (eg. Times table, division etc)</p>
@@ -298,15 +326,17 @@ of failure)</p>
 improvements in their learning.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>For Parents’ Reference</strong>
 </p>
 <p><strong>MOE Mathematics syllabus:</strong>
 </p>
-<p>2013 Mathematics Syllabus (Primary 1 to 6):&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.ashx</a>
+<p>2013 Mathematics Syllabus (For 2025 Primary 6 Students only):</p>
+<p><a href="https://www.moe.gov.sg/-media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-media/files/primary/mathematics_syllabus_primary_1_to_6.pdf</a>
 </p>
-<p>2021 Mathematics Syllabus (Primary 1 to 4), Implementation starting from
-2021 Primary 1 Cohort:&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf</a>
+<p>2021 Mathematics Syllabus (For 2025 Primary 1 to 5 Students), Implementation
+starting from 2021 Primary 1 Cohort:</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf</a>
 </p>
+<p></p>
 <p></p>
