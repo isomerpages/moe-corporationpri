@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>Mathematics</h1>
+<h3><strong><u>2024 in summary</u></strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R1P1qmDsepA?si=SqoAKw6lXu-ZrhBL"></iframe>
+</div>
+<h3><strong><u>Mathematics in CPS</u></strong></h3>
 <p><strong>Vision</strong>: Nurturing confident and curious students who
 are independent and creative problem-solvers</p>
 <p><strong>Mission</strong>: To nurture future-ready students by developing
@@ -24,8 +29,9 @@ Concepts, Skills, Processes, Attitudes and Metacognition.</p>
 in each of our students through our school-based curriculum. We want to
 engage our students with learning experiences, which promote authenticity
 and connect to real life applications to stimulate the interest in their
-learning.&nbsp;&nbsp;</p>
-<h2><strong>Our Key Highlights</strong></h2>
+learning.</p>
+<p></p>
+<h3><strong>Our Key Highlights</strong></h3>
 <p><strong>1. Concrete-Pictorial-Abstract Approach (CPA) (P1 - P6)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -41,43 +47,62 @@ learning of abstract topics.</p>
 <p><strong>2. Collaborative Inquiry Based Learning (P1 - P6)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_dep_collaborative_inquiry_based_learning__website_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Col_IBL.jpg">
 </div>
 <p>The department has been incorporating an Inquiry Based Learning package
 on a termly basis for the learning of Mathematics in the classroom since
 2021. During this session, teachers present scenarios/ problems to students
-and engage students in a discussion.</p>
-<p>The teacher guides the students by asking scaffolded and in-depth questions
-and getting them to present their thought processes collaboratively. While
-focusing on critical thinking skills, the students are also encouraged
-to voice their different solutions and views on the problems. These lessons
-will also help students deepen their concepts in selected topics and thus
-aid them in problem solving.</p>
+and engage students in a discussion. The teacher guides the students by
+asking scaffolded and in-depth questions and getting them to present their
+thought processes collaboratively. While focusing on critical thinking
+skills, the students are also encouraged to voice their different solutions
+and views on the problems. These lessons will also help students deepen
+their concepts in selected topics and thus aid them in problem solving.</p>
 <p><strong>3. Math Journaling</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_dep_math_journal__website__jpg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_Journaling.jpg">
 </div>
 <p>Mathematics Journal assists in assessing students’ thinking and promotes
 communication skills. It consolidates learning and allows students to reflect
 on the learning in the classroom. Journals can mainly be investigative,
 affective and procedural in nature.</p>
-<p><strong>4. Infusion of Mathematics in Authentic Real-Life Situations</strong>
+<p><strong>4. Infusion of Mathematics in Authentic Real-Life Context</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Level Engagement Tasks (P1 - P6)</strong>
+<p><strong>Level Engagement Tasks (LET)</strong>
 </p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023c.jpg">
-</div>
 <p>As part of our efforts to provide students the opportunity to experience
 authentic learning tasks and to promote the joy of learning, Level Engagement
-Tasks are done in every level. The tasks aim to allow students to have
+Tasks are done at every level. The tasks aim to allow students to have
 a strong conceptual understanding in Mathematics as they experience the
-application of Mathematics in real-life contexts.</p>
+application of Mathematics in real-life contexts. In addition, the tasks
+are designed to stretch students’ adaptive thinking and critical thinking
+as they look for various solutions to solve the tasks.</p>
+<p>P2 LET on Mass</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P2_LET.jpg">
+</div>
+<p>P3 LET on Bar Graphs</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P3_LET.jpg">
+</div>
+<p>P4 LET on Area and Perimeter</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P4_LET.jpg">
+</div>
+<p>P5 LET on Volume, Percentage and Measurement</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P5_LET.jpg">
+</div>
+<p>P6 LET on Percentage</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P6_LET.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>P1 Shopping Trip to IMM</strong>
