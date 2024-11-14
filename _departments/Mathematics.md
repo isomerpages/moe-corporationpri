@@ -105,20 +105,20 @@ as they look for various solutions to solve the tasks.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>P1 Shopping Trip to IMM</strong>
+<p><strong>P1 Shopping Trip to JEM Fairprice</strong>
 </p>
 </li>
 </ul>
+<p>In collaboration with other departments like English, Mother Tongue and
+Social Studies, the P1 students went for a shopping trip to Jem Fairprice.
+This experience provided students an opportunity to apply the concept of
+money in a real-world context and at the same time develop financial literacy
+and fostering their collaborative skills. Following the shopping activity,
+the students hosted a mini class party to celebrate their efforts.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023d.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P1_JEM_Fairprice.jpg">
 </div>
-<p>In line with the topic, Money, the P1 students will be going for a shopping
-trip to GIANT supermarket at IMM shopping centre to purchase items for
-a class party that they will be tasked to plan in groups. Prior to the
-trip, the students will be involved in planning and budgeting for the items
-that need to be purchased for the party. This experience provides students
-an opportunity to apply the concept of money in a real-life situation and
-at the same time develop financial literacy and collaborative skills.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>P5 Open-Ended Task - Making of a Mathematics Game</strong>
@@ -129,10 +129,11 @@ at the same time develop financial literacy and collaborative skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023e.jpg">
 </div>
 <p>In line with the topic on Whole Numbers and Four Operations, the P5 students
-were tasked to design their own Mathematics games. They need to apply the
+were tasked to design their own mathematics games. They need to apply the
 concepts of what they have learned about whole numbers and the four operations
-in their game rules. Groups were given time to play with each other’s games
-during Mathematics lessons.</p>
+in their game rules. Groups were given time to play with one another’s
+games during Mathematics lessons. Selected games were also displayed during
+lunch time for students of other levels to play with.</p>
 <p><strong>5. Heuristics Skills (P1 - P6)</strong>
 </p>
 <p>Heuristics are problem solving strategies that students can adopt to solve
@@ -145,21 +146,22 @@ apply the heuristics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%202023f.jpg">
 </div>
-<p>Students are given the opportunity to experience and harness ICT in classroom
-lessons. Teachers use various platforms to engage them in the learning
-of Mathematics such as Geogebra, Koobits and Student Learning Space (SLS),
-One such platform is the Student Learning Space (SLS). Mathematics teachers
-came together to craft out different lessons for the students. Teachers
-assigned these SLS lessons as homework or use them in class to complement
-the face-to-face lessons concurrently.</p>
-<p>In CPS, we also aim to nurture confident and curious students who are
-independent and creative problem-solvers. Our students are able to do so
-by engaging in independent learning at home via KooBits, an online Mathematics
-platform. Students can learn at their own pace by trying out various Mathematics
-questions and word problems. Teachers also use the Quiz function to assess
-students’ learning. Besides solving Mathematics questions, the portal also
-provides interesting Mathematics stories and games to motivate students
-and make Mathematics learning more fun and enjoyable. &nbsp;</p>
+<p>In CPS, we aim to nurture confident and curious students who are independent
+and creative problem solvers. Students are given the opportunity to experience
+ICT in classroom lessons, taking ownership of their own learning. Teachers
+use various platforms to engage them in the learning of Mathematics such
+as Geogebra, Koobits and Student Learning Space (SLS), One such platform
+is the Student Learning Space (SLS). Mathematics teachers came together
+to craft out different lessons for the students. Teachers assigned these
+SLS lessons as homework or use them in class to complement the face-to-face
+lessons concurrently.</p>
+<p>Our students are also encouraged to engage in independent learning at
+home via KooBits, an online Mathematics platform. Students can learn at
+their own pace by trying out various Mathematics questions and word problems.
+Teachers also use the Quiz function to assess students’ learning. Besides
+solving Mathematics questions, the portal also provides interesting Mathematics
+stories and games to motivate students and make Mathematics learning more
+fun and enjoyable.</p>
 <p><strong>7. Supporting Programmes:</strong>
 </p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learning Support for Mathematics (LSM - P1 to P4)</strong>
@@ -171,7 +173,7 @@ a small group setting.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ICAN Mathematics (Improving Confidence and Achievement in Numeracy)</strong>
 </p>
 <p>The MOE ICAN Mathematics learning aims to improve the students’ confidence
-level in numeracy. This programme is for selected classes and it provides
+level in numeracy. This programme is for selected classes, and it provides
 students a systematic approach to learning Mathematics.</p>
 <p></p>
 <p><strong>8. Stretch Programme</strong>
@@ -191,11 +193,30 @@ following competitions to apply their knowledge and skills to stretch their
 mathematical thinking skills through solving routine and non-routine problems
 based on different mathematical topics that require them to exercise their
 critical and logical thinking skills.</p>
-<p>&nbsp; &nbsp; &nbsp;- Hwa Chong Institution (SMOPS)
-<br>&nbsp; &nbsp; &nbsp;- Raffles Institution (RIPMWC)
-<br>&nbsp; &nbsp; &nbsp;- River Valley Mathematics Challenge (RVMC)
-<br>&nbsp; &nbsp; &nbsp;- NUS High (NMOS)
-<br>&nbsp; &nbsp; &nbsp;- Annual Mathlympics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hwa Chong Institution (SMOPS)</p>
+</li>
+<li>
+<p>Raffles Institution (RIPMWC)</p>
+</li>
+<li>
+<p>River Valley Mathematics Challenge (RVMC)</p>
+</li>
+<li>
+<p>NUS High (NMOS)</p>
+</li>
+<li>
+<p>Annual Mathlympics</p>
+</li>
+<li>
+<p>NUS High Math Challenge</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Stretch_Programme.jpg">
+</div>
 <p><strong>9. Mathematics Week (T2W9 to T2W10)</strong>
 </p>
 <p>Our inaugural Mathematics Week took place during Term 2 Week 9 and 10
@@ -206,89 +227,38 @@ Math Magic Show, and lunch activities where games were created in-house
 by our very own P5 students. Students experienced the joy of learning Mathematics
 beyond the syllabus and were empowered to engage in self-directed learning.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_Week.jpg">
 </div>
-<p>Math Magic Show during Assembly</p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_Week_2.jpg">
 </div>
-<p>Game booths during Lunch. Games were made by our very own P5 students.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture3.jpg">
-</div>
-<p>Interactive ATMs by POSB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Week_Picture4.jpg">
-</div>
-<p>Sharing on Cashless Payment</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>10. Mathematics is Fun Lunch Activities (T2 onwards)</strong>
+<p><strong>10. Mathematics is Fun Activities</strong>
 </p>
-<p>This year, the department also kickstarted our Mathematics is Fun lunch
-activities. We engage students in purposeful play during their lunches
-as a way to increase their motivation in learning Mathematics.</p>
-<p>The department has come up with a series of fun and engaging Mathematics
-card games for the different levels. We hope the students will find learning
+<p>This year, the department also kickstarted our Mathematics is Fun activities.
+A plethora of activities were designed throughout the terms to infuse the
+joy of learning Mathematics in our students.</p>
+<p>For instance, we engage students in purposeful play during their lunches
+as a way to increase their motivation in learning Mathematics in Term 2.
+The department came up with a series of fun and engaging Mathematics card
+games for the different levels. We hope the students will find learning
 Mathematics enjoyable through these games. Students have fun playing the
 games and exchanging their stamp cards with a token of participation.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_is_Fun.jpg">
+</div>
+<p>In Term 3, the department moved the activities online and crafted a series
+of online escape room games. The tasks tapped on students’ understanding
+of various mathematical concepts in order to find the clues. Our department
+teachers also took up various pre-assembly sharing and performed some Math
+magic. These activities are planned to motivate our students in learning
+Mathematics and for students to see the relevance of Math in their daily
+lives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Mathematics_is_Fun_lunch_activities_pic1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_is_Fun_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_is_Fun_lunch_activities_pic2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h2><strong>How can you support your child in the learning of Mathematics?</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
