@@ -46,6 +46,9 @@ manipulatives and visual aids to strengthen and build their mastery of
 learning of abstract topics.</p>
 <p><strong>2. Collaborative Inquiry Based Learning (P1 - P6)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Col_IBL.jpg">
+</div>
 <p>The department has been incorporating an Inquiry Based Learning package
 on a termly basis for the learning of Mathematics in the classroom since
 2021. During this session, teachers present scenarios/ problems to students
@@ -57,6 +60,9 @@ and views on the problems. These lessons will also help students deepen
 their concepts in selected topics and thus aid them in problem solving.</p>
 <p><strong>3. Math Journaling</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_Journaling.jpg">
+</div>
 <p>Mathematics Journal assists in assessing students’ thinking and promotes
 communication skills. It consolidates learning and allows students to reflect
 on the learning in the classroom. Journals can mainly be investigative,
