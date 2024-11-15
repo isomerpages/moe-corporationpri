@@ -332,7 +332,7 @@ improvements in their learning.</p>
 <p><strong>MOE Mathematics syllabus:</strong>
 </p>
 <p>2013 Mathematics Syllabus (For 2025 Primary 6 Students only):</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">mathematics_syllabus_primary_1_to_6.pdf</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf</a>
 </p>
 <p>2021 Mathematics Syllabus (For 2025 Primary 1 to 5 Students), Implementation
 starting from 2021 Primary 1 Cohort:</p>
