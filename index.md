@@ -12,7 +12,7 @@ sections:
         - title: Our Latest Activities!
           description: Click here to view!
           url: https://www.facebook.com/corporationpri
-        - title: Prize-Giving Day!
+        - title: Our Prize-Giving Day!
           description: Click here to view photos!
           url: https://photos.app.goo.gl/kSYTH3iZrbHZnQ85A
         - title: Our Corporate Video!
