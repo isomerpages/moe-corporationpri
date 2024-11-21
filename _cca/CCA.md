@@ -11,7 +11,7 @@ to provide an all-round education for our pupils. As such, every pupil
 from P3 onwards is required to participate in one CCA during his/her primary
 school years. CCA has been built into the curriculum time to ensure that
 all P3 to P6 pupils participate in one CCA.</p>
-<p>Please take note that all CCA are conducted on&nbsp;<strong>Tuesdays from 2.45p.m to 4.45p.m.</strong>
+<p>Please take note that all CCA are conducted on&nbsp;<strong>Tuesdays from 2p.m to 4p.m.</strong>
 </p>
 <h2>Vision</h2>
 <p></p>
