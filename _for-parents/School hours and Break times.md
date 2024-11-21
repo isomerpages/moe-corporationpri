@@ -8,6 +8,6 @@ variant: tiptap
 <h2><strong>School Curriculum Hours</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/School Hours/2024_Curriculum_Hours.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/School Hours/2025_Sch_Hours.jpg">
 </div>
 <p></p>
