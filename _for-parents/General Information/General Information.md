@@ -121,7 +121,7 @@ third_nav_title: General Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="www.beauvoix.com" rel="noopener nofollow" target="_blank">www.beauvoix.com</a></strong>
+<p><strong><a href="https://www.beauvoix.com/" rel="noopener nofollow" target="_blank">www.beauvoix.com</a></strong>
 </p>
 </td>
 </tr>
