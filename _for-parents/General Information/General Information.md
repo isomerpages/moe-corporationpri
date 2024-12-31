@@ -61,9 +61,9 @@ third_nav_title: General Information
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/For Parents/General Information/P1_booklist__2025_.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a></strong>
 </p>
-<p><strong><a href="/files/For Parents/General Information/P2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P2  Booklist 2025</a></strong>
+<p><strong><a href="/files/For Parents/General Information/P2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P2 Booklist 2025</a></strong>
 </p>
-<p><strong><a href="/files/For Parents/General Information/P3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P3  Booklist 2025</a></strong>
+<p><strong><a href="/files/For Parents/General Information/P3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P3 Booklist 2025</a></strong>
 </p>
 <p><strong><a href="/files/For Parents/General Information/P4_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P4 Booklist 2025</a></strong>
 </p>
@@ -121,7 +121,7 @@ third_nav_title: General Information
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="www.beauvoix.com" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com</a></strong>
+<p><strong><a href="www.beauvoix.com" rel="noopener nofollow" target="_blank">www.beauvoix.com</a></strong>
 </p>
 </td>
 </tr>
