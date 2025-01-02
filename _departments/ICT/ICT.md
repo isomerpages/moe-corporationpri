@@ -16,9 +16,9 @@ collaborative skills. We develop programmes that uncover the joy of learning
 among our students using technology. The school will equip students with
 life-long social-emotional competencies and sound values so that they can
 become safe, respectful and responsible users of ICT.&nbsp;</p>
-<p>In 2024, the use of the&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>,
-Baseline ICT Standards New Media Literacies and Cyber Wellness are our
-main focus in the use of ICT in teaching and learning.</p>
+<p>In 2025, the use of the&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a> and
+Digital Literacy and Technological Skills (DLTS) are our main focus in
+the use of ICT in teaching and learning.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eKIHRVWxYPI"></iframe>
 </div>
