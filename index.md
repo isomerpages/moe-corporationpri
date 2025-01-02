@@ -21,7 +21,7 @@ sections:
         - title: Our Online Art Gallery!
           description: Click here to visit!
           url: https://go.gov.sg/cpsoag2024
-      subtitle: Nurturing pupils who C.A.R.E to succeed
+      subtitle: Lifelong learners who thrive with resilience, curiosity, and confidence.
       title: Corporation Primary School
   - infopic:
       title: Get official answers from our Q&A Platform
