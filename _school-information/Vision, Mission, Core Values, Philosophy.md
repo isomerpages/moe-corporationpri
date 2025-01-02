@@ -2,16 +2,12 @@
 title: Vision, Mission, Core Values, Philosophy
 permalink: /school-information/visionmissioncorevaluesphilosophy/
 description: ""
+variant: markdown
 ---
 Our vision
 ----------
 
-Nurturing pupils who C.A.R.E. to succeed.
-
-C - Confident Thinker   
-A - Active Contributor   
-R - Resilient Person  
-E - Enthusiastic Learner
+Lifelong learners who thrive with resilience, curiosity, and confidence.
 
   
 
@@ -22,7 +18,8 @@ E - Enthusiastic Learner
 Our mission
 -----------
 
-Providing holistic education to build character and develop talents in a nurturing environment.
+To nurture character and a passion for lifelong learning in a supportive environment.
+
 
   
 
