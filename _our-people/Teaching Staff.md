@@ -70,7 +70,7 @@ variant: tiptap
 <p>Ms Chan Jia Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Jia Wen
+<p>Mdm Shanmugam Mala
 <br>
 </p>
 </td>
