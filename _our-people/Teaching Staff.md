@@ -120,10 +120,10 @@ variant: tiptap
 <p>2.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS HUANG YUWEI</p>
+<p>Ms Wong Teck Juat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS REBECCA KO FONG LING</p>
+<p>Ms Khoo Pei Qi</p>
 </td>
 </tr>
 <tr>
@@ -131,10 +131,10 @@ variant: tiptap
 <p>2.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ANG SEE YUEN</p>
+<p>Ms Sharina Hyder Nair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR CHEW SHOUYE</p>
+<p>Ms Ang See Yuen</p>
 </td>
 </tr>
 <tr>
@@ -142,10 +142,10 @@ variant: tiptap
 <p>2.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR GOH CHEK MENG</p>
+<p>Mdm Shima Shazwani Binte Noordin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM SHANMUGAM MALA
+<p>Mrs Lim - Yeo Yifan
 <br>
 </p>
 </td>
@@ -155,10 +155,10 @@ variant: tiptap
 <p>2.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHAN JIA WEN</p>
+<p>Mr Logarajan S/O Rajoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS HO CHING YING, VALERIE
+<p>Ms Nooraisha Binte Mohamad
 <br>
 </p>
 </td>
@@ -168,34 +168,10 @@ variant: tiptap
 <p>2.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ANANTHINI D/O THANABALAN
-<br>
-</p>
+<p>Ms Chua Lee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR HUANG JINQUAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS STELLA TAN - WYE SUET PENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS ARIEL LEW - WOON MEI HUI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS AZURA BTE AZMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM ZENG LEI</p>
+<p>Mr Amirr Hamzah Bin Haji Abdul Moin</p>
 </td>
 </tr>
 <tr>
@@ -203,10 +179,10 @@ variant: tiptap
 <p>3.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NAZARIAH BINTE NASIR</p>
+<p>Ms Vithya D/O Chandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHUA LEE LIAN</p>
+<p>Ms Chan Mei Yoke</p>
 </td>
 </tr>
 <tr>
@@ -216,11 +192,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS AMEENAL BEVI D/O MOHAMED ALI</p>
+<p>Mrs Calin Foo-Lim Lay Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS TAN JIN LI</p>
-<p>MR AHMAD SALIKIN BIN MOHD ALI</p>
+<p>Mr Kwan Tuck Soon</p>
 </td>
 </tr>
 <tr>
@@ -228,11 +203,12 @@ variant: tiptap
 <p>3.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS CALIN FOO - LIM LAY KHIM</p>
+<p>Mdm Normah bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ASHWINI D/O CHANDRASAHARAN</p>
-<p>MDM THANGAVEL JAMUNARANI</p>
+<p>Ms Siti Shahirah Binte Samad</p>
+<p></p>
+<p>Mdm Zeng Lei</p>
 </td>
 </tr>
 <tr>
@@ -240,10 +216,12 @@ variant: tiptap
 <p>3.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SHARINA HYDER NAIR</p>
+<p>Mdm Bek Lai Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS MA XINYUE</p>
+<p>Mr Saiful Nizam Bin Pungot</p>
+<p></p>
+<p>Mrs Ray Chua Goh Kai Sin</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +232,7 @@ variant: tiptap
 <p>MS SITI ZAFIRAH BINTE MOHD KAMARUDDIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR MOHAMED FAIZAL BIN MOHAMED SALLEH</p>
+<p>AL BIN MOHAMED SALLEH</p>
 <p>MS NITTHIYA D/O RENGASAMY</p>
 </td>
 </tr>
@@ -263,13 +241,21 @@ variant: tiptap
 <p>3.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SITI MAISARAH BINTE SALLEH</p>
-<p></p>
-<p></p>
+<p>Mdm Ameenal Bevi D/O Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS PANG XIAO WEN</p>
-<p>MS SITI SHAHIRAH BINTE SAMAD</p>
+<p>Ms Zheng Jiale Jessle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Shao Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Wye Suet Peng Stella</p>
 </td>
 </tr>
 <tr>
@@ -277,10 +263,10 @@ variant: tiptap
 <p>4.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS NURUL NADHIRAH BINTE NASDI</p>
+<p>Mdm Nazariah Bte Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SOH LAY KIAW, DAWN</p>
+<p></p>
 </td>
 </tr>
 <tr>
