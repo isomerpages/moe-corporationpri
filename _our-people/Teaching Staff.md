@@ -34,12 +34,10 @@ variant: tiptap
 <p>1.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM DIAN FITRIANI BTE ABDOL MALIK
-<br>
-</p>
+<p>Ms Ananthini D/O Thanabalan Huang Yuwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHUA LEE WEI</p>
+<p>Ms Huang Yuwei</p>
 </td>
 </tr>
 <tr>
@@ -47,12 +45,10 @@ variant: tiptap
 <p>1.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS WONG TECK JUAT, DENISE
-<br>
-</p>
+<p>Ms Rebecca Ko Fong Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS KHOO PEI QI</p>
+<p>Ms Valerie Ho Ching Ying</p>
 </td>
 </tr>
 <tr>
@@ -60,12 +56,10 @@ variant: tiptap
 <p>1.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NORLINA MUNGIN</p>
+<p>Ms Azura Binte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS YEO XINRONG, MARJORIE
-<br>
-</p>
+<p>Mr Chew Shouye</p>
 </td>
 </tr>
 <tr>
@@ -73,11 +67,10 @@ variant: tiptap
 <p>1.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CONNIE TAN KENI</p>
+<p>Ms Chan Jia Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NG BIH JENG</p>
-<p>MDM HEMALATHA ELANGO
+<p>Mdm Chan Jia Wen
 <br>
 </p>
 </td>
@@ -87,10 +80,10 @@ variant: tiptap
 <p>1.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR LOGARAJAN S/O RAJOO</p>
+<p>Mr Alex Lim Zi Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS NOORAISHA BINTE MOHAMAD
+<p>Ms Nurul Nadhirah Binte Nasdi
 <br>
 </p>
 </td>
@@ -100,10 +93,10 @@ variant: tiptap
 <p>1.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHUA LEE HONG</p>
+<p>Mr Goh Chek Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR AMIRR HAMZAH BIN HAJI ABDUL MOIN
+<p>Ms Woon Mei Hui
 <br>
 </p>
 </td>
@@ -113,10 +106,13 @@ variant: tiptap
 <p>2.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SHIMA SHAZWANI BINTE NOORDIN</p>
+<p>Mdm Elango Hemalatha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS LIM - YEO YIFAN</p>
+<p>Mdm Chua Lee Wei</p>
+<p></p>
+<p>Mdm Jamuna</p>
+<p></p>
 </td>
 </tr>
 <tr>
