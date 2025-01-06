@@ -497,76 +497,74 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM NG BIH JENG (HOD MOTHER TONGUE)</p>
+<p>Mdm Ng Bih Jeng (HOD Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM TAN MEI YING (HOD CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR KWAN TUCK SOON (HOD ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS KWAN SIANG HOON (YEAR HEAD)</p>
+<p>Mdm Tan Mei Ying (SH CCE)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS YEO XINRONG MARJORIE</p>
+<p>Mr Kwan Tuck Soon (HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS LAU SZE HUI (SENIOR TEACHER)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR CHEW SHOUYE (ASST YEAR HEAD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS ARIEL LEW
-<br>
-</p>
+<p>Ms Kwan Siang Hoon (Year Head)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS BAO XIAOKE</p>
+<p>Ms Yeo Xinrong Marjorie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM CHAN MEI YOKE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS HO CHING YING VALERIE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS HUANG YUWEI</p>
+<p>Ms Lau Sze Hui (Senior Teacher)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS KHOO PEI QI</p>
+<p>Mr Chew Shouye (Asst Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS MA XINYUE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR NG SHAO WEI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS PANG XIAO WEN</p>
+<p>Mrs Ariel Lew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS TAN JIN LI</p>
+<p>Ms Bao Xiaoke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM ZENG LEI</p>
+<p>Mdm Chan Mei Yoke</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Ching Ying Valerie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Yuwei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Pei Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ma Xinyue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Shao Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pang Xiao Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Jin Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zeng Lei</p>
 </td>
 </tr>
 <tr>
@@ -585,26 +583,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR SAIFUL NIZAM BIN PUNGOT (SH ML)</p>
+<p>Mr Saiful Nizam Bin Pungot (SH ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR AMIRR HAMZAH BIN HAJI ABDUL MOIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS NURUL NADHIRAH BINTE NASDI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM NAZARIAH BINTE NASIR</p>
+<p>Mr Amirr Hamzah Bin Haji Abdul Moin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS UMA GAITRE D/O M.MEYAPPAN</p>
+<p>Ms Nurul Nadhirah Binte Nasdi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SITI SHAHIRAH BINTE SAMAD</p>
+<p>Mdm Nazariah Binte Nasir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Uma Gaitre D/O M.Meyappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Shahirah Binte Samad</p>
 </td>
 </tr>
 <tr>
