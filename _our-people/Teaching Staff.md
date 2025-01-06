@@ -513,7 +513,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS YEO XINRONG MARJORIE (SH CL)</p>
+<p>MS YEO XINRONG MARJORIE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LAU SZE HUI (SENIOR TEACHER)</p>
@@ -593,7 +593,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM DIAN FITRIANI BTE ABDOL MALIK</p>
+<p>MS NURUL NADHIRAH BINTE NASDI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NAZARIAH BINTE NASIR</p>
@@ -601,7 +601,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS NURUL NADHIRAH BINTE NASDI</p>
+<p>MS UMA GAITRE D/O M.MEYAPPAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS SITI SHAHIRAH BINTE SAMAD</p>
@@ -609,7 +609,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS UMA GAITRE D/O M.MEYAPPAN</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
