@@ -109,7 +109,7 @@ variant: tiptap
 <p>Mdm Hemalatha Elango</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lee Wei</p>
+<p>Ms Chua Lee Wei</p>
 <p></p>
 <p>Mdm Thangavel Jamunarani</p>
 </td>
@@ -468,7 +468,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Kwan Siang Hoon</p>
 <p></p>
-<p>Ms Liow Shiang Swee Grace</p>
+<p>Mdm Liow Shiang Swee Grace</p>
 </td>
 </tr>
 <tr>
