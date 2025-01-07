@@ -569,7 +569,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ray Chua Goh Kai Sin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -607,7 +607,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Syed Husin Bin Syed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
