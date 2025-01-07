@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Senior Teachers.md
       - Our People.md
       - School Management Committee.md
+      - Senior Teachers.md
       - Teaching Staff.md
       - Allied Educators.md
       - Executive and Administrative Staff.md
