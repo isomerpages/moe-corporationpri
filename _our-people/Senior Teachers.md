@@ -31,6 +31,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lau Sze Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Khoo Rong Huang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,14 +51,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lau Sze Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
 </td>
 </tr>
 <tr>
