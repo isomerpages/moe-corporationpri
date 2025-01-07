@@ -284,7 +284,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/MRS_SALMA_DCRUZ.jpg">
 </div>
@@ -299,7 +298,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/miss_see_hui_fang.jpg">
 </div>
@@ -308,7 +306,7 @@ variant: tiptap
 <p><strong>Ms See Hui Fang</strong> 
 <br><strong>Level Head Mathematics</strong>
 <br>
-<br>Email: <a href="mailto:see_hui_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">see_hui_fang@moe.edu.sg</a>
+<br>Email:<a href="mailto:see_hui_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">see_hui_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -342,7 +340,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/ms_foo_kai_lin.jpg">
 </div>
@@ -371,7 +368,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/miss_perle_hong_huini.jpg">
 </div>
