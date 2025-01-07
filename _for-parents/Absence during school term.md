@@ -2,6 +2,7 @@
 title: Absence during school term
 permalink: /for-parents/absenceduringschoolterm/
 description: ""
+variant: markdown
 ---
 Absence during school term
 ==================
@@ -15,7 +16,8 @@ Pupils must attend school regularly and punctually so as not to miss any lesson 
 
 Contact Us
 ----------
+To request leave (other than medical or hospitalisation) for your child, please use the link provided below. This platform is designed to ensure a more timely and efficient handling of your requests. Thank you for your cooperation.
 
-  
+**https://go.gov.sg/studentleaveapplication**
 
 You may find the contact information of your child's [Form and Co-Form Teachers](/our-people/teachingstaff/) here.
