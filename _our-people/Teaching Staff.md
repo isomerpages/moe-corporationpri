@@ -498,42 +498,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Bih Jeng (HOD Mother Tongue)</p>
+<p>Mdm Ng Bih Jeng (HOD MT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Mei Ying (SH CCE)</p>
+<p>Ms Lau Sze Hui (Senior Teacher CL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kwan Tuck Soon (HOD ICT)</p>
+<p>Mrs Ariel Lew - Woon Mei Hui</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Kwan Siang Hoon (Year Head)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Xinrong Marjorie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lau Sze Hui (Senior Teacher)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Shouye (Asst Year Head)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ariel Lew</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Bao Xiaoke</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Mei Yoke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Shouye</p>
 </td>
 </tr>
 <tr>
@@ -547,6 +531,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Khoo Pei Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kwan Siang Hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kwan Tuck Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ma Xinyue</p>
@@ -563,6 +555,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Jin Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Mei Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Xinrong Marjorie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zeng Lei</p>
@@ -592,18 +592,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Nadhirah Binte Nasdi</p>
+<p>Mdm Nazariah Binte Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazariah Binte Nasir</p>
+<p>Ms Nurul Nadhirah Binte Nasdi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Uma Gaitre D/O M.Meyappan</p>
+<p>Ms Siti Shahirah Binte Samad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Shahirah Binte Samad</p>
+<p>Ms Uma Gaitre D/O M.Meyappan</p>
 </td>
 </tr>
 <tr>
