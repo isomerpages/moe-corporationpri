@@ -254,7 +254,7 @@ more information.</p>
 </table>
 <p>NASCANS Pte Ltd will update you on the registration outcome.&nbsp;</p>
 <h4><strong>School Dental Clinic</strong><br></h4>
-<p>Tel: 67959671
+<p>Clinic contact number: 91144558
 <br>Please refer to the scheduled operating hours outside the School Dental
 Clinic.</p>
 <h4><strong>Parents Gateway (PG)</strong></h4>
