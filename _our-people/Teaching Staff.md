@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Teaching Staff</h1>
-<h2><strong>2024 Form Teachers</strong></h2>
+<h2><strong>2025 Form Teachers</strong></h2>
 <p>You may contact the Form Teacher of your child's class via&nbsp;<strong>ClassDojo</strong>.&nbsp;
 <br>Alternatively, you may call the school at&nbsp;<strong>6795 7381</strong>.</p>
 <table style="minWidth: 75px">
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Ms Rebecca Ko Fong Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Ho Ching Ying</p>
+<p>Ms Ho Ching Ying Valerie</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Mr Goh Chek Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Woon Mei Hui
+<p>Mrs Ariel Lew - Woon Mei Hui
 <br>
 </p>
 </td>
@@ -106,13 +106,12 @@ variant: tiptap
 <p>2.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Elango Hemalatha</p>
+<p>Mdm Hemalatha Elango</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chua Lee Wei</p>
 <p></p>
 <p>Mdm Thangavel Jamunarani</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -145,6 +144,8 @@ variant: tiptap
 <p>Mdm Shima Shazwani Binte Noordin</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Ng Bih Jeng</p>
+<p></p>
 <p>Mrs Lim - Yeo Yifan
 <br>
 </p>
@@ -158,9 +159,9 @@ variant: tiptap
 <p>Mr Logarajan S/O Rajoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nooraisha Binte Mohamad
-<br>
-</p>
+<p>Ms Nooraisha Bte Mohamad</p>
+<p></p>
+<p>Ms Yap Earn Chi</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +183,7 @@ variant: tiptap
 <p>Ms Vithya D/O Chandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Mei Yoke</p>
+<p>Mdm Chan Mei Yoke</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +204,7 @@ variant: tiptap
 <p>3.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Normah bte Ismail</p>
+<p>Mdm Normah Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Shahirah Binte Samad</p>
@@ -221,7 +222,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Saiful Nizam Bin Pungot</p>
 <p></p>
-<p>Mrs Ray Chua Goh Kai Sin</p>
+<p>Mrs Ray Chua - Goh Kai Sin</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +244,7 @@ variant: tiptap
 <p>Mr Ng Shao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Wye Suet Peng Stella</p>
+<p>Mrs Tan - Wye Suet Peng Stella</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +255,7 @@ variant: tiptap
 <p>Mdm Nazariah Bte Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lee Lian</p>
+<p>Ms Chua Lee Lian</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +268,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ahmad Salikin Bin Mohd Ali</p>
 <p>
-<br>Mrs Lim Po Qiu Ling Fion</p>
+<br>Mrs Fion Lim - Po Qiu Ling</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +279,7 @@ variant: tiptap
 <p>Ms Yogeswari D/O Dayalan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Hong Wei
+<p>Mr Toh Hong Wei Stephen
 <br>
 </p>
 <p>Mdm Faridah Bte Ismail</p>
@@ -324,7 +325,7 @@ variant: tiptap
 <p>5.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celeste Poh See Kee</p>
+<p>Ms Poh See Kee Celeste</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rashal Nader Sabeh</p>
@@ -362,7 +363,7 @@ variant: tiptap
 <p>Ms Tan Jin Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chiok Hwee Fen</p>
+<p>Ms Chiok Hwee Fen</p>
 <p></p>
 <p>Mdm Anom Bte Aris</p>
 </td>
@@ -377,7 +378,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Hong Huini Perle</p>
 <p></p>
-<p>Ms Gena Tee Hui Chen</p>
+<p>Ms Tee Hui Chen Gena</p>
 </td>
 </tr>
 <tr>
@@ -388,7 +389,7 @@ variant: tiptap
 <p>Ms Uvalakshmi D/O Jegatheesparan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Koh</p>
+<p>Mr Koh Wan Hou Melvin</p>
 </td>
 </tr>
 <tr>
@@ -399,7 +400,7 @@ variant: tiptap
 <p>Ms Ashwini D/O Chandrasaharan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Ong Hui Chen</p>
+<p>Ms Ong Hui Chen Angela</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +430,7 @@ variant: tiptap
 <p>6.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nitthiya</p>
+<p>Ms Nitthiya D/O Rengasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Kai Lin</p>
@@ -443,7 +444,7 @@ variant: tiptap
 <p>Ms See Hui Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanti d/o Govindasamy</p>
+<p>Mdm Shanti D/O Govindasamy</p>
 </td>
 </tr>
 <tr>
@@ -467,7 +468,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Kwan Siang Hoon</p>
 <p></p>
-<p>Ms Grace Liow Shiang Swee</p>
+<p>Ms Liow Shiang Swee Grace</p>
 </td>
 </tr>
 <tr>
@@ -569,7 +570,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ray Chua Goh Kai Sin</p>
+<p>Mrs Ray Chua - Goh Kai Sin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
