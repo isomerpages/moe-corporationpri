@@ -284,7 +284,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/MRS_SALMA_DCRUZ.jpg">
 </div>
@@ -294,20 +293,6 @@ variant: tiptap
 <br><strong>Level Head English Language</strong>
 <br>
 <br>Email: <a href="mailto:ummu_salma_hamaradeen@moe.edu.sg" rel="noopener nofollow" target="_blank">ummu_salma_hamaradeen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/saiful_nizam_bin_pungot.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Saiful Nizam Bin Pungot</strong> 
-<br><strong>Subject Head Malay Language</strong>
-<br>
-<br>Email: <a href="mailto:saiful_nizam_b_pungot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saiful_nizam_b_pungot@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,6 +313,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/saiful_nizam_bin_pungot.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Saiful Nizam Bin Pungot</strong> 
+<br><strong>Subject Head Malay Language</strong>
+<br>
+<br>Email: <a href="mailto:saiful_nizam_b_pungot@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saiful_nizam_b_pungot@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/tan_mei_ying.jpg">
 </div>
 </td>
@@ -341,7 +340,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/ms_foo_kai_lin.jpg">
 </div>
@@ -370,7 +368,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/miss_perle_hong_huini.jpg">
 </div>
