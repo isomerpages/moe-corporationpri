@@ -99,20 +99,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/FRANCESCA_PHOEBE_WAH_LI_TING.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Francesca Phoebe Ong - Wah Li Ting</strong>
-<br><strong>HOD English Language</strong>
-<br>
-<br>Email:&nbsp;<a href="mailto:francesca_wah_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">francesca_wah_li_ting@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/ng_bih_jeng.jpg">
 </div>
 </td>
@@ -188,7 +174,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Dawn Soh Lay Kiaw</strong>
+<p><strong>Ms Soh Lay Kiaw, Dawn</strong>
 <br><strong>HOD Curriculum and Assessment</strong>
 <br>
 </p>
@@ -230,7 +216,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Liow Shiang Swee, Grace</strong>
+<p><strong>Mdm Liow Shiang Swee, Grace</strong>
 <br><strong>School Staff Developer</strong>
 <br>
 <br>Email:&nbsp;<a href="mailto:liow_shiang_swee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_shiang_swee@moe.edu.sg</a>
@@ -258,7 +244,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kwan Siang Hoon</strong>
+<p><strong>Mdm Kwan Siang Hoon</strong>
 <br><strong>Year Head</strong>
 <br>
 <br>Email:&nbsp;<a href="mailto:kwan_siang_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_siang_hoon@moe.edu.sg</a>
@@ -298,29 +284,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/salbiah_binte_ishak.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/MRS_SALMA_DCRUZ.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Salbiah Binte Ishak</strong>
-<br><strong>Level Head Science</strong>
+<p><strong>Mrs Salma D'Cruz</strong>
+<br><strong>Level Head English Language</strong>
 <br>
-<br>Email:&nbsp;<a href="mailto:salbiah_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salbiah_ishak@moe.edu.sg</a>
+<br>Email: <a href="mailto:ummu_salma_hamaradeen@moe.edu.sg" rel="noopener nofollow" target="_blank">ummu_salma_hamaradeen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/yeo_xinrong_marjorie.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/miss_see_hui_fang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yeo Xinrong Marjorie</strong>
-<br><strong>Subject Head Chinese Language</strong>
+<p><strong>Ms See Hui Fang</strong> 
+<br><strong>Level Head Mathematics</strong>
 <br>
-<br>Email:&nbsp;<a href="mailto:yeo_xinrong_marjorie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xinrong_marjorie@moe.edu.sg</a>
+<br>Email: <a href="mailto:see_hui_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">see_hui_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -354,6 +342,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/ms_foo_kai_lin.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Foo Kai Lin</strong>
+<br><strong>Subject Head CCE</strong>
+<br>
+<br>Email:<a href="mailto:foo_kai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_kai_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/ONG_HUI_CHEN_ANGELA.jpg">
 </div>
@@ -363,6 +366,21 @@ variant: tiptap
 <br><strong>Subject Head Aesthetics</strong>
 <br>
 <br>Email:&nbsp;<a href="mailto:ong_hui_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_hui_chen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/miss_perle_hong_huini.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Hong Huini Perle</strong>
+<br><strong>Subject Head Student Well-being</strong>
+<br>
+<br>Email:<a href="mailto:hong_huini_perle@moe.edu.sg" rel="noopener nofollow" target="_blank">hong_huini_perle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
