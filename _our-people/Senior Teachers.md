@@ -23,7 +23,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shanti D/O Govindasamy</p>
+<p>Mdm Shanti D/O Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
@@ -63,7 +63,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shima Shazwani Binte Noordin</p>
+<p>Mdm Shima Shazwani Binte Noordin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning Needs - Educational Support</p>
