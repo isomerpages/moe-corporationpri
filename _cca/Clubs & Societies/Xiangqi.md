@@ -23,7 +23,7 @@ third_nav_title: Clubs & Societies
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Shao Wei
-<br>Ms Foo Kai Lin</p>
+<br>Ms Lau Sze Hui</p>
 </td>
 </tr>
 <tr>
