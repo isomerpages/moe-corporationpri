@@ -24,7 +24,8 @@ third_nav_title: Physical Sports
 <p>Ms Rebecca Ko &nbsp;
 <br>Ms Nasuha Idris
 <br>Ms Uvalakshmi Jegatheesparan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Ms Michelle Tan Shu Ni</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
