@@ -21,9 +21,8 @@ third_nav_title: Visual & Performing Arts
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Ho Ching Ying
-<br>Ms Nurul Nadhirah&nbsp;
-<br>Ms Siti Zafirah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Ms Nurul Nadhirah&nbsp;
+<br>Ms Valerie Ho Ching Ying &nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
