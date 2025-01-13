@@ -21,8 +21,7 @@ third_nav_title: Visual & Performing Arts
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Ismail
-<br>Mr Stephen Toh Hong Wei
+<p>Mr Stephen Toh Hong Wei
 <br>Mdm Kwan Nee&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
