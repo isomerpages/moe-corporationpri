@@ -24,7 +24,7 @@ third_nav_title: Uniform Groups
 <td rowspan="1" colspan="1">
 <p>Ms Yogeswari Dayalan
 <br>Ms Bao Xiaoke
-<br>Ms Shanti D/O Govindasamy</p>
+<br>Mdm Shanti D/O Govindasamy</p>
 </td>
 </tr>
 <tr>
