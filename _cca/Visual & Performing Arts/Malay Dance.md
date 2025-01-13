@@ -21,8 +21,10 @@ third_nav_title: Visual & Performing Arts
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Dian Fitriani
-<br>Ms Siti Shahirah</p>
+<p>Ms Siti Shahirah
+<br>Ms Chan Mei Yoke
+<br>Mdm Nooraisha Binte Mohamad
+<br>Mdm Mayanne Fong Bee Yee</p>
 </td>
 </tr>
 <tr>
