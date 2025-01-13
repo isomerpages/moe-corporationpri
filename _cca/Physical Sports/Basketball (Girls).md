@@ -22,9 +22,9 @@ third_nav_title: Physical Sports
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Alex Lim Zi Kai
-<br>Ms Lau Sze Hui
-<br>Ms Uma Gaitre
-<br>Ms Ma Xinyue</p>
+<br>Mr John Ong Yong Chin
+<br>Ms Ma Xinyue
+<br>Mdm Shanmugam Mala</p>
 </td>
 </tr>
 <tr>
