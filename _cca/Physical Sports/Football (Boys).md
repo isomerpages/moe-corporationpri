@@ -22,12 +22,11 @@ third_nav_title: Physical Sports
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Perle Hong
-<br>Mr Amirr Hamzah
-<br>Mr Ong Yong Chin John
-<br>Mr Chin Joong Fui
-<br>Ms Siti Hajjar Binte Manshor
-<br>Ms Nazariah Binte Nasir</p>
+<p>Mr Amirr Hamzah
+<br>Mr Melvin Koh
+<br>Ms Chua Lee Hong
+<br>Mdm Nazariah Binte Nasir
+<br>Mr Anwar Susilo Fikriyanto</p>
 </td>
 </tr>
 <tr>

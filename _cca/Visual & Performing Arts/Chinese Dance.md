@@ -22,8 +22,8 @@ third_nav_title: Visual & Performing Arts
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Huang Yuwei
-<br>Mdm Chan Mei Yoke
-<br>Mdm Ariel Woon Mei Hui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Mrs Ariel Lew - Woon Mei Hui
+<br>Ms Yeo Xinrong Marjorie</p>
 </td>
 </tr>
 <tr>

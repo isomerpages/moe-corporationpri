@@ -22,10 +22,9 @@ third_nav_title: Uniform Groups
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Celeste Poh See Kee
+<p>Ms Hailynn Binte Mohamed Amin
 <br>Ms Ashwini Chandrasaharan
-<br>Ms Monarekha Nandakumaran
-<br>Ms Hailynn Binte Mohamed Amin</p>
+<br>Ms Celeste Poh See Kee</p>
 </td>
 </tr>
 <tr>
