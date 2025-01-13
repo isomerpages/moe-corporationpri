@@ -21,10 +21,10 @@ third_nav_title: Visual & Performing Arts
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Jinquan
-<br>Mr Ahmad Salikin
+<p>Mr Ahmad Salikin
 <br>Ms Khoo Pei Qi
-<br>Mdm Shanmugam Mala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Mdm Thangavel Jamunarani
+<br>Mdm Ameenal Bevi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
