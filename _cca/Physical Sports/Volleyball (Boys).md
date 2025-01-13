@@ -25,7 +25,7 @@ third_nav_title: Physical Sports
 <p>Ms Ang See Yuen
 <br>Ms Tan Jin Li
 <br>Ms Low Li Ying Elysia
-<br>Ms Shima Shazwani Binte Noordin</p>
+<br>Mdm Shima Shazwani Binte Noordin</p>
 </td>
 </tr>
 <tr>
