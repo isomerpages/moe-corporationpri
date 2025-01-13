@@ -70,6 +70,20 @@ Netball Competition from 2014 to 2019.
 <br>- 2nd Runner Up</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students' voices</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"There are many roles for you to try out, all roles are interesting. You
+get to learn a variety of skills. Very fun CCA! The netball people are
+friendly and fun."
+<br>
+<br>"I didn’t know what netball was all about! Now that I’ve joined, I love
+it! Everyone is friendly, teachers are nice, fun too!"</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
