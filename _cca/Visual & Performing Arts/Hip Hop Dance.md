@@ -21,7 +21,7 @@ third_nav_title: Visual & Performing Arts
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Elango Hemalatha
+<p>Mdm Hemalatha Elango
 <br>Ms Jessle Zheng Jiale
 <br>Ms Vithya D/O Chandra
 <br>Ms Siti Maisarah Binte Salleh</p>
