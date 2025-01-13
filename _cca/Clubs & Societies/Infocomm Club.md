@@ -23,7 +23,6 @@ third_nav_title: Clubs & Societies
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Zeng Lei
-<br>Ms Chua Lee Hong
 <br>Mr Wesley Tan</p>
 </td>
 </tr>
