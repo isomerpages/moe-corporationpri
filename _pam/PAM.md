@@ -2,10 +2,8 @@
 title: PAM
 permalink: /pam/PAM/
 description: ""
+variant: markdown
 ---
-
-
-
 PAM
 ===
 
@@ -16,9 +14,7 @@ The PAM department aims to holistically nurture our students through their sense
 
 **Introduction of PAM Vision**
 
-Physical education, Art and Music (PAM) subjects are important components of a child’s development which focus on enhancing the various sensory development of our students and these developments have a positive impact on a child’s learning journey. Since 2009, PERI (Primary Education Review and Implementation) committee was created to review teaching and learning in the   
-
-lower primary levels. This new initiative created a direct impact on how PAM subjects are taught in Singapore.     
+Physical education, Art and Music (PAM) subjects are important components of a child’s development which focus on enhancing the various sensory development of our students and these developments have a positive impact on a child’s learning journey. Since 2009, PERI (Primary Education Review and Implementation) committee was created to review teaching and learning in the lower primary levels. This new initiative created a direct impact on how PAM subjects are taught in Singapore.     
 
   
 

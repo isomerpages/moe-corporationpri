@@ -47,11 +47,7 @@ challenges and contribute to a more sustainable way of life.</p>
 Warriors. To ensure fundamental alignment and seamless integration, the
 design of ALP Urban Food Warriors draws reference from the 21CC Student
 Outcomes, school wide approach of Collaborative Inquiry, CPS TCF and Ways
-Of Thinking.
-<br>ALP Urban Food Warriors will be implemented in phases to ensure effective
-delivery. P3 &amp; P5 has been implemented in 2021. Followed by P1 &amp;
-P2 which will be implemented in 2022. Full implementation school-wide will
-take place by 2023.</p>
+Of Thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP%20Table.jpg">
 </div>

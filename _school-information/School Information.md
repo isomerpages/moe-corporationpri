@@ -9,32 +9,55 @@ variant: tiptap
 <img style="width:55%" height="auto" width="100%" src="/images/CPS%20Formation.jpeg">
 </div>
 <p><strong>Principal's Address</strong> 
-<br>As we usher in the new year, it is an opportune time to also reflect on
-what has happened in 2023. Last year was our first full year without major
-Covid-19 restrictions. Learning Journeys, Fiestas, Camps, Sports Carnival,
-and many other learning experiences resumed full-scale, to the benefit
-of our students. These experiences were invaluable and provided students
-with meaningful opportunities to deepen and broaden their learning.</p>
-<p>Before we ended Term 4 last year, I challenged the students to learn one
-new skill during the December holidays. It can be something that they have
-always wanted to learn but could not, for whatever reason. We want to encourage
-a culture of lifelong learning and for our students to explore their passion.
-The goal is not so much of the outcome (newly learnt skill) but more importantly,
-the process that the students must go through to achieve their outcome.
-We want to encourage self-directedness, ownership and joy in learning that
-goes beyond the four walls of the classroom.</p>
-<p>Teachers play an integral role in developing our students holistically.
-They are not just knowledge disseminators or subject-content providers.
-They are facilitators of learning and character-builders. Every student
-is unique and teachers in CPS strive to maximise students’ potential by
-developing their talents and strengths. Moving forward, the school will
-continue to provide varied learning experiences that will help build character
-and develop talents in our students.</p>
-<p>Lastly, I would also like to take this opportunity to introduce new staff
-additions to our CPS family. They bring with them varied leadership and
-teaching experiences that will strengthen the school’s capabilities to
-provide a holistic education for our Corporation STARS.</p>
-<table>
+<br>A warm welcome to 2025! As we embark on another exciting chapter at Corporation
+Primary School, I would like to take a moment to reflect on the wonderful
+journey we shared in 2024. This past year, our students demonstrated remarkable
+growth, resilience, and curiosity in their learning journeys. These qualities,
+nurtured by our dedicated teachers and parents’ invaluable support, have
+set the foundation for their success as lifelong learners.</p>
+<p>In 2025, we are excited to deepen our commitment to fostering Lifelong
+Learning (LfL) in every child. At Corporation Primary School, LfL is more
+than a goal—it is a mindset and way of life. This year, we will continue
+to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Develop a Growth Mindset </strong>in our students, helping them
+see challenges as opportunities and setbacks as stepping stones to success.</p>
+</li>
+<li>
+<p><strong>Build 21st Century Competencies</strong> such as adaptability and
+communication, ensuring our students are well-prepared for a rapidly evolving
+world.</p>
+</li>
+<li>
+<p><strong>Deepen Learning</strong> through inquiry-based approaches and hands-on
+experiences that connect classroom knowledge to real-world applications.</p>
+</li>
+<li>
+<p><strong>Broaden and Enrich Experiences</strong> by encouraging participation
+in co-curricular activities, community projects, and opportunities for
+global exposure.</p>
+</li>
+</ul>
+<p>This year is especially significant as we celebrate our <strong>50th Anniversary</strong>.
+This milestone is a testament to the enduring legacy of excellence, community,
+and growth that we have built together since 1975. We look forward to commemorating
+this golden jubilee with meaningful events that bring together our students,
+parents, staff, and alumni.</p>
+<p>As we move forward, let us continue to inspire our children to thrive
+with resilience, curiosity, and confidence. Together, as a school community,
+we can shape a future filled with hope, opportunity, and promise for every
+child.</p>
+<p>Thank you for your unwavering partnership and trust. Here’s to a year
+of celebration, growth, and shared achievements!</p>
+<p>On that note I would also like to welcome the following teachers to the
+CPS family.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,10 +78,10 @@ provide a holistic education for our Corporation STARS.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liow Shiang Swee</p>
+<p>Mdm Ummu Salma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Level Head (English)</p>
 </td>
 </tr>
 <tr>
@@ -66,10 +89,10 @@ provide a holistic education for our Corporation STARS.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tee Hui Chen</p>
+<p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mathematics)</p>
+<p>Senior Teacher (English)</p>
 </td>
 </tr>
 <tr>
@@ -77,10 +100,10 @@ provide a holistic education for our Corporation STARS.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lee Wei</p>
+<p>Mr Anwar Susilo Fikriyanto</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
+<p>Senior Teacher (Science)</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +111,10 @@ provide a holistic education for our Corporation STARS.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kwan Siang Hoon</p>
+<p>Mr Melvin Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +122,10 @@ provide a holistic education for our Corporation STARS.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Hui Chen</p>
+<p>Mrs Mary Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Aesthetics)</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -110,51 +133,7 @@ provide a holistic education for our Corporation STARS.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Rong Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nooraisha Bte Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Special Educational Needs)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shima Shazwani Binte Noordin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Educational Support)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Li Jianwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Physical Education)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Hajjar Bte Manshor</p>
+<p>Mr Muhd Noor Asmain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -163,8 +142,13 @@ provide a holistic education for our Corporation STARS.</p>
 </tbody>
 </table>
 <p>Let us also congratulate three of our teachers who were promoted to assume
-curriculum or pedagogical leadership roles from 2024 onwards!</p>
-<table>
+curriculum leadership roles from 2025 onwards!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -185,10 +169,10 @@ curriculum or pedagogical leadership roles from 2024 onwards!</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Faizal</p>
+<p>Ms Perle Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (PE/CCA)</p>
+<p>Subject Head (Student Well-being)</p>
 </td>
 </tr>
 <tr>
@@ -196,10 +180,10 @@ curriculum or pedagogical leadership roles from 2024 onwards!</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Shouye</p>
+<p>Ms Foo Kai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Primary)</p>
+<p>Subject Head (CCE)</p>
 </td>
 </tr>
 <tr>
@@ -207,18 +191,18 @@ curriculum or pedagogical leadership roles from 2024 onwards!</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celeste Poh</p>
+<p>Ms See Hui Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
+<p>Level Head (Mathematics)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Yours Sincerely,</p>
+<p>With gratitude and optimism,</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/School Info/mr_muhammad_fadylla_b_rashiman_new.jpg">
 </div>
-<p>Muhammad Fadylla Rashiman (Mr)
+<p>Mr Muhammad Fadylla
 <br>Principal</p>
 <p></p>
