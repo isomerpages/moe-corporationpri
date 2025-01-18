@@ -21,20 +21,22 @@ than a goal—it is a mindset and way of life. This year, we will continue
 to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Develop a Growth Mindset in our students, helping them see challenges
-as opportunities and setbacks as stepping stones to success.</p>
+<p><strong>Develop a Growth Mindset </strong>in our students, helping them
+see challenges as opportunities and setbacks as stepping stones to success.</p>
 </li>
 <li>
-<p>Build 21st Century Competencies such as adaptability and communication,
-ensuring our students are well-prepared for a rapidly evolving world.</p>
+<p><strong>Build 21st Century Competencies</strong> such as adaptability and
+communication, ensuring our students are well-prepared for a rapidly evolving
+world.</p>
 </li>
 <li>
-<p>Deepen Learning through inquiry-based approaches and hands-on experiences
-that connect classroom knowledge to real-world applications.</p>
+<p><strong>Deepen Learning</strong> through inquiry-based approaches and hands-on
+experiences that connect classroom knowledge to real-world applications.</p>
 </li>
 <li>
-<p>Broaden and Enrich Experiences by encouraging participation in co-curricular
-activities, community projects, and opportunities for global exposure.</p>
+<p><strong>Broaden and Enrich Experiences</strong> by encouraging participation
+in co-curricular activities, community projects, and opportunities for
+global exposure.</p>
 </li>
 </ul>
 <p>This year is especially significant as we celebrate our <strong>50th Anniversary</strong>.
