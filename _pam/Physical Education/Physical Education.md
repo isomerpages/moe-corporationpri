@@ -3,19 +3,20 @@ title: Physical Education
 permalink: /pam/Physical-Education/pe/
 description: ""
 third_nav_title: Physical Education
+variant: markdown
 ---
-Physical Education 
+Physical Education&nbsp;
 ===================
 #### <u>Vision and Curriculum</u>
 
-<img src="/images/PE1.jpeg" style="width:280px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/PE1.jpeg" style="width:280px;height:200px;margin-left:15px;" align="right">
 
 
 **PE Vision in CPS**: We seek to enable students to enjoy a lifetime of active and healthy living.  
 
   
 
-In 2014, a new 2014 PE syllabus was introduced using Learning Outcomes (LOs) to specify minimally what students should know and be able to do as a result of their learning.   
+In 2014, a new 2014 PE syllabus was introduced using Learning Outcomes (LOs) to specify minimally what students should know and be able to do as a result of their learning.&nbsp;  
 
   
 
@@ -23,9 +24,9 @@ The Primary PE syllabus aims to develop competent movers who demonstrate efficie
 
 
 
-<img src="/images/PE2.jpeg" style="width:250px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/PE2.jpeg" style="width:250px;height:200px;margin-left:15px;" align="right">
 
-Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain the 6 goals of PE. 
+Seven learning areas are identified to facilitate these learning experiences in primary schools so as to attain the 6 goals of PE.&nbsp;
 
   
 
@@ -37,7 +38,7 @@ Seven learning areas are identified to facilitate these learning experiences in 
 
 2. Dance
 
-3. Games & Sports
+3. Games &amp; Sports
 
 4. Gymnastics
 
@@ -57,7 +58,7 @@ Seven learning areas are identified to facilitate these learning experiences in 
 
 2. Understand and apply movement concepts, principles and strategies in a range of physical activities.
 
-3. Demonstrate safe practices during physical and daily activities with respect to themselves, others and the        environment.
+3. Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
 
 4. Display positive personal and social behavior across different experiences.
 
@@ -66,10 +67,10 @@ Seven learning areas are identified to facilitate these learning experiences in 
 6. Enjoy and value the benefits of living a physically active and healthy life.
 
 
-<img src="/images/PE3.jpeg" style="width:180px;height:280px;margin-left:15px;" align = "right">
+<img src="/images/PE3.jpeg" style="width:180px;height:280px;margin-left:15px;" align="right">
 
-In Corporation primary school, our PE curriculum is designed in a spiral approach. 
-This approach seeks to reinforce the skills and knowledge taught within the learning year and across their six years in school. We believe that this approach provides a holistic learning experience for our students. 
+In Corporation primary school, our PE curriculum is designed in a spiral approach.&nbsp;
+This approach seeks to reinforce the&nbsp;skills and knowledge taught within the learning year and across their six years in school.&nbsp;We believe that this approach provides a holistic learning experience for our students.&nbsp;
 
   
 
