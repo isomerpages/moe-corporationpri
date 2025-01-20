@@ -7,7 +7,7 @@ variant: tiptap
 <h1>Mathematics</h1>
 <h3><strong><u>2024 in summary</u></strong></h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R1P1qmDsepA?si=SqoAKw6lXu-ZrhBL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/A093WGB5FbY?si=5FY50ETcJCTlg8AS"></iframe>
 </div>
 <h3><strong><u>Mathematics in CPS</u></strong></h3>
 <p><strong>Vision</strong>: Nurturing confident and curious students who
