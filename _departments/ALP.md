@@ -12,9 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP%20Logo.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="444" width="594" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3BqlNK6s_jA"></iframe>
-</div>
 <p>Urban Food Warriors is the school’s distinctive Applied Learning Programme
 (ALP) designed to address issues of sustainability. Especially apt in today’s
 context, the pandemic has provided a timely reminder of Singapore’s vulnerability
@@ -51,6 +48,36 @@ Of Thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP%20Table.jpg">
 </div>
+<p><strong>ALP URBAN FOOD WARRIOR E-NEWSLETTERS</strong>
+</p>
+<p>2024 Semester 1 e-newsletter</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg4.jpg">
+</div>
+<p>2024 Semester 2 e-newsletter</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg4.jpg">
+</div>
+<p><strong>PHOTOS</strong>
+</p>
 <p>Hydroponics with P3</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6_SRMF3U-ZlxPaUjjOkP7ss8GlCt0Ym-coPd4O8EAcu8VvH4iNNRZKhBxUwTHZUq2U0_mSTR-wZgB/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
