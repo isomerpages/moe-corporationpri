@@ -51,31 +51,7 @@ Of Thinking.</p>
 <p><strong>ALP URBAN FOOD WARRIOR E-NEWSLETTERS</strong>
 </p>
 <p>2024 Semester 1 e-newsletter</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem1_Newsletter_Pg4.jpg">
-</div>
 <p>2024 Semester 2 e-newsletter</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/ALP/2024_ALP_Sem2_Newsletter_Pg4.jpg">
-</div>
 <p><strong>PHOTOS</strong>
 </p>
 <p>Hydroponics with P3</p>
