@@ -99,8 +99,9 @@ and discover interests and enrich his or her learning experiences.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
 </div>
 <p><strong>Supportive Learning Environment</strong>
 </p>
