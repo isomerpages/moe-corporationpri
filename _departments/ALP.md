@@ -10,7 +10,7 @@ variant: tiptap
 <p><strong>URBAN FOOD WARRIORS</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP%20Logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP%20Logo.jpg">
 </div>
 <p>Urban Food Warriors is the school’s distinctive Applied Learning Programme
 (ALP) designed to address issues of sustainability. Especially apt in today’s
