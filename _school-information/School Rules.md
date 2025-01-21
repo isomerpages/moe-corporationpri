@@ -81,8 +81,8 @@ Attire and Behaviour in their student handbook.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to wear the prescribed school uniform. No modification to
-the school uniform is not allowed.</p>
+<p>Students are to wear the prescribed school uniform. <strong>No modification to the school uniform is not allowed.</strong>
+</p>
 </li>
 <li>
 <p>Every student should try to have at least two sets of uniforms and PE
@@ -306,13 +306,10 @@ during term time is generally not considered a valid reason for absence.
 Parents who wish to take their child overseas for vacation and / or to
 attend to personal matters should do so during the school holidays. Should
 there be any urgent need to travel, parents are requested to apply via
-the following link: <a href="https://go.gov.sg/studentleaveapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/studentleaveapplication</a> 
+the following link: <a href="https://go.gov.sg/studentleaveapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/studentleaveapplication</a>
 </p>
-<p>*The number of letters accepted will be limited to 5 per semester, and
-each letter should cover no more than a maximum of 3 days. If a student
-exceeds the accepted number of letters per semester, subsequent absences
-will be taken as invalid absences, which will affect his / her conduct
-grade.</p>
+<p><em>*The number of letters accepted will be limited to 5 per semester, and each letter should cover no more than a maximum of 3 days. If a student exceeds the accepted number of letters per semester, subsequent absences will be taken as invalid absences, which will affect his / her conduct grade.</em>
+</p>
 <hr>
 <h2><strong>Policy On The Use Of The Internet</strong></h2>
 <p>Corporation Primary School is well equipped with devices such as computers
@@ -332,43 +329,46 @@ with the following rules. Failure to abide by the rules may result in a
 temporary or permanent ban on the student’s use of the facilities.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>I will play games during lessons only if instructed by my teacher for
-teaching and learning purposes.</p>
+<p><strong>I will</strong> play games during lessons only if instructed by
+my teacher for teaching and learning purposes.</p>
 </li>
 <li>
-<p>I will surf the Internet during lessons only under my teacher’s guidance.</p>
+<p><strong>I will </strong>surf the Internet during lessons only under my
+teacher’s guidance.</p>
 </li>
 <li>
-<p>I will keep my password a secret and will not share it with anyone.</p>
+<p><strong>I will</strong> keep my password a secret and will not share it
+with anyone.</p>
 </li>
 <li>
-<p>I will not share my personal information (e.g., address, phone number,
-pictures) with anyone online.</p>
+<p><strong>I will</strong> not share my personal information (e.g., address,
+phone number, pictures) with anyone online.</p>
 </li>
 <li>
-<p>I will obey the terms of use for social media platforms (e.g. WhatsApp,
-Instagram, TikTok require users to be at least 13 years old) and will not
-create accounts if I am underaged.</p>
+<p><strong>I will</strong> obey the terms of use for social media platforms
+(e.g. WhatsApp, Instagram, TikTok require users to be at least 13 years
+old) and will not create accounts if I am underaged.</p>
 </li>
 <li>
-<p>I will check the reliability and accuracy of the information I access
-online and recognise that some websites may contain incorrect or misleading
-content.</p>
+<p><strong>I will</strong> check the reliability and accuracy of the information
+I access online and recognise that some websites may contain incorrect
+or misleading content.</p>
 </li>
 <li>
-<p>I will only download, copy, or share videos, music, pictures, or other
-people’s work with their permission.</p>
+<p><strong>I will</strong> only download, copy, or share videos, music, pictures,
+or other people’s work with their permission.</p>
 </li>
 <li>
-<p>I will immediately report any online encounters with strangers to a trusted
-adult.</p>
+<p><strong>I will</strong> immediately report any online encounters with strangers
+to a trusted adult.</p>
 </li>
 <li>
-<p>I will stay respectful and will not harm, bully, or say unkind words to
-others online or offline.</p>
+<p><strong>I will</strong> stay respectful and will not harm, bully, or say
+unkind words to others online or offline.</p>
 </li>
 <li>
-<p>I will only take or post pictures or videos of others with their permission.</p>
+<p><strong>I will </strong>only take or post pictures or videos of others
+with their permission.</p>
 </li>
 </ul>
 <p>The school has built and maintained this website on the world wide web
