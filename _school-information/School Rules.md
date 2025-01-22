@@ -341,7 +341,7 @@ teacher’s guidance.</p>
 with anyone.</p>
 </li>
 <li>
-<p><strong>I will</strong> not share my personal information (e.g., address,
+<p><strong>I will not </strong>share my personal information (e.g., address,
 phone number, pictures) with anyone online.</p>
 </li>
 <li>
