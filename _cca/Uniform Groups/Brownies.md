@@ -63,13 +63,17 @@ competencies which would equip them to thrive in a rapidly changing world.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>2024 </u>
-<br>7 Chief Commissioner's Award Recipients West Division Day: 1 Gold, 1 Bronze</p>
-<p><u>2023 </u>
-<br>Puan Noor Aishah Unit Award: Gold 8 Chief Commissioner's Award Recipients
+<p><u>2024</u>
+<br>7 Chief Commissioner's Award Recipients
+<br>West Division Day: 1 Gold, 1 Bronze</p>
+<p><u>2023</u>
+<br>Puan Noor Aishah Unit Award: Gold
+<br>8 Chief Commissioner's Award Recipients
 <br>National Brownie Revel: 4 Silver West Division Day: 1 Silver, 1 Bronze</p>
-<p><u>2022 </u>
-<br>Puan Noor Aishah Unit Award: Gold West Division Day: 2 Bronze</p>
+<p><u>2022</u>
+<br>Puan Noor Aishah Unit Award: Gold
+<br>West Division Day: 2 Bronze</p>
+<p></p>
 </td>
 </tr>
 <tr>
