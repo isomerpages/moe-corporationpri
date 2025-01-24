@@ -78,7 +78,7 @@ CPS family.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ummu Salma</p>
+<p>Mrs Salma D'cruz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head (English)</p>
