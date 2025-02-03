@@ -118,7 +118,7 @@ discover talents in reading, writing and speaking. It is a week where the
 CPS pupils will be immersed in the plethora of fun and engaging language
 activities!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
 </div>
 <p>NewsMakers Awards 2024</p>
 <p>Ilman Rafiq (4.7), Ivasenko Evelina (4.4) and Shanjana Srinivasan (4.2)
@@ -128,7 +128,7 @@ video news. They won the Gold Award, securing Corporation Primary School’s
 position as the top performer in the event. This outstanding achievement
 is a testament to the dedication, talent, and hard work of our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Newsmaker_2024.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Newsmaker_2024.jpg">
 </div>
 <p></p>
 <p></p>
