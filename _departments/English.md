@@ -23,21 +23,22 @@ skillset.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/EL Fiesta 2.jpg">
 </div>
-<p><strong>Primary 1 and 2: Read-A-Mania and Extensive Reading Programme (ERP)</strong>
+<p><strong>Primary 1 to 6: Extensive Reading Programme (ERP)</strong>
 </p>
-<p>The programme encourages the CPS pupil to make reading a way of life and
-provides wider guided reading opportunities for lower and middle progress
-readers. This programme is done in collaboration with the Parents’ Support
-Group.</p>
-<p><strong>Primary 3 and 4: Reading Portfolios</strong>
+<p>The programme fosters a love of reading in CPS students, inspiring them
+to become lifelong readers. Students have access to a diverse selection
+of high-quality, age-appropriate materials and are given dedicated time
+and space to read for enjoyment.</p>
+<p><strong>Primary 4 and 5: Little Red Dot</strong>
 </p>
-<p>The programme imbues the love for reading in the CPS pupil through the
-critical reading of age-appropriate books and creative literature activities.</p>
-<p><strong>Primary 5 and 6: Little Red Dot</strong>
-</p>
-<p>The programme empowers the CPS pupil to keep abreast with current affairs
+<p>The programme empowers the CPS students to keep abreast with current affairs
 using authentic texts and materials while providing opportunities for collaboration
 and make connections of learning to life.</p>
+<p><strong>Primary 6: I and Inspire Magazines</strong>
+</p>
+<p>Students engage with the I magazine or Inspire magazine, which feature
+relatable and thought-provoking content. These magazines encourage students
+to develop a deeper understanding of the world around them.</p>
 <p><strong>Foundation of Curriculum</strong>
 </p>
 <p><strong>STELLAR Programme (Primary 1 to Primary 6)</strong>
@@ -117,7 +118,7 @@ discover talents in reading, writing and speaking. It is a week where the
 CPS pupils will be immersed in the plethora of fun and engaging language
 activities!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
 </div>
 <p>NewsMakers Awards 2024</p>
 <p>Ilman Rafiq (4.7), Ivasenko Evelina (4.4) and Shanjana Srinivasan (4.2)
@@ -127,7 +128,7 @@ video news. They won the Gold Award, securing Corporation Primary School’s
 position as the top performer in the event. This outstanding achievement
 is a testament to the dedication, talent, and hard work of our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Newsmaker_2024.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Newsmaker_2024.jpg">
 </div>
 <p></p>
 <p></p>
