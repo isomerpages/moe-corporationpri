@@ -115,6 +115,9 @@ include the Hari Raya concert, National Day celebration, and pre-assembly
 sessions, where they refine their stage presence and adaptability in real-world
 settings.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Student_Emcees.jpg">
+</div>
 <p>Poetry Workshop</p>
 <p>The Poetry Workshop at CPS nurtures creative expression by encouraging
 students to explore diverse text types and articulate their ideas in unique
@@ -125,7 +128,9 @@ accessible and enjoyable for all learners.</p>
 apprehensions and gain confidence in poetic expression. By the end of the
 programme, they will have created their own visual poetry piece, showcasing
 their newly acquired skills in writing and performance.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Poetry_Workshop.jpg">
+</div>
 <p><strong>Supportive Learning Environment</strong>
 </p>
 <p>To provide reading pleasure for English,&nbsp;besides the Media Resource
