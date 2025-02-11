@@ -15,11 +15,11 @@ in the language and love reading.</p>
 <p><strong>English Department Programmes:</strong>
 </p>
 <p>Reading Programmes at CPS promote reading with a clear and meaningful
-purpose to help the CPS pupil gain more knowledge and information.</p>
-<p>The programmes will monitor the CPS pupil’s growth and development, enable
+purpose to help the CPS students gain more knowledge and information.</p>
+<p>The programmes will monitor CPS student’s growth and development, enable
 them to discern information accurately and empower them to be a Confident
-Language User and Active Contributor and Speaker as aligned with the 21st&nbsp;century
-skillset.</p>
+Language User and Active Contributor and Speaker as aligned with the 21st
+century skillset.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/EL Fiesta 2.jpg">
 </div>
@@ -45,19 +45,17 @@ to develop a deeper understanding of the world around them.</p>
 </p>
 <p>The school’s English Language curriculum is based on the STELLAR programme.
 STELLAR, which stands for&nbsp;<strong>ST</strong>rategies for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L</strong>earning&nbsp;<strong>A</strong>nd&nbsp;<strong>R</strong>eading,
-aims to strengthen pupils’ language and reading skills. The programme uses
-research-based teaching strategies and age-appropriate materials to engage
-pupils as they learn to effectively use the English Language. The teaching
-approaches and resources are designed to deliver the outcomes of English
-Language Syllabus 2010.&nbsp;</p>
-<p>For more information on STELLAR and Parent Resources on STELLAR, please
-click&nbsp;<a href="http://www.stellarliteracy.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+aims to strengthen students’ language and reading skills. The programme
+uses research-based teaching strategies and age-appropriate materials to
+engage students as they learn to effectively use the English Language.
+The teaching approaches and resources are designed to deliver the outcomes
+of English Language Syllabus 2010</p>
 <p><strong>Rich Learning Experiences</strong>
 </p>
 <p>To nurture the joy of learning and in tandem with the school’s total curriculum
-framework, the following programmes will provide the opportunity for the
-CPS pupil to stimulate interest and curiosity so that he or she can explore
-and discover interests and enrich his or her learning experiences.</p>
+framework, the following programmes will provide the opportunity for CPS
+students. to stimulate interest and curiosity so that they can explore
+and discover interests and enrich their learning experiences.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -104,19 +102,42 @@ and discover interests and enrich his or her learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
 </div>
+<p></p>
+<p>Student Emcees</p>
+<p>At CPS, our student emcees cultivate a Growth Mindset by taking on the
+challenge of speaking before live audiences, strengthening their confidence
+and communication skills. Through collaboration and script refinement,
+they develop essential 21st Century Competencies (E21CC), emerging as articulate,
+self-assured individuals and active contributors.</p>
+<p>Throughout the year, these students gain valuable public speaking experience
+by hosting major school events and leading short sharing segments. Opportunities
+include the Hari Raya concert, National Day celebration, and pre-assembly
+sessions, where they refine their stage presence and adaptability in real-world
+settings.</p>
+<p></p>
+<p>Poetry Workshop</p>
+<p>The Poetry Workshop at CPS nurtures creative expression by encouraging
+students to explore diverse text types and articulate their ideas in unique
+and meaningful ways. Designed to foster deep thinking and literary creativity,
+the workshop provides a hands-on, engaging approach to poetry, making it
+accessible and enjoyable for all learners.</p>
+<p>Using interactive tools and visual presentations, students overcome initial
+apprehensions and gain confidence in poetic expression. By the end of the
+programme, they will have created their own visual poetry piece, showcasing
+their newly acquired skills in writing and performance.</p>
+<p></p>
 <p><strong>Supportive Learning Environment</strong>
 </p>
 <p>To provide reading pleasure for English,&nbsp;besides the Media Resource
 Library, the book café provides a conducive and inviting reading environment
-for our CPS pupils to immerse into a wide range of texts.</p>
+for our CPS students to immerse into a wide range of texts.</p>
 <p><strong>Celebration of Success</strong>
 </p>
 <p>CPS EL Fiesta</p>
-<p>To celebrate the success of the growth and achievements of the CPS pupil,
-the annual CPS EL Fiesta provides the platform to showcase learning and
-discover talents in reading, writing and speaking. It is a week where the
-CPS pupils will be immersed in the plethora of fun and engaging language
-activities!</p>
+<p>To celebrate the success of growth and achievements of CPS students, the
+annual CPS EL Fiesta provides the platform to showcase learning and discover
+talents in reading, writing and speaking. It is a week where the CPS students
+will be immersed in the plethora of fun and engaging language activities!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
 </div>
