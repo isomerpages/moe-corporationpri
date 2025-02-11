@@ -12,8 +12,7 @@ variant: tiptap
 </p>
 <p>To develop confident English Language users who have a strong foundation
 in the language and love reading.</p>
-<p><strong>English Department Programmes:</strong>
-</p>
+<h3><strong>English Department Programmes:</strong></h3>
 <p>Reading Programmes at CPS promote reading with a clear and meaningful
 purpose to help the CPS students gain more knowledge and information.</p>
 <p>The programmes will monitor CPS student’s growth and development, enable
@@ -39,8 +38,7 @@ and make connections of learning to life.</p>
 <p>Students engage with the I magazine or Inspire magazine, which feature
 relatable and thought-provoking content. These magazines encourage students
 to develop a deeper understanding of the world around them.</p>
-<p><strong>Foundation of Curriculum</strong>
-</p>
+<h3><strong>Foundation of Curriculum</strong></h3>
 <p><strong>STELLAR Programme (Primary 1 to Primary 6)</strong>
 </p>
 <p>The school’s English Language curriculum is based on the STELLAR programme.
@@ -50,8 +48,7 @@ uses research-based teaching strategies and age-appropriate materials to
 engage students as they learn to effectively use the English Language.
 The teaching approaches and resources are designed to deliver the outcomes
 of English Language Syllabus 2010</p>
-<p><strong>Rich Learning Experiences</strong>
-</p>
+<h3><strong>Rich Learning Experiences</strong></h3>
 <p>To nurture the joy of learning and in tandem with the school’s total curriculum
 framework, the following programmes will provide the opportunity for CPS
 students. to stimulate interest and curiosity so that they can explore
@@ -64,11 +61,11 @@ and discover interests and enrich their learning experiences.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Level</u>
+<p><strong><u>Level</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Programmes</u>
+<p><strong><u>Programmes</u></strong>
 </p>
 </td>
 </tr>
@@ -103,7 +100,8 @@ and discover interests and enrich their learning experiences.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
 </div>
 <p></p>
-<p>Student Emcees</p>
+<p><strong>Student Emcees</strong>
+</p>
 <p>At CPS, our student emcees cultivate a Growth Mindset by taking on the
 challenge of speaking before live audiences, strengthening their confidence
 and communication skills. Through collaboration and script refinement,
@@ -118,7 +116,8 @@ settings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Student_Emcees.jpg">
 </div>
-<p>Poetry Workshop</p>
+<p><strong>Poetry Workshop</strong>
+</p>
 <p>The Poetry Workshop at CPS nurtures creative expression by encouraging
 students to explore diverse text types and articulate their ideas in unique
 and meaningful ways. Designed to foster deep thinking and literary creativity,
@@ -131,14 +130,13 @@ their newly acquired skills in writing and performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Poetry_Workshop.jpg">
 </div>
-<p><strong>Supportive Learning Environment</strong>
-</p>
+<h3><strong>Supportive Learning Environment</strong></h3>
 <p>To provide reading pleasure for English,&nbsp;besides the Media Resource
 Library, the book café provides a conducive and inviting reading environment
 for our CPS students to immerse into a wide range of texts.</p>
-<p><strong>Celebration of Success</strong>
+<h3><strong>Celebration of Success</strong></h3>
+<p><strong>CPS EL Fiesta</strong>
 </p>
-<p>CPS EL Fiesta</p>
 <p>To celebrate the success of growth and achievements of CPS students, the
 annual CPS EL Fiesta provides the platform to showcase learning and discover
 talents in reading, writing and speaking. It is a week where the CPS students
@@ -146,7 +144,8 @@ will be immersed in the plethora of fun and engaging language activities!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
 </div>
-<p>NewsMakers Awards 2024</p>
+<p><strong>NewsMakers Awards 2024</strong>
+</p>
 <p>Ilman Rafiq (4.7), Ivasenko Evelina (4.4) and Shanjana Srinivasan (4.2)
 participated in the NewsMaker Awards 2024 broadcasting competition, where
 they showcased their creativity by using the Moo-V app to create digital
