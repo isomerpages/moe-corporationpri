@@ -76,37 +76,61 @@ experiment, forming hypothesis and stating conclusion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sciencep6.jpg">
 </div>
-<h5><strong>TIER 2: For selected pupils – Developing Science Talents and STEM Champions</strong></h5>
-<p><strong>Excellence 2000 (E2K) Science Programme (launched in 2021)</strong>
+<h5><strong>TIER 2: Developing Science Talents and STEM Champions</strong></h5>
+<p><strong>STEM Playground Challenges [Open to all]</strong>
 </p>
-<p>E2K Science Programme Singapore is a Science enrichment programme for
-Primary 5 pupils who demonstrate interest and ability in Science.</p>
-<p>Only teachers who have been trained in the E2K pedagogy run E2K Science
-Programme that engages pupils in scientific investigations involving advanced
-science concepts. It aims to engage pupils in scientific inquiry that will
-help them to develop the habits, attitudes and dispositions scientists
-possess as well as to gain important 21st century competencies such as
-critical and inventive thinking and effective communication skills.</p>
-<p><strong>External Science Competitions &amp; Programmes</strong>
+<p>In partnership with Science Centre Singapore and Dyson Foundation, STEM
+Playground Challenges are open to all students, providing an exciting opportunity
+for them to explore Science, Technology, Engineering, and Mathematics (STEM)
+through hands-on activities and problem-solving tasks. These challenges
+are designed to spark curiosity, creativity, and innovation in a fun and
+engaging environment. Students will collaborate, experiment, and apply
+their knowledge to tackle real-world challenges, fostering critical thinking
+and resilience. Through participation, they develop a deeper appreciation
+for STEM while building confidence in their abilities. We encourage all
+students to take part and discover the joy of learning through exploration!</p>
+<p>Take a look at the curated videos below to see how creative Corporation
+Stars are in attempting the STEM challenges!</p>
+<p>1. 2024 STEM Playground Challenge 1 Cotton Reel Tank</p><a class="isomer-image-wrapper" href="https://www.instagram.com/corporationprimary/reel/C5D5QXYBbRV/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_1.jpg"></a>
+<p>2. 2024 STEM Playground Challenge 2 Cardboard Chair</p><a class="isomer-image-wrapper" href="https://www.instagram.com/corporationprimary/reel/C9uxK2wg-J_/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_2.jpg"></a>
+<p>3. 2024 STEM Playground Grand Finale Automata</p><a class="isomer-image-wrapper" href="https://www.instagram.com/reel/DCStEEdSyry/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA=="><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_Grand_Finale.jpg"></a>
+<p></p>
+<p><strong>Primary 5 Science Stretch Programme [For selected pupils]</strong>
 </p>
-<p>Pupils who display the aptitude, commitment, talent and excellence are
-selected by the school to participate in external Science Competitions
-and programmes organized by other schools. Eg. Da Vinci Junior &amp; Mcurie
-Programme by NUS High and Abbott Young Scientist Awards by Science Centre
-Singapore. The school also provides support if the pupil decides to take
-part in other related Science competitions such as Singapore Science Buskers
-(organized by Science Centre Singapore).</p>
-<p><strong>Urban STEM Champions</strong>
+<p>Our Science Stretch Programme is designed for selected Primary 5 students
+who demonstrate a strong interest and aptitude in Science. This enrichment
+programme on Thursday afternoons provides opportunities for students to
+engage in hands-on investigations, critical thinking activities, and advanced
+scientific explorations beyond the standard curriculum. Through inquiry-based
+learning and real-world applications, students will deepen their scientific
+understanding and develop essential problem-solving skills. The programme
+aims to nurture curiosity, innovation, and a passion for Science, preparing
+students for higher-level scientific inquiry in the future.</p>
+<p><strong>External Science Competitions or Programmes</strong>
 </p>
-<p>Urban STEM Champions Programme aims to provide selected P4 students, as
-identified through a rigorous process, with the opportunity to make connections
-across subject disciplines to solve authentic problems relating to environmental
-sustainability. With this avenue provided, students work collaboratively
-to build, programme, code with logical and analytical skills and present
-their own prototypes while learning key aspects of STEM – Science, Technology,
-Engineering and Math. With the various hands-on experimentation using STEM
-kits, students will be able to explore environmental sustainability issues
-with greater depth and have more outreach to school and community.</p>
+<p>To extend learning beyond the classroom, selected students have the opportunity
+to participate in external Science competitions and enrichment programmes.
+These events provide a platform for students to apply their scientific
+knowledge, hone their critical thinking skills, and engage with like-minded
+peers. Participation is by invitation and based on specific criteria such
+as academic performance, enthusiasm for Science, and problem-solving abilities.
+The school also provides support for students who show potential but may
+face financial constraints, ensuring that all deserving students have the
+opportunity to benefit from these enriching experiences. Through these
+experiences, students gain valuable exposure to advanced scientific concepts
+and real-world applications, further nurturing their passion for Science.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Amazing Flying Machine Competition (SAFMC)</p>
+</li>
+<li>
+<p>Da Vinci Junior &amp; Mcurie Programme by NUS High</p>
+</li>
+<li>
+<p>Abbott Young Scientist Awards by Science Centre Singapore</p>
+</li>
+</ul>
+<p></p>
 <h3><strong>INFRASTRUCTURE</strong></h3>
 <p><strong>Supporting Teaching &amp; Learning</strong>
 </p>
@@ -133,9 +157,5 @@ with greater depth and have more outreach to school and community.</p>
 </div>
 </li>
 </ul>
-<h3><strong>SYLLABUS</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Syllabus Table.jpg">
-</div>
 <p></p>
 <p></p>
