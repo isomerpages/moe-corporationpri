@@ -10,7 +10,7 @@ variant: tiptap
 Curriculum Framework, as shown below, to provide students with strong fundamentals
 in Science for life, learning, citizenry and work.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/science.png">
 </div>
 <p>Our vision for Science education, manifested through the&nbsp;<strong>three `Ins’</strong>,
 encapsulates the overall experience of our students in Science education:</p>
@@ -46,7 +46,7 @@ interests in Science. For instance, to bring their learning to life, pupils
 had hands-on activities with Magnets after reading a Stellar Text on Magnetic
 Max.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/science1.jpg">
 </div>
 <p><strong>Experimental Investigation and Scientific Inquiry (P3 to P6)</strong>
 </p>
@@ -59,22 +59,22 @@ experiment, forming hypothesis and stating conclusion.</p>
 <p><strong>PRIMARY 3</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sciencep3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sciencep3.jpg">
 </div>
 <p><strong>PRIMARY 4</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sciencep4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sciencep4.jpg">
 </div>
 <p><strong>PRIMARY 5</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sciencep5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sciencep5.jpg">
 </div>
 <p><strong>PRIMARY 6</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sciencep6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sciencep6.jpg">
 </div>
 <h5><strong>TIER 2: Developing Science Talents and STEM Champions</strong></h5>
 <p><strong>STEM Playground Challenges [Open to all]</strong>
@@ -150,10 +150,10 @@ and real-world applications, further nurturing their passion for Science.</p>
 <li>
 <p>Gardens – Pond, Rooftop Garden, Butterfly Garden, Fernery</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/labs.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/labs.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/garden.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/garden.jpg">
 </div>
 </li>
 </ul>
