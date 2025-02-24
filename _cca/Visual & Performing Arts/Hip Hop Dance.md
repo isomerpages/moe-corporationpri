@@ -49,11 +49,9 @@ well as external dance competitions</p>
 <td rowspan="1" colspan="1">
 <p><u>2024</u>
 <br>Accomplishment in Singapore Youth Festival
-<br>Participated in the various competitions:
-<br>Internal Dance Assessment
-<br>Project Dance out
-<br>Chinese Street Dance Competiton
-<br>Super 24 Competition</p>
+<br>Participated in:
+<br>SENSES 2024: The Dance Phenomenon
+<br>LTA National Day Celebration at Beauty World MRT</p>
 </td>
 </tr>
 <tr>
