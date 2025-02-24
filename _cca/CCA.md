@@ -108,13 +108,13 @@ all P3 to P6 pupils participate in one CCA.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/cca/uniform-groups/red-cross/" rel="noopener noreferrer nofollow" target="_blank">Red Cross</a>
+<p><strong><a href="/cca/uniform-groups/brownies/" rel="noopener noreferrer nofollow" target="_blank">Brownies</a></strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/cca/uniform-groups/brownies/" rel="noopener noreferrer nofollow" target="_blank">Brownies</a></strong>
+<p><strong><a href="/cca/uniform-groups/red-cross/" rel="noopener noreferrer nofollow" target="_blank">Red Cross</a></strong>
 </p>
 </td>
 </tr>
@@ -122,8 +122,10 @@ all P3 to P6 pupils participate in one CCA.</p>
 </table>
 <p><strong>Clubs and Societies</strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -132,19 +134,27 @@ all P3 to P6 pupils participate in one CCA.</p>
 <p><a href="/cca/club-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/cca/club-societies/the-future-makers/" rel="noopener noreferrer nofollow" target="_blank">The Future Makers</a>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/cca/club-societies/the-future-makers/" rel="noopener noreferrer nofollow" target="_blank">The Future Makers</a></strong>
 </p>
-</td>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/cca/club-societies/xiangqi/" rel="noopener noreferrer nofollow" target="_blank">Xiangqi</a></strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
