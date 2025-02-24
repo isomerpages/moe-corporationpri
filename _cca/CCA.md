@@ -142,9 +142,8 @@ all P3 to P6 pupils participate in one CCA.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/cca/club-societies/xiangqi/" rel="noopener noreferrer nofollow" target="_blank">Xiangqi</a></strong>
+<p><a href="/cca/club-societies/xiangqi/" rel="noopener nofollow" target="_blank">Xiangqi</a>
 </p>
-<p></p>
 </th>
 </tr>
 </tbody>
