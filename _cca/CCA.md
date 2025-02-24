@@ -114,6 +114,40 @@ all P3 to P6 pupils participate in one CCA.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p><a href="/cca/uniform-groups/red-cross/" rel="noopener nofollow" target="_blank">Red Cross</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/cca/uniform-groups/brownies/" rel="noopener noreferrer nofollow" target="_blank">Brownies</a></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong><a href="/cca/uniform-groups/red-cross/" rel="noopener noreferrer nofollow" target="_blank">Red Cross</a></strong>
 </p>
 </th>
