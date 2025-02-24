@@ -35,22 +35,22 @@ those affecting everyday lives to complex problems affecting humanity.
 It is envisaged that there will be a strong pipeline of students who can
 contribute towards STEM research, innovation and enterprise.</p>
 <h3><strong>SCIENCE PROGRAMMES</strong></h3>
-<h5><strong>TIER 1: For all pupils - Developing Interest and Competency in Science</strong></h5>
+<h5><strong>TIER 1: For all students - Developing Interest and Competency in Science</strong></h5>
 <p><strong>Lower Primary Infusion&nbsp; (P1 &amp; P2)</strong>
 </p>
-<p>Pupils are innately curious about the world around them. And though they
-may not realise it, they are applying Science concepts every day. So although
-Science is not formally a subject taught at Primary 1 &amp; 2, there are
-ample opportunities to infuse Science in their lessons and to develop their
-interests in Science. For instance, to bring their learning to life, pupils
-had hands-on activities with Magnets after reading a Stellar Text on Magnetic
-Max.</p>
+<p>Students are innately curious about the world around them. And though
+they may not realise it, they are applying Science concepts every day.
+So although Science is not formally a subject taught at Primary 1 &amp;
+2, there are ample opportunities to infuse Science in their lessons and
+to develop their interests in Science. For instance, to bring their learning
+to life, students had hands-on activities with Magnets after reading a
+Stellar Text on Magnetic Max.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/science1.jpg">
 </div>
 <p><strong>Experimental Investigation and Scientific Inquiry (P3 to P6)</strong>
 </p>
-<p>To strengthen understanding of scientific concepts, pupils have opportunities
+<p>To strengthen understanding of scientific concepts, students have opportunities
 to conduct hands-on activities as part of experimental investigation and
 scientific inquiry. This is necessary for them to be able to design fair
 and reliable tests underpinned by a solid grasp of key process skills such
@@ -95,7 +95,7 @@ Stars are in attempting the STEM challenges!</p>
 <p>2. 2024 STEM Playground Challenge 2 Cardboard Chair</p><a class="isomer-image-wrapper" href="https://www.instagram.com/corporationprimary/reel/C9uxK2wg-J_/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_2.jpg"></a>
 <p>3. 2024 STEM Playground Grand Finale Automata</p><a class="isomer-image-wrapper" href="https://www.instagram.com/reel/DCStEEdSyry/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA=="><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_Grand_Finale.jpg"></a>
 <p></p>
-<p><strong>Primary 5 Science Stretch Programme [For selected pupils]</strong>
+<p><strong>Primary 5 Science Stretch Programme [For selected students]</strong>
 </p>
 <p>Our Science Stretch Programme is designed for selected Primary 5 students
 who demonstrate a strong interest and aptitude in Science. This enrichment
