@@ -62,7 +62,9 @@ both on and off the court.</p>
 <br>- Champion</p>
 <p><u>2024</u>
 <br>National School games 2024 (Senior games)
-<br>-2nd place</p>
+<br>-2nd place in league 3
+<br>National School games 2024 (Junior games)
+<br>- 2nd place in tier 1</p>
 </td>
 </tr>
 <tr>
