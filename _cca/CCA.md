@@ -101,8 +101,10 @@ all P3 to P6 pupils participate in one CCA.</p>
 </table>
 <p><strong>Uniform Groups</strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -111,12 +113,13 @@ all P3 to P6 pupils participate in one CCA.</p>
 <p><strong><a href="/cca/uniform-groups/brownies/" rel="noopener noreferrer nofollow" target="_blank">Brownies</a></strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong><a href="/cca/uniform-groups/red-cross/" rel="noopener noreferrer nofollow" target="_blank">Red Cross</a></strong>
 </p>
-</td>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 </tbody>
 </table>
@@ -139,20 +142,9 @@ all P3 to P6 pupils participate in one CCA.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/cca/club-societies/xiangqi/" rel="noopener noreferrer nofollow" target="_blank">Xiangqi</a></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
