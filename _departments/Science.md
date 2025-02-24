@@ -95,7 +95,7 @@ Stars are in attempting the STEM challenges!</p>
 <p>2. 2024 STEM Playground Challenge 2 Cardboard Chair</p><a class="isomer-image-wrapper" href="https://www.instagram.com/corporationprimary/reel/C9uxK2wg-J_/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_2.jpg"></a>
 <p>3. 2024 STEM Playground Grand Finale Automata</p><a class="isomer-image-wrapper" href="https://www.instagram.com/reel/DCStEEdSyry/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA=="><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Science/2024_STEM_Challenge_Grand_Finale.jpg"></a>
 <p></p>
-<p><strong>Primary 5 Science Stretch Programme [For selected students]</strong>
+<p><strong>Primary 5 Science Stretch Programme [For selected Students]</strong>
 </p>
 <p>Our Science Stretch Programme is designed for selected Primary 5 students
 who demonstrate a strong interest and aptitude in Science. This enrichment
