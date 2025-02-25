@@ -23,6 +23,61 @@ citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department%20Focus.png">
 </div>
+<h3><strong>MTL Programmes</strong></h3>
+<p><strong>P1 &amp; P2 SOAR Programme</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_SOAR_1.jpg">
+</div>
+<p><strong>Reading</strong> brings forth a wide range of social and emotional
+benefits. The benefits are also associated with stronger intrinsic motivation,
+better academic outcomes and global competence. Additionally, cultivating
+positive reading habits will help our students build a strong MTL foundation
+and develop language proficiency.</p>
+<p>MTL SOAR aims to instil students’ love for reading in MTL, to <strong>S</strong>park
+interest, <strong>O</strong>pen minds, <strong>A</strong>ppreciate cultural
+roots, and <strong>R</strong>ise as a bilingual reader.</p>
+<p>Starting from 2025, P1 and P2 students will have 30 minutes of their MTL
+curriculum time ringfenced for reading and library-related activities.
+As part of MTL SOAR, teachers would be using the small/supplementary readers
+that are developed as part of the new Primary MTL Curriculum.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_SOAR_2.jpg">
+</div>
+<p>Parents can support the child in his/her reading by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reading with the child</p>
+</li>
+<li>
+<p>Taking the child to public libraries to borrow books</p>
+</li>
+<li>
+<p>Participating in reading activities organised by NLB</p>
+</li>
+</ul>
+<p><strong>Useful Parent Guides</strong>
+</p>
+<p><strong>1. Parents’ Guide for SOAR Programme(CL)</strong>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P1A_compressed.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一上）</a>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P1B_compressed.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一下）</a>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P2A_compressed.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（二上）</a>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P1_EL_version_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (CL) P1</a>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P2A_EL_version_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (CL) P2A</a>
+</p>
+<p><strong>2. Parents’ Guide for SOAR Programme(ML)</strong>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading_ML__P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">Parents’ Guide for MTL Reading(ML) P1 &amp; P2</a>
+</p>
+<p><strong>3. Parents’ Guide for SOAR Programme(TL)</strong>
+</p>
+<p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__TL__P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (TL) P1 &amp; P2</a>
+</p>
 <h3><strong>Chinese Department</strong></h3>
 <p><strong>Chinese Language Curriculum</strong>
 </p>
