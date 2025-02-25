@@ -23,7 +23,7 @@ citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department%20Focus.png">
 </div>
-<h3><strong>MTL Programmes</strong> </h3>
+<h3><strong>MTL Programmes</strong></h3>
 <p><strong>P1 &amp; P2 SOAR Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -56,9 +56,9 @@ that are developed as part of the new Primary MTL Curriculum.</p>
 <p>Participating in reading activities organised by NLB</p>
 </li>
 </ul>
-<p><strong>Useful Parent Guides </strong>
+<p><strong>Useful Parent Guides</strong>
 </p>
-<p><strong>1.	Parents’ Guide for SOAR Programme(CL)</strong>
+<p><strong>1. Parents’ Guide for SOAR Programme(CL)</strong>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P1A_compressed.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一上）</a>
 </p>
@@ -70,11 +70,11 @@ that are developed as part of the new Primary MTL Curriculum.</p>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P2A_EL_version_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (CL) P2A</a>
 </p>
-<p><strong>2.	Parents’ Guide for SOAR Programme(ML)</strong>
+<p><strong>2. Parents’ Guide for SOAR Programme(ML)</strong>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading_ML__P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">Parents’ Guide for MTL Reading(ML) P1 &amp; P2</a>
 </p>
-<p><strong>3.	Parents’ Guide for SOAR Programme(TL)</strong>
+<p><strong>3. Parents’ Guide for SOAR Programme(TL)</strong>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__TL__P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (TL) P1 &amp; P2</a>
 </p>
