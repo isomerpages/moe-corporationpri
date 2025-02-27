@@ -6,10 +6,31 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h1>Character and Citizenship Education</h1>
-<p><strong>1)&nbsp;&nbsp; &nbsp;School Vision, Mission, Values &amp; CCE Vision and Mission</strong>
+<p><strong>1)&nbsp;&nbsp; &nbsp;CCE Goals &amp; Curriculum Frame</strong>
+</p>
+<p><strong>Goals</strong>
+</p>
+<p>We aim to develop in our students:</p>
+<p>a) Good Character: Have a sound moral compass and a strong sense of right
+and wrong, think critically and ethically, be discerning in judgement,
+take responsibility for choices and actions, be caring towards others and
+strive for excellence.</p>
+<p>b) Resilience and Social-Emotional Well-Being: Have a balanced sense of
+self, form healthy relationships, be resilient when faced with challenges,
+find meaning in life, and have a sense of gratitude and appreciation.</p>
+<p>c) Future Readiness: Have a sense of purpose in life, develop the dispositions
+of adaptability and lifelong learning so as to be able to navigate education
+and career pathways purposefully and take on the challenges of the future,
+including the world of work and life.</p>
+<p>d) Active Citizenship: Develop a strong national identity based on a sense
+of belonging to the nation, a sense of hope in themselves and the future,
+an awareness of the reality of Singapore’s vulnerabilities and constraints,
+and the will to act on improving the lives of others, and building a future
+for our nation.</p>
+<p><strong>Curriculum Frame</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_Vision_Mission.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/CCE/Curriculum_Frame.jpg">
 </div>
 <p><strong>2)&nbsp;&nbsp; &nbsp;Desired Behaviour of a CPS student</strong> 
 <br>At the end of six years, every CPS student shall be a RICHER student:</p>
@@ -32,15 +53,21 @@ what it means to be a citizen of a country and the world.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>CCE Ambassadors</strong> are selected in each Primary 1 to Primary
-6 class, who are chosen based on good character and can be a positive role
-model to their classmates and schoolmates. CCE Ambassadors take charge
-of the Appreciation Corner and Monthly Birthday Celebrations in their classes.</p>
-<p>For the P4 to P6 CCE Ambassadors, they may be tasked to provide assistance
-to the 4 National Education events, such as increasing awareness and engagement
-in their respective classes and assisting teachers in implementation of
-activities during their lunch periods. The P4 to P6 CCE Ambassadors also
-provide guidance to the younger P1 to P3 CCE Ambassadors in carrying out
-their responsibilities.</p>
+6 class. They are chosen based on good character and can be a positive
+role model to their classmates and schoolmates. CCE Ambassadors are responsible
+for managing the Appreciation Corner in their classes, where they lead
+the effort to write gratitude notes to one another and inspire their classmates
+to do the same. They also organise and take charge of monthly birthday
+celebrations within their classes.</p>
+<p>The P4 to P6 CCE Ambassadors may be tasked to support the 4 National Education
+events by promoting awareness and engagement within their classes, as well
+as assisting teachers with the implementation of activities during recess.
+They also play a role in advocating the school values through assembly
+programmes. Additionally, the P4 to P6 CCE Ambassadors guide the younger
+P1 to P3 CCE Ambassadors in fulfilling their responsibilities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_Ambassadors.jpg">
+</div>
 </li>
 <li>
 <p><strong>In The Know</strong> is a monthly sharing during pre-assembly on
@@ -48,20 +75,20 @@ newspaper articles related to our RICHER values and contemporary issues.
 Interesting occupations that are relevant in the 21st century are also
 shared to allow our students to explore different career paths and gain
 insights on possibilities in their education pathways. This programme aims
-to spark the students’ curiosity and develop our students to be self-directed
-lifelong learners.</p>
+to spark the students’ curiosity and develop them to be self-directed lifelong
+learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/In_the_know_sharing.jpg">
 </div>
 </li>
 <li>
-<p><strong>Values-based Lessons</strong> conducted during FT Time aim to teach
-our P1 to P3 students the school’s RICHER values explicitly. The RICHER
-values are taught through stories which help our students to understand
-ways to demonstrate the values. P1 values-based lessons focus on understanding
-of the values and sharing of personal experiences while P2 and P3 values-based
-lessons focus on commitment of students to display the values through their
-actions.</p>
+<p><strong>Values-based Lessons</strong> conducted during Form Teacher (FT)
+Time aim to teach our P1 to P3 students the school’s RICHER values explicitly.
+The RICHER values are taught through stories which help our students to
+understand ways to demonstrate the values. P1 values-based lessons focus
+on understanding of the values and sharing of personal experiences while
+P2 and P3 values-based lessons focus on commitment of students to display
+the values through their actions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_mascot.jpg">
 </div>
@@ -86,13 +113,16 @@ show good values. These certificates are presented during pre-assembly.</p>
 </div>
 </li>
 <li>
-<p><strong>RICHER Award</strong> aims to recognise our P3 to P6 students who
+<p><strong>RICHER Award</strong> aims to recognise our P1 to P6 students who
 demonstrate our RICHER values consistently through their actions and deeds.
-It is awarded at the end of Semester 1 to a student from each P3 to P6
-class and awardees will receive a certificate and a badge. The good deeds
-demonstrated by the awardees are also conveyed to the school as good examples
-for other students to learn the various ways in demonstrating the school’s
-RICHER values.</p>
+It is awarded at the end of Semester 1 and 2 to a student from each P1
+to P6 class and awardees will receive a certificate and a badge. The good
+deeds demonstrated by the awardees are also conveyed to the school as good
+examples for other students to learn the various ways in demonstrating
+the school’s RICHER values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Richer_Award.jpg">
+</div>
 </li>
 <li>
 <p>CPS creates <strong>National Education</strong> experiences through the
@@ -102,28 +132,55 @@ important points in Singapore’s history. A variety of activities are planned
 for these 4 events, including assembly programmes and activity booths during
 lunch periods.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Total_Defence_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/TDD_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Racial_Harmony_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/TDD_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/IFD.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/RHD.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/ND.jpg">
 </div>
 </li>
 <li>
 <p><strong>Education and Career Guidance (ECG)</strong> is one of the six
-curriculum content areas in CCE. Students are provided opportunities to
-explore interesting occupations relevant in the 21st century and explore
-various education pathways. ECG is infused into the P5 and P6 FTGP curriculum
-for students to explore the MySkillsFuture student portal during FTGP lessons
-and at home.</p>
-<p>In 2023, <strong>P4 Career Conversations</strong> was piloted for the P4
-students to have conversations with working professionals to find out more
-about their occupations and industries. The school invited working professionals
-to introduce and explain more about their jobs, what they do daily, and
-the education pathways required to acquire the jobs. The students asked
-questions to discover more about the different occupations and were exposed
-to a variety of industries.</p>
+curriculum content areas in CCE.</p>
+<p>The goals of ECG are to support students in:</p>
+<p>a) Discovering Purpose – Who am I?: Nurture students’ self-awareness to
+support them in discovering how they can meaningfully play a part in their
+community.</p>
+<p>b) Exploring Opportunities – Where do I want to go?: Develop students’
+self-directedness and confidence to explore and leverage education and
+career opportunities while respecting the value of all occupations.</p>
+<p>c) Staying Relevant – How do I get there?: Build students’ adaptability
+and resilience to embrace the need for lifelong learning.</p>
+<p>The <strong>P6 ECG Aspiration Programme</strong> is an annual programme
+for P6 students as part of their post-PSLE activities. Students across
+classes are grouped based on their preferences from a selection of industries.
+Throughout the programme, they participate in industry-specific activities
+and attend informative talks by teachers and alumni, which offer insights
+on the various fields. Students then apply their learning and showcase
+their work during the P6 Graduation Day.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Career_Conversations.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/ECG_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/ECG_2.jpg">
+</div>
+<p>The P6 students also participate in the annual Secondary Road Show to
+learn about the programmes offered by secondary schools in the west. Prior
+to the event, during FTGP lessons, students use the MySkillsFuture student
+portal to explore potential education pathways. They also carefully consider
+various factors, such as the CCAs and special programmes available at different
+schools, enabling them to make informed decisions when selecting a secondary
+school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Sec_Road_Show.jpg">
 </div>
 </li>
 <li>
