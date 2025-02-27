@@ -10,12 +10,20 @@ cultural sensitivity among students, strengthening their commitment to
 Singapore while enhancing their cross-cultural competencies.</p>
 <p><strong>Objectives</strong>
 </p>
-<p>1. To deepen students’ sense of commitment and connection to Singapore.</p>
-<p>2. To develop students' 21st-century competencies (21CC), specifically
-in global awareness, cross-cultural skills, and cultural sensitivities.</p>
-<p>3. To provide students with exposure to different parts of Asia, with
-a focus on ASEAN countries, helping them understand Singapore’s role in
-the global landscape.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To deepen students’ sense of commitment and connection to Singapore.</p>
+</li>
+<li>
+<p>To develop students' 21st-century competencies (21CC), specifically in
+global awareness, cross-cultural skills, and cultural sensitivities.</p>
+</li>
+<li>
+<p>To provide students with exposure to different parts of Asia, with a focus
+on ASEAN countries, helping them understand Singapore’s role in the global
+landscape.</p>
+</li>
+</ol>
 <p><strong>Programme Activities</strong>
 </p>
 <p>This year, our school will engage in two key activities:</p>
