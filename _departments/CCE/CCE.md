@@ -121,7 +121,7 @@ deeds demonstrated by the awardees are also conveyed to the school as good
 examples for other students to learn the various ways in demonstrating
 the school’s RICHER values.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/Richer_Award.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/CCE/Richer_Award.jpg">
 </div>
 </li>
 <li>
