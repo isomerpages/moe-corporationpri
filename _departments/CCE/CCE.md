@@ -11,22 +11,22 @@ variant: tiptap
 <p><strong>Goals</strong>
 </p>
 <p>We aim to develop in our students:</p>
-<p>a) Good Character: Have a sound moral compass and a strong sense of right
-and wrong, think critically and ethically, be discerning in judgement,
+<p>a) <u>Good Character</u>: Have a sound moral compass and a strong sense
+of right and wrong, think critically and ethically, be discerning in judgement,
 take responsibility for choices and actions, be caring towards others and
 strive for excellence.</p>
-<p>b) Resilience and Social-Emotional Well-Being: Have a balanced sense of
-self, form healthy relationships, be resilient when faced with challenges,
+<p>b) <u>Resilience and Social-Emotional Well-Being</u>: Have a balanced sense
+of self, form healthy relationships, be resilient when faced with challenges,
 find meaning in life, and have a sense of gratitude and appreciation.</p>
-<p>c) Future Readiness: Have a sense of purpose in life, develop the dispositions
-of adaptability and lifelong learning so as to be able to navigate education
-and career pathways purposefully and take on the challenges of the future,
-including the world of work and life.</p>
-<p>d) Active Citizenship: Develop a strong national identity based on a sense
-of belonging to the nation, a sense of hope in themselves and the future,
-an awareness of the reality of Singapore’s vulnerabilities and constraints,
-and the will to act on improving the lives of others, and building a future
-for our nation.</p>
+<p>c) <u>Future Readiness</u>: Have a sense of purpose in life, develop the
+dispositions of adaptability and lifelong learning so as to be able to
+navigate education and career pathways purposefully and take on the challenges
+of the future, including the world of work and life.</p>
+<p>d) <u>Active Citizenship</u>: Develop a strong national identity based
+on a sense of belonging to the nation, a sense of hope in themselves and
+the future, an awareness of the reality of Singapore’s vulnerabilities
+and constraints, and the will to act on improving the lives of others,
+and building a future for our nation.</p>
 <p><strong>Curriculum Frame</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -65,7 +65,9 @@ as assisting teachers with the implementation of activities during recess.
 They also play a role in advocating the school values through assembly
 programmes. Additionally, the P4 to P6 CCE Ambassadors guide the younger
 P1 to P3 CCE Ambassadors in fulfilling their responsibilities.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_Ambassadors.jpg">
+</div>
 </li>
 <li>
 <p><strong>In The Know</strong> is a monthly sharing during pre-assembly on
