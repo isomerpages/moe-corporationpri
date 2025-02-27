@@ -151,13 +151,13 @@ lunch periods.</p>
 <p><strong>Education and Career Guidance (ECG)</strong> is one of the six
 curriculum content areas in CCE.</p>
 <p>The goals of ECG are to support students in:</p>
-<p>a) Discovering Purpose – Who am I?: Nurture students’ self-awareness to
-support them in discovering how they can meaningfully play a part in their
-community.</p>
-<p>b) Exploring Opportunities – Where do I want to go?: Develop students’
+<p>a) <u>Discovering Purpose – Who am I?</u>: Nurture students’ self-awareness
+to support them in discovering how they can meaningfully play a part in
+their community.</p>
+<p>b) <u>Exploring Opportunities – Where do I want to go?</u>: Develop students’
 self-directedness and confidence to explore and leverage education and
 career opportunities while respecting the value of all occupations.</p>
-<p>c) Staying Relevant – How do I get there?: Build students’ adaptability
+<p>c) <u>Staying Relevant – How do I get there?</u>: Build students’ adaptability
 and resilience to embrace the need for lifelong learning.</p>
 <p>The <strong>P6 ECG Aspiration Programme</strong> is an annual programme
 for P6 students as part of their post-PSLE activities. Students across
@@ -172,7 +172,7 @@ their work during the P6 Graduation Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/ECG_2.jpg">
 </div>
-<p>The P6 students also participate in the annual Secondary Road Show to
+<p>The P6 students also participate in the annual <strong>Secondary Road Show</strong> to
 learn about the programmes offered by secondary schools in the west. Prior
 to the event, during FTGP lessons, students use the MySkillsFuture student
 portal to explore potential education pathways. They also carefully consider
