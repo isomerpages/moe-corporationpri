@@ -26,15 +26,6 @@ achieve specific CCE Learning Outcomes (LO) identified for each level.</p>
 <p>Students are given numerous opportunities to develop their social-emotional
 competencies by expressing their thoughts and feelings during PAL lessons.
 They are guided to reflect on what they have learnt for each lesson.</p>
-<p><strong><u>Mindfulness</u></strong>
-</p>
-<p>Since 2021, mindfulness activities have been infused in PAL lessons. Practising
-mindfulness helps pupils to focus better and be more self-aware of their
-own thoughts and emotions. Students are introduced to a variety of simple
-mindfulness activities and are given opportunities to practise them during
-PAL lessons. Students with leadership qualities are also selected as Mindful
-Ambassadors to lead their peers in doing the mindfulness activities as
-a class.</p>
 <p><strong><u>PAL curriculum</u></strong>
 </p>
 <p>The PAL curriculum encompasses four domains: <strong>Sports and Games, Outdoor Education, Visual Arts</strong> and <strong>Performing Arts</strong>.</p>
