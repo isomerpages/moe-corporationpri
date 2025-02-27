@@ -65,9 +65,7 @@ as assisting teachers with the implementation of activities during recess.
 They also play a role in advocating the school values through assembly
 programmes. Additionally, the P4 to P6 CCE Ambassadors guide the younger
 P1 to P3 CCE Ambassadors in fulfilling their responsibilities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/CCE_Ambassadors.jpg">
-</div>
+<p></p>
 </li>
 <li>
 <p><strong>In The Know</strong> is a monthly sharing during pre-assembly on
