@@ -167,28 +167,24 @@ and learning songs of other cultures.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dance Performances by Dance CCA groups</p>
-</li>
-</ul>
 <p>In Corporation Primary School, we have 3 Dance CCA groups – Chinese Dance,
 Malay Dance and Hip Hop Dance. Other than participating in the SYF, they
 also perform for school events such as the Annual Prize Giving and Talent
 Day.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>CPS Talent Time (Dance Category)</p>
-</li>
-</ul>
 <p>Every year, the school organizes CPS Talent Time. There is a dance category
 open for pupils who would like to showcase their dance skills in the dance
 competition.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Pupils’ Self-Initiated Dance Performances for School Events</p>
-</li>
-</ul>
 <p>Other than CPS Talent Time, pupils interested and passionate in dancing
 can also have the opportunity to perform for various school events such
 as Teachers’ Day.</p>
+</li>
+</ul>
 <p><strong><em>P6 Graduation Day Dance Videos:</em></strong>
 <br>Click&nbsp;<a href="https://youtube.com/playlist?list=PL61rSdzsRCXUTOWtsWV-26iYbACs4W9ex" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view our 2021 P6 Graduation Day dance videos.</p>
