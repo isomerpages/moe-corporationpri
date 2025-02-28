@@ -163,8 +163,7 @@ and learning songs of other cultures.&nbsp;</p>
 </li>
 </ul>
 <p><strong>Shine: Showcase Dance Talents</strong> &nbsp;</p>
-<p>In line with the school’s vision, Corporation Primary School aims to showcase
-our dance talents.</p>
+<p>Corporation Primary School aims to showcase our dance talents.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dance Performances by Dance CCA groups</p>
