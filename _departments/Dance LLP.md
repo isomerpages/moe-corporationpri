@@ -27,7 +27,7 @@ dance&nbsp;</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LLP.jpg">
 </div>
 <p><strong>Experience: School-Wide Exposure Dance Programmes</strong>
 </p>
