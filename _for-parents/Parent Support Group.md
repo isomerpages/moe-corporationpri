@@ -143,13 +143,9 @@ free to reach out to the following contacts:</p>
 </p>
 <p>Vice Chairperson: Corinne Lau @ <a rel="noopener noreferrer nofollow" target="_blank">Rotary.corinne@gmail.com</a>
 </p>
-<p></p>
 <p>Your involvement can make a meaningful difference in supporting the holistic
 development of our students. Do join us!</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PSG_logo_2025.png">
 </div>
-<p></p>
 <p></p>
