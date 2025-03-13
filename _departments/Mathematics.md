@@ -266,9 +266,9 @@ for students to see the relevance of Math in their daily lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/Math_Trivia_2.jpg">
 </div>
-<p><strong>b)	Lunch Activities </strong>
+<p><strong>b) Lunch Activities</strong>
 </p>
-<p><strong><u>Financial Literacy in lined with Total Defence Day </u></strong>
+<p><strong><u>Financial Literacy in lined with Total Defence Day</u></strong>
 </p>
 <p>The teachers also engage students in purposeful play during their lunches
 as a way to increase their motivation in learning Mathematics.</p>
@@ -303,17 +303,17 @@ along the way. Stay tuned to find out who will win our first ever CPS π
 department also worked with different vendors to conduct various mathematical
 workshops, infusing the topics that the students have learned into various
 hands-on activities for the students to apply their conceptual understanding.</p>
-<p>P5 – Spatial Visualisation Workshop</p>
+<p><strong><u>P5 – Spatial Visualisation Workshop</u></strong>
+</p>
 <p>Students applied their knowledge of fractions and came together to build
 a rocket launcher.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P5_Workshop.jpg">
 </div>
-<p>P6 – Math Learning Day</p>
+<p><strong><u>P6 – Math Learning Day</u></strong>
+</p>
 <p>Students applied their knowledge of mathematical concepts like volume
 and fractions to solve various mathematics tasks.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_P6_Math_Learning_Day.jpg">
 </div>
@@ -357,17 +357,28 @@ of failure)</p>
 improvements in their learning.</p>
 </li>
 </ul>
-<p></p>
 <p><strong>For Parents’ Reference</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>MOE Mathematics syllabus:</strong>
 </p>
+</li>
+</ul>
 <p>2013 Mathematics Syllabus (For 2025 Primary 6 Students only):</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf</a>
 </p>
 <p>2021 Mathematics Syllabus (For 2025 Primary 1 to 5 Students), Implementation
 starting from 2021 Primary 1 Cohort:</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>SEAB List of Approved Calculators for PSLE: </strong>
+</p>
+</li>
+</ul>
+<p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener nofollow" target="_blank">https://file.go.gov.sg/seab-approvedcalculators.pdf</a>
 </p>
 <p></p>
 <p></p>
