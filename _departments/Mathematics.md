@@ -251,7 +251,7 @@ tuned for the exciting activities coming up in our 2nd Mathematics Week!</p>
 A plethora of activities will be designed throughout the year to infuse
 the joy of learning Mathematics in our students. We hope the students will
 find learning Mathematics enjoyable through these activities.</p>
-<p><strong>a)	Pre-assembly Math Trivia Sharing </strong>
+<p><strong>a) Pre-assembly Math Trivia Sharing</strong>
 </p>
 <p>During pre-assembly, students are treated to a wide variety of Math Trivia.
 Our in-house math magician, Mr Wesley Tan, has performed various Math magic
@@ -266,16 +266,38 @@ for students to see the relevance of Math in their daily lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/Math_Trivia_2.jpg">
 </div>
-<p><strong>11. Cool Maths Trivia Pre-Assembly Activity</strong>
+<p><strong>b)	Lunch Activities </strong>
 </p>
-<p>To continue to foster the joy of learning Mathematics, the department
-also came up with bite-sized quizzes on interesting Math Trivia to share
-with the students. Students were engaged during these sharing and participated
-actively in these quizzes.</p>
+<p><strong><u>Financial Literacy in lined with Total Defence Day </u></strong>
+</p>
+<p>The teachers also engage students in purposeful play during their lunches
+as a way to increase their motivation in learning Mathematics.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/24_Math_Trivia.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Departments/Math/Math_is_Fun.jpg">
 </div>
-<p><strong>12. Enrichment Programmes</strong>
+<p>To kick start the first lunch activity of the year, the department collaborated
+with the Total Defence Day team and came up with a series of fun and engaging
+Mathematics games for the different levels to educate our students about
+financial literacy.</p>
+<p>Lower primary students learnt to count and add money. Middle primary students
+learnt to decide what was considered a 'want' and what is a 'need'. Upper
+primary students learnt to make financial decision-making by comparing
+various price options and understanding concepts like value for money.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Math/Financial_Literacy.jpg">
+</div>
+<p><strong><u>π (Pi) Day Challenge – 14 March 2025 (3.14)</u></strong>
+</p>
+<p>During the π (pi) challenge, students are challenged to remember as many
+digits of π (pi) as they can. In the lead up to the competition day, students
+have the opportunities to practice during their lunches and win small tokens
+along the way. Stay tuned to find out who will win our first ever CPS π
+(Pi) Day Championship!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Math/Pi_Day.jpg">
+</div>
+<p></p>
+<p><strong>11. Enrichment Programmes</strong>
 </p>
 <p>To make learning of Mathematics more meaningful for our students, the
 department also worked with different vendors to conduct various mathematical
