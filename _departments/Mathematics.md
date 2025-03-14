@@ -296,7 +296,7 @@ along the way. Stay tuned to find out who will win our first ever CPS π
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Math/Pi_Day.jpg">
 </div>
-<p>Click on the image below to view our CPS π (Pi) Day video!</p><a class="isomer-image-wrapper" href="https://www.instagram.com/reel/DHA_uC7Sp2s/?igsh=MXRuMHo0YmRtcWphYQ=="><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Departments/Math/Pi_Day_Screenshot.jpg"></a>
+<p>Click on the image below to view our CPS π (Pi) Day video!</p>
 <p><strong>11. Enrichment Programmes</strong>
 </p>
 <p>To make learning of Mathematics more meaningful for our students, the
