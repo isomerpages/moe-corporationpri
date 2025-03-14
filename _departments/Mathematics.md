@@ -296,7 +296,7 @@ along the way. Stay tuned to find out who will win our first ever CPS π
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Math/Pi_Day.jpg">
 </div>
-<p></p>
+<p>Click on the image below to view our CPS Pi Day video!</p><a class="isomer-image-wrapper" href="https://www.youtube.com/shorts/d4LCCLeOae0"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Departments/Math/Pi_Day_Screenshot.jpg"></a>
 <p><strong>11. Enrichment Programmes</strong>
 </p>
 <p>To make learning of Mathematics more meaningful for our students, the
@@ -374,7 +374,7 @@ starting from 2021 Primary 1 Cohort:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>SEAB List of Approved Calculators for PSLE: </strong>
+<p><strong>SEAB List of Approved Calculators for PSLE:</strong>
 </p>
 </li>
 </ul>
