@@ -17,7 +17,7 @@ their mastery in Mathematics through joy of learning</p>
 <p><strong>MOE Mathematics Framework</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math%20Framework.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Math%20Framework.png">
 </div>
 <p>The Mathematics Framework has been the cornerstone of the Mathematics
 Curriculum. It involves the acquisition and application of Mathematics
