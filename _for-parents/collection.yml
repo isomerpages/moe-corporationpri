@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - CPS Calendar of Events.md
       - For Parents.md
       - Absence during school term.md
       - Academic Grading.md
