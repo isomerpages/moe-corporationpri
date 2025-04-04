@@ -64,6 +64,8 @@ links:
         url: /for-parents/academicgrading/
       - title: Admission & School Transfer
         url: /for-parents/admissionandschooltransfer/
+      - title: Calendar of Events
+        url: /for-parents/cps-calendar-of-events/
       - title: Counselling Services
         url: /for-parents/counsellingservices/
       - title: Financial Assistance
@@ -82,8 +84,6 @@ links:
         url: /for-parents/schoolhoursandbreaktimes/
       - title: Stakeholders
         url: /for-parents/Stakeholders/Stakeholders/
-      - title: CPS Calendar of Events
-        url: /for-parents/cps-calendar-of-events/
   - title: Contact Us
     url: /contact-us/permalink/
   - title: Have a question?
