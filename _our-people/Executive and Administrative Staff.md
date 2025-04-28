@@ -61,6 +61,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Suriya Binte Saman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AJT Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Resrena Binte Mohamed Rafi'ee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,6 +150,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Raihana Binte Yusof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Aide</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Christine Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Aide</p>
