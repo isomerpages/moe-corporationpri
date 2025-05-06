@@ -56,12 +56,12 @@ environmental and social impact. Everyone can become a future maker!</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Programs </strong>
+<p><strong>Programs</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTo6VkrAwrJ6Ks12RzbKtW0ZvQ6c4-QgDSgd7pPQRSxyvL68ezinzLhoXWwzgBmHguUMlyvux0MTgwD/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Students' voices </strong>
+<p><strong>Students' voices</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK8u3JnKWLQhdZ1wlviixppdmoJ9zYxz64ytVFwk5lJ3nlZGIgpakQrHTi05N15GEC8ZtKZz4BlGYb/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
