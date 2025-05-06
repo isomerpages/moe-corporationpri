@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,6 +29,10 @@ third_nav_title: Clubs & Societies
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Departments/CCA/Copy_of_Circle_Education_Badge_Logo__Logo_.png">
+</div>
 <p>This Future Makers is a new-age and dynamic Co-Curricular Activity (CCA)
 that replaces the Environmental Club in 2025. While continuing to champion
 environmental awareness, The Future Makers expands its focus by integrating
@@ -52,4 +55,14 @@ environmental and social impact. Everyone can become a future maker!</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Programs</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="479" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTo6VkrAwrJ6Ks12RzbKtW0ZvQ6c4-QgDSgd7pPQRSxyvL68ezinzLhoXWwzgBmHguUMlyvux0MTgwD/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Students' voices</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="479" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK8u3JnKWLQhdZ1wlviixppdmoJ9zYxz64ytVFwk5lJ3nlZGIgpakQrHTi05N15GEC8ZtKZz4BlGYb/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
