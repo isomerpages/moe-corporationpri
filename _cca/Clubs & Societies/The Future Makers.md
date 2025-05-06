@@ -29,11 +29,6 @@ third_nav_title: Clubs & Societies
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCA/The_Future_Makers_Logo.png">
-</div>
-<p></p>
 <p>This Future Makers is a new-age and dynamic Co-Curricular Activity (CCA)
 that replaces the Environmental Club in 2025. While continuing to champion
 environmental awareness, The Future Makers expands its focus by integrating
