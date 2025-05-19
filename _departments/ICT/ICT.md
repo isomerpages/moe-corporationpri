@@ -48,7 +48,7 @@ the use of ICT in teaching and learning.</p>
 <p>Student Learning Space (SLS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer" target="_blank">https://learning.moe.edu.sg/</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 <br>
 <br>Useful Tip:
 <br>Your child's SLS username is a combination of the first 5 characters of
