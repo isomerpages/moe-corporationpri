@@ -135,6 +135,21 @@ their newly acquired skills in writing and performance.</p>
 Library, the book café provides a conducive and inviting reading environment
 for our CPS students to immerse into a wide range of texts.</p>
 <h3><strong>Celebration of Success</strong></h3>
+<p><strong>Hess Academy Creative Writing Competition 2025</strong>
+</p>
+<p>Nineteen students took part in this competition, showcasing their creativity
+and passion for writing. Among them, Koh Chun Ning (6.2) and Jaslynn Cheong
+(6.1) stood out for their captivating stories and impressive writing skills.
+Competing against talented young writers across Singapore, they received
+commendation for their originality, expressive language, and storytelling
+flair for ‘The Suitcase in the Train Station’.</p>
+<p>Their achievement reflects the school’s continued efforts to nurture confident
+and creative writers. Congratulations to all 19 participants for their
+hard work and dedication, and a special mention to Chun Ning (left) and
+Jaslynn (right) for making the school proud!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Hess_Academy_Writing_Comp_2025.jpg">
+</div>
 <p><strong>CPS EL Fiesta</strong>
 </p>
 <p>To celebrate the success of growth and achievements of CPS students, the
