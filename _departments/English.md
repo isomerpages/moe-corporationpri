@@ -147,7 +147,9 @@ flair for ‘The Suitcase in the Train Station’.</p>
 and creative writers. Congratulations to all 19 participants for their
 hard work and dedication, and a special mention to Chun Ning (left) and
 Jaslynn (right) for making the school proud!</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Hess_Academy_Writing_Comp_2025.jpg">
+</div>
 <p><strong>CPS EL Fiesta</strong>
 </p>
 <p>To celebrate the success of growth and achievements of CPS students, the
