@@ -17,14 +17,14 @@ and has a sibling currently studying in our school.</p>
 otherwise you will not be able to register in Phase 3 of the P1 Registration
 Exercise.</p>
 <p>For the latest updates on P1 Registration Exercise, please visit&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/P1reg</a>&nbsp;.</p>
+<a href="https://go.gov.sg/P1reg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/P1reg</a>&nbsp;.</p>
 <h3><strong>Admission and Transfer</strong></h3>
 <hr>
 <p><strong>For Singapore Citizens and PRs</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To join&nbsp;CPS waiting list:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cps-admission</a>&nbsp;</p>
+<p>To join&nbsp;CPS waiting list:&nbsp;<a href="https://go.gov.sg/cps-admission" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cps-admission</a>&nbsp;</p>
 </li>
 </ul>
 <p>Please note that our school staff will be in touch with you.</p>
@@ -35,7 +35,7 @@ Exercise.</p>
 </ul>
 <p>This service is for Primary 1 to Primary 5 pupils who have moved to a
 new residential address.
-<br>For more information:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/transfers</a>
+<br>For more information:&nbsp;<a href="https://www.moe.gov.sg/primary/transfers" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/transfers</a>
 </p>
 <p><strong>For International Students</strong>
 </p>
@@ -44,19 +44,19 @@ Students (IS). Please visit MOE’s website for more information on school
 admission:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>P1 Registration for IS:&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/international-students</a>
+<p>P1 Registration for IS:&nbsp; <a href="https://www.moe.gov.sg/primary/p1-registration/international-students" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/international-students</a>
 </p>
 </li>
 <li>
 <p>Admissions Exercise for International Students (AEIS): For admission to
 Primary 2 to 5&nbsp;for the&nbsp;<strong>following</strong>&nbsp;academic
-year: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a>
+year: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a>
 </p>
 </li>
 <li>
 <p>Supplementary Admissions Exercise for International Students (S-AEIS):
 For admission to Primary 2 to 4 for the&nbsp;<strong>same</strong>&nbsp;academic
-year: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/s-aeis</a>
+year: <a href="https://www.moe.gov.sg/international-students/s-aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/s-aeis</a>
 </p>
 </li>
 </ul>
@@ -71,14 +71,14 @@ year: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.
 <p>Pupil is accompanying parent on an overseas posting</p>
 </li>
 </ul>
-<p>To apply:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cps-loa</a>
+<p>To apply:&nbsp;<a href="https://go.gov.sg/cps-loa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cps-loa</a>
 </p>
-<p>For more information:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans</a>
+<p>For more information:&nbsp;<a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/returning-singaporeans</a>
 </p>
 <p><strong>Compulsory Education</strong>
 </p>
 <p>All Singapore Citizens born after 1 January 1996 and living in Singapore
 must attend a national primary school unless an exemption is granted.</p>
-<p>For more information:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/compulsory-education</a>
+<p>For more information:&nbsp;<a href="https://www.moe.gov.sg/primary/compulsory-education" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/compulsory-education</a>
 <br>
 </p>
