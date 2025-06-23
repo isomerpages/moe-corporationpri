@@ -13,7 +13,7 @@ and has a sibling currently studying in our school.</p>
 <p>If your child is SC / PR:</p>
 <p>Parents who are registering their younger child under Phase 1 are to register&nbsp;<strong>from 9am on Tuesday, 1 July 2025 to 4.30pm on Thursday, 3 July 2025</strong>.</p>
 <p>If your child is a non-SC / non-PR (not eligible for Phase 1):</p>
-<p>Please submit an online Indication of Interest in&nbsp;<strong>from 9am on Tuesday, 27 May 2025 to 4.30pm on Monday, 2 June 2025</strong>,
+<p>Please submit an online Indication of Interest&nbsp;<strong>from 9am on Tuesday, 27 May 2025 to 4.30pm on Monday, 2 June 2025</strong>,
 otherwise you will not be able to register in Phase 3 of the P1 Registration
 Exercise.</p>
 <p>For the latest updates on P1 Registration Exercise, please visit&nbsp;
