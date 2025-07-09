@@ -53,14 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yan Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Suriya Binte Saman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Siew Kiang</p>
+<p>Mr Hong Hing Swee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -109,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hong Hing Swee</p>
+<p>Mdm Tan Siew Tin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -150,14 +142,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Raihana Binte Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher Aide</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Christine Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Aide</p>
