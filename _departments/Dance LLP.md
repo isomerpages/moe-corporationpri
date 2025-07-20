@@ -51,9 +51,10 @@ in dance. Through these programmes, students are taught the fundamental
 dance techniques and they are given the opportunities to create dance movements
 and choreograph their dance routines in accordance to the music for performance
 in groups or as a class. The intent is to allow students to learn more
-about elements of dance and experience the learning of dance as a Creator
-(creating a dance), an Active audience (critiquing, appreciating and understanding
-the elements of dance) and a Performer (presenting a dance).</p>
+about elements of dance and experience the learning of dance as a <strong>C</strong>reator
+(creating a dance), an <strong>A</strong>ctive audience (critiquing, appreciating
+and understanding the elements of dance) and a <strong>P</strong>erformer
+(presenting a dance).</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,30 +120,70 @@ the elements of dance) and a Performer (presenting a dance).</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Shine: Specialised Dance Learning and Performance Experiences </strong>
+<p><strong>Shine: Specialised Dance Learning and Performance Experiences</strong>
 </p>
-<p>Corporation Primary School aims to showcase our dance talents.</p>
+<p>Dance Performances by Dance CCA groups</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dance Performances by Dance CCA groups</p>
 <p>In Corporation Primary School, we have 3 Dance CCA groups – Chinese Dance,
 Malay Dance and Hip Hop Dance. Other than participating in the SYF, they
-also perform for school events such as the Annual Prize Giving and Talent
-Day.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-</li>
-<li>
-<p>CPS Talent Time (Dance Category)</p>
-<p>Every year, the school organizes CPS Talent Time. There is a dance category
-open for pupils who would like to showcase their dance skills in the dance
-competition.</p>
-</li>
-<li>
-<p>Pupils’ Self-Initiated Dance Performances for School Events</p>
-<p>Other than CPS Talent Time, pupils interested and passionate in dancing
-can also have the opportunity to perform for various school events such
-as Teachers’ Day.</p>
+also perform for school events such as the Annual Prize-Giving, National
+Day and cultural celebrations.</p>
 </li>
 </ul>
-<p><strong><em>P6 Graduation Day Dance Videos:</em></strong>
-<br>Click&nbsp;<a href="https://youtube.com/playlist?list=PL61rSdzsRCXUTOWtsWV-26iYbACs4W9ex" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view our 2021 P6 Graduation Day dance videos.</p>
+<p>Dance Leadership Programme by Dance CCA groups</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This programme offers student dancers a unique opportunity to cross over
+into other dance CCAs for a varied and enriching learning experience. As
+they explore different dance genres and training styles, they also develop
+leadership and reflection skills by sharing their insights and experiences
+with the school community.</p>
+</li>
+</ul>
+<p>Dance Fiesta by Dance CCA groups</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An inter-school dance CCA exchange where students come together to explore
+unique and exciting dance forms beyond their regular programmes. From the
+rhythmic beats of Maculelê to the grace of Indian Dance and the dynamic
+flair of Diabolo, this vibrant event celebrates cultural diversity, creative
+expression, and the joy of learning through movement.</p>
+</li>
+</ul>
+<p>Student Dance Interest groups</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dance Interest Groups provide a supportive space for like-minded students
+to come together twice a week before morning assembly. In this self-directed
+setting, students explore dance styles of their choice, exchange ideas,
+and grow through independent practice and peer learning. They also have
+the opportunity to perform for various school events such as Teachers’
+Day and Pre-assembly programmes.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Celebrating Our Students’ Dance Journey: Arts In Our Hearts LLP Online Publication (Volume 3)</strong>
+</p>
+<p>We are proud to present the third and final volume of our LLP publication
+— a vibrant culmination of our students’ dance journey. This book goes
+beyond movement and performance; it captures how dance has shaped our students'
+character, resilience, and sense of responsibility.</p>
+<p>Inside, you'll find a heartfelt collection of poems, comics, diary entries,
+and personal stories — each piece thoughtfully written and illustrated
+by our P 5 and P6 students as they reflect on their experiences, growth,
+and achievements throughout the programme. This publication celebrates
+not only their artistic expression but also the life lessons learned through
+dance.</p>
+<p>Through this Learning for Life Programme, our students have gained valuable
+skills and values that extend beyond the stage — learning to collaborate,
+persevere, and express themselves confidently. These are enduring qualities
+that will continue to guide and support them in their lifelong learning
+journey.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT50mGMivdIA1hqaRJEVl3AoDDcIkoAw9QcBTIDhEgw-ps1MOZMf33PZDS9hsIQPXu1q8Tk2u4QI2u2/pubembed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
