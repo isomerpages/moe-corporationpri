@@ -22,7 +22,7 @@ dance&nbsp;</p>
 <p>&nbsp;expose pupils to the different dance forms&nbsp;</p>
 </li>
 <li>
-<p>&nbsp;allow pupils to express their creativity through dance!</p>
+<p>&nbsp;allow pupils to express their creativity through dance</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
