@@ -6,12 +6,11 @@ variant: tiptap
 ---
 <h1>Dance LLP</h1>
 <p><strong>Lifelong Learning Programme (LLP) – Creativity Through Dance</strong>&nbsp;</p>
-<p>The school’s LLP started off as a niche area in 2013, focusing on nurturing
-talent and creativity through dance. Besides being used as a platform for
-values inculcation, the LLP has now evolved to become a platform for pupils
-to embrace diversity and lifelong learning, where pupils are nurtured in
-their passion and talents and developed in their character through holistic
-education. &nbsp;&nbsp;</p>
+<p>The school’s Dance LLP began as a niche area in 2013, focusing on nurturing
+talent and creativity through dance. Besides an avenue for values inculcation,
+the LLP has now evolved to become a platform for students to embrace diversity
+and lifelong learning, where students are nurtured in their passion and
+talents and developed in their character through holistic education.</p>
 <p>&nbsp;The 3 tiers of the Dance LLP framework in Corporation Primary School
 aim to:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -35,34 +34,26 @@ dance&nbsp;</p>
 programmes are planned for the pupils:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dance Exposure Assembly Programme&nbsp;</p>
-</li>
-<li>
-<p>Jump Jam Workout - a pre-assembly programme as part of the Mass Workout
-Pro-gramme organized by the PE Department.&nbsp;</p>
+<p>LLP Dance Exposure Assembly Programme&nbsp;</p>
 </li>
 <li>
 <p>CPS Dance – a unique mass dance specially choreographed for the school&nbsp;</p>
 </li>
 <li>
-<p>House Dance – mass dance for the school’s yearly Sports Carnival</p>
+<p>House Dance – a mass dance for the school’s yearly Sports Carnival</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="430" width="574" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8aBiiM2PviQ"></iframe>
-</div>
 <p><strong>Enrich: Level Dance Programmes</strong>
 </p>
-<p>There are different dance programmes infused within the formal curriculum
-for every level, to enrich pupils’ exposure and experience in various genres
-of dance. Through these programmes, pupils are taught the fundamental dance
-techniques and they are given the opportunities to create dance movements
+<p>Dance lessons of specific genres are infused within the PE and Music formal
+curriculum for every level, to enrich students’ exposure and experience
+in dance. Through these programmes, students are taught the fundamental
+dance techniques and they are given the opportunities to create dance movements
 and choreograph their dance routines in accordance to the music for performance
-in groups or as a class. The intent is to allow pupils to learn more about
-elements of dance and experience the learning of dance as a&nbsp;<strong>C</strong>reator
-(creating a dance), an&nbsp;<strong>A</strong>ctive audience (critiquing,
-appreciating and understanding the elements of dance) and a&nbsp;<strong>P</strong>erformer
-(presenting a dance).</p>
+in groups or as a class. The intent is to allow students to learn more
+about elements of dance and experience the learning of dance as a Creator
+(creating a dance), an Active audience (critiquing, appreciating and understanding
+the elements of dance) and a Performer (presenting a dance).</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -127,42 +118,9 @@ appreciating and understanding the elements of dance) and a&nbsp;<strong>P</stro
 </tr>
 </tbody>
 </table>
-<p>Within the PE and Music SOWs, dance lessons are also part of the curriculum.
-Movement and dance is incorporated in the PE curriculum and pupils are
-to learn the specified dance repertoires at every level. In Music lessons,
-ethnic dances are introduced to the pupils as part of music appreciation
-and learning songs of other cultures.&nbsp;</p>
-<p>Incorporated in PE Lessons (Movement &amp; Dance):&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>P1: Chan Mali Chan</p>
-</li>
-<li>
-<p>P2: Ode To Joy</p>
-</li>
-<li>
-<p>P3: In Appreciation</p>
-</li>
-<li>
-<p>P4: Maple Tree</p>
-</li>
-<li>
-<p>P5: Ceimo Ceimo, Slapping Ladder&nbsp;</p>
-</li>
-<li>
-<p>P6: Let’s Bounce, Sicilian Tarentella</p>
-</li>
-</ul>
-<p>Incorporated in Music Lessons (Ethnic Dances):</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;P3: Munnaeru Valibaa</p>
-</li>
-<li>
-<p>&nbsp;P4: Rasa Sayang Eh</p>
-</li>
-</ul>
-<p><strong>Shine: Showcase Dance Talents</strong> &nbsp;</p>
+<p></p>
+<p><strong>Shine: Specialised Dance Learning and Performance Experiences </strong>
+</p>
 <p>Corporation Primary School aims to showcase our dance talents.</p>
 <ul data-tight="true" class="tight">
 <li>
