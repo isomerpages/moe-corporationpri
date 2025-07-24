@@ -408,6 +408,33 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/ms_vithya.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Vithya D/O Chandra<br>Assistant Year Head</strong>
+</p>
+<p></p>
+<p>Email: <a href="mailto:vithya_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vithya_chandra@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
