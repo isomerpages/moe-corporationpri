@@ -11,10 +11,12 @@ variant: tiptap
 <li>
 <p><strong>13 August 2025 (Wednesday)</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_13_AUG_2025.png">
 </div>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>14 August 2025 (Thursday)</strong>
 </p>
