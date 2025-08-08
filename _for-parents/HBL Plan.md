@@ -9,26 +9,19 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>26 September 2024 (Thursday)</strong>
+<p><strong>13 August 2025 (Wednesday)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_26_SEP_2024.png">
-</div>
-<p></p>
 </li>
-<li>
-<p><strong>27 September 2024 (Friday)</strong>
-</p>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_27_SEP_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_13_AUG_2025.png">
 </div>
-<p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>30 September 2024 (Monday)</strong>
+<p><strong>14 August 2025 (Thursday)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_30_SEP_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Parents/HBL Plan/HBL_14_AUG_2025.png">
 </div>
 </li>
 </ul>

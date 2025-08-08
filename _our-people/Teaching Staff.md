@@ -60,6 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chew Shouye</p>
+<p>Ms Ellya Ika Yuni Purnama Yusop</p>
 </td>
 </tr>
 <tr>
@@ -234,6 +235,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Jiale Jessle</p>
+<p>Mdm Siti Maisarah Binte Salleh</p>
 </td>
 </tr>
 <tr>
@@ -294,6 +296,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ma Xinyue</p>
+<p>Ms Au Yong Luei Luei</p>
 </td>
 </tr>
 <tr>
@@ -312,11 +315,9 @@ variant: tiptap
 <p>4.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Maisarah Binte Salleh</p>
+<p>Ms Pang Xiao Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Xiao Wen</p>
-<p></p>
 <p>Mr Tan Beng Keong Wesley</p>
 </td>
 </tr>
