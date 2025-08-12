@@ -69,6 +69,9 @@ PSLE.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Img1_2025.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Img2_2025.jpg">
+</div>
 <p></p>
 <h3><strong>2024</strong></h3>
 <h4>P6 Secondary School Roadshow</h4>
