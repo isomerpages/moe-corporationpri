@@ -67,6 +67,9 @@ tips on how to manage stress during their PSLE year. The P6 students had
 gained some insights to managing the expectations in preparing for their
 PSLE.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Img1_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Img2_2025.jpg">
 </div>
 <p></p>
