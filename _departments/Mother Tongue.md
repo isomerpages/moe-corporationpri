@@ -287,9 +287,9 @@ programmes conducted in Semester 1 2023.</p>
 <p>MOE website – Various parent kits available</p>
 </li>
 <li>
-<p>Schoolbag - <a href="http://Schoolbag.sg" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> provides
-parents with education news, school features and tips. You may find tips
-on supporting your child in learning, which also includes MTL.</p>
+<p>Schoolbag - Schoolbag.sg provides parents with education news, school
+features and tips. You may find tips on supporting your child in learning,
+which also includes MTL.</p>
 </li>
 <li>
 <p>Parent Gateway – You can also access Parent Resources via PG. This will
