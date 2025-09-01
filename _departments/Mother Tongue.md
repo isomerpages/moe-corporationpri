@@ -207,7 +207,7 @@ life</p>
 test. Students on this programme will undergo various activities that will
 enhance their literacy skills to improve the overall learning of the Malay
 language.</p>
-<p><strong> CL grOW Support Programme </strong>
+<p><strong>CL grOW Support Programme</strong>
 </p>
 <p>Recognising that word recognition and retention are essential components
 of Chinese language learning, we offer a support programme for selected
@@ -229,7 +229,7 @@ While reading, students will be accessed using rubrics on their accuracy,
 fluency as well as intonation. The programme is conducted by Parent volunteers
 during their respective lunch breaks on a weekly basis from Term 2 to Term
 4.</p>
-<p><strong>9. Cultural Performance Exposure Scheme (CPES) </strong>
+<p><strong>9. Cultural Performance Exposure Scheme (CPES)</strong>
 </p>
 <p>As part of the Committee to Promote Chinese Language Learning (CPCLL)
 initiatives, the Cultural Performance Exposure Scheme (CPES) aims to enrich
@@ -239,8 +239,9 @@ live drama performances in theatres, deepening their cultural understanding
 and enhancing their language learning experience.</p>
 <p>To know more about our programmes, please lookout for our department newsletters!</p>
 <h3><strong>Mother Tongue Department E-Newsletters</strong></h3>
-<p>Click here to view the MT Department's Newsletter and find out more about
-the key programmes conducted in Semester 1 2025.</p>
+<p>Click <a href="https://heyzine.com/flip-book/8bdb07ef6c.html" rel="noopener nofollow" target="_blank">here</a> to
+view the MT Department's Newsletter and find out more about the key programmes
+conducted in Semester 1 2025.</p>
 <h5><strong>Chinese Department E-Newsletter</strong></h5>
 <hr>
 <p>Click <a href="/files/Departments/Mother Tongue/CPS_CL_Newsletter_2024_compressed.pdf" rel="noopener nofollow" target="_blank">here</a> to
@@ -274,7 +275,7 @@ programmes conducted in Semester 2 2023.</p>
 <p>Click <a href="/files/2023%20tl%20sem1%20newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Tamil Department's Newsletter and find out more about the key
 programmes conducted in Semester 1 2023.</p>
-<h3><strong>How Can Parents Support your child in MTL Learning </strong></h3>
+<h3><strong>How Can Parents Support your child in MTL Learning</strong></h3>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Parent_Support.jpg">
