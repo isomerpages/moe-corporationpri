@@ -5,29 +5,53 @@ description: ""
 variant: tiptap
 ---
 <h1>Mother Tongue</h1>
-<p><strong>Vision</strong>: Nurture our pupils to be confident users of MTL
-&amp; be culturally savvy.</p>
-<p><strong>Mission</strong>:</p>
+<p><strong>Check out our latest Newsletter!</strong>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/8bdb07ef6c.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/2025_MTL_Fortnight_Newsletter.jpg"></a>
+<h3><strong>Mother Tongue Language Department</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Header.jpg">
+</div>
+<p><strong>Vision</strong>
+</p>
+<p>Nurture lifelong learners who are confident users of MTL &amp; are culturally
+savvy.</p>
+<p><strong>Mission</strong>
+</p>
+<p>To provide a conducive environment for students to learn and use the language
+actively, confidently and joyfully.</p>
+<p><strong>Aim of MTL Curriculum</strong>
+</p>
+<p>“Joyful Learning, Confident Users”</p>
+<p>Aim to help students to experience the joy of learning and become confident
+users with a strong foundation in language competencies, appreciate their
+culture and traditions, as well as 21st century competencies.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Aim_of_MTL_Curriculum.jpg">
+</div>
+<p><strong>Learning Outcomes</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To provide a conducive environment for pupils to learn and use the language
-actively &amp; confidently.</p>
+<p>Use interaction skills to communicate information, express views and opinions.</p>
 </li>
 <li>
-<p>To inculcate the values in our pupils and nurture them to be gracious
-citizens.</p>
+<p>Love, appreciate and pass on traditional ethnic culture</p>
+</li>
+<li>
+<p>Understand Singapore local culture to develop a sense of belonging to
+the country</p>
+</li>
+<li>
+<p>Demonstrate kindness and sensitivity towards people from different social,
+cultural and religious backgrounds within Singapore.</p>
 </li>
 </ul>
-<p><strong>Department Focus</strong>
+<p></p>
+<h3><strong>MT Programmes</strong></h3>
+<p><strong>1. P1 &amp; P2 SOAR Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department%20Focus.png">
-</div>
-<h3><strong>MTL Programmes</strong></h3>
-<p><strong>P1 &amp; P2 SOAR Programme</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_SOAR_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_SOAR_1.jpg">
 </div>
 <p><strong>Reading</strong> brings forth a wide range of social and emotional
 benefits. The benefits are also associated with stronger intrinsic motivation,
@@ -42,23 +66,11 @@ curriculum time ringfenced for reading and library-related activities.
 As part of MTL SOAR, teachers would be using the small/supplementary readers
 that are developed as part of the new Primary MTL Curriculum.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_SOAR_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_SOAR_2.jpg">
 </div>
-<p>Parents can support the child in his/her reading by:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Reading with the child</p>
-</li>
-<li>
-<p>Taking the child to public libraries to borrow books</p>
-</li>
-<li>
-<p>Participating in reading activities organised by NLB</p>
-</li>
-</ul>
 <p><strong>Useful Parent Guides</strong>
 </p>
-<p><strong>1. Parents’ Guide for SOAR Programme(CL)</strong>
+<p><strong>• Parents’ Guide for SOAR Programme(CL)</strong>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P1A_compressed.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一上）</a>
 </p>
@@ -70,292 +82,166 @@ that are developed as part of the new Primary MTL Curriculum.</p>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__CL__P2A_EL_version_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (CL) P2A</a>
 </p>
-<p><strong>2. Parents’ Guide for SOAR Programme(ML)</strong>
+<p><strong>• Parents’ Guide for SOAR Programme(ML)</strong>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading_ML__P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">Parents’ Guide for MTL Reading(ML) P1 &amp; P2</a>
 </p>
-<p><strong>3. Parents’ Guide for SOAR Programme(TL)</strong>
+<p><strong>• Parents’ Guide for SOAR Programme(TL)</strong>
 </p>
 <p><a href="/files/Departments/Mother Tongue/Parents__Guide_for_MTL_Reading__TL__P1___P2_compressed.pdf" rel="noopener nofollow" target="_blank">Parents' Guide for MTL Reading (TL) P1 &amp; P2</a>
 </p>
-<h3><strong>Chinese Department</strong></h3>
-<p><strong>Chinese Language Curriculum</strong>
+<p><strong>2. MTL Reading Programme</strong>
 </p>
+<p>Our in-house reading programme aims to cultivate a love for reading and
+nurture lifelong readers through engaging activities. Students participate
+in both reading and post-reading activities to deepen their appreciation
+of books, with dedicated curriculum time set aside for library visits,
+where teachers guide them in selecting suitable books.</p>
+<p>To celebrate World Book Day, the department organises enriching activities
+such as mini book creation and book discussions to encourage students to
+immerse themselves in stories, share their perspectives, and discover new
+literary adventures.</p>
+<p>For younger learners, the e-reading portal (Dudutown) enhances engagement
+by providing interactive reading experiences. Additionally, book fairs
+will be arranged, giving students the opportunity to explore and select
+books that captivate their interest. Through these initiatives, we aspire
+to cultivate a vibrant reading culture and instill a lifelong passion for
+reading in our students!</p>
 <div class="isomer-image-wrapper">
-<img style="width:150px;height:120px;margin-left:15px;" height="auto" width="100%" src="/images/Happy Learning.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Reading_Programme.jpg">
 </div>
-<p><strong>Making Chinese Language&nbsp;a Living Language</strong>
+<p><strong>3. Festival Celebrations</strong>
 </p>
-<p>No two students are alike. Today, as more Chinese students entering Primary
-1 speak predominantly English at home, the Chinese Language curriculum
-must adapt itself to offer greater flexibility in its teaching and learning.
-Those who exhibit mastery can advance and those who need reinforcement
-can move forward when they are ready.</p>
-<p>The CL curriculum makes CL learning an enjoyable experience and encourages
-children to learn the language to best of their ability. The school hopes
-to help your child develop an abiding interest in learning CL, so that
-he or she will continue to use it as a living language after they leave
-school.</p>
-<p><strong>Teaching Approach</strong>
+<p>To nurture our students to be culturally savvy, the department will celebrate
+various festivals such as Chinese New Year, Hari Raya Puasa, and Deepavali
+annually. Celebrations for Mid-Autumn Festival and Pongal Festival are
+sometimes included as well. Through these celebrations, students will gain
+a deeper understanding of these festivals and develop an appreciation for
+other cultures, fostering racial harmony and integration.</p>
+<p><strong>4. MTL Fortnight Learning Fest</strong>
 </p>
-<p>The Chinese Department works towards making Chinese Language learning
-enjoyable through adopting the inquiry-based approach:</p>
-<p>Pupils are encouraged to explore, ask questions, and share ideas which
-will foster their curiosity and ownership in learning. Pupils will also
-develop the critical thinking and communication skills through this form
-of active learning. Ultimately, we want our pupils to develop the love
-for exploration and learning.</p>
-<p>Pupils will benefit from the teaching approach based on these guiding
-principles:</p>
+<p>To create a conducive environment for promoting MTL usage and learning
+beyond the classroom, our school organises the Mother Tongue Language Fortnight
+Learning Fest annually.</p>
+<p>Through a variety of creative language competitions and enrichment sessions,
+we hope to make language learning more immersive, enjoyable, and relevant.
+We also aim to deepen students’ appreciation of their Mother Tongue Language
+and inspire them to use it more confidently in their daily lives.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DEPARTMENT_MT_CL_TEACHING%20APPROACH_guiding%20principles.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/MTL_Fortnight_Programme.jpg">
 </div>
-<p><strong>Chinese Language Programmes</strong>
+<p><strong>5.Cultural Appreciation Programme</strong>
 </p>
-<p><strong>1. Structured Reading Programme (SRP)</strong>
+<p>During the annual MTL Fortnight, students will have the opportunity to
+experience different cultural workshops throughout their six years of education.
+These workshops aim to extend and enrich students' learning through cultural
+immersion.</p>
+<p><strong>6. Primary 4 Language Cultural Camp (LCC)</strong>&nbsp;</p>
+<p>Every year, our P4 students participate in the annual Language Cultural
+Camp, where they engage in a variety of interactive language and cultural
+activities. This immersive experience allows them to learn through play,
+deepen their appreciation of the language, and build confidence in using
+it.</p>
+<p><strong>7. LEAP Programme (Language Exploration and Appreciation Programme)</strong>
 </p>
-<p>This is a P1-P5 school-based curriculum aimed at promoting the love for
-reading among the pupils. P1-5 pupils will read a total of 50-60 age-appropriate
-Readers throughout their years in the school. CL teachers will set aside
-time during curriculum to guide pupils in the reading and appreciation
-of stories. To promote the love for reading among our young learners at
-P1 &amp; P2, the use of the e-reading portal (Dudutown) was implemented
-in 2022. The young learners are more motivated to read the e-books and
-watch the videos using the platform. Under the Reading Passport Programme,
-parents are also strongly encouraged to read together with their P1 &amp;
-P2 children and complete the activities such as bookmark making and reflection
-log. Through all these activities, we hope to cultivate the love for reading
-among our pupils!</p>
-<p><strong>2. Cultural Performance Exposure Scheme (CPES)</strong>
-</p>
-<p>As one of the initiatives by the Committee to promote Chinese Language
-Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) aims
-to expose pupils to Chinese Language related cultural performance to enhance
-their learning. Since 2006, our P2-P5 pupils have watched and appreciated
-drama performances in the theatres. The following are some of the performances
-that our pupils had watched over the years: The Three Billy Goat Gruff
-（三只山羊）, Journey to the West (西游记之火焰山), Al （爱丽丝梦游仙境）, Ugly Ducking（丑小鸭）.</p>
-<p><strong>3. MTL Fortnight Learning Fest (CL)</strong> To create a conducive
-environment to promote MTL usage and learning outside classrooms, our school
-organizes Mother Tongue Language Fortnight Learning Fest annually. The
-MTL Fortnight activities provide platforms for students to actively learn
-MTL and the associated cultures so as to experience MTL as 'living languages'.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DEPARTMENT_MT_CL_MTL%20Fortnight%20Learning%20Fest%20(CL).png">
-</div>
-<p><strong>4.Cultural Appreciation Programme</strong>
-</p>
-<p>Under our Cultural Appreciation Programme, pupils experience the different
-types of cultural workshops within their six years of education in school.
-The cultural workshops include activities such as, Chinese Painting, Dough
-Modelling, Paper Cutting, Making of Chinese Fan and Bamboo Book Making.</p>
-<p><strong>5. Cultural Camp</strong>&nbsp;</p>
-<p>Every year, our P4 pupils attend the annual language &amp; cultural day
-camp. A variety of language and cultural activities are organized to provide
-them with the opportunities to learn through play and build up their confidence
-in mastering the Chinese Language.</p>
-<p><strong>6. CL Games Day</strong>
-</p>
-<p>During MTL Fortnight Learning Fest, all P1-P6 pupils will have the chance
-to learn on the move. They will work with their peers as they challenge
-themselves to complete the learning trail using the iPads. Language quizzes
-and games are set at the various learning stations to make learning fun
-and meaningful.</p>
-<p><strong>7. grOW Programme (Growth in Oracy and Word Recognition Programme)</strong>&nbsp;</p>
-<p>With the realisation that word recognition and retention form an integral
-part of the learning of Chinese Language, we run a support programme for
-selected P2 pupils who require more support. Suitable teaching strategies
-will be adopted, and pupils will be revising the Chinese Characters learnt
-through games and pictorial flash cards. &nbsp;</p>
-<p><strong>8. Writing Workshop for Beginning Writers</strong>
-</p>
-<p>Writing has always been challenging for our young writers. This in-house
-workshop provides the extra guidance in developing the essential writing
-skills in our P3 pupils.</p>
-<p><strong>9. LEAP Programme (Language Exploration and Appreciation Programme)</strong>
-</p>
-<p>To cater to the learning needs of the higher progress pupils to enrich
-their learning experiences, a series of stretch programmes are curated
-and conducted for them: P3 &amp; P4 Comic Creation, P4&amp;P5 Young Journalist
-and P5 Literature Programme. The objectives of these programmes are as
-follows:</p>
-<p>• Develop students who are creative writers.</p>
-<p>• Develop students who are critical thinkers and confident speakers.</p>
-<p>• Expose students to different text genres and develop their interest
+<p>The LEAP Programme is designed to enrich the learning experiences of higher-progress
+students by providing them with engaging and challenging opportunities.
+A series of stretch programmes are curated to enhance their skills, including
+the P4 &amp; P5 Young Journalist Programme and the P5 Literature Programme
+(CL).</p>
+<p>In the Young Journalist Programme, students explore the world of journalism
+by sourcing interesting news, gathering relevant information, and reporting
+their findings. Once equipped with essential journalistic skills, they
+will take on the role of student reporters, covering school events.</p>
+<p>LEAP aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nurture students into creative writers.</p>
+</li>
+<li>
+<p>Develop critical thinkers and confident communicators.</p>
+</li>
+<li>
+<p>Expose students to different text genres and cultivate their interest
 in literature.</p>
-<p><strong>10. ICT Enrichment Programme (CL)</strong>
+</li>
+</ul>
+<p>This programme empowers students to deepen their language appreciation,
+enhance their communication skills while developing their 21st century
+competencies.</p>
+<p><strong>8. Support Programme</strong>
 </p>
-<p>To develop future ready digital learners with the skills to navigate,
-curate, and collaborate using technology, the following ICT programmes
-are conducted for the various levels:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Level</strong>
+<p><strong>MTSP for Primary 3 – Primary 4 (Mother Tongue Support Programme)</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme</strong>
+<p>The Mother Tongue Support Programme (MTSP) is designed to provide targeted
+support for students in a smaller class setting, with a recommended class
+size of 8-12 students or 9% of the cohort per MTL, whichever is lesser.
+MTSP lessons are conducted during curriculum time and focus on a structured
+approach to developing oracy and literacy skills. The teaching is explicit,
+skills-focused, systematic, and progressive, moving from simple to complex
+concepts. To enhance learning, customised multi-sensory materials are used
+to make lessons fun and engaging. Students learn in an immersive language
+environment, enabling them to gain confidence and joy in using MTL. The
+programme is delivered by trained MTSP teachers, ensuring effective instruction
+tailored to students' needs</p>
+<p>We believe that every child can learn MTL. The programme aims to</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop students as <strong>A</strong>ctive learners of MTL</p>
+</li>
+<li>
+<p><strong>B</strong>uild their confidence in learning MTL</p>
+</li>
+<li>
+<p>Making Mother Tongue a <strong>L</strong>iving language by using the language
+in daily life</p>
+</li>
+<li>
+<p>Provide <strong>E</strong>ngaging and enjoyable learning experience</p>
+</li>
+</ul>
+<p><strong>ML Literacy Programme</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1&amp;2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Reading &amp; Typing Learning Packages (SLS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Creative Drawing &amp; Writing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Mooncake Design</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaborative E-Oral Video Production</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>11. Festival Celebrations</strong>
-</p>
-<p>To nurture our pupils to be culturally savvy, the department will celebrate
-the various festivals (CNY, Hari Raya Puasa, Deepavali) every year. The
-Chinese department celebrates traditional festivals such as Chinese New
-Year and Mid-Autumn Festival. Through these celebrations, pupils will understand
-more about the festivals and learn to be appreciative towards other cultures
-which will bring about racial integration.</p>
-<h3><strong>Malay Department</strong></h3>
-<p><strong>Malay Language Curriculum</strong>&nbsp;</p>
-<p>The Malay language curriculum aims to develop pupils as proficient Malay
-language users who can communicate in a confident and effective way. The
-curriculum places greater emphasis on spoken and written interaction skills
-as well as focus on authentic activities to better develop the pupils’
-communication skills. It also continues to expose pupils to culture and
-values through various activities.</p>
-<p>There is a greater use of information and communication technology (ICT)
-to enhance the teaching and learning of ML. ICT resources such as videos,
-animations and digital interactive games are utilised to engage the pupils
-to learn ML in a fun and purposeful way.</p>
-<p>Overview Diagram of Focus Area (Language Skills)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay%20Framework.png">
-</div>
-<p><strong>Malay Language Programmes</strong>
-</p>
-<p>A variety of holistic programmes were planned to engage pupils in active
-learning through interactions, investigations, explanations and games.
-These programmes are essential towards achieving the vision of making every
-child an effective and confident user of Malay language who appreciates
-Malay culture.</p>
-<p><strong>1. Writing Programme</strong>
-</p>
-<p>All Primary 3 to Primary 5 pupils are involved in structured writing lessons
-to enhance their writing skills and making them into creative writers.
-The lessons are exclusive to each level and are progressive in nature.</p>
-<p><strong>2. Oral Literacy Programme</strong>
-</p>
-<p>All pupils are involved in structured oral lessons focusing on conversational
-skills. This is in line with the curriculum’s aim of developing pupils
-to be proficient Malay language users who can communicate in a confident
-and effective way.</p>
-<p><strong>3. Basic Literacy Programme</strong>
-</p>
-<p>This programme aims to provide support to selected Primary 1 and Primary
-2 pupils identified through the Malay language literacy and competency
-test. Pupils in this programme will undergo various activities that will
+<p>This programme aims to provide support for selected Primary 1 and Primary
+2 students identified through the Malay language literacy and competency
+test. Students on this programme will undergo various activities that will
 enhance their literacy skills to improve the overall learning of the Malay
 language.</p>
-<p><strong>4. Culture Appreciation Workshops</strong>
+<p><strong>CL grOW Support Programme</strong>
 </p>
-<p>All Primary 2 to Primary 5 pupils will learn 1 aspect of the Malay culture
-by participating in a cultural enrichment workshop. This activity aims
-to extend and enrich the pupils’ educational experience through cultural
-immersion.</p>
-<p><strong>5. Music and Movement Workshop</strong>
+<p>Recognising that word recognition and retention are essential components
+of Chinese language learning, we offer a support programme for selected
+Primary 2 to Primary 4 students who require additional reinforcement. This
+programme incorporates effective teaching strategies, including interactive
+games and pictorial flashcards, to help students revise and retain Chinese
+characters in an engaging and meaningful way.</p>
+<p><strong>TL Reading Intervention Programme</strong>
 </p>
-<p>All Primary 1 pupils will participate in a Music and Movement workshop
-which will culminate in a performance showcase for parents during the MTL
-Fortnight period. This activity aims to build pupils’ confidence in using
-the Malay language.</p>
-<p><strong>6. Young Journalism Programme</strong>&nbsp;</p>
-<p>All P4 Higher Malay language pupils and selected P5 pupils will be given
-the opportunity to discover the world of journalism; sourcing out interesting
-news, getting relevant and suitable information and reporting it. Once
-equipped with the necessary skills, these pupils will be tasked to cover
-school events or Malay language programmes.</p>
-<p><strong>7. MTL Fortnight Learning Fest (ML)</strong>&nbsp;</p>
-<p>All Primary 1 to Primary 6 pupils will be involved in various cultural
-and language activities during the MTL Fortnight period in Term 3. Besides
-enhancing their language competency, these activities aim to instil in
-pupils a love of learning for the Malay language and promote appreciation
-of their culture.</p>
-<h3><strong>Tamil Department</strong></h3>
-<p><strong>Tamil Language Curriculum</strong>
+<p>The Read Better programme is a reading intervention programmes designed
+for selected Middle Primary and Upper Primary students who face difficulty
+in alphabet recognition and reading. The objective of the programme is
+to help support students in their reading by reinforcing the phonetic sounds
+of the Tamil alphabets. Through the use of alphabet flash cards, reading
+lists and reading passages, students will practise identifying the phonetic
+sounds of the various alphabets following a recap. After which, they will
+proceed to read short sentences, phrases followed by a reading passage.
+While reading, students will be accessed using rubrics on their accuracy,
+fluency as well as intonation. The programme is conducted by Parent volunteers
+during their respective lunch breaks on a weekly basis from Term 2 to Term
+4.</p>
+<p><strong>9. Cultural Performance Exposure Scheme (CPES)</strong>
 </p>
-<p>The Tamil language department aims to instil love, passion and confidence
-among Tamil pupils in using the Tamil Language. The department also focuses
-on spoken and written interaction skills among the pupils through various
-activities and pedagogies. It will continue to enthuse the pupils through
-various cultural exposure as well.</p>
-<p>ICT infusion will further enhance teaching and learning. The use of SLS,
-IMTL and other various platforms will help engage pupils and develop student-centred
-learning. Touch-typing in Tamil is an essential skill for the pupils in
-the use of ICT in Tamil. The department also focuses to develop this skill
-among the pupils.</p>
-<p><strong>Tamil Language Programmes</strong>
-</p>
-<p>Learning through fun is essential to sustain love, passion and confidence
-for Tamil. The department also places great emphasis on exposing pupils
-to various activities, games and competitions throughout the year.&nbsp;</p>
-<p><strong>1. Pongal Competitions</strong>&nbsp;</p>
-<p>All pupils from Primary 1 to Primary 6 will participate in Pongal Competition
-in Term 1. This competition helps to enhance pupils’ understanding on Pongal
-and its significance. Pupils will learn the cultural aspects of Pongal
-during this competition.&nbsp;</p>
-<p><strong>2. Language Competitions</strong>
-</p>
-<p>All Primary 1 to Primary 6 pupils will participate in language competitions
-in April which is in conjunction with the Tamil Language month. Every level
-will prepare to showcase their talent for the various competitions. This
-aims to develop pupils’ proficiency in the Tamil Language.&nbsp;</p>
-<p><strong>3. MTL Fortnight – Cultural Enrichment</strong>
-</p>
-<p>MTL fortnight is a key annual event. All Primary 1 to Primary 6 pupils
-will be involved in various cultural and language activities during the
-MTL Fortnight period in Term 3. These activities will consist of various
-cultural and language activities where pupils are provided with an engaging
-environment to learn and appreciate Tamil.&nbsp;&nbsp;</p>
-<p><strong>4. P1 &amp; P2 Drama Appreciation</strong>
-</p>
-<p>All Primary 1 and Primary 2 pupils will participate in a Speech &amp;
-Drama workshop where pupils will learn to use Tamil language confidently
-and effectively.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tamil%20Programmes.png">
-</div>
+<p>As part of the Committee to Promote Chinese Language Learning (CPCLL)
+initiatives, the Cultural Performance Exposure Scheme (CPES) aims to enrich
+students' learning by exposing them to Chinese language-related cultural
+performances. P2 to P5 students have the opportunity to attend and appreciate
+live drama performances in theatres, deepening their cultural understanding
+and enhancing their language learning experience.</p>
+<p>To know more about our programmes, please lookout for our department newsletters!</p>
 <h3><strong>Mother Tongue Department E-Newsletters</strong></h3>
+<p>Click <a href="https://heyzine.com/flip-book/8bdb07ef6c.html" rel="noopener nofollow" target="_blank">here</a> to
+view the MT Department's Newsletter and find out more about the key programmes
+conducted in Semester 1 2025.</p>
 <h5><strong>Chinese Department E-Newsletter</strong></h5>
 <hr>
 <p>Click <a href="/files/Departments/Mother Tongue/CPS_CL_Newsletter_2024_compressed.pdf" rel="noopener nofollow" target="_blank">here</a> to
@@ -367,12 +253,6 @@ programmes conducted in Semester 2 2023.</p>
 <p>Click <a href="/files/2023%20cl%20sem1%20newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Chinese Department's Newsletter and find out more about the key
 programmes conducted in Semester 1 2023.</p>
-<p>Click&nbsp;<a href="/files/CL%20NEWSLETTER%202022%20SEM2_CPS%20compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the Chinese Department's Newsletter and find out more about the key
-programmes conducted in Semester 2 2022.</p>
-<p>Click&nbsp;<a href="/files/CL%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the Chinese Department's Newsletter and find out more about the key
-programmes conducted in Semester 1 2022.</p>
 <h5><strong>Malay Department E-Newsletter</strong></h5>
 <hr>
 <p>Click <a href="/files/Departments/Mother Tongue/CPS_ML_Newsletter_2024_compressed.pdf" rel="noopener nofollow" target="_blank">here</a> to
@@ -384,12 +264,6 @@ programmes conducted in Semester 2 2023.</p>
 <p>Click <a href="/files/2023%20ml%20sem1%20newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Malay Department's Newsletter and find out more about the key
 programmes conducted in Semester 1 2023.</p>
-<p>Click&nbsp;<a href="/files/ML%20Newsletter%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the Malay Department's Newsletter and find out more about the key
-programmes conducted in Semester 2 2022.</p>
-<p>Click&nbsp;<a href="/files/ML%20NEWSLETTER%202022%20SEM1_CPS%20compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the Malay Department's Newsletter and find out more about the key
-programmes conducted in Semester 1 2022.</p>
 <h5><strong>Tamil Department E-Newsletter</strong></h5>
 <hr>
 <p>Click <a href="/files/Departments/Mother Tongue/CPS_TL_Newsletter_2024_compressed.pdf" rel="noopener nofollow" target="_blank">here</a> to
@@ -401,18 +275,32 @@ programmes conducted in Semester 2 2023.</p>
 <p>Click <a href="/files/2023%20tl%20sem1%20newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Tamil Department's Newsletter and find out more about the key
 programmes conducted in Semester 1 2023.</p>
-<p>Click&nbsp;<a href="/files/TL%20newsletter%202022%20Sem%202.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the Tamil Department's Newsletter and find out more about the key
-programmes conducted in Semester 2 2022.</p>
-<p>Click <a href="/files/TL%20Newsletter%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the Tamil Department's Newsletter and find out more about the key
-programmes conducted in Semester 1 2022.</p>
-<h3><strong>Mother Tongue Department Blog</strong></h3>
+<h3><strong>How Can Parents Support your child in MTL Learning</strong></h3>
 <hr>
-<p>Click&nbsp;<a href="https://go.gov.sg/cpsclblog" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-visit our Chinese Department Blog to view the latest updates and pupils'
-works.</p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/Blog1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Parent_Support.jpg">
 </div>
+<p><strong>Useful Resources for Parents:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE website – Various parent kits available</p>
+</li>
+<li>
+<p>Schoolbag - Schoolbag.sg provides parents with education news, school
+features and tips. You may find tips on supporting your child in learning,
+which also includes MTL.</p>
+</li>
+<li>
+<p>Parent Gateway – You can also access Parent Resources via PG. This will
+help you access the resources (e.g. search under Learning --&gt; Language
+Learning)</p>
+</li>
+<li>
+<p>ETDtogo – You will also find "Tips for Parents" videos in this Youtube
+channel called "ETDtogo". MOE has produced 3 videos specifically for 2024
+New Pri MT Curriculum.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
