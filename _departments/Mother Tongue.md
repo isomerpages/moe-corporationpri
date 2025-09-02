@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>Mother Tongue</h1>
 <p><strong>Check out our latest Newsletter!</strong>
-</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/8bdb07ef6c.html"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/2025_MTL_Fortnight_Newsletter.jpg"></a>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/8bdb07ef6c.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/2025_MTL_Fortnight_Newsletter.jpg"></a>
 <h3><strong>Mother Tongue Language Department</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Header.jpg">
@@ -187,17 +187,17 @@ tailored to students' needs</p>
 <p>We believe that every child can learn MTL. The programme aims to</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Develop students as Active learners of MTL</p>
+<p>Develop students as <strong>A</strong>ctive learners of MTL</p>
 </li>
 <li>
-<p>Build their confidence in learning MTL</p>
+<p><strong>B</strong>uild their confidence in learning MTL</p>
 </li>
 <li>
-<p>Making Mother Tongue a Living language by using the language in daily
-life</p>
+<p>Making Mother Tongue a <strong>L</strong>iving language by using the language
+in daily life</p>
 </li>
 <li>
-<p>Provide Engaging and enjoyable learning experience</p>
+<p>Provide <strong>E</strong>ngaging and enjoyable learning experience</p>
 </li>
 </ul>
 <p><strong>ML Literacy Programme</strong>
