@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>Mother Tongue</h1>
 <p><strong>Check out our latest Newsletter!</strong>
-</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/8bdb07ef6c.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/2025_MTL_Fortnight_Newsletter.jpg"></a>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/8bdb07ef6c.html"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/2025_MTL_Fortnight_Newsletter.jpg"></a>
 <h3><strong>Mother Tongue Language Department</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mother Tongue/Header.jpg">
