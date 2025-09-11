@@ -76,38 +76,33 @@ from 6.30am-7.45am)</p>
 </tbody>
 </table>
 <h3><strong>General Office Operating Hours</strong></h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="4" colspan="1">
-<p>General Office Operating Hours</p>
-</th>
-<th rowspan="2" colspan="1">
-<p><strong>School Term</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
-<p><strong>Monday to Thursday</strong>
-</p>
+<p>School Term</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>7.30 a.m. – 5 p.m.</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
+<p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 4.30 p.m.</strong>
-</p>
+<p>7.30 a.m. – 5 p.m.</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m. – 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -116,22 +111,29 @@ from 6.30am-7.45am)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday to Thursday</strong>
-</p>
+<p>Monday to Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 4.30 p.m.</strong>
-</p>
+<p>7.30 a.m. – 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7.30 a.m. – 4 p.m.</strong>
-</p>
+<p>7.30 a.m. – 4 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
