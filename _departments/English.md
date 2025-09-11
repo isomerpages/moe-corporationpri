@@ -96,6 +96,7 @@ and discover interests and enrich their learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 49%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp_2.jpg">
 </div>
