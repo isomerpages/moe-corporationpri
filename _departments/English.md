@@ -19,9 +19,6 @@ purpose to help the CPS students gain more knowledge and information.</p>
 them to discern information accurately and empower them to be a Confident
 Language User and Active Contributor and Speaker as aligned with the 21st
 century skillset.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/EL Fiesta 2.jpg">
-</div>
 <p><strong>Primary 1 to 6: Extensive Reading Programme (ERP)</strong>
 </p>
 <p>The programme fosters a love of reading in CPS students, inspiring them
@@ -97,9 +94,11 @@ and discover interests and enrich their learning experiences.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
+<img style="width: 49%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Rich_Learning_Exp_2.jpg">
+</div>
 <p><strong>Student Emcees</strong>
 </p>
 <p>At CPS, our student emcees cultivate a Growth Mindset by taking on the
@@ -150,15 +149,26 @@ Jaslynn (right) for making the school proud!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Hess_Academy_Writing_Comp_2025_1.jpg">
 </div>
-<p><strong>CPS EL Fiesta</strong>
+<p><strong>CPS EL Fiesta 2025</strong>
 </p>
-<p>To celebrate the success of growth and achievements of CPS students, the
-annual CPS EL Fiesta provides the platform to showcase learning and discover
-talents in reading, writing and speaking. It is a week where the CPS students
-will be immersed in the plethora of fun and engaging language activities!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL%20Fiesta.jpg">
-</div>
+<p><strong><em>CPS @ 50: A Future of Voices, Ideas &amp; Imagination</em></strong>
+</p>
+<p>The CPS EL Fiesta celebrates the growth and achievements of our students
+in the English Language. It provides a vibrant platform for students to
+showcase their learning and explore their talents in reading, writing,
+and speaking.</p>
+<p>This year, as Corporation Primary School celebrates its 50th anniversary,
+we honour our past while celebrating the voices that shape our future —
+our CPS stars’ voices. Students engage in activities that spark creativity,
+inspire ideas, and unleash imagination.</p>
+<p>Throughout the week, students immerse themselves in a variety of fun and
+meaningful language experiences — from storytelling and performances to
+writing and public speaking. Through these engaging and authentic learning
+opportunities, the EL Fiesta nurtures confidence, expression, and a lifelong
+love for the English Language.</p>
+<p>We celebrate the power of words.</p>
+<p>We find our voices — and let them shine.</p>
+<p></p>
 <p><strong>NewsMakers Awards 2024</strong>
 </p>
 <p>Ilman Rafiq (4.7), Ivasenko Evelina (4.4) and Shanjana Srinivasan (4.2)
