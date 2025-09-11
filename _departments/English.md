@@ -168,7 +168,15 @@ opportunities, the EL Fiesta nurtures confidence, expression, and a lifelong
 love for the English Language.</p>
 <p>We celebrate the power of words.</p>
 <p>We find our voices — and let them shine.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/Book_Character_Day_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/EL_Fiesta_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/EL/EL_Fiesta_Lunch_2025.jpg">
+</div>
 <p><strong>NewsMakers Awards 2024</strong>
 </p>
 <p>Ilman Rafiq (4.7), Ivasenko Evelina (4.4) and Shanjana Srinivasan (4.2)
