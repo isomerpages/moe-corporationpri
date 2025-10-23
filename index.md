@@ -24,6 +24,15 @@ sections:
       subtitle: Lifelong learners who thrive with resilience, curiosity, and confidence.
       title: Corporation Primary School
   - infopic:
+      title: Outstanding Youth in Education Award
+      id: infopic
+      description: Nominate an inspiring teacher or colleague for this prestigious
+        award by scanning the QR code or heading to
+      button: https://go.gov.sg/oyea2026
+      url: https://go.gov.sg/oyea2026
+      image: /images/Homepage/OYEA.jpg
+      alt: Image alt text
+  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
