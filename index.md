@@ -26,8 +26,7 @@ sections:
   - infopic:
       title: Outstanding Youth in Education Award
       id: infopic
-      description: Nominate an inspiring teacher or colleague for this prestigious
-        award by scanning the QR code or heading to
+      description: Nominate by scanning the QR code or heading to
       button: https://go.gov.sg/oyea2026
       url: https://go.gov.sg/oyea2026
       image: /images/Homepage/OYEA.jpg
