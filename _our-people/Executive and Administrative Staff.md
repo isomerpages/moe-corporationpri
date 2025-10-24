@@ -69,6 +69,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Moey Hway Lee Agnes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AJT Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Sarinah Bte Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Thiam Hock</p>
+<p>Mdm Tan Siew Tin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -101,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Siew Tin</p>
+<p>Mr Tan Thiam Hock</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
