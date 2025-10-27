@@ -306,11 +306,10 @@ during term time is generally not considered a valid reason for absence.
 Parents who wish to take their child overseas for vacation and / or to
 attend to personal matters should do so during the school holidays. Should
 there be any urgent need to travel, parents are requested to apply via
-the following link: <a href="https://go.gov.sg/studentleaveapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/studentleaveapplication</a> 
+the following link: <a href="https://go.gov.sg/studentleaveapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/studentleaveapplication</a>
 </p>
 <p><em>*The number of letters accepted will be limited to 5 per semester, and each letter should cover no more than a maximum of 3 days. If a student exceeds the accepted number of letters per semester, subsequent absences will be taken as invalid absences, which will affect his / her conduct grade.</em>
 </p>
-<p></p>
 <p></p>
 <hr>
 <h2>Policy On The Use Of The Internet</h2>
