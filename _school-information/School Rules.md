@@ -380,109 +380,19 @@ they may email the school principal to make that request.</p>
 <p></p>
 <hr>
 <h2>Offences and Actions / Support</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Minor Offences</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Offences that show a lack of consideration for others and / or threaten the safety and well-being of self</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1. Absence from lessons without a valid reason</p>
-<p>2. Creating disturbance in the classroom, on school grounds or on the
-school bus</p>
-<p>3. Failure to bring books or other required materials for lessons</p>
-<p>4. Failure to submit homework / assignments / projects</p>
-<p>5. Littering in school</p>
-<p>6. Loitering at public places in school uniform</p>
-<p>7. Reporting late for school or any other school activities</p>
-<p>8. Use of mobile phones during curriculum time or out of the designated
-area</p>
-<p>9. Violating the school dress code</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Major Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Offences that threaten the safety and well-being of self and / or other students</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1. Bullying of any form</p>
-<p>2. Cheating in assessments / Forgery of signatures</p>
-<p>3. Fighting - when there is no serious injury</p>
-<p>4. Misuse of the internet</p>
-<p>5. Showing defiance to prefects</p>
-<p>6. Truancy or leaving school premises without permission</p>
-<p>7. Use of abusive, offensive or vulgar language</p>
-<p>8. Vandalism - minor defacing of school property, e.g. writing on desk,
-walls, etc.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Serious Offences</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Offences that threaten the safety and well-being of students and / or staff; Offences that merit the involvement of the police</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1. Extortion</p>
-<p>2. Fighting or assault - when there is serious injury</p>
-<p>3. Gambling</p>
-<p>4. Gangsterism</p>
-<p>5. Possession of dangerous weapons</p>
-<p>6. Possession or showing of undesirable materials and publications</p>
-<p>7. Sexual misconduct</p>
-<p>8. Showing open defiance and rudeness to teachers / school authority</p>
-<p>9. Smoking or possession of cigarettes, e-vaporisers or tobacco products</p>
-<p>10. Theft</p>
-<p>11. Vandalism - when there is extensive damage to school property</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Possible Disciplinary Actions / Support</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>• Self-reflection</p>
-<p>• Verbal / Written apology</p>
-<p>• Counselling</p>
-<p>• Confiscation</p>
-<p>• Compensation</p>
-<p>• Corrective work</p>
-<p>• Home involvement</p>
-<p>• Conduct grading affected</p>
-<p>• Issue of verbal / written warning</p>
-<p>• Suspension</p>
-<p>• Caning - depending on severity of the offence for boys</p>
-<p>• Police assistance</p>
-<p>• Other disciplinary actions deemed appropriate by the disciplinary board</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/School Rules/2026_Minor_Offence.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/School Rules/2026_Major_Offence.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/School Rules/2026_Serious_Offence.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Information/School Rules/2026_Possible_Disciplinary_Actions.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
