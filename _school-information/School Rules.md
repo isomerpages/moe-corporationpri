@@ -206,7 +206,7 @@ for special reasons.</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>Items Not to be Brought to School</strong></h2>
+<h2>Items Not to be Brought to School</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Electronic devices such as tablets or video game consoles.</p>
@@ -225,25 +225,23 @@ for special reasons.</p>
 </li>
 </ul>
 <hr>
-<h2><strong>Mobile Phones and Smartwatches</strong></h2>
+<h2>Mobile Phones and Smartwatches</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are strongly discouraged from bringing their mobile phone or
-wearing smartwatches to school.</p>
+<p>Students are <strong>strongly discouraged</strong> from bringing their mobile
+phones or smartwatches to school.</p>
 </li>
 <li>
-<p>If there is a real need to do so, the mobile phone MUST be switched off
-and kept in the bag during curriculum hours.</p>
+<p>If there is a real need to do so, mobile phones MUST be switched off and
+both mobile phones and smartwatches must be kept in the bag during curriculum
+hours.</p>
 </li>
 <li>
-<p><strong>Mobile phones should be used only for contacting parents.</strong> Students
-are not allowed to use their mobile phones for other purposes (e.g. playing
-games, listening to music, etc.), even while waiting for their parents
-to pick them up.</p>
-</li>
-<li>
-<p><strong>Smartwatches should be used only for telling time or contacting parents.</strong> Students
-are not allowed to use their smartwatches for other purposes.</p>
+<p><strong>Mobile phones and smartwatches should be used only for contacting parents</strong>.
+Students are not allowed to use these devices for other purposes (e.g.
+playing games, listening to music, etc.), even while waiting for their
+parents to pick them up. This is with the exception of the POSB Smart Buddy,
+which can be used to make digital payments at the canteen.</p>
 </li>
 <li>
 <p>When contacting parents, students can use their mobile phones or smartwatches
@@ -259,12 +257,13 @@ school will not be responsible for any damage to or loss of mobile phones
 or smartwatches.</p>
 </li>
 <li>
-<p>Mobile phones and smartwatches, if used inappropriately, will be confiscated
+<p>Mobile phones and smartwatches, if used inappropriately, may be confiscated
 and returned only to the parents.</p>
 </li>
 </ul>
+<p></p>
 <hr>
-<h2><strong>Morning Reporting Time</strong></h2>
+<h2>Morning Reporting Time</h2>
 <p>Morning activities are planned for students from 7.30 a.m. to 7.45 a.m.
 They include fitness activities, prize-giving, presentations, briefings,
 and attire checks, to name a few. As such, students are expected to be
@@ -284,34 +283,35 @@ should also be in school no later than 7.40 a.m. (Mon – Thu) or 7.25 a.m.
 and assist in planning his / her travel time to take into consideration
 possible delays such as traffic jams. Students will receive warning letters
 if they are persistently late after several reminders are given.</p>
+<p></p>
 <hr>
-<h2><strong>Illness and Absence from School</strong></h2>
+<h2>Illness and Absence from School</h2>
 <p>Students must attend school regularly and punctually so as not to miss
-any lesson and be at a disadvantage. However, if a student is ill or has
-a flu / fever / contagious or infectious disease, please inform the form
-teachers and do not send him / her to school. Any absence from school must
-be covered by a doctor’s medical certificate (MC) or letter* from the parent
-/ guardian. Parents may submit MCs and letters either in hardcopy or through
-sending a message / photograph to the student’s form teacher. When a student
-falls ill while in school, only the parent / guardian will be allowed to
-take him / her home.</p>
-<p>On the day of a student’s absence, the form teacher will contact the parent
-to check on the student. If a student is absent frequently, the form teacher
-or other school personnel may conduct a home visit. Should there be no
-improvement in the student’s attendance, his / her parents will be requested
-to meet the principal for a discussion.</p>
+any lesson and be at a disadvantage. However, a student should not attend
+school when he / she is ill. Parents / Guardians should inform the form
+teacher and ensure the absence is covered by a doctor’s medical certificate
+(MC) or letter*. Parents / Guardians may submit MCs and letters either
+in hardcopy or through Parents Gateway. When a student falls ill while
+in school, only the parent / guardian will be allowed to take him / her
+home.</p>
+<p><em>*The number of letters accepted will be limited to 5 per semester, and each letter should cover no more than 2 days. If a student exceeds the accepted number of letters per semester, subsequent absences will be taken as invalid absences, which will affect his / her conduct grade.</em>
+</p>
 <p>Absence from school without a valid reason is a school offence. Non-valid
 reasons include oversleeping and willful absence from school. Travelling
 during term time is generally not considered a valid reason for absence.
-Parents who wish to take their child overseas for vacation and / or to
-attend to personal matters should do so during the school holidays. Should
-there be any urgent need to travel, parents are requested to apply via
-the following link: <a href="https://go.gov.sg/studentleaveapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/studentleaveapplication</a>
-</p>
-<p><em>*The number of letters accepted will be limited to 5 per semester, and each letter should cover no more than a maximum of 3 days. If a student exceeds the accepted number of letters per semester, subsequent absences will be taken as invalid absences, which will affect his / her conduct grade.</em>
-</p>
+Parents / Guardians who wish to take their children / wards overseas for
+vacation and / or to attend to personal matters should do so during the
+school holidays. Should there be any urgent need to travel, parents are
+requested to submit the request via Parents Gateway with the reason clearly
+stated.</p>
+<p>On the day of a student’s absence, the form teacher will contact the parents
+/ guardian to check on the student. If a student is absent frequently,
+the form teacher or other school personnel may conduct a home visit. Should
+there be no improvement in the student’s attendance, his / her parents
+/ guardian will be requested to meet the principal for a discussion.</p>
+<p></p>
 <hr>
-<h2><strong>Policy On The Use Of The Internet</strong></h2>
+<h2>Policy On The Use Of The Internet</h2>
 <p>Corporation Primary School is well equipped with devices such as computers
 and iPads in the computer laboratories. Devices are used as a tool in teaching
 and learning with the aim to facilitate learning through the use of information
@@ -377,5 +377,9 @@ appear on these platforms will be identified only by their first names.
 Should any parent or guardian particularly wish their child’s / ward’s
 name or photograph not to appear on these platforms or school publications,
 they may email the school principal to make that request.</p>
+<p></p>
+<hr>
+<h2>Offences and Actions / Support</h2>
+<p></p>
 <p></p>
 <p></p>
