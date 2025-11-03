@@ -24,7 +24,7 @@ sections:
       subtitle: Lifelong learners who thrive with resilience, curiosity, and confidence.
       title: Corporation Primary School
   - infopic:
-      title: CPS50 well-wishes and memories
+      title: CPS50 Well-wishes and Memories
       id: infopic
       description: Corporation Primary School turns 50 this year! We can't wait to
         celebrate this milestone with all of you! Share your well-wishes and
