@@ -26,7 +26,9 @@ sections:
   - infopic:
       title: CPS50 well-wishes and memories
       id: infopic
-      description: Share your well-wishes and memories with us at
+      description: Corporation Primary School turns 50 this year! We can't wait to
+        celebrate this milestone with all of you! Share your well-wishes and
+        memories with us at
       button: https://go.gov.sg/cps50
       url: https://go.gov.sg/cps50
       image: /images/Homepage/Share_your_well_wishes_and_memories.jpg
