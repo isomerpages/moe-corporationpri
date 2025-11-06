@@ -8,13 +8,12 @@ variant: tiptap
 <p>The Internationalisation Programme aims to foster global awareness and
 cultural sensitivity among students, strengthening their commitment to
 Singapore while enhancing their cross-cultural competencies.</p>
-<p><strong>Programme Activities</strong>
-</p>
+<h3><strong>Programme Activities</strong></h3>
 <p>In 2025, our school continued to strengthen global ties through two key
 internationalisation initiatives; hosting visiting students and educators
 from our overseas partner schools and embarking on an overseas learning
 journey to Japan.</p>
-<p><strong>1)	Hosting Visiting Students from Hong Kong</strong>
+<p><strong>1) Hosting Visiting Students from Hong Kong</strong>
 </p>
 <p>On 3 April 2025, our school welcomed 40 Primary 6 students and 4 teachers
 from WF Joseph Lee Primary School, Hong Kong, for a cultural immersion
@@ -27,7 +26,7 @@ exchange of learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2025_Hong_Kong.jpg">
 </div>
-<p><strong>2)	Overseas Immersion Trip to Japan</strong>
+<p><strong>2) Overseas Immersion Trip to Japan</strong>
 </p>
 <p>From 27 to 31 May 2025, 15 Primary 5 students and 3 teachers participated
 in an Overseas Learning Journey to Tokyo and Sendai, Japan. During the
