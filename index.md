@@ -17,10 +17,7 @@ sections:
           url: https://photos.app.goo.gl/6hfNCnBR6RNhJrzn7
         - title: Our Corporate Video!
           description: Click here to watch!
-          url: https://www.youtube.com/watch?v=FtZoe5BOFjE
-        - title: Our Online Art Gallery!
-          description: Click here to visit!
-          url: https://go.gov.sg/cpsoag2024
+          url: https://youtu.be/rem9ZHyX_-E?si=ppmjfo4tg6WHfxFD
       subtitle: Lifelong learners who thrive with resilience, curiosity, and confidence.
       title: Corporation Primary School
   - infopic:
