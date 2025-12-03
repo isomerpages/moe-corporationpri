@@ -32,6 +32,9 @@ and connect to real-life applications to stimulate the interest in their
 learning.</p>
 <h3><strong>Our Key Highlights</strong></h3>
 <h3>2025 in Summary – Mathematics is Fun Activities</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i3xOEPdQrRU?si=E0VTprRTR1cKjMIS"></iframe>
+</div>
 <p>With the plethora of activities designed throughout the year to infuse
 joy in students’ learning of Mathematics, we hope that they will find the
 subject enjoyable and meaningful.</p>
