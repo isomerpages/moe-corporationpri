@@ -226,20 +226,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/chiok_hwee_fen.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chiok Hwee Fen</strong>
-<br><strong>Year Head</strong>
-<br>
-<br>Email:&nbsp;<a href="mailto:chiok_hwee_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiok_hwee_fen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/KAREN_KWAN.jpg">
 </div>
 </td>
