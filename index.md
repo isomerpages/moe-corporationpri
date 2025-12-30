@@ -21,25 +21,6 @@ sections:
       subtitle: Lifelong learners who thrive with resilience, curiosity, and confidence.
       title: Corporation Primary School
   - infopic:
-      title: CPS50 Well-Wishes and Memories
-      id: infopic
-      description: Corporation Primary School turns 50 this year! We can't wait to
-        celebrate this milestone with all of you! Share your well-wishes and
-        memories with us at
-      button: https://go.gov.sg/cps50
-      url: https://go.gov.sg/cps50
-      image: /images/Homepage/Share_your_well_wishes_and_memories.jpg
-      alt: Image alt text
-  - infopic:
-      title: 50th Anniversary e-Publication
-      id: infopic
-      description: We are glad to share our 50th Anniversary e-Publication! Here is to
-        50 years of heart, hope and happiness at CPS!
-      button: https://go.gov.sg/cps50-epub
-      url: https://go.gov.sg/cps50-epub
-      image: /images/Homepage/50th_Anniversary_Publication.jpg
-      alt: Image alt text
-  - infopic:
       title: President’s Award for Teachers (PAT)
       id: infopic
       description: Nominate an inspiring teacher or colleague for President’s Award
