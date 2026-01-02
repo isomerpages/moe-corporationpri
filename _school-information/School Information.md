@@ -9,7 +9,9 @@ variant: tiptap
 <img style="width:55%" height="auto" width="100%" src="/images/CPS%20Formation.jpeg">
 </div>
 <p><strong>Principal's Address</strong> 
-<br>As we look back on our meaningful 50th Anniversary celebrations in November
+<br>
+</p>
+<p>As we look back on our meaningful 50th Anniversary celebrations in November
 2025, I am reminded of what truly defines CPS — our people. Our teachers
 have immense heart. They pour themselves into their work, often far beyond
 what is required, because they believe deeply in nurturing every child.
