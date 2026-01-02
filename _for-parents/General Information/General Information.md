@@ -53,30 +53,6 @@ third_nav_title: General Information
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Booklists</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/For Parents/General Information/P1_booklist__2025_.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P2 Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P3 Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P4_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P4 Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P5_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P5 Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P5_Fdn_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P5 Fdn Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P6_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P6 Booklist 2025</a></strong>
-</p>
-<p><strong><a href="/files/For Parents/General Information/P6_Fdn_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">P6 Fdn Booklist 2025</a></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>School Uniform Supplier</strong></h4>
