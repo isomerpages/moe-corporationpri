@@ -47,7 +47,7 @@ all P3 to P6 pupils participate in one CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/cca/visual-performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a></strong>
+<p><strong><a href="/cca/visual-performing-arts/young-artist-club/" rel="noopener noreferrer nofollow" target="_blank">Young Artist Club</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,8 +55,7 @@ all P3 to P6 pupils participate in one CCA.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/cca/visual-performing-arts/young-artist-club/" rel="noopener noreferrer nofollow" target="_blank">Young Artist Club</a></strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -125,9 +124,8 @@ all P3 to P6 pupils participate in one CCA.</p>
 </table>
 <p><strong>Clubs and Societies</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -139,10 +137,6 @@ all P3 to P6 pupils participate in one CCA.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong><a href="/cca/club-societies/the-future-makers/" rel="noopener noreferrer nofollow" target="_blank">The Future Makers</a></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/cca/club-societies/xiangqi/" rel="noopener nofollow" target="_blank">Xiangqi</a>
 </p>
 </th>
 </tr>
