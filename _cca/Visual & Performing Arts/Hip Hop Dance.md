@@ -47,6 +47,11 @@ well as external dance competitions</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><u>2025</u>
+<br>Accomplished Silver Award in SUPER 24
+<br>Participated in:
+<br>NDP performance at Gek Poh CC</p>
+<p></p>
 <p><u>2024</u>
 <br>Accomplishment in Singapore Youth Festival
 <br>Participated in:
