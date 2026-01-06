@@ -63,6 +63,12 @@ competencies which would equip them to thrive in a rapidly changing world.
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><u>2025 </u>
+<br>7 Chief Commissioner's Award Recipients
+<br>Puan Noor Aishah Unit Award: Gold
+<br>West Division Fest: 1 Gold, 1 Silver
+<br>Smoke Free Ambassador Programme: 1st and 2nd Place</p>
+<p></p>
 <p><u>2024</u>
 <br>7 Chief Commissioner's Award Recipients
 <br>West Division Day: 1 Gold, 1 Bronze</p>
