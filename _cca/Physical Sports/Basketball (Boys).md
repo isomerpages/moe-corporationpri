@@ -48,11 +48,17 @@ both on and off the court.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>2022</u>
-<br>National School games 2022 (Senior Division)
-<br>- Top 8 in West Zone
-<br>National School games 2022 (Junior Division)
-<br>- 3rd place in Tier 2</p>
+<p><u>2025</u>
+<br>National School games 2025 (Senior games)
+<br>-2nd Runner up in league 1
+<br>National School games 2025 (Junior games)
+<br>- Champion in tier 2</p>
+<p></p>
+<p><u>2024</u>
+<br>National School games 2024 (Senior games)
+<br>-2nd place in league 3
+<br>National School games 2024 (Junior games)
+<br>- 2nd place in tier 1</p>
 <p><u>2023</u>
 <br>National School games 2023 (Senior games)
 <br>- 4th in preliminary round
@@ -60,11 +66,6 @@ both on and off the court.</p>
 <br>- 2nd place in Tier 2
 <br>Jurong Secondary School Basketball Invitational Tournament 2023
 <br>- Champion</p>
-<p><u>2024</u>
-<br>National School games 2024 (Senior games)
-<br>-2nd place in league 3
-<br>National School games 2024 (Junior games)
-<br>- 2nd place in tier 1</p>
 </td>
 </tr>
 <tr>
