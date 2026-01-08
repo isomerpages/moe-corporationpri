@@ -251,6 +251,20 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Our People/Goh_Hui_Qi.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Goh Huiqi</strong>
+<br><strong>Year Head</strong>
+</p>
+<p>Email: <a href="mailto:goh_huiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huiqi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>LH / SH / AYH</h3>
@@ -363,6 +377,20 @@ variant: tiptap
 <br><strong>Subject Head Student Well-being</strong>
 <br>
 <br>Email:<a href="mailto:hong_huini_perle@moe.edu.sg" rel="noopener nofollow" target="_blank">hong_huini_perle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/Mr_Yeow_Soon_Hao.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yeow Soon Hao</strong>
+<br><strong>Subject Head Partnership</strong>
+<br>
+<br>Email:<a href="mailto:yeow_soon_hao@moe.edu.sg" rel="noopener nofollow" target="_blank">yeow_soon_hao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
