@@ -236,7 +236,7 @@ variant: tiptap
 <p>Mdm Faridah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Hui Qi</p>
+<p>Ms Goh Huiqi</p>
 </td>
 </tr>
 <tr>
