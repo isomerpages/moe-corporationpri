@@ -42,7 +42,7 @@ Intelligence (AI).</p>
 respectful, and responsible users of ICT.</p>
 </li>
 </ol>
-<p><strong>2025 Focus Areas</strong>
+<p><strong>2026 Focus Areas</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -64,7 +64,7 @@ AI outputs, cite AI-assisted work, and protect personal data.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT.png">
 </div>
-<p><strong>Our pupils actively engaged in the Lunch Time ICT-enabled Activities </strong>
+<p><strong>Our pupils actively engaged in the Lunch Time ICT-enabled Activities</strong>
 </p>
 <p><strong>Useful Websites for Parents</strong>
 </p>
