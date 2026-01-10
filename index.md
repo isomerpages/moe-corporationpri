@@ -21,24 +21,6 @@ sections:
       subtitle: Lifelong learners who thrive with resilience, curiosity, and confidence.
       title: Corporation Primary School
   - infopic:
-      title: President’s Award for Teachers (PAT)
-      id: infopic
-      description: Nominate an inspiring teacher or colleague for President’s Award
-        for Teachers (PAT)  by scanning the QR code or heading to
-      button: https://go.gov.sg/pat2026
-      url: https://go.gov.sg/pat2026
-      image: /images/Homepage/PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award (OYEA)
-      id: infopic
-      description: Nominate an inspiring teacher or colleague for Outstanding Youth in
-        Education Award (OYEA) by scanning the QR code or heading to
-      button: https://go.gov.sg/oyea2026
-      url: https://go.gov.sg/oyea2026
-      image: /images/Homepage/OYEA.jpg
-      alt: Image alt text
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
