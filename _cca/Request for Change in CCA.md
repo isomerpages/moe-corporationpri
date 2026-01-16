@@ -43,7 +43,7 @@ and the school’s decision is final.</p>
 <br>Parents of <strong>Primary 4 and 5 students</strong> may submit a Request
 for Change in CCA during the application window below*:</p>
 <p><strong>Request for Change in CCA Online Form:</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpsccatransfer</a>
+<br><a href="https://go.gov.sg/cpsccatransfer" rel="noopener nofollow" target="_blank">https://go.gov.sg/cpsccatransfer</a>
 </p>
 <p><strong>Application Period:</strong>  <strong>21 to 30 January 2026</strong> *
 <br>* <em>Application period is subject to review and may be adjusted annually.</em>
