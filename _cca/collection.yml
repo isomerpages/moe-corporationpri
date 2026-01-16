@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Request for Change in CCA.md
       - CCA.md
       - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Chinese Dance.md
@@ -22,3 +21,4 @@ collections:
       - Clubs & Societies/.keep
       - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/The Future Makers.md
+      - Request for Change in CCA.md
