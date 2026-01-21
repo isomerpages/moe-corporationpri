@@ -99,7 +99,7 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At Corporation Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Corporation Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2025_P5_SEd_Lesson_A_new.jpg">
