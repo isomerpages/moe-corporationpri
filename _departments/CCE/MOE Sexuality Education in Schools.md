@@ -30,6 +30,7 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
+<p></p>
 </li>
 </ol>
 <ol start="3" data-tight="true" class="tight">
@@ -49,7 +50,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>OVERVIEW OF CORPORATION PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF CORPORATION PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
