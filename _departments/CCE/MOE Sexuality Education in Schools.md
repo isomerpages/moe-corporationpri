@@ -30,6 +30,7 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
+<p></p>
 </li>
 </ol>
 <ol start="3" data-tight="true" class="tight">
@@ -49,7 +50,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>OVERVIEW OF CORPORATION PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF CORPORATION PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -98,16 +99,16 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At Corporation Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Corporation Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2025_P5_SEd_Lesson_A_new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2026_P5_SEd_Lesson_A.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2025_P5_SEd_Lesson_B.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2026_P5_SEd_Lesson_B.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2025_P6_SEd_Lesson.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE/2026_P6_SEd_Lesson.jpg">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
@@ -119,11 +120,11 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Departments/CCE/SEd_Parent_Opt_out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong><u>Friday, 28/02/2025</u></strong>.</p>
+to parents at the start of the year and is also available <a href="/files/Departments/CCE/Parent_Opt_out_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong><u>Friday, 27/02/2026</u></strong>.</p>
 </li>
 <li>
-<p>Parents can contact the school at 67957381 or email <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a> for
+<p>Parents can contact the school at 6795 7381 or email <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
