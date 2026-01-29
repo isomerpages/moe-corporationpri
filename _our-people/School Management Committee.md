@@ -397,6 +397,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/Ms_Lee_Jia_Ling.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Jia Ling</strong>
+<br><strong>Subject Head ICT</strong>
+<br>
+<br>Email:<a href="mailto:lee_jia_ling_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_jia_ling_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/chua_lee_lian.jpg">
 </div>
 </td>
