@@ -29,7 +29,7 @@ learning.</p>
 <h3><strong>Our Key Highlights</strong></h3>
 <h3>2025 in Summary – Mathematics is Fun Activities</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i3xOEPdQrRU?si=E0VTprRTR1cKjMIS"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i3xOEPdQrRU?si=E0VTprRTR1cKjMIS"></iframe>
 </div>
 <p>With the plethora of activities designed throughout the year to infuse
 joy in students’ learning of Mathematics, we hope that they will find the
@@ -332,18 +332,17 @@ improvements in their learning.</p>
 <li>
 <p><strong>MOE Mathematics syllabus:</strong>
 </p>
-</li>
-</ul>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-october-2025.pdf" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-october-2025.pdf</a>
+<p><a href="https://www.moe.gov.sg/api/media/92bff26d-b2b4-4535-b868-b8415c744b91/2021-Primary-Mathematics-Syllabus-P1-to-P6-Updated-October-2025.pdf" rel="noopener nofollow" target="_blank">2021 Mathematics Syllabus Primary One to Six</a>
 </p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><strong>SEAB List of Approved Calculators for PSLE:</strong>
 </p>
-</li>
-</ul>
 <p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener nofollow" target="_blank">https://file.go.gov.sg/seab-approvedcalculators.pdf</a>
 </p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
