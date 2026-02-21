@@ -2,7 +2,6 @@
 title: Alumni
 permalink: /for-parents/Stakeholders/alumni/
 description: ""
-third_nav_title: Stakeholders
 variant: markdown
 ---
 Alumni
@@ -19,4 +18,4 @@ CPS Alumni was humbly set up since 2015, the year which CPS celebrated its 40th 
 **Events**
 ![](/images/alumni1.png)![](/images/alumni2.png)
 Secondary School Experience Sharing – for 2019    
-Career Aspirations Talk – for 2019   
+Career Aspirations Talk – for 2019
