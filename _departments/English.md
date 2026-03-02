@@ -25,16 +25,16 @@ century skillset.</p>
 to become lifelong readers. Students have access to a diverse selection
 of high-quality, age-appropriate materials and are given dedicated time
 and space to read for enjoyment.</p>
-<p><strong>Primary 4 and 5: Little Red Dot</strong>
+<p><strong>Primary 4, 5 and 6: Little Red Dot</strong>
 </p>
-<p>The programme empowers the CPS students to keep abreast with current affairs
+<p>The programme empowers the CPS students to keep abreast of current affairs
 using authentic texts and materials while providing opportunities for collaboration
-and make connections of learning to life.</p>
-<p><strong>Primary 6: I and Inspire Magazines</strong>
+and making connections of learning to life.</p>
+<p><strong>Selected Primary 6 Classes : Inspire Magazines</strong>
 </p>
-<p>Students engage with the I magazine or Inspire magazine, which feature
-relatable and thought-provoking content. These magazines encourage students
-to develop a deeper understanding of the world around them.</p>
+<p>Students engage with the Inspire magazine, which features relatable and
+thought-provoking content. These magazines encourage students to develop
+a deeper understanding of the world around them.</p>
 <h3><strong>Foundation of Curriculum</strong></h3>
 <p><strong>STELLAR Programme (Primary 1 to Primary 6)</strong>
 </p>
@@ -44,12 +44,12 @@ aims to strengthen students’ language and reading skills. The programme
 uses research-based teaching strategies and age-appropriate materials to
 engage students as they learn to effectively use the English Language.
 The teaching approaches and resources are designed to deliver the outcomes
-of English Language Syllabus 2010</p>
+of English Language Syllabus 2010.</p>
 <h3><strong>Rich Learning Experiences</strong></h3>
 <p>To nurture the joy of learning and in tandem with the school’s total curriculum
 framework, the following programmes will provide the opportunity for CPS
-students. to stimulate interest and curiosity so that they can explore
-and discover interests and enrich their learning experiences.</p>
+students to stimulate interest and curiosity so that they can explore and
+discover interests and enrich their learning experiences.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -129,6 +129,39 @@ programme, they will have created their own visual poetry piece, showcasing
 their newly acquired skills in writing and performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/Poetry_Workshop.jpg">
+</div>
+<p><strong>Student Sharing</strong>
+</p>
+<p>The <strong>Student Sharing Plan </strong>provides meaningful platforms
+for students to showcase their talents, build confidence, and develop strong
+communication skills through authentic sharing opportunities.</p>
+<p>Through this initiative, students are given regular opportunities to express
+their ideas, reflect on their learning, and present their strengths to
+a wider audience. The plan supports talent development, nurtures student
+voice, and documents learning progress across levels.</p>
+<p>Students may participate in a variety of sharing formats, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Live presentations to the school community</p>
+</li>
+<li>
+<p>Recorded sharing showcased during Thursday pre-assembly in class</p>
+</li>
+<li>
+<p>Written artefacts such as reflections, reports, or creative pieces</p>
+</li>
+</ul>
+<p>By engaging in these experiences, students grow as confident communicators
+and active contributors to the school community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/2026_Student_Sharing.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/2026_Recorded_Sharing_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/2026_Recorded_Sharing_2.jpg">
 </div>
 <h3><strong>Supportive Learning Environment</strong></h3>
 <p>To provide reading pleasure for English,&nbsp;besides the Media Resource
