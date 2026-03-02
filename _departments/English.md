@@ -160,9 +160,6 @@ and active contributors to the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/2026_Recorded_Sharing_1.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/EL/2026_Recorded_Sharing_2.jpg">
-</div>
 <h3><strong>Supportive Learning Environment</strong></h3>
 <p>To provide reading pleasure for English,&nbsp;besides the Media Resource
 Library, the book café provides a conducive and inviting reading environment
