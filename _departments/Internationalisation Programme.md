@@ -26,14 +26,19 @@ landscape.</p>
 </ol>
 <p></p>
 <h3><strong>Programme Activities</strong></h3>
-<h4>2026</h4>
+<h4><strong>2026</strong></h4>
 <p>This year, our school will engage in two key activities:</p>
-<p>• Hosting visiting students from overseas partner schools.</p>
-<p>• Organising an overseas immersion trip to Hong Kong and Shenzhen for
-selected students.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hosting visiting students from overseas partner schools.</p>
+</li>
+<li>
+<p>Organising an overseas immersion trip to Hong Kong and Shenzhen for selected
+students.</p>
+</li>
+</ul>
 <p>Further details will be shared after the completion of these activities.</p>
-<p></p>
-<h4>2025</h4>
+<h4><strong>2025</strong></h4>
 <p>In 2025, our school continued to strengthen global ties through two key
 internationalisation initiatives; hosting visiting students and educators
 from our overseas partner schools and embarking on an overseas learning
