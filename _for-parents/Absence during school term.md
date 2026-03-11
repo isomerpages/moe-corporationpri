@@ -23,7 +23,7 @@ Gateway with the reason stated. If a student is absent, the Form Teacher
 may contact parents/guardians to check on his/her well-being. For frequent
 absences, the school will follow up with the family to understand the situation
 and provide necessary support.</p>
-<p><em>*Parent letters are limited to five per semester, with each letter covering no more than two days. Absences beyond this limit may be recorded as invalid which may affect his/her conduct grade.</em>
+<p><em>*Parent letters are limited to </em><strong><em>five per semester</em></strong><em>, with each letter covering </em><strong><em>no more than two days</em></strong><em>. Absences beyond this limit may be recorded as invalid which may affect his/her conduct grade.</em>
 </p>
 <p></p>
 <p></p>
