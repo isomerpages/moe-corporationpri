@@ -286,29 +286,26 @@ if they are persistently late after several reminders are given.</p>
 <p></p>
 <hr>
 <h2>Illness and Absence from School</h2>
-<p>Students must attend school regularly and punctually so as not to miss
-any lesson and be at a disadvantage. However, a student should not attend
-school when he / she is ill. Parents / Guardians should inform the form
-teacher and ensure the absence is covered by a doctor’s medical certificate
-(MC) or letter*. Parents / Guardians may submit MCs and letters either
-in hardcopy or through Parents Gateway. When a student falls ill while
-in school, only the parent / guardian will be allowed to take him / her
-home.</p>
-<p><em>*The number of letters accepted will be limited to 5 per semester, and each letter should cover no more than 2 days. If a student exceeds the accepted number of letters per semester, subsequent absences will be taken as invalid absences, which will affect his / her conduct grade.</em>
+<p>Students are expected to attend school regularly and punctually to benefit
+fully from their learning and school experiences. Students who are unwell
+should not attend school. Parents/Guardians should inform the Form Teacher
+of their child’s absence and provide a doctor’s medical certificate (MC)
+or a parent’s letter*. MCs and letters may be submitted in hardcopy or
+through Parents Gateway. If a student falls ill in school, only the parent/guardian/caregiver
+may take the student home.</p>
+<p>Regular attendance is important for students’ learning and development.
+Where absences occur due to truancy (e.g. willful absence from school)
+and other invalid reasons, the school will follow up with the student and
+parents/guardians to address the matter and support the student in returning
+to regular attendance.</p>
+<p>Travelling overseas during school term is discouraged. Parents/Guardians
+who need to travel during term time should submit a request through Parents
+Gateway with the reason stated. If a student is absent, the Form Teacher
+may contact parents/guardians to check on his/her well-being. For frequent
+absences, the school will follow up with the family to understand the situation
+and provide necessary support.</p>
+<p><em>*Parent letters are limited to </em><strong><em>five per semester</em></strong><em>, with each letter covering </em><strong><em>no more than two days</em></strong><em>. Absences beyond this limit may be recorded as invalid which may affect his/her conduct grade.</em>
 </p>
-<p>Absence from school without a valid reason is a school offence. Non-valid
-reasons include oversleeping and willful absence from school. Travelling
-during term time is generally not considered a valid reason for absence.
-Parents / Guardians who wish to take their children / wards overseas for
-vacation and / or to attend to personal matters should do so during the
-school holidays. Should there be any urgent need to travel, parents are
-requested to submit the request via Parents Gateway with the reason clearly
-stated.</p>
-<p>On the day of a student’s absence, the form teacher will contact the parents
-/ guardian to check on the student. If a student is absent frequently,
-the form teacher or other school personnel may conduct a home visit. Should
-there be no improvement in the student’s attendance, his / her parents
-/ guardian will be requested to meet the principal for a discussion.</p>
 <p></p>
 <hr>
 <h2>Policy On The Use Of The Internet</h2>
