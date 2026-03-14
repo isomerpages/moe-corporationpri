@@ -5,10 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1>Parent Support Group</h1>
-<p></p>
 <hr>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7_5MTKO6FGh6-dpdbOVQvnAyEeuM8QFbWWcc5g3PW34egNoM1IJYHlvyp16qYSO77bcOIG62IfQhr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oJuvlyn-NjY?si=pi9EYQm9SCaoHEkk"></iframe>
 </div>
 <h4>Parent Support Group (PSG) EXCO Members</h4>
 <table style="minWidth: 50px">
@@ -59,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Gek Ling Kaitlyn&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Koh Gek Ling Kaitlyn</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +67,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Prakash Deepa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Koh Gek Ling Kaitlyn&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +76,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazhirah Binte Abdul Rahim&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Prakash Deepa</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +85,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quah Sor Ling Liz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Nazhirah Binte Abdul Rahim</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thazhai Muthu Pushpa&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Quah Sor Ling Liz&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +103,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Huey Yee Ann&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Ng Rhu Ann</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Rhu Ann</p>
+<p>Mdm Wan Huey Yee Ann</p>
 </td>
 </tr>
 </tbody>
@@ -133,15 +132,14 @@ child or ward is currently a student of Corporation Primary School, and
 you have a keen interest in volunteering within our school community, kindly
 submit your PSG application through the online form by scanning the QR
 code below.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PSG_QR_code_2025.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2026_PSG_QR_Code.jpg">
 </div>
 <p>If you encounter any issues with the registration process, please feel
 free to reach out to the following contacts:</p>
-<p>PSG Chairperson: Tan Hui Koon @ <a rel="noopener noreferrer nofollow" target="_blank">Huikoon5138@gmail.com</a>
+<p>PSG Chairperson: Mdm Tan Hui Koon @ <a rel="noopener noreferrer nofollow" target="_blank">Huikoon5138@gmail.com</a>
 </p>
-<p>Vice Chairperson: Corinne Lau @ <a rel="noopener noreferrer nofollow" target="_blank">Rotary.corinne@gmail.com</a>
+<p>Vice Chairperson: Mdm Corinne Lau @ <a rel="noopener noreferrer nofollow" target="_blank">Rotary.corinne@gmail.com</a>
 </p>
 <p>Your involvement can make a meaningful difference in supporting the holistic
 development of our students. Do join us!</p>
