@@ -134,7 +134,7 @@ you have a keen interest in volunteering within our school community, kindly
 submit your PSG application through the online form by scanning the QR
 code below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/PSG_QR_code_2025.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2026_PSG_QR_Code.jpg">
 </div>
 <p>If you encounter any issues with the registration process, please feel
 free to reach out to the following contacts:</p>
