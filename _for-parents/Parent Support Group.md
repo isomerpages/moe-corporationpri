@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1>Parent Support Group</h1>
-<p></p>
 <hr>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oJuvlyn-NjY?si=pi9EYQm9SCaoHEkk"></iframe>
