@@ -130,7 +130,7 @@ full potential.</p>
 <p>We invite you to consider joining our Parent Support Group (PSG). If your
 child or ward is currently a student of Corporation Primary School, and
 you have a keen interest in volunteering within our school community, kindly
-submit your PSG application through the online form <a href="https://forms.gle/rMsF7ucVPSxdaMqVA" rel="noopener nofollow" target="_blank">https://forms.gle/rMsF7ucVPSxdaMqVA</a>.</p>
+submit your PSG application through the online form <strong><a href="https://forms.gle/rMsF7ucVPSxdaMqVA" rel="noopener nofollow" target="_blank">https://forms.gle/rMsF7ucVPSxdaMqVA</a></strong>.</p>
 <p>If you encounter any issues with the registration process, please feel
 free to reach out to the following contacts:</p>
 <p>PSG Chairperson: Mdm Tan Hui Koon @ <a rel="noopener noreferrer nofollow" target="_blank">Huikoon5138@gmail.com</a>
