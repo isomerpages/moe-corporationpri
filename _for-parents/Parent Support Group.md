@@ -130,16 +130,12 @@ full potential.</p>
 <p>We invite you to consider joining our Parent Support Group (PSG). If your
 child or ward is currently a student of Corporation Primary School, and
 you have a keen interest in volunteering within our school community, kindly
-submit your PSG application through the online form by scanning the QR
-code below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/For Parents/Parent Support Group/2026_PSG_QR_Code.jpg">
-</div>
+submit your PSG application through the online form <strong><a href="https://forms.gle/rMsF7ucVPSxdaMqVA" rel="noopener nofollow" target="_blank">https://forms.gle/rMsF7ucVPSxdaMqVA</a></strong>.</p>
 <p>If you encounter any issues with the registration process, please feel
 free to reach out to the following contacts:</p>
-<p>PSG Chairperson: Mdm Tan Hui Koon @ <a rel="noopener noreferrer nofollow" target="_blank">Huikoon5138@gmail.com</a>
+<p>PSG Chairperson: Mdm Tan Hui Koon @ <a href="mailto:Huikoon5138@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Huikoon5138@gmail.com</a>
 </p>
-<p>Vice Chairperson: Mdm Corinne Lau @ <a rel="noopener noreferrer nofollow" target="_blank">Rotary.corinne@gmail.com</a>
+<p>Vice Chairperson: Mdm Corinne Lau @ <a href="mailto:Rotary.corinne@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Rotary.corinne@gmail.com</a>
 </p>
 <p>Your involvement can make a meaningful difference in supporting the holistic
 development of our students. Do join us!</p>
