@@ -18,12 +18,6 @@ roadshow, bringing along the interactive Exhibit On-The-Move. Through hands-on
 activities and engaging discussions, students had the opportunity to chart
 their career aspirations and better understand the pathways available to
 them in their educational journey.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2026_Img1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2026_Img2.png">
-</div>
 <h3><strong>2025</strong></h3>
 <h4>Keep-It-Right (KIR) Programme</h4>
 <p>The Keep-It-Right (KIR) Programme was conducted for all Primary 1 to 6
