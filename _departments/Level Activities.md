@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Level Activities</h1>
-<h3><strong>2025</strong></h3>
+<h3><strong>2026</strong></h3>
 <h4>P6 Secondary School Roadshow</h4>
 <p>We hosted a vibrant Cluster Secondary School Roadshow for the Primary
 6 cohort, welcoming students from seven other cluster primary schools to
@@ -19,16 +19,12 @@ activities and engaging discussions, students had the opportunity to chart
 their career aspirations and better understand the pathways available to
 them in their educational journey.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2025_Img1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2026_Img1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2025_Img2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2026_Img2.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Level Activities/P6_Roadshow_2025_Img3.jpg">
-</div>
+<h3><strong>2025</strong></h3>
 <h4>Keep-It-Right (KIR) Programme</h4>
 <p>The Keep-It-Right (KIR) Programme was conducted for all Primary 1 to 6
 students to help them start and continue the school year with the right
