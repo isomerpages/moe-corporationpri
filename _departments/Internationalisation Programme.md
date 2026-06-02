@@ -62,6 +62,12 @@ at the world with open minds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2026_HK_OLJ_1.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2026_HK_OLJ_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2026_HK_OLJ_3.png">
+</div>
 <h4><strong>2025</strong></h4>
 <p>In 2025, our school continued to strengthen global ties through two key
 internationalisation initiatives; hosting visiting students and educators
