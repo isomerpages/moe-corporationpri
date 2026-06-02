@@ -37,7 +37,38 @@ landscape.</p>
 students.</p>
 </li>
 </ul>
-<p>Further details will be shared after the completion of these activities.</p>
+<p><strong>Overseas Learning Journey to Hong Kong and Shenzhen</strong>
+</p>
+<p>From 19 to 23 May 2026, 25 Primary 5 students and 5 staff from Corporation
+Primary School participated in an Overseas Learning Journey to Hong Kong
+and Shenzhen. This curricular immersion programme aimed to broaden students'
+global perspectives, nurture teamwork and cultivate cultural curiosity
+beyond the classroom.</p>
+<p>Throughout the five-day journey, the students immersed themselves in the
+vibrant local heritage and lifestyle, exploring cultural milestones to
+gain firsthand insights into the region’s unique traditions. In Hong Kong,
+a core highlight of the trip was a collaborative exchange visit to WF Joseph
+Lee Primary School, where students participated in joint learning sessions
+and interactive peer-to-peer activities. The journey then extended to Shenzhen,
+where the students engaged in innovative experiential activities, explored
+technological developments and visited local highlights to better understand
+the city's modern growth and cultural landscape. These shared challenges
+and meaningful interactions allowed the students to develop leadership,
+practise communication skills and demonstrate immense adaptability as they
+navigated new environments.</p>
+<p>As a post-OLJ activity, the students will share their reflections and
+experiential takeaways with the teachers and the wider school community
+during a special assembly session, aiming to inspire their peers to look
+at the world with open minds.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2026_HK_OLJ_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2026_HK_OLJ_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/IISP/2026_HK_OLJ_3.png">
+</div>
 <h4><strong>2025</strong></h4>
 <p>In 2025, our school continued to strengthen global ties through two key
 internationalisation initiatives; hosting visiting students and educators
