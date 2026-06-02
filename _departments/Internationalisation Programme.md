@@ -8,8 +8,7 @@ variant: tiptap
 <p>The Internationalisation Programme aims to foster global awareness and
 cultural sensitivity among students, strengthening their commitment to
 Singapore while enhancing their cross-cultural competencies.</p>
-<p><strong>Objectives</strong>
-</p>
+<h3><strong>Objectives</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>To deepen students’ sense of commitment and connection to Singapore.</p>
