@@ -5,17 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h1>Admission &amp; School Transfer</h1>
-<h3><strong>2025 P1 Registration Exercise</strong></h3>
+<h3><strong>2026 P1 Registration Exercise</strong></h3>
 <hr>
 <p>Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident
-(PR) child born between 2 January 2019 and 1 January 2020 (both dates inclusive)
-and has a sibling currently studying in our school.</p>
-<p>If your child is SC / PR:</p>
-<p>Parents who are registering their younger child under Phase 1 are to register&nbsp;<strong>from 9am on Tuesday, 1 July 2025 to 4.30pm on Thursday, 3 July 2025</strong>.</p>
-<p>If your child is a non-SC / non-PR (not eligible for Phase 1):</p>
-<p>Please submit an online Indication of Interest&nbsp;<strong>from 9am on Tuesday, 27 May 2025 to 4.30pm on Monday, 2 June 2025</strong>,
-otherwise you will not be able to register in Phase 3 of the P1 Registration
-Exercise.</p>
+(PR) child born between 2 January 2020 and 1 January 2021 (both dates inclusive)
+and has an older sibling currently studying in our primary school.</p>
+<p>Parents who are registering their child under Phase 1 are to register
+during the Phase 1 registration period <strong>from 9am on 30 June 2026 to 4.30pm on 2 July 2026</strong>.</p>
+<p>If your child is a non-SC / non-PR and thus not eligible for Phase 1,
+please submit an online Indication of Interest <strong>from 9am on 19 May 2026 to 4.30pm on 25 May 2026</strong>.</p>
 <p>For the latest updates on P1 Registration Exercise, please visit&nbsp;
 <a href="https://go.gov.sg/P1reg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/P1reg</a>&nbsp;.</p>
 <h3><strong>Admission and Transfer</strong></h3>
