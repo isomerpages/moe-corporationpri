@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyNQatCDTg7VhyZS3dDaqlke-R4JlSDgUp4EPP_u-80ggwCojEN4jRSZmbhokKdihuVM-E16-CP-wH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyNQatCDTg7VhyZS3dDaqlke-R4JlSDgUp4EPP_u-80ggwCojEN4jRSZmbhokKdihuVM-E16-CP-wH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -23,7 +23,9 @@ third_nav_title: Clubs & Societies
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Zeng Lei
-<br>Mr Wesley Tan</p>
+<br>Mr Wesley Tan
+<br>Mr Ng Shao Wei
+<br>Ms Chen De Qi</p>
 </td>
 </tr>
 <tr>
