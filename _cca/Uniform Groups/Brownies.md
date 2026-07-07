@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Uniform Groups
 ---
 <div class="iframe-wrapper">
-<iframe height="629" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNdzx7fnbV6h44CKKyu_QsEZhmkUyTRNwLsZauTmZ_ie5_MOvMo0h2lpb3zqCR5rFq-z2NJABxfT_2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="629" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNdzx7fnbV6h44CKKyu_QsEZhmkUyTRNwLsZauTmZ_ie5_MOvMo0h2lpb3zqCR5rFq-z2NJABxfT_2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -24,7 +24,8 @@ third_nav_title: Uniform Groups
 <td rowspan="1" colspan="1">
 <p>Ms Hailynn Binte Mohamed Amin
 <br>Ms Ashwini Chandrasaharan
-<br>Ms Celeste Poh See Kee</p>
+<br>Ms Celeste Poh See Kee
+<br>Ms Marjorie Yeo</p>
 </td>
 </tr>
 <tr>
