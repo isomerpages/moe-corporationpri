@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4Bs6T_xAOBdNjGDU8CXcQtxE6QwPyry1lTqcv-PzyHVJuq2Tn8ERmRgwCLvxTTvZGunWDZxXT-2PP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4Bs6T_xAOBdNjGDU8CXcQtxE6QwPyry1lTqcv-PzyHVJuq2Tn8ERmRgwCLvxTTvZGunWDZxXT-2PP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -22,9 +22,7 @@ third_nav_title: Visual & Performing Arts
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Shahirah
-<br>Ms Chan Mei Yoke
-<br>Mdm Nooraisha Binte Mohamad
-<br>Mdm Mayanne Fong Bee Yee</p>
+<br>Ms Chan Mei Yoke</p>
 </td>
 </tr>
 <tr>
