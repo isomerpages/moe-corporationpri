@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0Xif3gTsVo0BqfXAe9ld-iHKC6jptlHCDCvBHzyD6Rj1v4lFCsygacCXKUtppXG2hABpuNXiAH9Pn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0Xif3gTsVo0BqfXAe9ld-iHKC6jptlHCDCvBHzyD6Rj1v4lFCsygacCXKUtppXG2hABpuNXiAH9Pn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -23,7 +23,7 @@ third_nav_title: Visual & Performing Arts
 <td rowspan="1" colspan="1">
 <p>Ms Huang Yuwei
 <br>Mrs Ariel Lew - Woon Mei Hui
-<br>Ms Yeo Xinrong Marjorie</p>
+<br>Ms Khoo Pei Qi</p>
 </td>
 </tr>
 <tr>
