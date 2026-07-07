@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Uniform Groups
 ---
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7_j79ZhdupM4by1N7o93qvHn3ssjjwr5i8BkALxuoWJwpfrsYT8EKZASwYPvYIaFiUtNg1J6BRdSE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7_j79ZhdupM4by1N7o93qvHn3ssjjwr5i8BkALxuoWJwpfrsYT8EKZASwYPvYIaFiUtNg1J6BRdSE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -24,7 +24,7 @@ third_nav_title: Uniform Groups
 <td rowspan="1" colspan="1">
 <p>Ms Yogeswari Dayalan
 <br>Ms Bao Xiaoke
-<br>Mdm Shanti D/O Govindasamy</p>
+<br>Mdm Bek Lai Lee</p>
 </td>
 </tr>
 <tr>
