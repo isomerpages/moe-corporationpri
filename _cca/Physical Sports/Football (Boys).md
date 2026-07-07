@@ -25,8 +25,8 @@ third_nav_title: Physical Sports
 <p>Mr Melvin Koh
 <br>Mr Amirr Hamzah
 <br>Mr Anwar Susilo Fikriyanto
-<br>Ms Chua Lee Hong
-<br>Mdm Nazariah Binte Nasir</p>
+<br>Mdm Nazariah Binte Nasir
+<br>Ms Chua Lee Hong</p>
 </td>
 </tr>
 <tr>
