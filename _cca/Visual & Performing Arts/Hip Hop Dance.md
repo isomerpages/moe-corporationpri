@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlHWzG9ZKBnjBE2lb_ZNrCEgcp_PgKp8UoxQwQL1HTvUYNhfND1d9OUZdSbrVyJr2JdygONNJSfYUz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlHWzG9ZKBnjBE2lb_ZNrCEgcp_PgKp8UoxQwQL1HTvUYNhfND1d9OUZdSbrVyJr2JdygONNJSfYUz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -22,9 +22,9 @@ third_nav_title: Visual & Performing Arts
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Hemalatha Elango
+<br>Mdm Kwan Nee
 <br>Ms Jessle Zheng Jiale
-<br>Ms Vithya D/O Chandra
-<br>Ms Siti Maisarah Binte Salleh</p>
+<br>Mdm Grace Chick</p>
 </td>
 </tr>
 <tr>
