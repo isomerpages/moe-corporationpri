@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFrePY0r-vuVbGyCGPfOiQygwgS2y9kKVVXrzBq7raKCkWC2yeKVLamNd_G1OhF-gHZyEGnJ1ORpP0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFrePY0r-vuVbGyCGPfOiQygwgS2y9kKVVXrzBq7raKCkWC2yeKVLamNd_G1OhF-gHZyEGnJ1ORpP0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -22,7 +22,8 @@ third_nav_title: Visual & Performing Arts
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Nadhirah&nbsp;
-<br>Ms Valerie Ho Ching Ying &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Ms Valerie Ho Ching Ying
+<br>Mr Syed Husin Bin Syed Ali&nbsp;</p>
 </td>
 </tr>
 <tr>
