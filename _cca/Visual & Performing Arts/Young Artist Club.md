@@ -24,7 +24,9 @@ third_nav_title: Visual & Performing Arts
 <p>Ms Ameenal Bevi&nbsp;&nbsp;&nbsp;
 <br>Ms Lim Gioann
 <br>Mdm Thangavel Jamunarani
-<br>Ms Uma Gaitre D/O M.Meyappan&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Ms Uma Gaitre D/O M.Meyappan
+<br>Ms Audrey Yap Wenyun
+<br>Mr Tan Yi Xian, Ray &nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
