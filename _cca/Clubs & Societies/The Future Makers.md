@@ -19,9 +19,9 @@ third_nav_title: Clubs & Societies
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Michelle Tan Shu Ni
-<br>Ms Siti Zafirah Binte Mohamed Kamaruddin
 <br>Ms Lau Sze Hui
-<br>Mr Stephen Toh Hong Wei</p>
+<br>Mr Stephen Toh Hong Wei
+<br>Ms Siti Zafirah Binte Mohamed Kamaruddin</p>
 </td>
 </tr>
 <tr>
