@@ -306,7 +306,21 @@ variant: tiptap
 <p><strong>Ms See Hui Fang</strong> 
 <br><strong>Level Head Mathematics</strong>
 <br>
-<br>Email:<a href="mailto:see_hui_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">see_hui_fang@moe.edu.sg</a>
+<br>Email: <a href="mailto:see_hui_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">see_hui_fang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Our People/Irene_Lim.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Shu Hui Irene</strong>
+<br><strong>Level Head Science</strong>
+<br>
+<br>Email: <a href="mailto:lim_shu_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_shu_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>

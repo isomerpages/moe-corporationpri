@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Visual & Performing Arts
 ---
 <div class="iframe-wrapper">
-<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwQcizcQN3KxrPKAKtT4k5yTHjzhezH6wqEb9ydnWmXb3F50vkn0KPKNmEPGHxDRhG_M2xlrD8QhS-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwQcizcQN3KxrPKAKtT4k5yTHjzhezH6wqEb9ydnWmXb3F50vkn0KPKNmEPGHxDRhG_M2xlrD8QhS-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -21,10 +21,12 @@ third_nav_title: Visual & Performing Arts
 <p></p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Salikin
-<br>Ms Khoo Pei Qi
+<p>Ms Ameenal Bevi&nbsp;&nbsp;&nbsp;
+<br>Ms Lim Gioann
 <br>Mdm Thangavel Jamunarani
-<br>Mdm Ameenal Bevi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Ms Uma Gaitre D/O M.Meyappan
+<br>Ms Audrey Yap Wenyun
+<br>Mr Tan Yi Xian, Ray &nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
