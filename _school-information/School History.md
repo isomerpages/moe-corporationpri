@@ -2,80 +2,108 @@
 title: School History
 permalink: /school-information/schoolhistory/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-School History
-==============
-![](/images/School%20History.png)
-Corporation Primary School was established in 1975. It was officially opened on 7 October 1976 by Mr Tang See Chim, then Deputy Speaker of Parliament and Member of Parliament for Choa Chu Kang. On 16 November 2001 the school was relocated from Boon Lay Avenue to a new building at Jurong West Street 24.
-
-  
-
-The school celebrated the official opening of its new campus on 8 July 2003. The new campus was officially opened by Dr Amy Khor, Member of Parliament for Hong Kah GRC. On 12 September 2008, the school’s heritage corner was declared opened. The special hub is intended to help our pupils and teachers understand and appreciate the school’s past history, and know it has impacted on the present and future. The school celebrated its 35th anniversary in December 2010 as a key milestone in its educational journey. In 2015, the school marked its 40th anniversary in November with a musical at the NUS Cultural Centre. In 2020, the school celebrated its 45th anniversary on 20 November with a&nbsp;[virtual celebration](https://youtu.be/4V8X7AaiT2M)&nbsp;due to COVID-19 situation.
-
-  
-
-The school has been under the leadership of 8 principals since its inception
-
-  
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zv4m">Mr Fong Kim Chong</th>
-    <th class="tg-8jgo">-</th>
-    <th class="tg-zv4m">1975 to 1986</th>
-  </tr>
-</thead>
+<h1>School History</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20History.png">
+</div>
+<p>Corporation Primary School was established in 1975. It was officially
+opened on 7 October 1976 by Mr Tang See Chim, then Deputy Speaker of Parliament
+and Member of Parliament for Choa Chu Kang. On 16 November 2001 the school
+was relocated from Boon Lay Avenue to a new building at Jurong West Street
+24.</p>
+<p>The school celebrated the official opening of its new campus on 8 July
+2003. The new campus was officially opened by Dr Amy Khor, Member of Parliament
+for Hong Kah GRC. On 12 September 2008, the school’s heritage corner was
+declared opened. The special hub is intended to help our pupils and teachers
+understand and appreciate the school’s past history, and know it has impacted
+on the present and future. The school celebrated its 35th anniversary in
+December 2010 as a key milestone in its educational journey. In 2015, the
+school marked its 40th anniversary in November with a musical at the NUS
+Cultural Centre. In 2020, the school celebrated its 45th anniversary on
+20 November with a virtual celebration&nbsp;due to COVID-19 situation.</p>
+<p>The school has been under the leadership of 8 principals since its inception.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-zv4m">Mr Henry Lee</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">1987 to 1988</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m">Mr Tan Hian Hui</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">1989 to 1995</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m">Mrs Sheena Datt</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">1996 to 2003</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m">Mdm Tang Wai Peng</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">2004 to 2010</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m">Mdm Vimi D. Sambawani</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">2010 to 2015</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m">Mrs Jennifer Pang</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">2015 to 2022</td>
-  </tr>
-  <tr>
-    <td class="tg-km2t">Mr Muhammad Fadylla Bin Rashiman</td>
-    <td class="tg-8jgo">-</td>
-    <td class="tg-zv4m">2022 to</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Kim Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1975 - 1986</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Henry Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1987 - 1988</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hian Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1989 - 1995</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sheena Datt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1996 - 2003</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Wai Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2004 - 2010</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vimi D. Sambawani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2010 - 2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jennifer Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015 - 2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Fadylla Bin Rashiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022 - Present</p>
+</td>
+</tr>
 </tbody>
 </table>
-  
-
-<b>Mr Muhammad Fadylla Bin Rashiman</b>, the present principal, joined the school in December 2022. He is assisted by two Vice-Principals,&nbsp;<b>Mdm Josephine Ng</b>&nbsp;and&nbsp;<b>Mdm Anna Goh</b>.
+<p><strong>Mr Muhammad Fadylla Bin Rashiman</strong>, the present principal,
+joined the school in December 2022. He is assisted by three Vice-Principals,&nbsp;<strong>Mdm Josephine Ng,</strong>&nbsp;<strong>Mdm Anna Goh </strong>and <strong>Mdm Lydia Zhong</strong>.</p>
+<p></p>
