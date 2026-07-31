@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Rules
 ---
-<h2>Anti-Bullying Policy</h2>
+<h2>School Anti-Bullying Policy</h2>
 <p><strong><u>Our Commitment</u></strong>
 </p>
 <p>At Corporation Primary School, we believe every child deserves to feel
@@ -93,7 +93,7 @@ of school)</p>
 <p>Messages to form teachers on ClassDojo</p>
 </li>
 <li>
-<p>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a> 
+<p>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a>
 </p>
 </li>
 <li>
