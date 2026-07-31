@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Rules
 ---
-<h2>School Anti-Bullying Policy</h2>
+<h2>Anti-Bullying Policy</h2>
 <p><strong><u>Our Commitment</u></strong>
 </p>
 <p>At Corporation Primary School, we believe every child deserves to feel
