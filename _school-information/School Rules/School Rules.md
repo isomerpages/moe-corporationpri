@@ -3,6 +3,7 @@ title: School Rules
 permalink: /school-information/schoolrules/
 description: ""
 variant: tiptap
+third_nav_title: School Rules
 ---
 <h2>School Rules</h2>
 <ul data-tight="true" class="tight">
