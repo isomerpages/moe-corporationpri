@@ -93,8 +93,8 @@ of school)</p>
 <p>Messages to form teachers on ClassDojo</p>
 </li>
 <li>
-<p>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a> or
-form teacher’s email (Refer to school website)</p>
+<p>Email: <a href="mailto:cps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cps@moe.edu.sg</a> 
+</p>
 </li>
 <li>
 <p>Call [For urgent cases]: 67957381 (Refer to operating hours on school
