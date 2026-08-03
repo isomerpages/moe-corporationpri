@@ -78,10 +78,8 @@ concerns.</p>
 <p>Direct reporting to any staff member [Recommended method for timely response]</p>
 </li>
 <li>
-<p>Confidential online reporting form <u>[Non-urgent cases only]</u>: <a href="https://go.gov.sg/cpsonlinereporting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpsonlinereporting</a>
-</p>
-<p>(Students may also use this form if a non-urgent incident happens out
-of school)</p>
+<p>Confidential online reporting form <u>[Non-urgent cases only]</u>: <a href="https://go.gov.sg/cpsonlinereporting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpsonlinereporting </a>(Students
+may also use this form if a non-urgent incident happens out of school)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
