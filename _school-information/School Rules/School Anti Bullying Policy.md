@@ -97,8 +97,8 @@ of school)</p>
 </p>
 </li>
 <li>
-<p>Call [For urgent cases]: 67957381 (Refer to operating hours on school
-website)</p>
+<p>Call [For urgent cases]: 67957381 (Click <a href="https://www.corporationpri.moe.edu.sg/contact-us/permalink/" rel="noopener nofollow" target="_blank">here</a> to
+refer to the general office operating hours)</p>
 </li>
 </ul>
 <p>A staff member will get in touch with you within 3 working days and we
